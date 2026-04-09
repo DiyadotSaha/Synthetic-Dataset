@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Dakota Wells",
+    "Patient_MRN": "191",
+    "Date_of_Birth": "2010-07-28",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by mother for situational anxiety before job interview.",
+    "Collateral_Contact_Information": "Mother: Sandra Wells, Phone: (555) 678-9140",
+    "Subjective": "Patient is a 15-year-old male presenting with nervousness about first job interview tomorrow for position at local bookstore. He reports feeling anxious about making good impression and answering questions appropriately. He denies any thoughts of self-harm or suicidal ideation. Patient has practiced interview questions with mother and teacher and feels prepared but still nervous. States he really wants the job to save money for college. Sleep last night was slightly disrupted but appetite normal. Continues all normal activities and is looking forward to weekend camping trip with friends. Mother brought him for support and reassurance. Patient demonstrates appropriate preparation and realistic expectations. Academically strong student involved in debate team suggesting comfort with communication. (Social Worker Rita Henderson, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, dressed professionally for interview",
+      "Behavior": "Cooperative, appropriately anxious",
+      "Speech": "Clear, articulate",
+      "Mood": "Nervous but okay",
+      "Affect": "Appropriate, full range",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Excellent",
+      "Judgment": "Excellent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Normal situational anxiety regarding developmental milestone, mild.",
+    "Psychosocial_Context": "Lives with both parents; experiencing age-appropriate anxiety about first job interview; well-prepared; motivated and goal-oriented; engaged in debate suggesting strong communication skills; supportive family.",
+    "Assessment_and_Plan": [
+      "Normal, adaptive anxiety about important first experience; completely within healthy limits.",
+      "Protective factors: excellent preparation, supportive family, strong communication skills from debate, realistic expectations, motivated.",
+      "Reassurance that interview anxiety is normal and shows he cares about opportunity.",
+      "Reviewed interview strategies and emphasized his preparation.",
+      "Reframed anxiety as natural activation that can enhance performance.",
+      "Reminded patient of debate experience demonstrating his communication abilities.",
+      "Mother reassured patient is well-prepared and anxiety is appropriate.",
+      "No intervention needed; expected to interview successfully.",
+      "Normal developmental experience building life skills."
+    ],
+    "Author": "Rita Henderson, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

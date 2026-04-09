@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Jennifer Martinez",
+    "Patient_MRN": "147",
+    "Date_of_Birth": "1986-05-09",
+    "Date_of_Service": "2024-08-08",
+    "Identifying_Data_Chief_Complaint": "38-year-old Hispanic female with schizophrenia with moderate symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Brother (Carlos Martinez) at 555-229-5543",
+    "Subjective": "Ms. Martinez came to appointment appearing somewhat anxious. Brother present confirms she takes paliperidone ER 12 mg every morning via his phone call reminder system, perfect adherence. Despite good medication compliance, continues experiencing moderate symptoms. Reports intermittent auditory hallucinations three to four times weekly of whispers saying her name. Endorses paranoid concerns that coworkers at grocery store judge her and discuss her mental illness. Sleep disrupted at 5-6 hours nightly. Appetite fair, weight stable at 152 lbs. Working part-time as grocery store cashier, finds customer interactions stressful. Lives alone in apartment with brother checking in daily. Limited social activities. Mood 'stressed and down' rated 4/10. Denies substance use. Brother concerned about her work stress. Safety: No SI/HI. (Assessed by Rosa Gonzalez, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professional work attire, adequate grooming, appears anxious",
+      "Speech": "Soft, hesitant, coherent",
+      "Affect": "Anxious, restricted",
+      "Mood": "Stressed and down",
+      "Thought_Content": "Intermittent auditory hallucinations, paranoid ideation about workplace judgment",
+      "Thought_Process": "Coherent, preoccupied with work concerns"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 15,
+      "GAD_7": 17,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Paliperidone ER 12 mg PO daily",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 104 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with moderate symptoms and significant anxiety.",
+    "Psychosocial_Context": "Lives alone with family support; working part-time with stress; limited social engagement.",
+    "Assessment_and_Plan": [
+      "Perfect adherence through brother's support system.",
+      "Moderate residual psychotic and anxiety symptoms.",
+      "Already on maximum paliperidone dose.",
+      "Discussed adding medication for anxiety.",
+      "Will start SSRI for anxiety and mood.",
+      "Encouraged work accommodations discussion with employer.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Rosa Gonzalez, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Retail Workers Mental Health, 6621 Shopping Center Way, Los Angeles, CA 90015, Phone: (555) 772-8832, Fax: (555) 772-8833"
+  },
+  "ground_truth": "Adherent"
+}

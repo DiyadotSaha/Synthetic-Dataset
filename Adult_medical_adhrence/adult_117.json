@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Angela Wilson",
+    "Patient_MRN": "117",
+    "Date_of_Birth": "1974-12-19",
+    "Date_of_Service": "2024-08-06",
+    "Identifying_Data_Chief_Complaint": "49-year-old African American female with schizoaffective disorder with ongoing symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Dorothy Wilson) at 555-661-3487",
+    "Subjective": "Ms. Wilson attended appointment with sister who supervises medications. Sister confirms patient takes quetiapine 400 mg twice daily via her observation, no missed doses. Despite reliable adherence, continues experiencing moderate symptoms. Reports persistent auditory hallucinations several times daily of voices making critical comments. Endorses paranoid thoughts that sister's friends gossip about her. Sleep disrupted at 5 hours nightly. Appetite decreased, weight down 6 lbs to 167 lbs. Not working, stays home. Lives with sister who provides support. Limited social activities. Sister concerned about isolation. Mood 'down and anxious' rated 4/10. Denies substance use. Safety: No SI/HI. (Assessed by Dr. Tyrone Jackson, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged female, adequate grooming, appears anxious",
+      "Speech": "Soft, hesitant, coherent",
+      "Affect": "Anxious, constricted",
+      "Mood": "Down and anxious",
+      "Thought_Content": "Auditory hallucinations, paranoid ideation",
+      "Thought_Process": "Coherent, preoccupied"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 17,
+      "GAD_7": 17,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Quetiapine 400 mg PO BID",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Glucose 113 mg/dL; CBC normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder with persistent symptoms and mood/anxiety components.",
+    "Psychosocial_Context": "Lives with sister; unemployed; socially isolated; ongoing symptoms affecting function.",
+    "Assessment_and_Plan": [
+      "Good adherence through sister's supervision.",
+      "Persistent psychotic and mood symptoms.",
+      "Discussed medication augmentation.",
+      "Will add antidepressant for mood/anxiety.",
+      "Encouraged social engagement.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Dr. Tyrone Jackson, MD, Psychiatrist \u2014 Sisters Support Mental Health, 4521 Family Drive, Birmingham, AL 35203, Phone: (555) 772-4498, Fax: (555) 772-4499"
+  },
+  "ground_truth": "Adherent"
+}

@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Lucas Martinez",
+    "Patient_MRN": "035",
+    "Date_of_Birth": "2011-03-28",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male brought by mother for medication side effects and low energy.",
+    "Collateral_Contact_Information": "Mother: Ana Martinez, Phone: (555) 567-8912",
+    "Subjective": "Patient is a 14-year-old male with history of ADHD presenting with complaints of fatigue and decreased motivation since starting fluoxetine 20mg two weeks ago for comorbid depression. He reports feeling tired throughout the day and experiencing difficulty with morning wakening. He denies any thoughts of self-harm or suicidal ideation. He states the medication has helped reduce his sadness but the fatigue is interfering with school and basketball practice. He continues to take methylphenidate for ADHD as prescribed. Mother corroborates the increased fatigue and notes patient is napping after school, which is unusual for him. Prior to starting fluoxetine, patient had been experiencing low mood for approximately two months following academic struggles. (Nurse Practitioner Melissa Thompson, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, appears tired",
+      "Behavior": "Cooperative",
+      "Speech": "Normal rate, somewhat subdued",
+      "Mood": "Okay, but tired",
+      "Affect": "Improved but low energy",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Fluoxetine 20mg daily, Methylphenidate 20mg twice daily",
+    "CURES_Report": "Fluoxetine and Methylphenidate on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, improving; ADHD, combined type, stable; medication side effects, moderate.",
+    "Psychosocial_Context": "Lives with mother, father, and two sisters; supportive family; previously struggling academically; active in athletics when energy permits; engaged in treatment.",
+    "Assessment_and_Plan": [
+      "Depression improving with SSRI but significant fatigue side effect affecting function.",
+      "Protective factors: supportive family, engaged in treatment, no suicidal ideation, athletic involvement.",
+      "Coordination with prescribing psychiatrist for medication management.",
+      "Options discussed: dose adjustment, timing change (evening dosing), or trial of alternative SSRI.",
+      "Recommendation to continue current regimen temporarily while awaiting prescriber follow-up.",
+      "Mother instructed to schedule urgent follow-up with outpatient psychiatrist within 3-5 days.",
+      "Resources provided for sleep hygiene.",
+      "Patient and mother educated on not discontinuing medication abruptly."
+    ],
+    "Author": "Melissa Thompson, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Lisa Chen",
+    "Patient_MRN": "139",
+    "Date_of_Birth": "1988-11-22",
+    "Date_of_Service": "2024-10-09",
+    "Identifying_Data_Chief_Complaint": "36-year-old Asian American female with schizophrenia for medication management.",
+    "Collateral_Contact_Information": "Emergency Contact: Husband (David Chen) at 555-992-8865",
+    "Subjective": "Ms. Chen arrived appearing calm and well-groomed. Reports reliable adherence to quetiapine 200 mg nightly taken at bedtime, husband reminds her and she's never missed a dose. States doing well overall. Experiences very rare brief paranoid thoughts about once a month which she dismisses quickly. No hallucinations. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 125 lbs. Working full-time as accountant at small firm, performing well. Mood 'good' rated 7/10. Lives with husband and two young children. Active in children's school activities. Enjoys yoga and reading. Maintains regular self-care routine. No safety concerns, denies SI/HI. (Seen by Dr. Rachel Goldstein, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professional attire, excellent grooming, calm and composed",
+      "Speech": "Clear, organized, normal pace",
+      "Affect": "Appropriate, euthymic, engaged",
+      "Mood": "Good",
+      "Thought_Content": "Reality-based, minimal residual symptoms with insight",
+      "Thought_Process": "Organized, logical, coherent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 3,
+      "GAD_7": 4,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Quetiapine 200 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable with excellent functioning.",
+    "Psychosocial_Context": "Married with children; employed full-time; active parent; excellent functioning and quality of life.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and stability.",
+      "Continue quetiapine 200 mg qHS.",
+      "Functioning well in all life domains.",
+      "Routine follow-up in 12 weeks."
+    ],
+    "RTC": "12 weeks",
+    "Author": "Note written by Dr. Rachel Goldstein, MD, Psychiatrist \u2014 Professional Women's Mental Health, 6621 Executive Park, Boston, MA 02108, Phone: (555) 883-7742, Fax: (555) 883-7743"
+  },
+  "ground_truth": "Adherent"
+}

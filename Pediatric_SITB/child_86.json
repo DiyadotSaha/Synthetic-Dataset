@@ -1,0 +1,55 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Alex Morgan",
+    "Patient_MRN": "086",
+    "Date_of_Birth": "2012-04-05",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old brought by parent after expressing thoughts of 'not wanting to exist in this body' related to emerging gender dysphoria.",
+    "Collateral_Contact_Information": "Parent: Chris Morgan, Phone: (555) 995-3322",
+    "Subjective": "Patient is a 13-year-old assigned female at birth who has recently begun questioning gender identity. Patient confided in parent yesterday about having passive thoughts of not wanting to exist 'in this body' and wishing to disappear. Upon evaluation, patient clarifies experiencing distress about physical development (breast growth, menstruation onset) and feeling trapped in the wrong body. Patient describes passive thoughts about not wanting to be alive in current form but explicitly denies any plan, method, or intent to cause self-harm. Patient expresses these are wishes to exist differently rather than desires to die. Started binding chest with ace bandage which parent discovered. Refers to self with they/them pronouns when comfortable. Sleep is disrupted, particularly difficult during menstruation. Still enjoys art and video games. Has one close friend who is also exploring gender identity and is supportive. Parent is loving and trying to understand but feels overwhelmed. No prior mental health treatment. Patient expresses relief at being able to talk openly and hope that maybe 'things could change.' (Social Worker Jordan Lee, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Androgynous presentation, loose clothing, short hair",
+      "Behavior": "Cooperative, becomes more animated when discussing gender feelings",
+      "Speech": "Soft initially, gains confidence during interview",
+      "Mood": "Distressed about body but hopeful about future possibilities",
+      "Affect": "Appropriate, anxious but brightens discussing supportive friend",
+      "Thought_Process": "Organized, thoughtful about identity",
+      "Thought_Content": "Passive wishes related to body dysphoria; no active suicidal ideation",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Good, articulate about gender feelings",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Gender dysphoria; adjustment disorder with depressed mood related to gender identity development; passive ideation related to body dysphoria.",
+    "Psychosocial_Context": "Exploring gender identity; supportive parent seeking to understand; peer support from friend with similar experience; unsafe chest binding observed; interests in art and gaming maintained.",
+    "Assessment_and_Plan": [
+      "Low risk: passive distress related to gender dysphoria; no suicidal ideation, plan, or intent.",
+      "Strong protective factors: supportive parent, affirming peer, hope for change, interests maintained, excellent insight.",
+      "Statements reflect body dysphoria rather than suicidal intent.",
+      "Urgent referral to gender-affirming therapist specializing in adolescent gender identity.",
+      "Education on safe binding practices; provide proper chest binder instead of ace bandage.",
+      "Connect family with PFLAG and transgender youth support resources.",
+      "Consider gender clinic evaluation for comprehensive gender-affirming care.",
+      "Parent support group to help navigate child's gender journey.",
+      "Encourage continued friendship with supportive peer.",
+      "Safety plan focusing on dysphoria management and reaching out when distressed.",
+      "Follow-up with gender-affirming therapist within one week.",
+      "Safe for discharge with appropriate gender-affirming resources and support."
+    ],
+    "Author": "Jordan Lee, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

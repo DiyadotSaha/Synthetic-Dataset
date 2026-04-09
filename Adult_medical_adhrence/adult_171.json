@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Trevor Walsh",
+    "Patient_MRN": "171",
+    "Date_of_Birth": "1993-03-22",
+    "Date_of_Service": "2024-09-27",
+    "Identifying_Data_Chief_Complaint": "31-year-old White male with schizophrenia for medication management.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Kelly Walsh) at 555-229-9943",
+    "Subjective": "Patient arrives appearing relaxed. Reports generally doing well but admits his pill organizer shows he's been forgetting morning doses of aripiprazole about 5-6 times monthly when he sleeps through his alarm after late gaming sessions. Takes it when he remembers later in day. Noticed feeling slightly more tired and once had fleeting thought that online gaming friends were excluding him from group chats, though realized it wasn't true. Sleep varies 5-8 hours. Appetite good, weight 168 lbs. Works part-time at electronics store. Mood 'pretty good' rated 7/10. Lives alone. Enjoys gaming. No substance use, 4 months sober. Denies SI/HI. (Seen by Kevin Chang, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casual attire, fair grooming",
+      "Speech": "Clear, coherent",
+      "Affect": "Appropriate, engaged",
+      "Mood": "Pretty good",
+      "Thought_Content": "One brief paranoid-like thought",
+      "Thought_Process": "Organized"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 4,
+      "GAD_7": 5,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Aripiprazole 5 mg PO daily",
+    "CURES_Report": "Reviewed; no issues.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable with occasional missed doses.",
+    "Psychosocial_Context": "Living alone; employed part-time; active gaming hobby; 4 months sober.",
+    "Assessment_and_Plan": [
+      "Addressed pattern of morning dose omissions due to sleep schedule.",
+      "Recommended phone alarm backup and evening dosing option.",
+      "Patient willing to adjust to evening timing.",
+      "Continue aripiprazole 5 mg daily, evening dosing.",
+      "Follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Kevin Chang, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Young Adult Mental Health Center, 2780 Youth Services Road, Seattle, WA 98104, Phone: (555) 773-8821, Fax: (555) 773-8822"
+  },
+  "ground_truth": "Non-Adherent"
+}

@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Stephanie Turner",
+    "Patient_MRN": "065",
+    "Date_of_Birth": "1989-11-22",
+    "Date_of_Service": "2024-07-25",
+    "Identifying_Data_Chief_Complaint": "34-year-old White female with schizoaffective disorder for medication review.",
+    "Collateral_Contact_Information": "Emergency Contact: Partner (Jessica Adams) at 555-772-3498",
+    "Subjective": "Patient arrived appearing well and upbeat. Reports excellent medication adherence, taking brexpiprazole 2 mg every morning using daily routine. States she feels great. No hallucinations for five months. No paranoid thoughts. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 159 lbs. Working full-time as social media coordinator for nonprofit, thriving in position. Mood 'really happy' rated 9/10. Lives with partner in committed relationship for six years. They recently got civil union and are planning wedding celebration. Active in LGBTQ+ community center as volunteer. Enjoys painting and recently sold some artwork. Therapy monthly for wellness. Three years sober from all substances. Strong support system. Planning vacation to Hawaii next month. No safety concerns, explicitly denies SI/HI. (Seen by Dr. Nicole Foster, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Stylishly dressed, excellent grooming, bright affect",
+      "Speech": "Animated, clear, enthusiastic",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Really happy",
+      "Thought_Content": "Future-oriented, positive, no psychotic features",
+      "Thought_Process": "Organized, coherent, insightful"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Brexpiprazole 2 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "In civil union, planning wedding; employed full-time; three years sober; active volunteer; artistic pursuits; excellent recovery.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and sustained remission.",
+      "Continue brexpiprazole 2 mg daily.",
+      "Commended on career success and relationship milestone.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Nicole Foster, MD, Psychiatrist \u2014 Pride Mental Health Services, 2341 Rainbow Street, San Francisco, CA 94102, Phone: (555) 667-3329, Fax: (555) 667-3330"
+  },
+  "ground_truth": "Adherent"
+}

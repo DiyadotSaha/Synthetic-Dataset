@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Harper Brooks",
+    "Patient_MRN": "170",
+    "Date_of_Birth": "2010-03-19",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female brought by school resource officer after cutting forearms during class with scissors.",
+    "Collateral_Contact_Information": "Mother: Michelle Brooks, Phone: (555) 774-3366",
+    "Subjective": "Patient is a 15-year-old female who cut her forearms with scissors during English class in front of peers. Teacher and resource officer intervened. Patient explains she was having panic attack and cut to 'make it stop.' Reports this is escalation of cutting behavior that started 6 months ago, previously done in private. Denies suicidal ideation, plan, or intent. Describes overwhelming anxiety, particularly at school. Has had three panic attacks at school this week. Currently on sertraline 100mg for anxiety but reports it is not helping. Seeing therapist weekly. Academic performance declining. Has few friends due to anxiety-driven social avoidance. Supportive mother. History of childhood trauma (witnessed domestic violence). (ED Physician Dr. Patricia Morgan, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Multiple fresh cuts on both forearms, appears anxious",
+      "Behavior": "Cooperative, hypervigilant, startles easily",
+      "Speech": "Rapid when anxious",
+      "Mood": "Panicky",
+      "Affect": "Anxious, labile",
+      "Thought_Process": "Organized when calm, racing when anxious",
+      "Thought_Content": "Denies SI; NSSI during panic for affect regulation; escalating frequency and public nature",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair, recognizes escalation",
+      "Judgment": "Poor during panic"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Sertraline 100mg daily",
+    "CURES_Report": "Sertraline on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Panic disorder; generalized anxiety disorder; PTSD related to witnessing domestic violence; NSSI escalating in frequency and severity.",
+    "Psychosocial_Context": "Escalating NSSI now occurring publicly; panic attacks increasing; current SSRI insufficient; weekly therapy; trauma history; social isolation; academic decline; supportive mother.",
+    "Assessment_and_Plan": [
+      "Low risk for suicide but high concern for escalating NSSI and inadequately treated anxiety/PTSD.",
+      "Cuts cleaned and bandaged; no sutures needed.",
+      "Remove access to scissors and sharp objects at school and home.",
+      "Current medication insufficient; psychiatric consultation for medication optimization.",
+      "Consider augmentation or medication change; possible addition of as-needed anxiety medication.",
+      "Increase therapy frequency; DBT or trauma-focused therapy (EMDR, PE).",
+      "School accommodations for anxiety; safe space for panic attacks.",
+      "Teach grounding and panic management skills.",
+      "Mother to monitor closely.",
+      "Consider brief psychiatric admission versus intensive outpatient if safety cannot be assured.",
+      "Close follow-up within 24-48 hours."
+    ],
+    "Author": "Dr. Patricia Morgan, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Aiden Kumar",
+    "Patient_MRN": "067",
+    "Date_of_Birth": "2009-11-03",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old male brought by mother due to increased irritability and low mood.",
+    "Collateral_Contact_Information": "Mother: Priya Kumar, Phone: (555) 345-6789",
+    "Subjective": "Patient is a 16-year-old male presenting with two months of gradually worsening depressed mood and irritability following breakup with girlfriend. He reports feeling sad most days, with decreased interest in video games and social activities he previously enjoyed. Sleep has been poor with difficulty falling asleep. Appetite is decreased and he has lost approximately 5 pounds. He denies any thoughts of self-harm, suicidal ideation, or intent. Patient reports he feels the breakup was his fault and worries he will not find another relationship. He continues to attend school regularly and maintain passing grades, though concentration is reduced. Started sertraline 25mg two weeks ago with psychiatry. Mother notes improvement in irritability but continued low mood. (Nurse Practitioner Daniel Foster, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, fair hygiene",
+      "Behavior": "Cooperative, subdued",
+      "Speech": "Low volume, hesitant",
+      "Mood": "Depressed",
+      "Affect": "Flat, congruent",
+      "Thought_Process": "Linear, slowed",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Sertraline 25mg daily",
+    "CURES_Report": "Sertraline on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, single episode, moderate.",
+    "Psychosocial_Context": "Lives with mother and stepfather; parents divorced when patient was young; academically average student; limited current social engagement; recently started medication management.",
+    "Assessment_and_Plan": [
+      "Moderate depression in context of relationship loss.",
+      "Protective factors: attending school regularly, engaged in treatment, supportive mother, no suicidal ideation.",
+      "Recently initiated SSRI therapy; early treatment phase.",
+      "Recommend continuing sertraline with outpatient psychiatry follow-up in 2 weeks for possible dose adjustment.",
+      "Referral for individual therapy to address relationship concerns and coping skills.",
+      "Mother educated on monitoring response to medication and warning signs."
+    ],
+    "Author": "Daniel Foster, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}

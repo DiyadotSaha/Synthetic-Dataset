@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Ebony Williams",
+    "Patient_MRN": "077",
+    "Date_of_Birth": "1981-08-18",
+    "Date_of_Service": "2024-07-03",
+    "Identifying_Data_Chief_Complaint": "43-year-old African American female with schizophrenia with ongoing symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Kenya Williams) at 555-661-2294",
+    "Subjective": "Ms. Williams attended appointment with sister who supervises medications. Sister confirms patient takes risperidone 6 mg nightly via direct observation, no missed doses. Despite reliable adherence, continues experiencing moderate symptoms. Reports persistent auditory hallucinations daily of voices discussing her, which are distracting. Endorses belief that people at bus stop stare and judge her appearance, causing social anxiety. Sleep disrupted at 5 hours nightly with early awakening. Appetite fair, weight stable at 183 lbs. Attends day program three times weekly, participates minimally. Not working, receives disability. Lives with sister who provides support. Limited social activities. Mood 'down and anxious' rated 4/10. Denies substance use, history of alcohol dependence. Flat during interview. Safety: No SI/HI. (Assessed by Patricia Moore, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, adequate grooming, appears anxious",
+      "Speech": "Soft, brief responses, coherent",
+      "Affect": "Anxious, restricted",
+      "Mood": "Down and anxious",
+      "Thought_Content": "Auditory hallucinations, ideas of reference",
+      "Thought_Process": "Coherent, preoccupied"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 14,
+      "GAD_7": 16,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 6 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 96 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with persistent symptoms and anxiety.",
+    "Psychosocial_Context": "Lives with sister; unemployed, on disability; attends day program; limited social engagement.",
+    "Assessment_and_Plan": [
+      "Good adherence through sister's supervision.",
+      "Persistent psychotic and anxiety symptoms.",
+      "Discussed medication augmentation.",
+      "Will add SSRI for anxiety and mood symptoms.",
+      "Encouraged day program participation.",
+      "Follow-up in 4 weeks."
+    ],
+    "RTC": "4 weeks",
+    "Author": "Note written by Patricia Moore, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Sisterhood Mental Health, 3421 Unity Street, New Orleans, LA 70112, Phone: (555) 447-7729, Fax: (555) 447-7730"
+  },
+  "ground_truth": "Adherent"
+}

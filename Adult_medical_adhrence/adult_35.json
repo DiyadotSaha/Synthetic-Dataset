@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Jun Park",
+    "Patient_MRN": "035",
+    "Date_of_Birth": "1973-12-22",
+    "Date_of_Service": "2024-06-08",
+    "Identifying_Data_Chief_Complaint": "50-year-old Asian American male with chronic psychotic disorder presenting with severe persistent symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Wife (Hana Park) at 555-338-7624",
+    "Subjective": "Mr. Park presented with wife who provides most history as patient is minimally verbal and withdrawn. Wife confirms he receives fluphenazine decanoate 37.5 mg injection every three weeks at clinic, never missing appointments over past two years. Despite this excellent adherence, he remains profoundly impaired. Wife reports he experiences near-constant auditory hallucinations of voices insulting him in Korean, causing him to cover his ears and rock back and forth for hours. He also believes that Korean government is monitoring him through the television, leading to unplugging all electronics. Sleep is severely disturbed at 2-3 hours nightly in short episodes. Appetite minimal, wife must prepare special foods and coax him to eat, has lost 19 lbs over two months to 121 lbs. Personal hygiene requires full assistance - wife must help him shower and dress. He does not speak to their adult children when they visit. Spends entire day sitting motionless in chair staring at wall or responding to hallucinations. Unable to perform any ADLs independently. Wife is exhausted and tearful during interview, expressing desperation about situation. Mood appears severely depressed, patient nods when asked if he feels hopeless. Risk: Wife reports he has said 'better to die' in Korean but denies any plan or preparation. (Comprehensive assessment by Dr. Grace Kim, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged male, poor hygiene, underweight, psychomotor retardation",
+      "Speech": "Minimal, whispered monosyllables when prompted",
+      "Affect": "Severely blunted, appears internally preoccupied",
+      "Mood": "Profoundly depressed",
+      "Thought_Content": "Severe auditory hallucinations in native language, paranoid delusions about government surveillance",
+      "Thought_Process": "Unable to adequately assess due to minimal verbal output"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 23,
+      "GAD_7": 19,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive death wishes, states 'better to die,' no active plan"
+    },
+    "Current_Medications": "Fluphenazine decanoate 37.5 mg IM every 3 weeks",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC shows anemia with Hgb 10.3 g/dL; CMP reveals low albumin 3.0 g/dL; liver function tests normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder, severe and treatment-resistant with catatonic features and profound disability.",
+    "Psychosocial_Context": "Lives with wife; unable to work, on disability; estranged from children due to illness; wife is sole caregiver experiencing severe burden.",
+    "Assessment_and_Plan": [
+      "Perfect adherence to depot antipsychotic via clinic administration.",
+      "Treatment-refractory illness with catastrophic functional decline.",
+      "Severe malnutrition and concerning passive suicidal ideation.",
+      "Caregiver at crisis point of burnout.",
+      "Urgent psychiatric hospitalization recommended for clozapine trial and stabilization.",
+      "Will also evaluate for ECT given catatonic features.",
+      "Medical admission may be needed first for nutritional support.",
+      "Discussed respite care options and long-term placement with wife.",
+      "Coordinating emergency admission today."
+    ],
+    "RTC": "Post-hospitalization",
+    "Author": "Note written by Dr. Grace Kim, MD, Psychiatrist \u2014 Pacific Rim Mental Health Center, 5643 International Boulevard, Seattle, WA 98118, Phone: (555) 229-8844, Fax: (555) 229-8845"
+  },
+  "ground_truth": "Adherent"
+}

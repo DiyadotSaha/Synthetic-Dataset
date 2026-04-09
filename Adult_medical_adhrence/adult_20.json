@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Kevin O'Connor",
+    "Patient_MRN": "020",
+    "Date_of_Birth": "1989-01-23",
+    "Date_of_Service": "2024-04-12",
+    "Identifying_Data_Chief_Complaint": "35-year-old Caucasian male with schizoaffective disorder presenting for medication management.",
+    "Collateral_Contact_Information": "Emergency Contact: Brother (Sean O'Connor) at 555-332-1987",
+    "Subjective": "Patient presents somewhat restless, shifting in his seat frequently during the session. Reports that his medication routine has become 'complicated' and he sometimes gets confused about when to take what. He's prescribed aripiprazole 15 mg in the morning and explains he probably takes it correctly 'about half the time,' sometimes taking it at night instead, other times forgetting whether he already took it that day so he skips it to be safe. Estimates missing or mistiming doses happens several times per week. He notes increased anxiety recently and describes his mood as 'up and down throughout the day' with more irritability than usual. Mentions hearing muffled talking from his neighbors that bothers him, though acknowledges they may not actually be talking about him. Sleep quality has declined, taking 1-2 hours to fall asleep and waking frequently. Appetite is fair with no significant weight change, maintains 190 lbs. He's currently unemployed and spending considerable time online. His brother recently expressed concerns about his isolating behavior. Denies alcohol use but admits to occasional energy drink consumption 'to stay focused.' No acute safety concerns, denies suicidal or homicidal ideation but appears frustrated with his current situation. (Evaluated by Dr. Patricia Nguyen, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed male, restless, adequate grooming",
+      "Speech": "Normal rate, somewhat rambling at times",
+      "Affect": "Anxious, mildly irritable",
+      "Mood": "Frustrated and variable",
+      "Thought_Content": "Possible ideas of reference regarding neighbors, anxiety themes",
+      "Thought_Process": "Circumstantial, somewhat scattered"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 11,
+      "GAD_7": 12,
+      "DAST_10": 1,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Aripiprazole 15 mg PO daily",
+    "CURES_Report": "Reviewed; no concerns identified.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Metabolic panel within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, bipolar type, partially controlled with medication adherence challenges.",
+    "Psychosocial_Context": "Lives alone; currently unemployed; limited social contact; brother provides some support; complex medication regimen causing confusion.",
+    "Assessment_and_Plan": [
+      "Medication complexity contributing to adherence difficulties.",
+      "Simplified to single daily dosing with clear instructions provided in writing.",
+      "Recommended use of medication app with reminders and tracking feature.",
+      "Discussed potential for long-acting injectable formulation if adherence challenges persist.",
+      "Encouraged structured daily routine to support medication timing.",
+      "Referral for occupational therapy evaluation.",
+      "Follow-up in 3 weeks to assess adherence improvement."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Dr. Patricia Nguyen, MD, Psychiatrist \u2014 Harbor Mental Health Center, 1400 Marina Boulevard, San Diego, CA 92101, Phone: (555) 123-7654, Fax: (555) 123-7655"
+  },
+  "ground_truth": "Non-Adherent"
+}

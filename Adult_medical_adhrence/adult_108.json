@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Dwayne Foster",
+    "Patient_MRN": "108",
+    "Date_of_Birth": "1977-12-28",
+    "Date_of_Service": "2024-06-25",
+    "Identifying_Data_Chief_Complaint": "46-year-old African American male with schizophrenia with ongoing symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Angela Foster) at 555-883-4409",
+    "Subjective": "Mr. Foster attended appointment with case manager. Case manager confirms he takes quetiapine 300 mg twice daily via supervised administration at day program, no missed doses. Despite good adherence, continues experiencing moderate symptoms. Reports daily auditory hallucinations of voices discussing him. Endorses vague paranoid ideas about surveillance. Sleep disrupted at 5-6 hours nightly. Appetite fair, weight stable at 187 lbs. Attends day program three days weekly. Not working, receives disability. Lives in supported housing. Limited social contacts. Mood 'okay' rated 5/10. Denies substance use. Flat during interview. Safety: No SI/HI. (Assessed by Sandra Williams, LCSW, Licensed Clinical Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged male, adequate grooming, appears withdrawn",
+      "Speech": "Monotone, sparse, coherent",
+      "Affect": "Flat, minimal reactivity",
+      "Mood": "Neutral",
+      "Thought_Content": "Auditory hallucinations, vague paranoid ideation",
+      "Thought_Process": "Concrete, impoverished"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 12,
+      "GAD_7": 10,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Quetiapine 300 mg PO BID",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 98 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with persistent symptoms.",
+    "Psychosocial_Context": "Lives in supported housing; unemployed, on disability; attends day program; case management services.",
+    "Assessment_and_Plan": [
+      "Good adherence through program supervision.",
+      "Persistent symptoms despite treatment.",
+      "Discussed medication adjustment.",
+      "Will increase quetiapine to 400 mg BID.",
+      "Encouraged program participation.",
+      "Follow-up in 4 weeks."
+    ],
+    "RTC": "4 weeks",
+    "Author": "Note written by Sandra Williams, LCSW, Licensed Clinical Social Worker \u2014 Community Living Services, 5623 Housing Way, Oakland, CA 94607, Phone: (555) 772-4498, Fax: (555) 772-4499"
+  },
+  "ground_truth": "Adherent"
+}

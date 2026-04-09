@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Aisha Rahman",
+    "Patient_MRN": "162",
+    "Date_of_Birth": "1990-09-08",
+    "Date_of_Service": "2024-09-25",
+    "Identifying_Data_Chief_Complaint": "34-year-old South Asian female with schizophrenia for medication check.",
+    "Collateral_Contact_Information": "Emergency Contact: Husband (Omar Rahman) at 555-448-7721",
+    "Subjective": "Ms. Rahman presents appearing well and engaged. Her husband accompanies her. She reports overall stability but mentions that the twice-daily aripiprazole dosing has been challenging to maintain consistently - she usually takes the morning dose without issue but forgets the afternoon dose approximately 2-3 times weekly, particularly on days when she's busy with her nursing shift at the hospital. Husband confirms the medication organizer often has afternoon doses remaining. She hasn't noticed significant symptom changes, though she did experience one morning last week with brief unusual feelings that the hospital administration might be monitoring her work performance excessively, though she recognized this felt overblown. Sleep adequate at 6-7 hours nightly. Appetite good, weight stable at 135 lbs. Working full-time as registered nurse on medical-surgical unit, performing well with recent positive annual review. Mood 'pretty content' rated 7/10. Lives with husband and toddler son. Balances work and family life well. Attends monthly therapy for stress management. No substance use. No safety concerns, denies SI/HI. (Seen by Fatima Hassan, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professional attire, excellent grooming, appears calm",
+      "Speech": "Clear, organized, normal pace",
+      "Affect": "Appropriate, euthymic, engaged",
+      "Mood": "Pretty content",
+      "Thought_Content": "One isolated brief paranoid-like thought with insight",
+      "Thought_Process": "Organized, logical, reality-based"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 4,
+      "GAD_7": 6,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Aripiprazole 10 mg PO BID",
+    "CURES_Report": "Reviewed; no concerns.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Recent metabolic panel normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable with adherence challenges related to dosing frequency.",
+    "Psychosocial_Context": "Married with child; employed as RN; high-functioning professional; managing complex schedule.",
+    "Assessment_and_Plan": [
+      "Identified barrier of twice-daily dosing during busy work shifts.",
+      "Discussed transitioning to once-daily formulation to improve adherence.",
+      "Patient interested in simplifying regimen.",
+      "Plan to consolidate to 20 mg once daily in evening.",
+      "Husband supportive of medication simplification.",
+      "Follow-up in 6 weeks to assess new dosing schedule."
+    ],
+    "RTC": "6 weeks",
+    "Author": "Note written by Fatima Hassan, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Healthcare Workers Mental Wellness, 4510 Medical Center Boulevard, Houston, TX 77030, Phone: (555) 227-9943, Fax: (555) 227-9944"
+  },
+  "ground_truth": "Non-Adherent"
+}

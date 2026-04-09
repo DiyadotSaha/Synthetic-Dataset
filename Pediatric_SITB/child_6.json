@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Lucas Chen",
+    "Patient_MRN": "006",
+    "Date_of_Birth": "2010-06-18",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by school counselor after disclosure of wishing he 'didn't exist' following academic rejection.",
+    "Collateral_Contact_Information": "Father: David Chen, Phone: (555) 816-2947",
+    "Subjective": "Patient is a 15-year-old male presenting today after confiding in his school counselor about thoughts of wishing he 'didn't exist.' He reports that three days ago he received a rejection letter from a prestigious summer science program he had spent months applying to, which has left him feeling like a complete failure. He describes himself as someone who has always excelled academically, and this rejection has shaken his sense of self-worth significantly. He admits to having passive thoughts about not wanting to be alive but clarifies he has no plan, no intent, and no desire to act on these thoughts. Sleep has been disrupted with difficulty falling asleep and frequent waking. His appetite remains normal, and he continues attending classes though reports difficulty concentrating. He denies any history of prior suicidal ideation or attempts. He identifies his father and his robotics club teammates as important sources of support, and notes he looks forward to an upcoming robotics competition. He expresses willingness to talk with someone about managing these feelings and recognizing that his worth extends beyond academic achievements. (Social Worker Janet Rivera, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Neatly dressed, glasses, appears younger than stated age",
+      "Behavior": "Cooperative, somewhat anxious",
+      "Speech": "Clear, normal rate",
+      "Mood": "Discouraged",
+      "Affect": "Appropriate but subdued",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "Passive suicidal ideation without plan or intent",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Intact"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood and passive suicidal ideation.",
+    "Psychosocial_Context": "Lives with both parents and younger sister; excels academically; active member of school robotics club; strong family support system.",
+    "Assessment_and_Plan": [
+      "Adjustment reaction to academic setback with passive SI.",
+      "Protective factors: strong family relationships, engagement in extracurricular activities, future goals.",
+      "Safety plan established with patient and father; means restriction discussed.",
+      "Outpatient therapy referral provided; follow-up within one week."
+    ],
+    "Author": "Janet Rivera, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

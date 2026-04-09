@@ -1,0 +1,56 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Alexis Morgan",
+    "Patient_MRN": "196",
+    "Date_of_Birth": "2012-02-09",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by father after expressing that she 'can't do this anymore' due to chronic pain from sickle cell disease.",
+    "Collateral_Contact_Information": "Father: Robert Morgan, Phone: (555) 774-2255",
+    "Subjective": "Patient is a 13-year-old with sickle cell disease presenting after telling father she 'can't do this anymore' following her third hospitalization this month for vaso-occlusive pain crisis. Endorses passive thoughts of not wanting to live with constant pain but denies plan, method, or intent. Reports feeling hopeless about future with chronic illness, fear of next crisis, and exhaustion from medical burden. Currently experiencing pain level 6/10 between crises. Sleep disrupted by pain. Appetite affected by pain and nausea. Has missed 60+ school days this year. Few friends due to frequent absences. Enjoys art when well enough. Very supportive father who is single parent. Currently on hydroxyurea and chronic pain management. Seeing hematologist regularly. No prior mental health treatment. (Pediatric Hematologist Dr. Sharon Williams, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Appears ill, in visible pain",
+      "Behavior": "Cooperative, exhausted",
+      "Speech": "Soft, slow due to pain",
+      "Mood": "Can't keep fighting",
+      "Affect": "Depressed, depleted",
+      "Thought_Process": "Organized, pain-dominated",
+      "Thought_Content": "Passive suicidal ideation without plan or intent; pain-driven hopelessness",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Hydroxyurea, Oxycodone PRN, Gabapentin",
+    "CURES_Report": "Pain medications on file",
+    "Laboratory_Data": {
+      "CBC": "Consistent with sickle cell disease",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Sickle cell disease with frequent crises; adjustment disorder with depressed mood secondary to chronic illness; passive suicidal ideation related to pain burden.",
+    "Psychosocial_Context": "Sickle cell disease with three hospitalizations this month; chronic pain; massive school absence; social isolation; supportive single father; art interest; established hematology care.",
+    "Assessment_and_Plan": [
+      "Low risk: passive SI without plan or intent driven by chronic pain and illness burden.",
+      "Protective factors: father support, art interest when able, good insight.",
+      "Pain crisis and depression require integrated intervention.",
+      "Optimize pain management; consult pain specialist if not already involved.",
+      "Psychiatric consultation for depression treatment; antidepressant indicated.",
+      "Chronic illness psychology for coping with sickle cell disease.",
+      "Sickle cell support groups for teens.",
+      "School accommodations for chronic illness; homebound instruction.",
+      "Father needs support resources; single parenting child with chronic illness is exhausting.",
+      "Address hopelessness; treatments advancing for sickle cell.",
+      "Safety plan with father.",
+      "Close follow-up with hematology and new mental health provider within one week.",
+      "Safe for discharge with integrated medical-psychiatric care plan."
+    ],
+    "Author": "Dr. Sharon Williams, MD (Pediatric Hematologist)"
+  },
+  "ground_truth": "yes"
+}

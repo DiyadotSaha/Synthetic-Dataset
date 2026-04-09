@@ -1,0 +1,53 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Cameron White",
+    "Patient_MRN": "146",
+    "Date_of_Birth": "2009-06-19",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old brought by police after attempting to jump from roof of school building.",
+    "Collateral_Contact_Information": "Father: Richard White, Phone: (555) 883-6677",
+    "Subjective": "Patient is a 16-year-old who uses he/they pronouns brought by police after climbing onto school roof with stated intent to jump. School security and police talked them down after 90 minutes. Patient reports they climbed roof with full intent to die after being outed as transgender at school without their consent. A classmate posted private messages revealing patient's gender identity journey, leading to harassment and threats. Patient describes feeling exposed, violated, and unsafe. States they wanted to die to escape humiliation and fear of family discovering their identity before they were ready. Currently experiencing panic about family finding out. No medications. Not out to family who patient describes as 'not accepting.' Has one supportive online friend. Was planning to come out after graduation. No prior attempts. (Psychiatrist Dr. Laura Stevens, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Androgynous presentation, appears terrified",
+      "Behavior": "Anxious, hypervigilant",
+      "Speech": "Rapid, pressured",
+      "Mood": "Panicked and violated",
+      "Affect": "Intensely anxious, fearful",
+      "Thought_Process": "Racing, preoccupied with safety",
+      "Thought_Content": "Recent near-attempt; acute crisis; ongoing fear-based SI",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Severely impaired by crisis"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Acute stress disorder; suicide attempt; gender dysphoria; crisis related to forced outing and anticipated family rejection.",
+    "Psychosocial_Context": "Forced outing at school; harassment following disclosure; closeted at home; family anticipated to be non-accepting; online support only; planning delayed coming out.",
+    "Assessment_and_Plan": [
+      "Imminent high risk: recent near-lethal attempt; ongoing crisis related to forced outing and safety concerns.",
+      "Minimal protective factors: one online friend.",
+      "5150 hold placed; inpatient psychiatric admission required.",
+      "School intervention for harassment and privacy violation essential.",
+      "Gender-affirming mental health services critical.",
+      "Careful family notification given anticipated rejection; patient safety paramount.",
+      "Connect with Trevor Project and transgender youth crisis services.",
+      "Safe housing assessment if family rejects patient upon learning identity.",
+      "Longer-term: gender-affirming therapy, support groups, identity development support.",
+      "Discharge planning must include safety from both self-harm and potential family rejection."
+    ],
+    "Author": "Dr. Laura Stevens, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Carlos Mendez",
+    "Patient_MRN": "054",
+    "Date_of_Birth": "1995-01-29",
+    "Date_of_Service": "2024-10-05",
+    "Identifying_Data_Chief_Complaint": "29-year-old Hispanic male with schizoaffective disorder for routine check.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Rosa Mendez) at 555-883-7629",
+    "Subjective": "Patient presented on time appearing well and relaxed. Reports taking his risperidone 4 mg nightly consistently using bedtime routine, never misses doses. States he is doing very well. No hallucinations for past five months. No paranoid ideation. Sleep excellent at 8 hours nightly. Appetite healthy, weight stable at 171 lbs. Working full-time as delivery driver, enjoys the independence and exercise. Mood 'good, happy with how things are going' rated 8/10. Lives independently in studio apartment. Dating someone he met through mutual friends, relationship going well. Enjoys soccer league on weekends. Attends therapy monthly for check-ins. Two years sober from alcohol and marijuana. Rebuilding relationship with family, regular dinners with parents weekly. Feels optimistic about future. No safety concerns, denies SI/HI. (Evaluated by Dr. Sofia Ramirez, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed in work uniform, good grooming, relaxed",
+      "Speech": "Clear, normal pace, engaged",
+      "Affect": "Bright, appropriate range",
+      "Mood": "Happy",
+      "Thought_Content": "Future-oriented, no psychotic symptoms",
+      "Thought_Process": "Organized, coherent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 2,
+      "GAD_7": 3,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 4 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC and metabolic panel all within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in remission.",
+    "Psychosocial_Context": "Living independently; employed full-time; two years sober; in relationship; reconnected with family; active lifestyle.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and symptom control.",
+      "Continue risperidone 4 mg qHS.",
+      "Commended on employment and sobriety.",
+      "Routine follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Dr. Sofia Ramirez, MD, Psychiatrist \u2014 Latino Mental Health Initiative, 2341 Mission Street, San Antonio, TX 78205, Phone: (555) 772-4491, Fax: (555) 772-4492"
+  },
+  "ground_truth": "Adherent"
+}

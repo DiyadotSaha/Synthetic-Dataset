@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Tyler Anderson",
+    "Patient_MRN": "199",
+    "Date_of_Birth": "2010-07-18",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by stepmother for anger outbursts at home.",
+    "Collateral_Contact_Information": "Stepmother: Jennifer Anderson, Phone: (555) 901-2346",
+    "Subjective": "Patient is a 15-year-old male brought by stepmother due to escalating verbal aggression and one incident of punching a wall during an argument two days ago. He reports feeling angry and frustrated about his father's remarriage last year and household rule changes. He denies any thoughts of harming himself or others beyond the property damage. He denies any suicidal ideation or intent. Patient acknowledges his anger is problematic but states he feels disrespected and unheard at home. Stepmother reports patient is respectful at school and has no behavioral problems there. He maintains good grades and has a close relationship with his maternal grandmother whom he sees weekly. Father works long hours and patient feels disconnected from him. Patient expresses willingness to participate in family therapy. (Psychiatrist Dr. Sarah Goldstein, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, bandage on right hand",
+      "Behavior": "Cooperative, initially defensive",
+      "Speech": "Normal rate, increased volume when discussing family",
+      "Mood": "Angry",
+      "Affect": "Irritable, congruent",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Impaired in context of anger"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with disturbance of conduct, moderate.",
+    "Psychosocial_Context": "Lives with father and stepmother; parents divorced 3 years ago; father remarried 1 year ago; adjustment difficulties to blended family; strong relationship with maternal grandmother; no behavioral issues at school; academically successful.",
+    "Assessment_and_Plan": [
+      "Anger and behavioral issues in context of family transition and blended family adjustment.",
+      "Protective factors: academically successful, behavioral control at school, connected to grandmother, expresses willingness for treatment, no suicidal or homicidal ideation.",
+      "Right hand evaluated; no fracture on examination; RICE protocol recommended.",
+      "Urgent referral for family therapy to address communication and adjustment issues.",
+      "Individual therapy for anger management and coping skills.",
+      "Father encouraged to prioritize one-on-one time with patient.",
+      "Safety planning for anger management strategies completed.",
+      "Follow-up with outpatient provider within 1 week."
+    ],
+    "Author": "Dr. Sarah Goldstein, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

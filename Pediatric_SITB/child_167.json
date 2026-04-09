@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Dominic Hughes",
+    "Patient_MRN": "167",
+    "Date_of_Birth": "2012-07-12",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old male brought by mother for anger outbursts at home.",
+    "Collateral_Contact_Information": "Mother: Theresa Hughes, Phone: (555) 567-8028",
+    "Subjective": "Patient is a 13-year-old male presenting with increasing anger outbursts at home over past three months, primarily directed at mother during conflicts about screen time limits. He reports feeling angry and unfairly treated but acknowledges his reactions are excessive. He denies any thoughts of self-harm or suicidal ideation or aggression toward others. Patient states he yells and sometimes slams doors but has not been physically aggressive. Anger episodes last 15-30 minutes then he calms down and feels guilty. Mother reports patient is respectful at school and with friends but has difficult time regulating emotions at home. Recent changes include starting middle school and mother's new work schedule requiring patient to have more independence. Academic performance good and strong peer relationships. Patient expresses frustration about changes and desire to manage anger better. (Social Worker Linda Foster, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, appears stated age",
+      "Behavior": "Cooperative",
+      "Speech": "Normal rate and volume",
+      "Mood": "Okay",
+      "Affect": "Appropriate, reactive",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good - recognizes reactions are excessive",
+      "Judgment": "Fair to good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with disturbance of conduct, mild.",
+    "Psychosocial_Context": "Lives with mother; anger outbursts at home in context of family transitions and increased independence expectations; no aggression at school; academically and socially successful; good insight and motivated to improve.",
+    "Assessment_and_Plan": [
+      "Anger management difficulties at home in context of developmental and family changes; no aggression or suicidal ideation.",
+      "Protective factors: contained to home environment, good insight, motivated for change, no physical aggression, supportive mother, strong function outside home.",
+      "Individual therapy for anger management and emotion regulation skills.",
+      "Family therapy to address communication and transition to increased independence.",
+      "Reassess and negotiate screen time rules collaboratively.",
+      "Coping strategies for anger including timeout, physical activity, journaling.",
+      "Mother educated on supporting emotion regulation development.",
+      "Expected to improve with skills training and family adjustments.",
+      "Follow-up with outpatient therapist; most symptoms manageable with brief intervention."
+    ],
+    "Author": "Linda Foster, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Lakisha Washington",
+    "Patient_MRN": "004",
+    "Date_of_Birth": "1968-02-17",
+    "Date_of_Service": "2024-04-28",
+    "Identifying_Data_Chief_Complaint": "56-year-old African American female with chronic psychotic disorder presenting with persistent symptoms despite medication adherence.",
+    "Collateral_Contact_Information": "Emergency Contact: Daughter (Keisha Washington) at 555-892-4567",
+    "Subjective": "Ms. Washington arrived accompanied by her daughter who assists with transportation. Patient appears guarded initially but warms up during interview. She confirms taking her paliperidone extended-release 9 mg each morning without fail, using a daily pillbox system her daughter prepares weekly. Despite consistent medication use, she continues to endorse persistent auditory hallucinations consisting of multiple voices commenting on her actions, which she finds distressing and difficult to ignore. These occur several times daily and are worse in the evening hours. She also reports ongoing paranoid beliefs that neighbors are monitoring her apartment through the walls, though acknowledges this could be part of her illness when prompted. Sleep is fragmented, typically 4-5 hours nightly due to hypervigilance. Appetite is poor, resulting in 6-pound weight loss over two months, now at 142 lbs. She rarely leaves her apartment except for appointments and grocery shopping with her daughter. Denies substance use. Mood is described as 'on edge constantly.' She expresses frustration with her limited functional improvement despite medication compliance. Safety assessment: Denies suicidal ideation but mentions feeling hopeless about improvement at times. No homicidal ideation. (Evaluated by Dr. Benjamin Cho, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Older female appearing stated age, minimally groomed, wearing layers of clothing",
+      "Speech": "Low volume, guarded, tangential at times",
+      "Affect": "Constricted, anxious",
+      "Mood": "Fearful and frustrated",
+      "Thought_Content": "Persistent auditory hallucinations, paranoid delusions regarding surveillance",
+      "Thought_Process": "Circumstantial, some loose associations"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 18,
+      "GAD_7": 16,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive ideation of hopelessness, no active intent or plan"
+    },
+    "Current_Medications": "Paliperidone ER 9 mg PO daily",
+    "CURES_Report": "Reviewed; no issues identified.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC shows mild anemia (Hgb 11.2 g/dL); comprehensive metabolic panel otherwise normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder, treatment-resistant with persistent positive symptoms.",
+    "Psychosocial_Context": "Lives alone in subsidized housing; daughter provides regular support; limited social engagement; receives disability benefits.",
+    "Assessment_and_Plan": [
+      "Patient demonstrates excellent medication adherence with pillbox system.",
+      "Despite adherence, symptoms remain significant and functionally impairing.",
+      "Discussed potential medication augmentation; will consider adding clozapine after further discussion.",
+      "Referral for nutrition consultation due to weight loss and poor appetite.",
+      "Encouraged behavioral activation with daughter's support.",
+      "Close monitoring of mood and passive suicidal thoughts.",
+      "Follow-up in 2 weeks for medication review and lab monitoring."
+    ],
+    "RTC": "2 weeks",
+    "Author": "Note written by Dr. Benjamin Cho, MD, Psychiatrist \u2014 University Medical Center Psychiatry, 1500 Maple Boulevard, Philadelphia, PA 19104, Phone: (555) 789-1234, Fax: (555) 789-1235"
+  },
+  "ground_truth": "Adherent"
+}

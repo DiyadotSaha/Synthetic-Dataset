@@ -1,0 +1,55 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Logan Phillips",
+    "Patient_MRN": "184",
+    "Date_of_Birth": "2010-01-29",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by grandmother after revealing plan to overdose on her heart medication following grandfather's death.",
+    "Collateral_Contact_Information": "Grandmother: Mary Phillips, Phone: (555) 883-7722",
+    "Subjective": "Patient is a 15-year-old male living with grandparents presenting after disclosing to grandmother a plan to overdose on her digoxin and warfarin. Grandfather died suddenly from heart attack one week ago. Patient was very close to grandfather and reports wanting to die to be with him. Describes specific plan including which medications and dosages but denies current intent, stating he told grandmother because he got scared. Reports overwhelming grief, guilt about not being there when grandfather died, and feeling responsible for grandmother now. Sleep severely disrupted. Cannot eat. Withdrawn from friends. Lives with grandmother; parents deceased in accident when patient was 7. Grandfather was primary male role model. Currently no medications. Seeing school counselor previously but stopped. No prior mental health concerns. (ED Physician Dr. Richard Moore, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Appears exhausted, tearful",
+      "Behavior": "Cooperative, grieving",
+      "Speech": "Slow, tearful",
+      "Mood": "Devastated",
+      "Affect": "Depressed, tearful, appropriate to loss",
+      "Thought_Process": "Linear, slowed by grief",
+      "Thought_Content": "Active SI with plan but ambivalent intent; complicated grief",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair, sought help by disclosing",
+      "Judgment": "Limited by acute grief"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No prescriptions",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Complicated grief; major depressive episode; suicidal ideation with plan; history of parental loss compounding current grief.",
+    "Psychosocial_Context": "Grandfather died one week ago; very close relationship; parents died when patient was 7; living with elderly grandmother; previous school counseling; social withdrawal.",
+    "Assessment_and_Plan": [
+      "Moderate-to-high risk: active SI with specific plan; disclosed seeking help suggests ambivalence.",
+      "Some protective factors: grandmother care, concern for grandmother's wellbeing.",
+      "Grandmother to secure all medications in locked location.",
+      "Complicated grief compounded by previous parental loss.",
+      "Urgent grief therapy specializing in cumulative loss.",
+      "Consider brief psychiatric admission versus intensive outpatient with close monitoring.",
+      "Address guilt and magical thinking about grandfather's death.",
+      "Support grandmother in her grief while caring for patient.",
+      "Bereavement support group for teens.",
+      "Restart school counseling.",
+      "Close follow-up within 24-48 hours.",
+      "Discharge contingent on medication security and grief treatment engagement."
+    ],
+    "Author": "Dr. Richard Moore, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

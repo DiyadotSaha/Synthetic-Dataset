@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Gabriella Sanchez",
+    "Patient_MRN": "169",
+    "Date_of_Birth": "2011-04-29",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by father for adjustment to parents' recent separation.",
+    "Collateral_Contact_Information": "Father: Carlos Sanchez, Phone: (555) 678-9139",
+    "Subjective": "Patient is a 14-year-old female presenting with sadness and adjustment difficulties since parents separated one month ago. She reports feeling sad that family structure has changed and worrying about parents' wellbeing. She denies any thoughts of self-harm or suicidal ideation. Patient states both parents have reassured her the separation is not her fault and they will both remain involved. She is adjusting to alternating weeks between households and finding it logistically challenging. Sleep somewhat disrupted first week at each house until she settles in. Academic performance maintained and she continues cheerleading. Close friends have been supportive. Father reports patient asks many questions about future and whether parents might reconcile. Patient expresses hope parents will reunite but understanding that may not happen. Both parents committed to co-parenting effectively. (Psychiatrist Dr. Anthony Martin, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears sad",
+      "Behavior": "Cooperative",
+      "Speech": "Clear, soft-spoken",
+      "Mood": "Sad",
+      "Affect": "Congruent, subdued",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood related to parental separation, moderate.",
+    "Psychosocial_Context": "Lives alternating weeks with each parent following recent separation; experiencing normal grief about family changes; both parents involved and supportive; maintains academic and social function; close friendships providing support.",
+    "Assessment_and_Plan": [
+      "Normal adjustment reaction to parental separation; appropriate sadness and adaptation challenges.",
+      "Protective factors: both parents involved and committed to co-parenting, maintains function, supportive friends, engaged in activities, no suicidal ideation.",
+      "Individual therapy to process family changes and develop coping strategies.",
+      "Validation that sadness and adjustment challenges are normal.",
+      "Communication book or app to ease transitions between homes.",
+      "Parents encouraged to maintain consistency and avoid using patient as messenger.",
+      "Allow patient to express hopes while preparing for various outcomes.",
+      "Most children adjust to parental separation within 6-12 months.",
+      "Follow-up in 4 weeks; expect gradual improvement as new routine becomes established."
+    ],
+    "Author": "Dr. Anthony Martin, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

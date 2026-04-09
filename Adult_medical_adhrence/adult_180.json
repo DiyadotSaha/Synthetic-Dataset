@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Rebecca Kim",
+    "Patient_MRN": "180",
+    "Date_of_Birth": "1990-02-18",
+    "Date_of_Service": "2024-10-21",
+    "Identifying_Data_Chief_Complaint": "34-year-old Asian American female with schizoaffective disorder with declining function.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Sun-hee Kim) at 555-883-9908",
+    "Subjective": "Ms. Kim presents appearing withdrawn and tearful. Mother provides collateral reporting patient has been taking lurasidone only when 'feeling really bad,' approximately twice weekly for past month after deciding medication wasn't necessary when stable. Since irregular dosing, marked worsening of depression with inability to get out of bed most days, loss of appetite with 10-lb weight loss, and increased paranoid thoughts that healthcare team discussing her case negatively. Reports hearing whispers about her failures 6-7 times daily. Sleep 3-4 hours with early awakening. Called out from pharmacy technician job entire past week, job in jeopardy. Lives with mother. Stopped all social activities and therapy group. Mood 'hopeless' rated 2/10. Denies substance use. Safety: passive SI with thoughts of overdose but states wouldn't act on it, denies HI. (Documented by Angela Park, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Unkempt, poor hygiene, withdrawn, tearful",
+      "Speech": "Whispered, minimal",
+      "Affect": "Severely depressed, flat",
+      "Mood": "Hopeless",
+      "Thought_Content": "Paranoid ideation, auditory hallucinations, passive SI with method ideation",
+      "Thought_Process": "Severely slowed, impoverished"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 21,
+      "GAD_7": 17,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive suicidal ideation with method consideration but no intent"
+    },
+    "Current_Medications": "Lurasidone 80 mg PO qHS with food",
+    "CURES_Report": "Reviewed; no issues.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "No recent labs.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, with severe exacerbation due to irregular medication use.",
+    "Psychosocial_Context": "Lives with mother; employed but job at risk; severe functional decline; passive SI with method ideation.",
+    "Assessment_and_Plan": [
+      "Severe decompensation after taking medication only twice weekly for past month.",
+      "Passive SI with method ideation very concerning - requires intensive intervention.",
+      "Discussed need for daily medication resumption.",
+      "Mother to supervise daily medication administration.",
+      "Safety plan established - mother to secure all medications, patient contracts for safety.",
+      "Consider PHP if symptoms don't improve rapidly.",
+      "Work excuse provided.",
+      "Daily check-in phone calls scheduled.",
+      "Urgent follow-up in 3 days."
+    ],
+    "RTC": "3 days",
+    "Author": "Note written by Angela Park, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Asian American Mental Health Services, 4600 Pacific Avenue, San Francisco, CA 94115, Phone: (555) 992-7754, Fax: (555) 992-7755"
+  },
+  "ground_truth": "Non-Adherent"
+}

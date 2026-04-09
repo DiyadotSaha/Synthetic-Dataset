@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Stephanie Greene",
+    "Patient_MRN": "174",
+    "Date_of_Birth": "1988-04-25",
+    "Date_of_Service": "2024-10-12",
+    "Identifying_Data_Chief_Complaint": "36-year-old White female with schizoaffective disorder presenting with worsening symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Linda Greene) at 555-334-9921",
+    "Subjective": "Ms. Greene presents appearing anxious and tearful. Mother accompanies and provides collateral. Patient reports she's been taking her olanzapine only about half the time over past 6 weeks, skipping doses 3-4 times weekly because the medication caused 20-pound weight gain that's devastated her self-esteem. Since reducing medication, experiencing significant worsening of symptoms. Reports daily auditory hallucinations of voice criticizing her appearance and telling her she's worthless. Mood severely depressed with crying spells most days and complete loss of interest in previously enjoyed painting. Developed paranoid beliefs that people at gym are mocking her weight. Sleep severely disrupted at 4-5 hours with early awakening. Appetite erratic with guilt after eating. Called out sick from administrative assistant job 6 times last month, supervisor concerned. Lives alone but mother checking daily. Stopped attending art class and seeing friends. Mood 'really low and scared' rated 3/10. Denies substance use. Safety: endorses passive SI without plan, denies HI. (Assessed by Dr. Jennifer Ross, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, poor eye contact, tearful, appears distressed",
+      "Speech": "Soft, slow, frequent crying",
+      "Affect": "Depressed, tearful, constricted",
+      "Mood": "Really low and scared",
+      "Thought_Content": "Daily auditory hallucinations with critical content, paranoid ideation about social judgment, passive SI",
+      "Thought_Process": "Slowed, ruminative, preoccupied with negative themes"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 17,
+      "GAD_7": 15,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive suicidal ideation without plan"
+    },
+    "Current_Medications": "Olanzapine 10 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Recent metabolic panel shows glucose 115 mg/dL, lipids elevated.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, with severe exacerbation due to medication nonadherence related to weight concerns.",
+    "Psychosocial_Context": "Lives alone; employed but attendance declining; socially isolated; significant functional decline; passive SI.",
+    "Assessment_and_Plan": [
+      "Clear exacerbation of mood and psychotic symptoms related to reducing olanzapine due to weight gain.",
+      "Discussed alternative antipsychotics with better metabolic profiles.",
+      "Patient agrees to medication change given symptom severity.",
+      "Will cross-taper to aripiprazole or ziprasidone.",
+      "Referral to nutritionist for weight management support.",
+      "Passive SI requires close monitoring - mother to increase check-ins, crisis numbers provided.",
+      "Work note provided, discussed FMLA if needed.",
+      "Close follow-up in 2 weeks to monitor transition and safety."
+    ],
+    "RTC": "2 weeks",
+    "Author": "Note written by Dr. Jennifer Ross, MD, Psychiatrist \u2014 Women's Behavioral Health Center, 2650 Mental Wellness Drive, Minneapolis, MN 55401, Phone: (555) 773-4487, Fax: (555) 773-4488"
+  },
+  "ground_truth": "Non-Adherent"
+}

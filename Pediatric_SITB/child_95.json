@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Christian Adams",
+    "Patient_MRN": "095",
+    "Date_of_Birth": "2013-06-18",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "12-year-old male brought by mother for reassurance after learning about climate change.",
+    "Collateral_Contact_Information": "Mother: Laura Adams, Phone: (555) 234-5792",
+    "Subjective": "Patient is a 12-year-old male presenting with worries about climate change and environmental destruction after school unit on environmental science. He reports feeling anxious about the future and has been asking repeated questions about whether the world will be okay. He denies any thoughts of self-harm or suicidal ideation. Patient states he wants to help but feels overwhelmed. He has been researching environmental issues extensively online which increases his worry. Sleep and appetite are normal. Mother reports patient has always been sensitive and thoughtful. He continues to participate in environmental club at school and has organized recycling initiative. His concern is age-appropriate awareness elevated to mild anxiety. Remains engaged in all normal activities. (Social Worker Amanda Green, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears stated age",
+      "Behavior": "Cooperative, earnest",
+      "Speech": "Clear, passionate when discussing environment",
+      "Mood": "Worried about the planet",
+      "Affect": "Concerned but appropriate",
+      "Thought_Process": "Linear, somewhat ruminative about environmental issues",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with anxiety, mild.",
+    "Psychosocial_Context": "Lives with both parents and older sister; age-appropriate environmental awareness with mild anxiety; actively engaged in environmental activism; supportive family; otherwise well-adjusted.",
+    "Assessment_and_Plan": [
+      "Age-appropriate environmental concern with mild anxiety; taking constructive action through activism.",
+      "Protective factors: channeling concern into positive action, supportive family, engaged in school activities, no suicidal ideation.",
+      "Reassurance provided regarding healthy concern vs. unhealthy worry.",
+      "Encouraged continued environmental activism as empowering response.",
+      "Guidance on limiting exposure to anxiety-provoking content online.",
+      "Balance advocacy with age-appropriate activities and self-care.",
+      "Mother provided education on supporting child's values while managing anxiety.",
+      "No treatment needed; expect natural improvement with validation and balanced perspective."
+    ],
+    "Author": "Amanda Green, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

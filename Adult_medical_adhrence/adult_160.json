@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Sarah Mitchell",
+    "Patient_MRN": "160",
+    "Date_of_Birth": "1990-01-18",
+    "Date_of_Service": "2024-08-24",
+    "Identifying_Data_Chief_Complaint": "34-year-old White female with schizoaffective disorder presenting via crisis mobile team with acute suicidal crisis.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Barbara Mitchell) at 555-661-7732",
+    "Subjective": "Ms. Mitchell evaluated by mobile crisis team at her apartment after mother called 988 expressing grave concerns following suicidal text messages from patient. Mother present and provides extensive collateral. Patient presents severely depressed, tearful, and disorganized. Mother reports patient completely stopped taking her haloperidol and fluoxetine approximately 10 weeks ago, stating medications were 'making everything worse' and expressing beliefs that pharmaceutical companies were 'poisoning people for profit.' Patient confirms she hasn't taken any psychiatric medications in over two months. Since discontinuation, mother describes catastrophic deterioration. Patient experiencing severe depression with constant suicidal ideation, multiple recent suicide gestures including superficial cutting last week. Currently endorses active plan to overdose on over-the-counter medications, has stockpiled pills, states she wrote goodbye letters to family last night. Also experiencing severe psychotic symptoms - constant auditory hallucinations of multiple voices telling her she's worthless and should kill herself, visual hallucinations of deceased grandmother encouraging her to 'come join her.' Endorses paranoid delusions that doctors and pharmaceutical companies are conspiring to harm patients. Sleep virtually absent - awake 20+ hours daily per mother. Appetite nil, refusing most meals, weight down 28 lbs to 108 lbs, appears severely malnourished. Lost job as dental assistant 7 weeks ago after extended absence. Eviction notice received yesterday after not paying rent for two months. Previously lived independently but mother reports apartment in deplorable condition - no food, utilities shut off, bizarre religious writings covering walls. Patient hasn't showered in weeks, wearing same clothes for days. Completely withdrawn from all friends and social contacts. Mood 'I want to die, there's no point' rated 0/10. Denies substance use, confirmed by mother. Safety: active suicidal plan with high lethality, access to means, frequent recent attempts, command hallucinations reinforcing suicidal thoughts. (Documented by Rachel Cohen, LCSW, Crisis Mobile Team Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Severely malnourished, disheveled, malodorous, appears acutely ill and significantly older than stated age",
+      "Speech": "Slow, monotone, tearful, minimal spontaneous speech",
+      "Affect": "Profoundly depressed, flat, tearful, internally preoccupied",
+      "Mood": "I want to die, there's no point",
+      "Thought_Content": "Active suicidal ideation with detailed plan and means, command auditory hallucinations to self-harm, visual hallucinations, paranoid delusions about medical conspiracy",
+      "Thought_Process": "Severely disorganized, ruminative on death, loose associations, thought blocking"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 27,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Active suicidal ideation with specific plan, intent, and means; recent suicide attempts; command hallucinations"
+    },
+    "Current_Medications": "Haloperidol 10 mg PO BID; Fluoxetine 40 mg PO daily (both discontinued by patient 10 weeks ago)",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "No recent labs; urgent labs ordered showing severe malnutrition, anemia, electrolyte abnormalities, dehydration.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, with severe acute exacerbation and life-threatening suicidal crisis secondary to complete medication discontinuation; severe malnutrition; grave disability.",
+    "Psychosocial_Context": "Recently evicted; recently unemployed; utilities disconnected; severe self-neglect; complete loss of independent functioning; imminent danger to self.",
+    "Assessment_and_Plan": [
+      "Patient in life-threatening crisis after stopping all psychiatric medications 10 weeks ago.",
+      "Active suicide plan with high lethality, recent attempts, command hallucinations, access to means.",
+      "Severe psychotic depression with complete functional collapse.",
+      "Dangerous malnutrition and dehydration requiring medical stabilization.",
+      "Patient meets criteria for involuntary hospitalization - grave disability and imminent danger to self.",
+      "5150 hold initiated by crisis team.",
+      "Patient requires immediate admission to medical psychiatry unit for medical and psychiatric stabilization.",
+      "Will restart antipsychotic and antidepressant medications in controlled setting.",
+      "Nutritional rehabilitation essential.",
+      "One-to-one observation required for safety.",
+      "Social work intensive case management essential for housing, disability benefits, and long-term support post-discharge.",
+      "Mother willing to support but unable to provide adequate supervision given severity.",
+      "May require transition to residential treatment or board and care after stabilization.",
+      "Emergency hospitalization arranged via ambulance transport."
+    ],
+    "RTC": "Post-hospital discharge with intensive case management",
+    "Author": "Note written by Rachel Cohen, LCSW, Crisis Mobile Team Social Worker \u2014 Metropolitan Crisis Response Services, 500 Crisis Center Drive, Denver, CO 80202, Phone: (555) 773-4421, Fax: (555) 773-4422"
+  },
+  "ground_truth": "Non-Adherent"
+}

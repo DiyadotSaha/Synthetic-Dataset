@@ -1,0 +1,53 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Marcus Edwards",
+    "Patient_MRN": "124",
+    "Date_of_Birth": "2009-11-28",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old male brought by police after standoff on bridge with intent to jump following disclosure of sexual orientation to family.",
+    "Collateral_Contact_Information": "Crisis Worker: James Sullivan, Phone: (555) 774-3399",
+    "Subjective": "Patient is a 16-year-old male brought by police after 2-hour standoff on pedestrian bridge where he threatened to jump. He came out as gay to his family yesterday and was met with rejection, religious condemnation, and threats of being kicked out of the home. He went to the bridge this morning with full intent to die, believing he had lost his family and had no future. Police crisis negotiator talked him down. He reports ongoing active suicidal ideation with plan and intent, stating he will try again if returned to his family. He describes years of hiding his identity and hoping family would accept him. No prior attempts but chronic distress about sexual orientation. Currently no medications. Formerly active in church youth group but stopped attending after realizing sexual orientation. Has one supportive friend who is also LGBTQ+. No other support system. (Psychiatrist Dr. Rebecca Morgan, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, tearful",
+      "Behavior": "Withdrawn, hopeless",
+      "Speech": "Minimal, flat",
+      "Mood": "Devastated",
+      "Affect": "Depressed, despairing",
+      "Thought_Process": "Linear",
+      "Thought_Content": "Recent near-attempt; ongoing SI with plan and intent; identity-based trauma",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Limited by acute crisis",
+      "Judgment": "Severely impaired"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "Pending",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, severe; acute suicidal crisis following family rejection of sexual orientation; near-attempt.",
+    "Psychosocial_Context": "Came out as gay yesterday; family rejection and religious condemnation; threat of homelessness; chronic identity distress; one LGBTQ+ friend; no other support; stopped church involvement.",
+    "Assessment_and_Plan": [
+      "Imminent high risk: recent near-lethal attempt; ongoing SI with intent; will reattempt if no intervention.",
+      "Minimal protective factors: one supportive friend.",
+      "5150 hold placed.",
+      "Immediate inpatient psychiatric admission required.",
+      "NOT safe to return to family home given rejection and threats.",
+      "Social work for alternative placement: LGBTQ+ youth shelter, foster care, supportive relative.",
+      "Connect with LGBTQ+ affirming mental health services and Trevor Project.",
+      "Family therapy ONLY if family willing to participate in affirmative work; otherwise prioritize patient safety.",
+      "Longer-term: LGBTQ+ support groups, affirming therapy, identity development support.",
+      "Discharge planning must include safe, affirmative living situation."
+    ],
+    "Author": "Dr. Rebecca Morgan, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

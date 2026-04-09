@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Skylar Bennett",
+    "Patient_MRN": "186",
+    "Date_of_Birth": "2012-03-14",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old brought by teacher after finding self-harm cuts and suicide note in backpack during routine search.",
+    "Collateral_Contact_Information": "Mother: Amanda Bennett, Phone: (555) 774-8866",
+    "Subjective": "Patient is a 13-year-old presenting after teacher found fresh cuts on paper towel and typed suicide note during backpack search for missing assignment. Note detailed plan to hang self in garage. Patient initially denied but then confirmed cuts (on thighs, hidden) and note, stating wrote it 'to get feelings out' but not sure about intent. Reports overwhelming feelings of worthlessness, believing family would be better off without the burden of their mental health struggles. Has been cutting thighs for 3 months. Currently on fluoxetine 20mg for anxiety started 2 months ago. Sees therapist monthly. Academic performance good. Has close friend group. Supportive mother who was unaware of cutting or suicidal thoughts. No prior suicide attempts. (Psychiatrist Dr. Steven Walsh, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Neat, anxious, protective of backpack",
+      "Behavior": "Initially evasive, gradually opens up",
+      "Speech": "Clear, measured",
+      "Mood": "Burdened and confused",
+      "Affect": "Anxious, appropriate",
+      "Thought_Process": "Organized",
+      "Thought_Content": "Active SI with written plan but uncertain intent; NSSI ongoing; feelings of being burden",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Emerging",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Fluoxetine 20mg daily",
+    "CURES_Report": "Fluoxetine on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder; generalized anxiety disorder; suicidal ideation with plan; non-suicidal self-injury.",
+    "Psychosocial_Context": "Hidden cutting for 3 months; suicide note with plan; current medication (2 months); monthly therapy; good academics; close friends; supportive mother unaware.",
+    "Assessment_and_Plan": [
+      "Moderate-to-high risk: documented suicide plan, ongoing NSSI, uncertain intent.",
+      "Some protective factors: friends, mother support, engaged in treatment.",
+      "Mother to secure garage access and hanging means.",
+      "Current medication dose likely insufficient; only 2 months trial.",
+      "Increase therapy frequency from monthly to weekly minimum.",
+      "Remove access to cutting implements.",
+      "Address feelings of being burden; cognitive distortions.",
+      "Mother education on monitoring and recognizing warning signs.",
+      "Consider brief psychiatric admission versus intensive outpatient.",
+      "Close follow-up within 24-48 hours.",
+      "Discharge contingent on means restriction, therapy intensification, possible medication increase."
+    ],
+    "Author": "Dr. Steven Walsh, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

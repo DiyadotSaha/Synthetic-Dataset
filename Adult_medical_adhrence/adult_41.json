@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Elena Morales",
+    "Patient_MRN": "041",
+    "Date_of_Birth": "1988-12-30",
+    "Date_of_Service": "2024-06-14",
+    "Identifying_Data_Chief_Complaint": "35-year-old Hispanic female with schizophrenia here for follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Husband (Carlos Morales) at 555-729-4421",
+    "Subjective": "Ms. Morales presented with husband who confirms she takes her quetiapine 200 mg twice daily reliably, using a medication alarm system. Reports doing reasonably well. Experiences occasional faint whispers late at night about once weekly which she recognizes as symptoms. No other hallucinations or paranoid ideation. Sleep good at 7 hours nightly. Appetite healthy, weight stable at 165 lbs. Continues working part-time as a childcare assistant at church preschool 20 hours weekly which she enjoys. Caring for her two young children ages 4 and 6 with husband's help. Mood 'pretty stable' rated 7/10. Attending mothers' support group monthly. Husband notes she occasionally gets anxious about being a good mother but overall managing well. No substance use. Safety: No SI/HI. (Interview conducted by Dr. Andrew Martinez, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, good grooming, appears well",
+      "Speech": "Clear, normal pace, coherent",
+      "Affect": "Appropriate, warm",
+      "Mood": "Stable",
+      "Thought_Content": "Minimal residual hallucinations with insight",
+      "Thought_Process": "Organized, coherent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 5,
+      "GAD_7": 7,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Quetiapine 200 mg PO BID",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Routine labs normal including glucose and lipids.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable with good functional recovery.",
+    "Psychosocial_Context": "Married with two children; working part-time; engaged in parenting and community activities; strong family support.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence with alarm reminder system.",
+      "Symptoms well-controlled, functioning well in multiple roles.",
+      "Continue quetiapine 200 mg BID.",
+      "Encouraged continued support group participation.",
+      "Routine follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Dr. Andrew Martinez, MD, Psychiatrist \u2014 Family Behavioral Health, 987 Church Street, El Paso, TX 79901, Phone: (555) 667-8834, Fax: (555) 667-8835"
+  },
+  "ground_truth": "Adherent"
+}

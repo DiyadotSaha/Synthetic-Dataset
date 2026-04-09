@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Neha Sharma",
+    "Patient_MRN": "043",
+    "Date_of_Birth": "1994-09-22",
+    "Date_of_Service": "2024-10-12",
+    "Identifying_Data_Chief_Complaint": "30-year-old Asian American female with schizoaffective disorder for medication check.",
+    "Collateral_Contact_Information": "Emergency Contact: Father (Rajesh Sharma) at 555-443-7709",
+    "Subjective": "Patient arrived appearing well-groomed and in positive spirits. Reports excellent adherence to cariprazine 6 mg daily taken each morning, which she finds very effective. States this medication has been 'life-changing' compared to previous treatments. No hallucinations for past three months. No paranoid or delusional thinking currently. Sleep is restorative at 7-8 hours nightly. Appetite good, weight stable at 142 lbs. She graduated from nursing school last month and just started first job as RN at local hospital working night shift. Very excited about career. Mood 'excellent, feeling accomplished' rated 9/10. Lives in apartment with college friend. Socially engaged with book club and yoga classes. Relationship with family has improved significantly. Four years sober from alcohol. Feels optimistic about future. No safety concerns, denies SI/HI. (Evaluated by Dr. Rachel Goldstein, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professionally dressed in scrubs, excellent grooming, bright demeanor",
+      "Speech": "Clear, articulate, enthusiastic",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Excellent",
+      "Thought_Content": "Future-oriented, no psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed, insightful"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 3,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Cariprazine 6 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All routine labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in full remission.",
+    "Psychosocial_Context": "Recently graduated nursing school; employed as RN; living independently; four years sober; strong social supports; excellent functional recovery.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and symptom control.",
+      "Continue cariprazine 6 mg daily given excellent response.",
+      "Congratulated patient on nursing degree and new position.",
+      "Discussed sleep hygiene for night shift work.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Rachel Goldstein, MD, Psychiatrist \u2014 University Behavioral Medicine, 1823 Academic Way, Minneapolis, MN 55455, Phone: (555) 226-8841, Fax: (555) 226-8842"
+  },
+  "ground_truth": "Adherent"
+}

@@ -1,0 +1,53 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Sydney Bell",
+    "Patient_MRN": "154",
+    "Date_of_Birth": "2009-08-14",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old female brought by EMS after intentional overdose on both parents' antidepressants following breakup.",
+    "Collateral_Contact_Information": "Mother: Christine Bell, Phone: (555) 229-7744",
+    "Subjective": "Patient is a 16-year-old female brought via EMS after ingesting approximately 20 tablets each of mother's escitalopram and father's bupropion in suicide attempt two hours ago. Boyfriend of one year broke up with her yesterday. She reports feeling her life was over without him and taking pills with full intent to die. Mother found her vomiting and lethargic. Currently regrets attempt and is frightened. Has history of intense, unstable relationships and fear of abandonment. Currently on no medications herself despite recommendation for therapy which she refused. Academic performance good. Has friends but relationships often turbulent. Parents together and supportive. No prior attempts but history of self-harm by cutting during previous breakup at age 14. (Psychiatrist Dr. Anna Martinez, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Hospital gown, appears ill, tearful",
+      "Behavior": "Emotionally labile, alternating between regret and anger at ex",
+      "Speech": "Pressured when discussing relationship",
+      "Mood": "Devastated and regretful",
+      "Affect": "Labile, intense",
+      "Thought_Process": "Linear but preoccupied with loss",
+      "Thought_Content": "Recent attempt; current regret; relationship preoccupation",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Minimal",
+      "Judgment": "Severely impaired"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None (refused recommended treatment)",
+    "CURES_Report": "No medications",
+    "Laboratory_Data": {
+      "CBC": "WNL",
+      "Urine_Tox": "Positive for bupropion and escitalopram",
+      "ECG": "Normal sinus rhythm",
+      "Comprehensive_Metabolic_Panel": "WNL"
+    },
+    "Diagnostic_Impression": "Suicide attempt by antidepressant overdose; emerging borderline personality disorder features; history of NSSI.",
+    "Psychosocial_Context": "Impulsive attempt after breakup; pattern of intense unstable relationships and abandonment fears; previous self-harm; refused recommended therapy; supportive parents.",
+    "Assessment_and_Plan": [
+      "High risk during crisis; pattern of intense reactions to relationship losses.",
+      "Medical management: supportive care; monitor for serotonin syndrome and seizures (bupropion).",
+      "5150 hold placed.",
+      "Inpatient psychiatric admission required.",
+      "DBT strongly indicated for emotion dysregulation and relationship patterns.",
+      "Address refusal of treatment; motivational interviewing.",
+      "Parents to secure all medications.",
+      "Identity development work separate from romantic relationships.",
+      "Long-term: DBT, possible medication for mood stability."
+    ],
+    "Author": "Dr. Anna Martinez, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

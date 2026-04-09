@@ -1,0 +1,56 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Bailey Wright",
+    "Patient_MRN": "190",
+    "Date_of_Birth": "2012-05-25",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old brought by aunt after expressing wish to 'go to sleep forever' following sibling's suicide six months ago.",
+    "Collateral_Contact_Information": "Aunt: Michelle Wright, Phone: (555) 663-4488",
+    "Subjective": "Patient is a 13-year-old living with aunt since older brother's suicide six months ago (brother was 17). Patient told aunt wishes to 'go to sleep forever' like brother. Endorses passive thoughts of wanting to die to be with brother and end grief but denies plan, method, or intent. Clarifies would never act because saw what brother's death did to family. Reports persistent grief, guilt about not preventing brother's death, and depression since loss. Sleep disrupted with nightmares about finding brother. Appetite poor. Withdrawn from friends. Stopped playing soccer which they did together. Currently seeing grief counselor biweekly. Aunt is also grieving and struggling. Father (their parent) unable to care for patient due to his own mental health crisis post-loss. No prior mental health concerns. Currently no medications. (Social Worker Jordan Lee, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Appears younger than age, sad, wearing brother's hoodie",
+      "Behavior": "Cooperative, tearful, withdrawn",
+      "Speech": "Soft, breaks with emotion",
+      "Mood": "Grieving and guilty",
+      "Affect": "Depressed, tearful, appropriate to loss",
+      "Thought_Process": "Organized, preoccupied with loss",
+      "Thought_Content": "Passive death wishes to reunite with deceased brother; survivor guilt",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No prescriptions",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Complicated grief related to sibling suicide; survivor guilt; passive death wishes without suicidal intent; major depressive disorder.",
+    "Psychosocial_Context": "Brother died by suicide 6 months ago; living with aunt; father unable to parent due to own mental health; biweekly grief counseling; social withdrawal; stopped shared activities.",
+    "Assessment_and_Plan": [
+      "Low-to-moderate risk: passive wishes to reunite with brother; no active SI, plan, or intent; strong awareness of impact on family.",
+      "Protective factors: aunt's care, awareness of suicide's impact on family, grief counseling, good insight.",
+      "Complicated grief with survivor guilt after sibling suicide requires specialized treatment.",
+      "Survivors of suicide loss support group essential.",
+      "Increase grief counseling frequency to weekly.",
+      "Consider antidepressant medication given severity and duration of depression.",
+      "Address survivor guilt and magical thinking about prevention.",
+      "Encourage gradual return to soccer in brother's memory.",
+      "Support aunt in her dual role grieving and caregiving.",
+      "Connect father with mental health services for his grief.",
+      "Safety plan with aunt.",
+      "Follow-up with grief counselor within one week.",
+      "Safe for discharge with intensified grief support."
+    ],
+    "Author": "Jordan Lee, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Phoenix Carter",
+    "Patient_MRN": "001",
+    "Date_of_Birth": "2010-04-07",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old non-binary youth brought by parent for adjustment after coming out at school.",
+    "Collateral_Contact_Information": "Parent: Jordan Carter, Phone: (555) 012-3584",
+    "Subjective": "Patient is a 15-year-old non-binary youth (they/them pronouns) presenting two weeks after coming out publicly at school. They report feeling relieved to be authentic but also experiencing some anxiety about peer reactions. They deny any thoughts of self-harm or suicidal ideation. Patient states most friends have been supportive but they have experienced some negative comments from classmates they were not close to. They feel nervous about using correct bathroom and being misgendered but overall glad they came out. Sleep and appetite normal. Continues to engage in theater and creative writing where they feel most accepted. Parent is fully supportive and has advocated with school for appropriate supports. Patient already seeing gender-affirming therapist who is helping navigate transition. Academically strong and has identified supportive peer group. Some mild anxiety about extended family reactions at upcoming gathering. (Social Worker Angela Russell, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Dressed in gender-neutral clothing, appears comfortable",
+      "Behavior": "Cooperative, engaged",
+      "Speech": "Clear, articulate",
+      "Mood": "Okay, a little nervous",
+      "Affect": "Appropriate, full range",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Excellent",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Gender dysphoria; adjustment concerns related to social transition, mild.",
+    "Psychosocial_Context": "Lives with supportive parent; recently came out publicly at school; experiencing mostly positive reactions with some negativity; engaged with gender-affirming therapist; strong peer support group; academically successful; involved in creative activities.",
+    "Assessment_and_Plan": [
+      "Normal adjustment process following public coming out; mild anxiety about social reactions within expected range.",
+      "Protective factors: supportive parent, engaged with gender-affirming therapist, accepting peer group, creative outlets, academic success, no suicidal ideation.",
+      "Continue with gender-affirming therapy for ongoing support during transition.",
+      "School consultation to ensure appropriate accommodations and address any harassment.",
+      "Connection with LGBTQ+ youth groups if not already involved.",
+      "Prepare for extended family gathering with parent and therapist support.",
+      "Validation that mixed reactions are normal and anxiety about acceptance is expected.",
+      "Monitor for minority stress but expect continued positive adjustment given strong supports.",
+      "Follow-up with gender-affirming therapist; overall trajectory positive."
+    ],
+    "Author": "Angela Russell, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

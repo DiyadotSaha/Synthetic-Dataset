@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Lucas Gray",
+    "Patient_MRN": "123",
+    "Date_of_Birth": "2010-05-30",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by father for grief after best friend moved away.",
+    "Collateral_Contact_Information": "Father: Richard Gray, Phone: (555) 567-8026",
+    "Subjective": "Patient is a 15-year-old male presenting with sadness for two weeks since best friend moved across country. He reports missing his friend significantly and feeling like he lost his main support person. He denies any thoughts of self-harm or suicidal ideation. Patient states they text and video call daily but it is not the same as being together. He feels less motivated to attend social events without his friend. Sleep and appetite normal. Continues to play guitar and attend school regularly. Father reports patient and friend had been close since elementary school and patient is grieving the loss of daily contact. Patient has other friends but describes them as not as close. He is considering visiting friend during summer break which provides some hope. (Social Worker Rachel Hoffman, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, appears sad",
+      "Behavior": "Cooperative, subdued",
+      "Speech": "Clear, quiet",
+      "Mood": "Sad and lonely",
+      "Affect": "Congruent, restricted",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood, mild.",
+    "Psychosocial_Context": "Lives with father; best friend recently moved away; grieving loss of primary friendship; maintains daily virtual contact with friend; has other friends; engaged in music; planning summer visit.",
+    "Assessment_and_Plan": [
+      "Normal grief response to significant friendship loss with geographic separation.",
+      "Protective factors: maintaining virtual connection, other friendships available, engaged in music, planning to visit, supportive father, no suicidal ideation.",
+      "Validation of grief and normalization of sadness provided.",
+      "Encourage maintaining existing friendships and developing deeper connections with other peers.",
+      "Support continuation of virtual relationship while building local connections.",
+      "Brief counseling may help process loss if needed.",
+      "Summer visit to look forward to as positive coping.",
+      "Symptoms expected to improve gradually as adjusts to new friendship configuration.",
+      "Follow-up PRN; most adjustment reactions resolve within 2-3 months."
+    ],
+    "Author": "Rachel Hoffman, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Madison Cooper",
+    "Patient_MRN": "083",
+    "Date_of_Birth": "2011-04-13",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by father for increased irritability since starting new medication.",
+    "Collateral_Contact_Information": "Father: Robert Cooper, Phone: (555) 789-0246",
+    "Subjective": "Patient is a 14-year-old female with history of ADHD presenting with irritability and mood changes since increasing methylphenidate dose two weeks ago per psychiatrist recommendation. She reports feeling more easily frustrated and snapping at family members. She denies any thoughts of self-harm or suicidal ideation. Patient states the higher dose helps her focus better in school but she does not like how irritable she feels. Appetite is decreased and she has trouble falling asleep even taking medication early in morning. Previously was doing well on lower dose but concentration was insufficient for increased academic demands. Father reports academic improvement but notes personality change concerns him. Patient continues to maintain friendships and participates in volleyball. (Nurse Practitioner Karen Zhang, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears stated age",
+      "Behavior": "Cooperative, somewhat restless",
+      "Speech": "Rapid at times",
+      "Mood": "Irritable",
+      "Affect": "Irritable, appropriate range",
+      "Thought_Process": "Linear, slightly pressured",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4, improved attention",
+      "Insight": "Good - recognizes medication effect",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Methylphenidate XR 36mg daily",
+    "CURES_Report": "Methylphenidate on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "ADHD, combined type; medication side effects, mild.",
+    "Psychosocial_Context": "Lives with father and stepmother; ADHD well-managed previously on lower medication dose; recent dose increase for academic demands; side effects of irritability and sleep disruption; maintains social and athletic engagement.",
+    "Assessment_and_Plan": [
+      "ADHD with improved attention on higher stimulant dose but problematic irritability and sleep side effects.",
+      "Protective factors: good insight, supportive family, maintains function, no suicidal ideation.",
+      "Coordination with prescribing psychiatrist for medication adjustment.",
+      "Options: reduce dose to previous level with behavioral supports, split dosing, trial of alternative stimulant, or add evening clonidine for sleep and irritability.",
+      "Sleep hygiene education provided.",
+      "Behavioral strategies for focus to reduce need for maximum medication dose.",
+      "Close follow-up with prescriber within 1 week for medication modification.",
+      "Monitor mood closely; discontinue or adjust if irritability worsens."
+    ],
+    "Author": "Karen Zhang, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}

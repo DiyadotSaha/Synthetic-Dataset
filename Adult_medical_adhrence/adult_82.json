@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Benjamin Foster",
+    "Patient_MRN": "082",
+    "Date_of_Birth": "1997-07-12",
+    "Date_of_Service": "2024-10-23",
+    "Identifying_Data_Chief_Complaint": "27-year-old White male with schizophrenia for medication review.",
+    "Collateral_Contact_Information": "Emergency Contact: Father (Richard Foster) at 555-447-8821",
+    "Subjective": "Patient arrived appearing casual and relaxed. Reports taking aripiprazole 20 mg every morning consistently using alarm system. States doing great. No hallucinations for six months. No paranoid thoughts. Sleep excellent at 8 hours nightly. Appetite healthy, weight stable at 174 lbs. Working full-time as customer service representative at call center, performing well. Mood 'really good' rated 8/10. Lives in shared apartment with two roommates. Enjoys video gaming and attending local gaming tournaments. Attends young adult mental health group biweekly. One year sober from marijuana. Dating someone he met online. Building independence from parents. No safety concerns, denies SI/HI. (Evaluated by Sarah Kim, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, good grooming, relaxed demeanor",
+      "Speech": "Clear, normal pace, coherent",
+      "Affect": "Appropriate, bright",
+      "Mood": "Really good",
+      "Thought_Content": "No psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 3,
+      "GAD_7": 4,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Aripiprazole 20 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, in remission.",
+    "Psychosocial_Context": "Lives with roommates; employed full-time; one year sober; dating; engaged in hobbies and support group.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and symptom control.",
+      "Continue aripiprazole 20 mg daily.",
+      "Commended on employment and independence.",
+      "Routine follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Sarah Kim, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Millennial Mental Health, 2341 Tech Plaza, Austin, TX 78701, Phone: (555) 338-7729, Fax: (555) 338-7730"
+  },
+  "ground_truth": "Adherent"
+}

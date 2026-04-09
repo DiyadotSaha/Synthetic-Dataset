@@ -1,0 +1,55 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Peyton Adams",
+    "Patient_MRN": "174",
+    "Date_of_Birth": "2012-06-30",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old brought by parent after expressing that life is 'not worth living' following diagnosis with juvenile arthritis.",
+    "Collateral_Contact_Information": "Parent: Chris Adams, Phone: (555) 992-8877",
+    "Subjective": "Patient is a 13-year-old recently diagnosed with juvenile arthritis (2 months ago) presenting after telling parent that life is not worth living with constant pain and limitations. Endorses passive thoughts of not wanting to be alive but denies plan, method, or intent. Reports frustration with daily pain, morning stiffness, and inability to participate in activities enjoyed previously (dance, gymnastics). Describes feeling 'broken' and different from peers. Currently on methotrexate and naproxen with some improvement but ongoing symptoms. Sleep disrupted by pain. Appetite normal. Has supportive friends but avoiding social activities due to pain and embarrassment. Close with parent and older sibling. Seeing rheumatologist monthly. No prior mental health concerns. (Pediatric Rheumatologist Dr. Lisa Patel, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Moving stiffly, appears uncomfortable",
+      "Behavior": "Cooperative, frustrated",
+      "Speech": "Clear, discouraged tone",
+      "Mood": "Frustrated and sad",
+      "Affect": "Appropriate, sad",
+      "Thought_Process": "Organized",
+      "Thought_Content": "Passive suicidal ideation without plan or intent; chronic illness adjustment",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Methotrexate weekly, Naproxen 250mg BID",
+    "CURES_Report": "Medications on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Juvenile idiopathic arthritis; adjustment disorder with depressed mood related to chronic illness; passive suicidal ideation.",
+    "Psychosocial_Context": "Recent juvenile arthritis diagnosis (2 months); lost dance and gymnastics; ongoing pain despite treatment; supportive family and friends; rheumatology care established.",
+    "Assessment_and_Plan": [
+      "Low risk: passive SI without plan or intent in context of adjustment to chronic illness diagnosis.",
+      "Protective factors: family support, friends, ongoing medical treatment with some improvement.",
+      "Normal adjustment reaction to life-altering diagnosis.",
+      "Counseling for chronic illness adjustment and identity beyond athletics.",
+      "Connect with juvenile arthritis support groups and Arthritis Foundation.",
+      "Explore adapted activities patient can do (swimming, yoga).",
+      "Work with rheumatology to optimize pain control.",
+      "Address feelings of being 'broken'; reframe as managing condition.",
+      "Encourage maintained friendships even if activities differ.",
+      "Safety plan with parent.",
+      "Follow-up with therapist and rheumatologist within one week.",
+      "Safe for discharge with chronic illness support resources."
+    ],
+    "Author": "Dr. Lisa Patel, MD (Pediatric Rheumatologist)"
+  },
+  "ground_truth": "yes"
+}

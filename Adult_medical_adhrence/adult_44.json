@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Jerome Williams",
+    "Patient_MRN": "044",
+    "Date_of_Birth": "1975-01-12",
+    "Date_of_Service": "2024-07-09",
+    "Identifying_Data_Chief_Complaint": "49-year-old African American male with schizophrenia with persistent symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Cousin (Shanice Williams) at 555-772-9034",
+    "Subjective": "Mr. Williams attended appointment transported by paratransit service. Residential care facility confirms medication adherence - he takes ziprasidone 60 mg twice daily with meals under staff supervision without refusals. Despite consistent medication, continues experiencing bothersome symptoms. Reports daily auditory hallucinations of people criticizing his actions, which he tries to ignore but finds distracting. Endorses vague paranoid ideas that staff members don't like him and conspire against him. Sleep disrupted at 5-6 hours nightly. Appetite fair, weight maintained at 168 lbs. Participates minimally in facility activities, prefers staying in his room. Not working, receives disability benefits. Social contacts limited to facility staff and occasional cousin visits. Mood 'alright I guess' rated 5/10. Denies substance use. Flat throughout interview with minimal spontaneous speech. Safety: Denies SI/HI. (Documented by Marcus Riley, LMSW, Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged male, adequate hygiene, appears withdrawn",
+      "Speech": "Monotone, sparse, responds when asked",
+      "Affect": "Flat, minimal reactivity",
+      "Mood": "Neutral",
+      "Thought_Content": "Auditory hallucinations, mild paranoid ideation",
+      "Thought_Process": "Concrete, impoverished"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 14,
+      "GAD_7": 10,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Ziprasidone 60 mg PO BID with food",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC and CMP within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with residual positive and negative symptoms.",
+    "Psychosocial_Context": "Lives in residential care facility; unemployed, on disability; limited social engagement; cousin provides family contact.",
+    "Assessment_and_Plan": [
+      "Good adherence through facility medication administration.",
+      "Persistent symptoms despite treatment.",
+      "Will increase ziprasidone to 80 mg BID.",
+      "Encouraged activity participation at facility.",
+      "Follow-up in 4 weeks."
+    ],
+    "RTC": "4 weeks",
+    "Author": "Note written by Marcus Riley, LMSW, Social Worker \u2014 Riverside Mental Health, 3421 River Road, Memphis, TN 38103, Phone: (555) 934-2217, Fax: (555) 934-2218"
+  },
+  "ground_truth": "Adherent"
+}

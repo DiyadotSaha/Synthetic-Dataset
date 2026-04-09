@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Michelle Hernandez",
+    "Patient_MRN": "194",
+    "Date_of_Birth": "1989-09-18",
+    "Date_of_Service": "2024-10-15",
+    "Identifying_Data_Chief_Complaint": "35-year-old Hispanic female with schizoaffective disorder in suicidal crisis.",
+    "Collateral_Contact_Information": "Emergency Contact: Husband (Carlos Hernandez) at 555-883-6632",
+    "Subjective": "Ms. Hernandez brought by crisis team after husband found suicide note and pills laid out. Husband reports she stopped aripiprazole completely 9 weeks ago due to restlessness side effect, saying she'd 'rather die than feel that way.' Since then, devastating deterioration. Profound depression with complete inability to care for self or two young children, husband had to take emergency leave from work. Constant auditory hallucinations telling her she's terrible mother and children would be better off without her. Paranoid beliefs that child protective services planning to take children because of her mental illness. Sleep 2-3 hours nightly. Refusing food, down 22 lbs. Hasn't left bed in 3 weeks except to attempt suicide planning today. Lost childcare job 7 weeks ago. Patient tearful, hopeless, states she planned to overdose tonight after husband fell asleep. Mood 'my family deserves better' rated 0/10. Denies substance use. Safety: active SI with detailed plan and means, intended to die tonight, ongoing intent. (Assessed by Dr. Maria Gonzalez, Crisis Mobile Team Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, malnourished, poor hygiene, tearful, appears hopeless",
+      "Speech": "Whispered, tearful, minimal",
+      "Affect": "Profoundly depressed, hopeless",
+      "Mood": "My family deserves better",
+      "Thought_Content": "Active SI with plan and intent, command hallucinations to die, paranoid ideation about CPS",
+      "Thought_Process": "Severely slowed, perseverative on being burden and death"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 27,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Active suicidal ideation with specific plan, means, and intent for tonight"
+    },
+    "Current_Medications": "Aripiprazole 15 mg PO daily (stopped 9 weeks ago)",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "No recent labs available.",
+      "Recent_Imaging_Results": "No imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, with life-threatening suicidal crisis after medication discontinuation; imminent danger.",
+    "Psychosocial_Context": "Married with young children; recently unemployed; unable to care for children; imminent suicide plan.",
+    "Assessment_and_Plan": [
+      "Life-threatening crisis after stopping aripiprazole 9 weeks ago.",
+      "Active SI with plan, means, and intent for tonight - imminent danger.",
+      "Command hallucinations reinforcing suicide.",
+      "Requires immediate involuntary psychiatric hospitalization.",
+      "5150 hold initiated.",
+      "Emergency ambulance transport to inpatient unit.",
+      "Will restart different antipsychotic without akathisia risk.",
+      "One-to-one suicide precautions essential.",
+      "Husband secured all medications at home.",
+      "Children safe with husband, may need additional support.",
+      "Consider ECT given severity and young children at home."
+    ],
+    "RTC": "Post-hospital discharge",
+    "Author": "Note written by Dr. Maria Gonzalez, Crisis Mobile Team Psychiatrist \u2014 County Mobile Crisis Services, 1200 Crisis Response Center, Phoenix, AZ 85001, Phone: (555) 447-8874, Fax: (555) 447-8875"
+  },
+  "ground_truth": "Non-Adherent"
+}

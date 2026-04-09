@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Isabella Torres",
+    "Patient_MRN": "008",
+    "Date_of_Birth": "2011-12-03",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female presents with mother after stating 'maybe everyone would be better off without me' following argument with peers.",
+    "Collateral_Contact_Information": "Mother: Carmen Torres, Phone: (555) 293-7461",
+    "Subjective": "Pt is a 14 y/o female who presents after making a concerning statement to her mother last night. Per mother, patient came home from school visibly upset after an argument with several friends who accused her of spreading rumors, which patient denies doing. Patient reports feeling betrayed and hurt that her friends would believe she would do such a thing. She describes feeling socially isolated at school and wondering if people would be happier if she weren't around, though she denies any genuine desire to harm herself or end her life. She characterizes these thoughts as fleeting and reactive to the immediate stressor. No plan, no intent reported. Pt continues to enjoy playing piano and spending time with her grandmother on weekends. Sleep and appetite have been normal. No hx of previous SI or attempts. Pt is receptive to speaking with a therapist about managing peer conflict and building healthier friendships. (ED Physician Mark Thompson, DO)",
+    "Mental_Status_Examination": {
+      "Appearance": "Appropriately dressed, well-groomed",
+      "Behavior": "Cooperative, calm during interview",
+      "Speech": "Normal rate and volume",
+      "Mood": "Upset",
+      "Affect": "Congruent, reactive",
+      "Thought_Process": "Organized",
+      "Thought_Content": "Passive SI without plan or intent",
+      "Cognition": "Fully oriented",
+      "Insight": "Adequate",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Situational stress reaction with transient passive suicidal ideation.",
+    "Psychosocial_Context": "Lives with mother and two younger siblings; close relationship with maternal grandmother; plays piano; generally strong student.",
+    "Assessment_and_Plan": [
+      "Transient passive SI in context of peer conflict.",
+      "Strong protective factors: supportive family, creative outlets, academic engagement.",
+      "Low acute risk. Safety planning completed.",
+      "Outpatient counseling referral; school counselor notification with consent."
+    ],
+    "Author": "Dr. Mark Thompson, DO (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

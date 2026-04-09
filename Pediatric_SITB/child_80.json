@@ -1,0 +1,55 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Daniel Wright",
+    "Patient_MRN": "080",
+    "Date_of_Birth": "2010-09-12",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by school counselor after expressing intent to end his life following rejection from magnet high school.",
+    "Collateral_Contact_Information": "Father: Robert Wright, Phone: (555) 772-4455",
+    "Subjective": "Patient is a 15-year-old male presenting after receiving rejection letter yesterday from his top-choice magnet high school for performing arts. He told his school counselor this morning that he intends to kill himself because attending this school was his 'only dream' and he sees no future without it. He describes his intent as genuine, stating he truly wants to die rather than face the disappointment and attend his zoned high school which has no strong arts program. However, when asked about method, he states he has not figured out how but reports thinking about it constantly. He is a talented singer and actor who has participated in community theater for five years and planned to pursue professional performing. He believes rejection means he is not talented enough and his dream is impossible. Sleep disrupted since receiving letter. He has stopped attending current theater rehearsals because 'what's the point.' Two close friends from theater who he has been avoiding. Supportive father who has tried to discuss alternative schools and programs. No prior mental health concerns. (Social Worker Rebecca Torres, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Neat, subdued demeanor unlike usual animated personality per counselor",
+      "Behavior": "Cooperative, visibly dejected",
+      "Speech": "Monotone, lacking usual expressiveness",
+      "Mood": "Crushed and hopeless",
+      "Affect": "Depressed, flat",
+      "Thought_Process": "Linear but narrowly focused on rejection",
+      "Thought_Content": "Active SI with intent but no identified method or plan",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Limited, catastrophizing single rejection",
+      "Judgment": "Poor"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive episode; acute adjustment reaction to rejection; suicidal ideation with intent; identity crisis related to career aspirations.",
+    "Psychosocial_Context": "Rejection from performing arts magnet school; talented performer with strong identity connected to arts; community theater involvement; supportive father; close theater friends; withdrawn from rehearsals.",
+    "Assessment_and_Plan": [
+      "Moderate risk: active SI with clear intent but no method identified; withdrawn from protective activities.",
+      "Some protective factors: father support, theater friends and community if re-engaged, demonstrated talent.",
+      "Catastrophic thinking about single rejection; needs perspective on multiple pathways to performing arts.",
+      "Crisis intervention completed; recommend intensive outpatient versus brief observation.",
+      "Urgent counseling to address cognitive distortions and explore alternative pathways.",
+      "Research other performing arts schools, programs, and pathways with counselor and father.",
+      "Encourage return to current theater rehearsals as protective activity.",
+      "Connect with theater director and peers for support and perspective.",
+      "Address all-or-nothing thinking about single opportunity defining entire future.",
+      "Father to provide close monitoring and encouragement of arts engagement.",
+      "Follow-up within 24-48 hours with therapist.",
+      "Discharge contingent on safety plan, father supervision, and rapid outpatient access."
+    ],
+    "Author": "Rebecca Torres, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

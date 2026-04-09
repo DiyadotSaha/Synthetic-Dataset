@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Veronica Santos",
+    "Patient_MRN": "059",
+    "Date_of_Birth": "1990-07-09",
+    "Date_of_Service": "2024-10-21",
+    "Identifying_Data_Chief_Complaint": "34-year-old Hispanic female with schizoaffective disorder for routine visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Husband (Miguel Santos) at 555-443-7821",
+    "Subjective": "Patient arrived punctually appearing vibrant and engaged. Reports perfect adherence to cariprazine 3 mg daily taken each morning, tracked in wellness journal. States she feels amazing, medication working excellently. No hallucinations for six months. No delusional thinking. Sleep great at 8 hours nightly. Appetite good, weight stable at 147 lbs. Working full-time as dental hygienist, loves her job. Mood 'wonderful' rated 9/10. Married for three years, she and husband recently purchased first home. Active in community theater group, currently rehearsing for production. Attends monthly therapy for wellness maintenance. Four years sober from all substances. Enjoys hiking and photography on weekends. Planning to start family soon. Very engaged in mental health advocacy. No safety concerns, denies SI/HI. (Evaluated by Dr. Jonathan Lee, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professionally dressed, excellent grooming, vibrant presentation",
+      "Speech": "Clear, animated, articulate",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Wonderful",
+      "Thought_Content": "Future-oriented, positive, no psychotic features",
+      "Thought_Process": "Organized, goal-directed, insightful"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 0,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Cariprazine 3 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Married, homeowner; employed full-time as dental hygienist; four years sober; active in theater; planning family; excellent recovery.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and sustained remission.",
+      "Continue cariprazine 3 mg daily.",
+      "Discussed preconception counseling given family planning.",
+      "Will coordinate with OB/GYN.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Jonathan Lee, MD, Psychiatrist \u2014 Integrated Wellness Psychiatry, 3421 Health Plaza, San Diego, CA 92103, Phone: (555) 667-2219, Fax: (555) 667-2220"
+  },
+  "ground_truth": "Adherent"
+}

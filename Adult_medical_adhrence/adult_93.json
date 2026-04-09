@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Brittany Collins",
+    "Patient_MRN": "093",
+    "Date_of_Birth": "1994-01-26",
+    "Date_of_Service": "2024-08-29",
+    "Identifying_Data_Chief_Complaint": "30-year-old White female with schizoaffective disorder for medication check.",
+    "Collateral_Contact_Information": "Emergency Contact: Father (Thomas Collins) at 555-334-9921",
+    "Subjective": "Patient presented appearing well-groomed and cheerful. Reports perfect adherence to cariprazine 3 mg daily taken each morning using routine. States feeling wonderful. No hallucinations for five months. No delusional thinking. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 144 lbs. Working full-time as customer service manager at retail store, recently promoted. Mood 'excellent' rated 9/10. Lives in apartment with boyfriend of two years. Enjoys yoga and meditation daily. Attending therapy monthly for wellness. Three years sober from all substances. Engaged in recovery community as sponsor. Planning wedding for next summer. Feels life is fulfilling. No safety concerns, denies SI/HI. (Evaluated by Dr. Christine Anderson, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professionally dressed, excellent grooming, bright affect",
+      "Speech": "Clear, animated, coherent",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Excellent",
+      "Thought_Content": "Future-oriented, positive, no psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Cariprazine 3 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Lives with boyfriend; recently promoted to manager; three years sober; recovery sponsor; planning wedding; excellent recovery.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and sustained remission.",
+      "Continue cariprazine 3 mg daily.",
+      "Congratulated on promotion and engagement.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Christine Anderson, MD, Psychiatrist \u2014 Thrive Mental Wellness, 2341 Success Street, Nashville, TN 37201, Phone: (555) 772-4498, Fax: (555) 772-4499"
+  },
+  "ground_truth": "Adherent"
+}

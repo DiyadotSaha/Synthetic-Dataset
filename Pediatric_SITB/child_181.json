@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Julian Bennett",
+    "Patient_MRN": "181",
+    "Date_of_Birth": "2013-03-08",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "12-year-old male brought by grandmother for worries about climate and world issues.",
+    "Collateral_Contact_Information": "Grandmother: Margaret Bennett, Phone: (555) 123-4685",
+    "Subjective": "Patient is a 12-year-old male presenting with persistent worry about global issues including climate change, poverty, and conflict after social studies unit at school. He reports feeling overwhelmed thinking about problems and questioning what difference he can make. He denies any thoughts of self-harm or suicidal ideation. Patient states he watches news frequently and researches issues online which increases distress. He has organized donation drive at school and volunteers at food bank which provides some sense of purpose. Sleep somewhat disrupted with worry but appetite normal. Continues regular activities including chess club and spending time with friends. Grandmother notes patient has always been empathetic and thoughtful but concern level has increased recently. Patient intellectually understands he cannot solve all problems but emotionally struggles with helplessness. (Psychiatrist Dr. Karen Miller, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears stated age",
+      "Behavior": "Cooperative, earnest",
+      "Speech": "Clear, thoughtful",
+      "Mood": "Worried about the world",
+      "Affect": "Concerned, appropriate",
+      "Thought_Process": "Linear, ruminative about global issues",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Generalized anxiety disorder with focus on global issues, mild.",
+    "Psychosocial_Context": "Lives with grandmother; age-appropriate social awareness elevated to mild anxiety; channeling concern into volunteering; highly empathetic; academically and socially engaged; supportive grandmother.",
+    "Assessment_and_Plan": [
+      "Elevated anxiety focused on global issues in empathetic, socially conscious child; taking constructive action.",
+      "Protective factors: channeling concern into positive action through volunteering, supportive grandmother, maintains function, engaged in activities, no suicidal ideation.",
+      "Brief cognitive behavioral therapy focusing on managing worry and sense of efficacy.",
+      "Limit news and social media exposure to specific times rather than constant consumption.",
+      "Continue volunteer activities as source of empowerment and purpose.",
+      "Balance advocacy and awareness with age-appropriate self-care and enjoyment.",
+      "Mindfulness and grounding techniques for managing worry.",
+      "Grandmother educated on supporting values while managing anxiety.",
+      "Follow-up in 4 weeks; expect improvement with strategies and perspective."
+    ],
+    "Author": "Dr. Karen Miller, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

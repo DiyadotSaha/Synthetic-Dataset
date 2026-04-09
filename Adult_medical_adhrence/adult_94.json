@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Terrell Brown",
+    "Patient_MRN": "094",
+    "Date_of_Birth": "1983-07-23",
+    "Date_of_Service": "2024-09-18",
+    "Identifying_Data_Chief_Complaint": "41-year-old African American male with schizophrenia for follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Girlfriend (Shanice Williams) at 555-883-4409",
+    "Subjective": "Patient arrived appearing casual and cooperative. Reports taking olanzapine 10 mg nightly consistently using evening routine with girlfriend's reminder. States doing okay. Experiences occasional whispers once or twice weekly which he dismisses. No other hallucinations or paranoid thoughts. Sleep good at 7 hours nightly. Appetite healthy, weight stable at 183 lbs. Working part-time as delivery driver, steady job for eight months. Mood 'alright' rated 6/10. Lives with girlfriend who is supportive. Enjoys playing dominoes with friends. Attends NA meetings weekly, one year clean from cocaine. Building stable life. No safety concerns, denies SI/HI. (Seen by Clarence Washington, LCSW, Licensed Clinical Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, good grooming, calm presentation",
+      "Speech": "Clear, normal pace, coherent",
+      "Affect": "Appropriate, somewhat flat",
+      "Mood": "Alright",
+      "Thought_Content": "Minimal residual symptoms with insight",
+      "Thought_Process": "Organized, concrete"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 6,
+      "GAD_7": 7,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Olanzapine 10 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC and CMP within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable.",
+    "Psychosocial_Context": "Lives with girlfriend; working part-time; one year clean; attending NA; building stability.",
+    "Assessment_and_Plan": [
+      "Good medication adherence with girlfriend's support.",
+      "Symptoms well-controlled.",
+      "Continue olanzapine 10 mg qHS.",
+      "Commended on sobriety and employment.",
+      "Routine follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Clarence Washington, LCSW, Licensed Clinical Social Worker \u2014 Brothers Recovery Network, 3421 Unity Boulevard, Detroit, MI 48201, Phone: (555) 661-3487, Fax: (555) 661-3488"
+  },
+  "ground_truth": "Adherent"
+}

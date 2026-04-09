@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Peter Kowalczyk",
+    "Patient_MRN": "078",
+    "Date_of_Birth": "1963-05-09",
+    "Date_of_Service": "2024-04-28",
+    "Identifying_Data_Chief_Complaint": "60-year-old White male with schizophrenia presenting with severe decompensation.",
+    "Collateral_Contact_Information": "Emergency Contact: Nephew (Thomas Kowalczyk) at 555-883-4409",
+    "Subjective": "Mr. Kowalczyk brought to emergency psychiatric evaluation by assisted living facility staff due to acute crisis. Facility nursing documents perfect adherence to haloperidol 15 mg nightly administered by medication nurse for past two years without any refusals. Despite unwavering compliance, patient experiencing catastrophic exacerbation over past ten days. Presents as severely psychotic and agitated, responding continuously to internal stimuli. Staff report he experiences command auditory hallucinations ordering him to harm staff members, leading to three violent assault incidents this week requiring police intervention and emergency sedation. Also maintains grandiose delusion that he is military general with authority to execute traitors. Sleep completely absent for week per nursing observation. Has refused all food and fluids for six days believing meals are poisoned by enemy spies, resulting in severe dehydration and 21-pound weight loss to 128 lbs. Hygiene completely neglected - attacking staff who attempt bathing. Urinating and defecating in room inappropriately. Shouting military commands and obscenities at all hours. Other residents terrified. Staff refuse to provide care without police present. Mood appears manic and hostile. Risk assessment critical: Command hallucinations to harm others, multiple violent assaults, grave disability, life-threatening dehydration and starvation. States he will kill anyone who interferes with his mission. (Emergency evaluation by Dr. Anna Lewandowski, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Elderly male, severely malnourished, disheveled, malodorous, extremely agitated and threatening",
+      "Speech": "Loud, pressured, threatening, military themed content",
+      "Affect": "Hostile, grandiose, volatile",
+      "Mood": "Manic and hostile",
+      "Thought_Content": "Command hallucinations to harm staff, grandiose military delusions, paranoid beliefs about poisoning",
+      "Thought_Process": "Severely disorganized, tangential, delusional"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 25,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Imminent danger to others - command hallucinations, recent violence, ongoing threats"
+    },
+    "Current_Medications": "Haloperidol 15 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Critical labs: BUN 62 mg/dL, Cr 2.6 mg/dL acute renal failure; sodium 153 mEq/L severe hypernatremia; albumin 2.3 g/dL; glucose 69 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with acute severe exacerbation, treatment-refractory, imminent danger to others, grave disability with medical complications.",
+    "Psychosocial_Context": "Resides in assisted living; never married; nephew limited contact; on Medicare; multiple prior hospitalizations; history of violence.",
+    "Assessment_and_Plan": [
+      "Perfect medication adherence via facility nursing but complete treatment failure.",
+      "Imminent danger to others with command hallucinations and recent violence.",
+      "Gravely disabled with life-threatening dehydration and malnutrition.",
+      "5150 hold for involuntary hospitalization with police escort.",
+      "Medical clearance urgently needed for acute renal failure and severe dehydration.",
+      "Requires secure psychiatric unit given violence risk.",
+      "After medical stabilization, psychiatric admission for clozapine trial.",
+      "Facility refuses readmission - long-term locked placement will be needed.",
+      "Coordinating emergency medical transport with police assistance now."
+    ],
+    "RTC": "Post-hospitalization",
+    "Author": "Note written by Dr. Anna Lewandowski, MD, Psychiatrist \u2014 County Crisis Psychiatric Services, 8821 Emergency Way, Milwaukee, WI 53202, Phone: (555) 772-4498, Fax: (555) 772-4499"
+  },
+  "ground_truth": "Adherent"
+}

@@ -1,0 +1,56 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Andre Williams",
+    "Patient_MRN": "048",
+    "Date_of_Birth": "2009-08-27",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old male brought by EMS after intentional overdose on grandfather's pain medication following threat from gang members.",
+    "Collateral_Contact_Information": "Grandmother: Dorothy Williams, Phone: (555) 334-9900",
+    "Subjective": "Patient is a 16-year-old male who presented via EMS after ingesting approximately 15-20 tablets of his grandfather's hydrocodone in a suicide attempt four hours ago. Grandmother found him unconscious in his bedroom with empty pill bottle and note stating he 'would rather die than let them kill him.' Patient was given naloxone by paramedics and regained consciousness en route. Upon interview, patient reports he has been receiving threats from local gang members who want him to join or face retaliation after he refused recruitment three weeks ago. Yesterday, they cornered him after school and told him he had 24 hours to decide or 'they would decide for him.' Overwhelmed by fear and seeing no way out, he decided to end his life on his own terms rather than be killed or forced into gang involvement. He states he fully intended to die and only feels regret now because he has put his grandmother through this trauma. He continues to believe he has no safe options and expresses ongoing passive death wishes. He lives with elderly grandparents in a high-crime neighborhood and walks to school through gang territory. He witnessed his older brother's murder by gang violence three years ago. Currently has PTSD symptoms including nightmares, hypervigilance, and avoidance. Not currently in treatment. No prior suicide attempts. (ED Physician Dr. Marcus Johnson, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Lethargic, hospital gown, IV in place",
+      "Behavior": "Subdued, hypervigilant to sounds outside room",
+      "Speech": "Slow, sedated quality",
+      "Mood": "Terrified and hopeless",
+      "Affect": "Blunted, anxious",
+      "Thought_Process": "Linear but preoccupied with safety concerns",
+      "Thought_Content": "Recent suicide attempt with intent; ongoing passive SI; trauma content; fear-based ideation",
+      "Cognition": "Sedated but oriented x4",
+      "Insight": "Fair, recognizes impact on grandmother",
+      "Judgment": "Severely impaired by trauma and fear"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None prescribed",
+    "CURES_Report": "No prescriptions; overdose on grandfather's medication",
+    "Laboratory_Data": {
+      "CBC": "WNL",
+      "Urine_Tox": "Positive for opiates (consistent with overdose)",
+      "Head_CT": "",
+      "Acetaminophen_level": "Negative",
+      "Comprehensive_Metabolic_Panel": "WNL"
+    },
+    "Diagnostic_Impression": "Suicide attempt by opioid overdose; post-traumatic stress disorder; major depressive disorder; acute safety crisis related to gang threat.",
+    "Psychosocial_Context": "Witnessed brother's murder three years ago; current gang recruitment threats and safety concerns; lives with elderly grandparents in high-crime area; no current mental health treatment; PTSD symptoms; limited resources.",
+    "Assessment_and_Plan": [
+      "High risk: recent suicide attempt with clear intent; ongoing threat to safety driving suicidal ideation.",
+      "Limited protective factors: does not want to cause grandmother pain; otherwise feels trapped with no safe options.",
+      "Medical management: naloxone reversal successful; monitor for re-sedation; no further opioid effects expected.",
+      "Environmental safety crisis requiring multi-system intervention beyond psychiatric care alone.",
+      "5150 hold placed; inpatient psychiatric admission required.",
+      "Urgent social work and law enforcement consultation regarding gang threats and safe housing options.",
+      "Trauma-focused treatment essential; PTSD has been untreated since brother's death.",
+      "Explore alternative school placement or transportation options to avoid gang territory.",
+      "Community violence intervention programs and victim services coordination.",
+      "Grandmother requires support; assess grandfather's pain medication security.",
+      "Discharge planning must address safety from external threats, not just psychiatric stability."
+    ],
+    "Author": "Dr. Marcus Johnson, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

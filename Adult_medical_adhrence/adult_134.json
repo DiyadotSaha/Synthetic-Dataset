@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Keith Anderson",
+    "Patient_MRN": "134",
+    "Date_of_Birth": "1978-02-15",
+    "Date_of_Service": "2024-08-03",
+    "Identifying_Data_Chief_Complaint": "46-year-old White male with schizophrenia presenting with severe treatment-resistant symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Ex-wife (Jennifer Anderson) at 555-338-6655",
+    "Subjective": "Mr. Anderson attended appointment disheveled and appeared severely distressed. Ex-wife present confirms he takes clozapine 450 mg nightly via her supervision during weekly visits, adherence confirmed by recent clozapine blood level. Despite therapeutic clozapine level, continues experiencing severe unremitting symptoms. Reports continuous auditory hallucinations of multiple voices throughout entire day commanding him to harm himself and others. Endorses complex paranoid delusions that FBI monitors him through implanted devices and neighbors are part of surveillance network. Sleep severely disrupted at 2-4 hours nightly due to voices and hypervigilance. Appetite very poor, eating one meal daily, weight down to 142 lbs (lost 18 lbs over four months). Unable to work for past three years, on disability. Lives alone in studio apartment, ex-wife checks on him weekly. No social contacts. Spends days pacing and checking for surveillance equipment. Mood 'terrible and scared' rated 2/10. Denies substance use. Ex-wife very concerned about deterioration. Safety: Endorses frequent passive SI, denies current intent or plan, denies HI despite command hallucinations. (Evaluated by Dr. Steven Harrison, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged male, disheveled, poor hygiene, appears frightened and agitated",
+      "Speech": "Rapid, pressured, disorganized with frequent derailment",
+      "Affect": "Fearful, labile, severely distressed",
+      "Mood": "Terrible and scared",
+      "Thought_Content": "Severe persistent command auditory hallucinations with violent content, complex paranoid delusions about surveillance and persecution",
+      "Thought_Process": "Severely disorganized, tangential, dominated by psychotic themes"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 23,
+      "GAD_7": 20,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Frequent passive suicidal ideation without current intent or plan"
+    },
+    "Current_Medications": "Clozapine 450 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Clozapine level 402 ng/mL (therapeutic); ANC 3800 (acceptable); glucose 124 mg/dL; significant weight loss documented.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Treatment-resistant schizophrenia with severe persistent symptoms despite therapeutic clozapine levels.",
+    "Psychosocial_Context": "Lives alone; unable to work, on disability; isolated with only ex-wife contact; severe functional impairment; safety concerns.",
+    "Assessment_and_Plan": [
+      "Adherence confirmed through supervision and therapeutic drug levels.",
+      "Severe treatment-resistant symptoms despite adequate clozapine trial.",
+      "Command hallucinations and weight loss very concerning.",
+      "Discussed hospitalization for safety and treatment augmentation.",
+      "Patient refuses inpatient admission at this time.",
+      "Will augment with antipsychotic - adding risperidone 2 mg BID.",
+      "Increased monitoring - ex-wife to check in daily.",
+      "Safety planning completed.",
+      "Urgent follow-up in 1 week."
+    ],
+    "RTC": "1 week",
+    "Author": "Note written by Dr. Steven Harrison, MD, Psychiatrist \u2014 Community Mental Health Crisis Services, 5521 Crisis Center Blvd, Seattle, WA 98101, Phone: (555) 447-8836, Fax: (555) 447-8837"
+  },
+  "ground_truth": "Adherent"
+}

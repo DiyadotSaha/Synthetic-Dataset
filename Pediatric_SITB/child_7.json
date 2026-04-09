@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Jordan Williams",
+    "Patient_MRN": "007",
+    "Date_of_Birth": "2013-08-15",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "12-year-old male presents with sleep disturbance and worry about moving to a new school.",
+    "Collateral_Contact_Information": "Father: Marcus Williams, Phone: (555) 678-2340",
+    "Subjective": "Patient is a 12-year-old male brought in by his father due to concerns about increased worry and difficulty sleeping over the past week. Family is relocating next month, and patient will be starting at a new middle school. He expresses nervousness about making new friends and keeping up academically in an unfamiliar environment. Patient denies any suicidal thoughts, self-harm behaviors, or intent to harm himself. Sleep has been disrupted with trouble falling asleep due to racing thoughts, though appetite remains normal. He continues to enjoy video games and playing basketball with neighborhood friends. Father describes patient as generally resilient and notes that similar concerns arose briefly during elementary school transitions but resolved quickly with support. (ED Physician Dr. Michael Torres, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, age-appropriate grooming",
+      "Behavior": "Cooperative, fidgets occasionally",
+      "Speech": "Normal rate and volume",
+      "Mood": "Worried",
+      "Affect": "Appropriate, mildly anxious",
+      "Thought_Process": "Linear, organized",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Intact"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with anxiety, mild.",
+    "Psychosocial_Context": "Lives with both parents and younger sister; enjoys basketball and video games; family relocating for father's employment.",
+    "Assessment_and_Plan": [
+      "Mild adjustment anxiety related to upcoming school transition.",
+      "Protective factors: supportive parents, history of resilience, maintained interests.",
+      "Reassurance and normalization of feelings provided.",
+      "Father given resources for school counseling services at new school."
+    ],
+    "Author": "Dr. Michael Torres, MD (ED Physician)"
+  },
+  "ground_truth": "No"
+}

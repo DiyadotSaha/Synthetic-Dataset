@@ -1,0 +1,53 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Mia Rodriguez",
+    "Patient_MRN": "059",
+    "Date_of_Birth": "2012-01-18",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by grandmother for depressed mood after sexual assault disclosure.",
+    "Collateral_Contact_Information": "Grandmother: Elena Rodriguez, Phone: (555) 678-9124",
+    "Subjective": "Patient is a 13-year-old female presenting one week after disclosing to school counselor that she was sexually assaulted by an older peer two months ago. She reports feeling depressed, guilty, and ashamed since the incident. She has been sleeping excessively, missing some school days, and withdrawing from friends. She denies any thoughts of self-harm or suicidal ideation. Patient states she feels dirty and worries that others will blame her. Criminal investigation is ongoing and she has completed forensic interview. She lives with grandmother who is supportive but patient expresses difficulty talking about the assault. She has stopped attending youth group at church, which she previously enjoyed. Grandmother notes patient was previously outgoing but has become isolated. (Social Worker Jennifer Costa, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, downcast gaze",
+      "Behavior": "Cooperative, withdrawn",
+      "Speech": "Soft-spoken, hesitant",
+      "Mood": "Depressed",
+      "Affect": "Flat, constricted",
+      "Thought_Process": "Linear, slow",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Limited - experiences inappropriate self-blame",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Post-traumatic stress disorder; major depressive disorder, single episode, severe.",
+    "Psychosocial_Context": "Lives with grandmother; recent sexual assault victim; forensic evaluation completed; criminal investigation ongoing; previously engaged in church community; currently socially isolated; supportive grandmother but difficulty communicating about trauma.",
+    "Assessment_and_Plan": [
+      "Severe depression and PTSD following sexual assault; no suicidal ideation present.",
+      "Protective factors: supportive grandmother, engaged with authorities, disclosure made, denies suicidal thoughts despite severity.",
+      "Urgent referral for trauma-focused therapy with therapist experienced in adolescent sexual trauma.",
+      "Consider medication trial for depression given severity - SSRI indicated.",
+      "Coordination with victim advocate services for ongoing support through legal process.",
+      "Grandmother educated on trauma responses and provided strategies for support.",
+      "Safety assessment and planning completed.",
+      "Psychiatry referral for medication evaluation within 1 week.",
+      "Close monitoring given severity; increase therapy frequency initially.",
+      "School counselor to provide additional support and accommodation as needed."
+    ],
+    "Author": "Jennifer Costa, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

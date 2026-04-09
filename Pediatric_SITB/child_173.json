@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Violet Reed",
+    "Patient_MRN": "173",
+    "Date_of_Birth": "2010-11-23",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female brought by mother for body-focused repetitive behavior pulling out eyelashes.",
+    "Collateral_Contact_Information": "Mother: Karen Reed, Phone: (555) 890-1361",
+    "Subjective": "Patient is a 15-year-old female presenting with compulsive pulling of eyelashes for past four months resulting in noticeable gaps. She reports pulling occurs primarily when studying or watching TV, often without conscious awareness until afterward. She denies any thoughts of self-harm or suicidal intent, clarifying the pulling is automatic habit without desire to hurt herself. She denies any thoughts of self-harm or suicidal ideation beyond the pulling behavior. Patient feels embarrassed by appearance and has tried to stop but urges are strong. She reports satisfaction or relief immediately after pulling but then guilt and frustration. Academic performance excellent with 4.0 GPA. Maintains strong friendships and is editor of school newspaper. Mother notes patient has always been somewhat anxious and perfectionistic. Patient wears false eyelashes to hide gaps which causes additional stress. Motivated to stop behavior. (Nurse Practitioner Steven Walsh, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, wearing false eyelashes, noticeable gaps in natural lashes visible",
+      "Behavior": "Cooperative, occasional hand movements near face",
+      "Speech": "Clear, organized",
+      "Mood": "Embarrassed",
+      "Affect": "Anxious, appropriate",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation; pulling urges without self-harm intent",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good - recognizes behavior as problematic",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Trichotillomania (hair-pulling disorder) affecting eyelashes, moderate.",
+    "Psychosocial_Context": "Lives with both parents; compulsive eyelash pulling resulting in cosmetic concern; high-achieving student; perfectionistic tendencies; engaged in school leadership; motivated for treatment.",
+    "Assessment_and_Plan": [
+      "Trichotillomania focused on eyelashes; body-focused repetitive behavior without self-harm intent.",
+      "Protective factors: motivated for treatment, high functioning, supportive family, good insight, no suicidal ideation.",
+      "Cognitive behavioral therapy with habit reversal training as first-line treatment.",
+      "Awareness training to increase consciousness of pulling behavior.",
+      "Competing response training with alternative behaviors when urges occur.",
+      "Consider N-acetylcysteine supplementation as evidence-based adjunct.",
+      "Address underlying anxiety and perfectionism.",
+      "Short-term SSRI trial if behavioral interventions insufficient.",
+      "Follow-up in 3 weeks to assess response to behavioral interventions."
+    ],
+    "Author": "Steven Walsh, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Ruby Campbell",
+    "Patient_MRN": "151",
+    "Date_of_Birth": "2011-08-13",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by mother for social anxiety and peer avoidance.",
+    "Collateral_Contact_Information": "Mother: Sandra Campbell, Phone: (555) 890-1360",
+    "Subjective": "Patient is a 14-year-old female presenting with increasing social anxiety over past year limiting peer interactions. She reports intense fear of embarrassment and being judged negatively by peers. She denies any thoughts of self-harm or suicidal ideation. Patient avoids cafeteria eating alone in library, does not raise hand in class despite knowing answers, and declines social invitations. She reports physical symptoms of anxiety in social situations including blushing, shaking, and nausea. Has few friends primarily through online gaming where she feels more comfortable. Academic performance strong but teachers note lack of class participation. Mother describes patient as very shy since childhood but worsening significantly this year with transition to high school. Patient expresses desire to be more social but fears are overwhelming. Engages in art as solitary activity. (Psychiatrist Dr. Richard Evans, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, avoids eye contact",
+      "Behavior": "Cooperative, anxious, speaks quietly",
+      "Speech": "Soft, hesitant",
+      "Mood": "Anxious",
+      "Affect": "Anxious, congruent",
+      "Thought_Process": "Linear, focused on social fears",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Social anxiety disorder, moderate.",
+    "Psychosocial_Context": "Lives with mother and older brother; significant social anxiety limiting peer interactions and class participation; socially isolated at school; more comfortable in online environments; academically capable; motivated for change.",
+    "Assessment_and_Plan": [
+      "Social anxiety disorder with significant functional impairment and social avoidance.",
+      "Protective factors: motivated for treatment, academically successful, some social connection through gaming, supportive mother, no suicidal ideation.",
+      "Cognitive behavioral therapy with graduated exposure to feared social situations.",
+      "Consider SSRI trial given moderate severity and functional impact.",
+      "Social skills group therapy to provide safe practice environment.",
+      "School consultation for accommodations while building skills.",
+      "Start with small, manageable social goals and gradually increase difficulty.",
+      "Leverage interest in art for social connection opportunities.",
+      "Outpatient psychiatry follow-up in 2 weeks for medication evaluation."
+    ],
+    "Author": "Dr. Richard Evans, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Robert Hernandez",
+    "Patient_MRN": "177",
+    "Date_of_Birth": "1991-05-16",
+    "Date_of_Service": "2024-09-29",
+    "Identifying_Data_Chief_Complaint": "33-year-old Hispanic male with schizophrenia with increased paranoia.",
+    "Collateral_Contact_Information": "Emergency Contact: Wife (Maria Hernandez) at 555-992-8821",
+    "Subjective": "Patient appears guarded and anxious. Wife reports he's been skipping risperidone doses 4-5 times weekly for past month due to sexual side effects affecting their relationship. Since then, marked increase in paranoid thoughts that work supervisors monitoring him through cameras and planning termination. Hearing muffled voices at night. Sleep 4-5 hours. Appetite decreased, weight down 9 lbs. Work performance declining with increased absences. Mood 'stressed and suspicious' rated 4/10. Lives with wife and children. Increasingly isolating. Denies substance use. Denies SI/HI. (Seen by Carlos Rodriguez, LCSW, Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, hypervigilant",
+      "Speech": "Guarded, circumstantial",
+      "Affect": "Anxious, restricted",
+      "Mood": "Stressed and suspicious",
+      "Thought_Content": "Paranoid delusions, auditory hallucinations",
+      "Thought_Process": "Circumstantial, preoccupied"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 12,
+      "GAD_7": 17,
+      "DAST_10": 0,
+      "AUDIT_C": 1,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 4 mg PO BID",
+    "CURES_Report": "Reviewed; no issues.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Prolactin elevated at 45 ng/mL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with moderate exacerbation due to nonadherence related to sexual side effects.",
+    "Psychosocial_Context": "Married with children; employed but performance declining; sexual dysfunction affecting relationship.",
+    "Assessment_and_Plan": [
+      "Symptom worsening related to medication reduction due to sexual side effects.",
+      "Will switch to antipsychotic with lower prolactin elevation.",
+      "Transition to aripiprazole or lurasidone.",
+      "Wife supportive of medication change.",
+      "Follow-up in 2 weeks."
+    ],
+    "RTC": "2 weeks",
+    "Author": "Note written by Carlos Rodriguez, LCSW, Social Worker \u2014 Family Services Mental Health, 1750 Community Way, El Paso, TX 79901, Phone: (555) 334-7765, Fax: (555) 334-7766"
+  },
+  "ground_truth": "Non-Adherent"
+}

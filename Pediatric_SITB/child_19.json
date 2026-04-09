@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Jasmine Washington",
+    "Patient_MRN": "019",
+    "Date_of_Birth": "2010-06-07",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female presents with panic attacks and school refusal related to bullying.",
+    "Collateral_Contact_Information": "Guardian: Grandmother Dorothy Washington, Phone: (555) 927-4563",
+    "Subjective": "Patient is a 15-year-old female brought by her grandmother after experiencing her third panic attack in the past week. She reports that she has been the target of persistent bullying at school over the past four months, primarily related to her weight and appearance. The bullying has escalated to include social media harassment and exclusion from peer groups. She describes panic attacks characterized by shortness of breath, chest tightness, dizziness, and fear of losing control. These episodes have occurred both at school and at home when anticipating school attendance. She has refused to attend school for the past three days. Patient denies any thoughts of self-harm or suicide, stating she wants help managing her anxiety. She reports difficulty sleeping due to worry about returning to school and has experienced decreased appetite. She has been living with her grandmother for the past year following her mother's incarceration. She takes escitalopram 10mg daily which was started two months ago. Grandmother is highly supportive and advocates for patient. (Nurse Practitioner Maria Gonzalez, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Appropriately dressed, appears anxious",
+      "Behavior": "Cooperative, tearful at times",
+      "Speech": "Clear, slightly rapid when discussing stressors",
+      "Mood": "Anxious and scared",
+      "Affect": "Anxious, tearful",
+      "Thought_Process": "Linear with some racing quality",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Intact"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Escitalopram 10mg daily",
+    "CURES_Report": "Escitalopram prescription on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Panic disorder, moderate; adjustment disorder with anxiety related to bullying; rule out PTSD.",
+    "Psychosocial_Context": "Lives with supportive grandmother; mother incarcerated; victim of ongoing school bullying including cyberbullying; currently on SSRI therapy.",
+    "Assessment_and_Plan": [
+      "Panic disorder and school refusal secondary to bullying without suicidality.",
+      "Protective factors: supportive grandmother, motivation for treatment, currently on medication.",
+      "Increase escitalopram to 15mg daily; reassess in two weeks.",
+      "Refer for trauma-focused CBT to address bullying-related anxiety and panic symptoms.",
+      "Coordinate urgent intervention with school administration regarding bullying and safety planning.",
+      "Consider short-term anxiolytic PRN for acute panic episodes; psychiatric follow-up in one week."
+    ],
+    "Author": "Maria Gonzalez, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}

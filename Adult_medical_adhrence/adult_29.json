@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Nicole Anderson",
+    "Patient_MRN": "029",
+    "Date_of_Birth": "1991-05-25",
+    "Date_of_Service": "2024-10-19",
+    "Identifying_Data_Chief_Complaint": "33-year-old White female with schizoaffective disorder for follow-up appointment.",
+    "Collateral_Contact_Information": "Emergency Contact: Partner (Jessica Martinez) at 555-889-2247",
+    "Subjective": "Patient arrived on time appearing well-presented and engaged. Reports she has been very consistent with taking her lurasidone 80 mg every evening with dinner as instructed, which she tracks using a medication app on her phone that sends reminders. States she is doing much better compared to six months ago. Still experiences occasional auditory hallucinations approximately 2-3 times per week - typically a voice calling her name - but these are brief and she can easily dismiss them. No paranoid or delusional thinking currently. Sleep has improved significantly, now getting 7 hours most nights though sometimes has difficulty falling asleep when stressed. Appetite is healthy, weight stable at 155 lbs. She works full-time as a graphic designer from home and recently completed a major project for an important client. Mood is 'generally positive' rated 7/10, with some mild anxiety around work deadlines. She and her partner of five years are doing well and recently got engaged. Attends therapy every other week to work on stress management techniques. Denies alcohol or drug use. Socially connected through online gaming community and local LGBTQ+ support group. No safety concerns, denies SI/HI. (Evaluated by Dr. Christopher Young, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, good hygiene, appears comfortable",
+      "Speech": "Clear, normal rate, articulate",
+      "Affect": "Appropriate, full range",
+      "Mood": "Generally positive",
+      "Thought_Content": "Minimal residual hallucinations with good reality testing, no delusions",
+      "Thought_Process": "Organized, coherent, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 5,
+      "GAD_7": 8,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Lurasidone 80 mg PO daily with food",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Metabolic panel normal; lipid levels within acceptable range.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, stable with mild residual symptoms.",
+    "Psychosocial_Context": "Lives with partner; employed full-time working remotely; engaged in therapy; active social connections; recent engagement.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence using app-based reminder system.",
+      "Significant improvement in symptoms and functioning.",
+      "Continue lurasidone 80 mg daily with food.",
+      "Encouraged continued therapy for anxiety management.",
+      "Discussed sleep hygiene strategies for stress-related insomnia.",
+      "Congratulated patient on engagement and career success.",
+      "Follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Dr. Christopher Young, MD, Psychiatrist \u2014 Downtown Mental Health Associates, 1456 Market Street, San Francisco, CA 94102, Phone: (555) 321-9087, Fax: (555) 321-9088"
+  },
+  "ground_truth": "Adherent"
+}

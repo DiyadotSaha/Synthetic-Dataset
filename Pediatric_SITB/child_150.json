@@ -1,0 +1,53 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Taylor Morgan",
+    "Patient_MRN": "150",
+    "Date_of_Birth": "2010-02-08",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old brought by parent after disclosing plan to overdose on sibling's seizure medication.",
+    "Collateral_Contact_Information": "Parent: Jordan Morgan, Phone: (555) 992-4488",
+    "Subjective": "Patient is a 15-year-old presenting after revealing to parent a plan to overdose on younger sibling's lamotrigine and levetiracetam. Patient describes researching dosages and planning to take pills when sibling goes to sleepaway camp next week. Reports intent to die because they feel they have become too much of a burden with their mental health struggles. However, disclosed plan to parent this morning stating they got scared. Currently on fluoxetine 40mg and quetiapine 50mg for depression and anxiety. Has had two partial hospitalizations in past year. Attends therapy weekly. Academic performance maintained. Has two close friends. Supportive parent. (Psychiatric Nurse Practitioner Daniel Chang, PMHNP)",
+    "Mental_Status_Examination": {
+      "Appearance": "Neat, tearful",
+      "Behavior": "Cooperative, relief at disclosure",
+      "Speech": "Clear, emotional",
+      "Mood": "Overwhelmed but seeking help",
+      "Affect": "Tearful, anxious",
+      "Thought_Process": "Linear",
+      "Thought_Content": "Active SI with plan but disclosed seeking help; ambivalent intent",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Good, sought help",
+      "Judgment": "Improving"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Fluoxetine 40mg, Quetiapine 50mg",
+    "CURES_Report": "Medications on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder; suicidal ideation with plan; history of partial hospitalizations.",
+    "Psychosocial_Context": "Two partial hospitalizations in past year; current medications; weekly therapy; academic performance maintained; close friends; supportive parent.",
+    "Assessment_and_Plan": [
+      "Moderate risk: active SI with researched plan but voluntary disclosure suggests help-seeking.",
+      "Some protective factors: disclosed to parent, engaged in treatment, friends, parent support.",
+      "Parent to secure all medications including sibling's seizure medications.",
+      "Current medication regimen may need optimization; not preventing suicidal ideation.",
+      "Consider third partial hospitalization versus full inpatient admission.",
+      "Increase therapy frequency if possible.",
+      "Safety plan and contract.",
+      "Close monitoring until sibling's camp departure.",
+      "Follow-up within 24-48 hours.",
+      "Discharge contingent on medication security and treatment intensification."
+    ],
+    "Author": "Daniel Chang, PMHNP (Psychiatric Nurse Practitioner)"
+  },
+  "ground_truth": "yes"
+}

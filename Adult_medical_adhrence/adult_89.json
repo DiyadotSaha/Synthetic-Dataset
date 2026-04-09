@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Connor O'Brien",
+    "Patient_MRN": "089",
+    "Date_of_Birth": "1999-03-07",
+    "Date_of_Service": "2024-09-26",
+    "Identifying_Data_Chief_Complaint": "25-year-old White male with schizophrenia for medication review.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Margaret O'Brien) at 555-447-8821",
+    "Subjective": "Patient arrived appearing casual and engaged. Reports excellent adherence to aripiprazole 15 mg every morning using phone app reminder. States doing really well. No hallucinations for four months. No paranoid thoughts. Sleep good at 7-8 hours nightly. Appetite healthy, weight stable at 167 lbs. Working part-time at coffee shop as barista, enjoys customer interaction. Mood 'good' rated 7/10. Lives in shared apartment with roommate. Enjoys skateboarding and photography. Attends young adult support group biweekly. Six months sober from marijuana. Applying to community college for spring semester. Building independence. No safety concerns, denies SI/HI. (Evaluated by Dr. Emily Walsh, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed in skatewear, good grooming, relaxed",
+      "Speech": "Clear, normal pace, coherent",
+      "Affect": "Appropriate, somewhat bright",
+      "Mood": "Good",
+      "Thought_Content": "No psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 4,
+      "GAD_7": 5,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Aripiprazole 15 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable.",
+    "Psychosocial_Context": "Lives with roommate; working part-time; six months sober; applying to college; engaged in hobbies and support group.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and symptom control.",
+      "Continue aripiprazole 15 mg daily.",
+      "Encouraged educational pursuits.",
+      "Commended on sobriety.",
+      "Routine follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Dr. Emily Walsh, MD, Psychiatrist \u2014 Young Adult Transitions, 4521 Campus Drive, Boulder, CO 80302, Phone: (555) 772-4498, Fax: (555) 772-4499"
+  },
+  "ground_truth": "Adherent"
+}

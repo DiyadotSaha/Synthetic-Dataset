@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Brandon Scott",
+    "Patient_MRN": "116",
+    "Date_of_Birth": "1996-02-11",
+    "Date_of_Service": "2024-10-25",
+    "Identifying_Data_Chief_Complaint": "28-year-old White male with schizophrenia for medication check.",
+    "Collateral_Contact_Information": "Emergency Contact: Father (Richard Scott) at 555-883-4409",
+    "Subjective": "Patient arrived appearing casual and engaged. Reports excellent adherence to risperidone 4 mg nightly using phone alarm and routine. States doing great. No hallucinations for four months. No paranoid thoughts. Sleep excellent at 8-9 hours nightly. Appetite good, weight stable at 171 lbs. Working full-time at warehouse logistics company, recently promoted to team lead. Mood 'really good' rated 8/10. Lives independently in apartment. Enjoys fantasy football leagues with coworkers. Attending young adult support group monthly. Six months sober from marijuana. Building confidence in leadership role. Saving for car purchase. No safety concerns, denies SI/HI. (Evaluated by Kenneth Brown, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, good grooming, relaxed demeanor",
+      "Speech": "Clear, normal pace, coherent",
+      "Affect": "Appropriate, somewhat bright",
+      "Mood": "Really good",
+      "Thought_Content": "No psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 3,
+      "GAD_7": 4,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 4 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable.",
+    "Psychosocial_Context": "Living independently; promoted to team lead; six months sober; socially engaged; building financial stability.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and symptom control.",
+      "Continue risperidone 4 mg qHS.",
+      "Congratulated on promotion.",
+      "Commended on sobriety.",
+      "Routine follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Kenneth Brown, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Warehouse Workers Wellness, 2341 Logistics Drive, Indianapolis, IN 46201, Phone: (555) 229-7643, Fax: (555) 229-7644"
+  },
+  "ground_truth": "Adherent"
+}

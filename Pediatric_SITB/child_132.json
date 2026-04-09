@@ -1,0 +1,55 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Jaden Murphy",
+    "Patient_MRN": "132",
+    "Date_of_Birth": "2010-01-25",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by grandmother after revealing detailed plan to overdose on her diabetes medication.",
+    "Collateral_Contact_Information": "Grandmother: Mary Murphy, Phone: (555) 883-2244",
+    "Subjective": "Patient is a 15-year-old male living with grandmother presenting after disclosing he has been researching how to overdose on her insulin and metformin. He describes feeling worthless after father was re-incarcerated last week for parole violation. He reports specific plan including doses and timing but denies current intent, stating he told grandmother because he got scared. He has been the man of the house' helping grandmother and felt abandoned when father returned to prison. Sleep disrupted, appetite poor. Currently not in school due to truancy issues. No close friends. Enjoys working on cars with neighbor. History of trauma and multiple father incarcerations. No medications. No prior suicide attempts. (Social Worker DeAndre Williams, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casual dress, appears older than age",
+      "Behavior": "Guarded initially, gradually opens up",
+      "Speech": "Quiet, measured",
+      "Mood": "Abandoned and worthless",
+      "Affect": "Depressed, constricted",
+      "Thought_Process": "Linear",
+      "Thought_Content": "Active SI with researched plan but denies current intent",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair, sought help by disclosing",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder; suicidal ideation with plan; complex trauma related to parental incarceration; school disengagement.",
+    "Psychosocial_Context": "Father re-incarcerated; lives with grandmother; history of multiple father incarcerations; truant from school; no peer support; neighbor mentor relationship; trauma history.",
+    "Assessment_and_Plan": [
+      "Moderate risk: active SI with researched plan but disclosed to seek help suggesting ambivalence.",
+      "Some protective factors: grandmother, neighbor mentor, disclosed for help.",
+      "Grandmother to secure all medications including her own diabetes supplies.",
+      "Crisis related to repeated abandonment by father through incarceration.",
+      "Urgent mental health treatment for depression and trauma.",
+      "Address school truancy through re-engagement plan and support.",
+      "Therapy for abandonment, trauma, and children of incarcerated parents.",
+      "Support group for youth with incarcerated parents.",
+      "Strengthen relationship with neighbor mentor as positive male role model.",
+      "Consider brief psychiatric evaluation for medication.",
+      "Close follow-up within 24-48 hours.",
+      "Discharge contingent on medication security and treatment engagement."
+    ],
+    "Author": "DeAndre Williams, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

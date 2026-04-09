@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Walter Johnson",
+    "Patient_MRN": "111",
+    "Date_of_Birth": "1958-03-22",
+    "Date_of_Service": "2024-05-15",
+    "Identifying_Data_Chief_Complaint": "66-year-old African American male with schizophrenia presenting with severe treatment-resistant symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Daughter (Keisha Johnson) at 555-883-4409",
+    "Subjective": "Mr. Johnson brought to crisis appointment by daughter who is deeply distressed. Skilled nursing facility documents 100% adherence to clozapine 500 mg nightly for past 22 months with all blood levels therapeutic and ANC adequate. Despite maximum clozapine and perfect compliance, patient remains profoundly impaired. Daughter reports father experiencing continuous auditory hallucinations telling him family members are imposters replaced by robots. Over past month has become increasingly withdrawn and catatonic - barely moving or speaking, staring blankly for hours. Has refused nearly all food for two weeks requiring hand-feeding attempts with minimal success, resulting in 24-pound weight loss to 119 lbs. Sleep pattern completely disrupted. Total loss of self-care - requires full assistance with all ADLs. Staff report occasional unpredictable violence toward caregivers. Daughter devastated watching decline. Risk assessment critical: Severe malnutrition, catatonic features, Capgras delusion, unpredictable aggression. Unable to assess intent given catatonia. (Crisis evaluation by Dr. William Jackson, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Elderly male, severely malnourished, poor hygiene, catatonic posturing, minimal responsiveness",
+      "Speech": "Mutism with rare monosyllabic responses",
+      "Affect": "Severely blunted, disconnected",
+      "Mood": "Unable to assess",
+      "Thought_Content": "History of Capgras delusion, unable to assess currently",
+      "Thought_Process": "Unable to assess given minimal verbal output"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 25,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Unable to assess, high risk given clinical presentation"
+    },
+    "Current_Medications": "Clozapine 500 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Recent clozapine level 618 ng/mL therapeutic; ANC 4.0 K/uL adequate; severe malnutrition with albumin 2.0 g/dL; CMP shows dehydration.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, severe treatment-refractory despite therapeutic clozapine, with catatonic features and life-threatening complications.",
+    "Psychosocial_Context": "Resides in skilled nursing; widowed; daughter involved; on Medicare; complete disability; requires 24-hour care.",
+    "Assessment_and_Plan": [
+      "Perfect adherence to maximum clozapine with therapeutic levels but treatment failure.",
+      "Life-threatening catatonia with severe malnutrition.",
+      "5150 hold for immediate involuntary hospitalization.",
+      "Medical evaluation needed for malnutrition.",
+      "Psychiatric admission for emergency ECT - catatonia responsive to ECT.",
+      "Benzodiazepine challenge for catatonia.",
+      "May require NG tube nutrition.",
+      "Conservatorship evaluation indicated.",
+      "Coordinating emergency transfer now."
+    ],
+    "RTC": "Post-hospitalization",
+    "Author": "Note written by Dr. William Jackson, MD, Psychiatrist \u2014 Geriatric Psychiatric Crisis, 7821 Senior Care Way, Chicago, IL 60620, Phone: (555) 772-4498, Fax: (555) 772-4499"
+  },
+  "ground_truth": "Adherent"
+}

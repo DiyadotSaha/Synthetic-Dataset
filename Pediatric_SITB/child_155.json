@@ -1,0 +1,50 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Jacob Lee",
+    "Patient_MRN": "155",
+    "Date_of_Birth": "2013-04-07",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "12-year-old male brought by mother for refusing to attend school.",
+    "Collateral_Contact_Information": "Mother: Susan Lee, Phone: (555) 789-0124",
+    "Subjective": "Patient is a 12-year-old male brought by mother due to persistent school refusal over the past two weeks. He reports feeling anxious and physically ill each morning before school, with complaints of stomachaches and nausea that resolve by late morning when it becomes clear he will not have to attend. He denies any thoughts of self-harm or suicidal ideation. When questioned about school stressors, patient reluctantly discloses that he fears being called on in class and making mistakes in front of peers. He reports one incident three weeks ago where he gave an incorrect answer and other students laughed. Since then, he has avoided participating and eventually stopped attending. Mother reports patient has always been a perfectionist and fears failure. He continues to complete homework when provided by teacher and engages in online gaming with friends. (Nurse Practitioner Rebecca Santos, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears younger than stated age",
+      "Behavior": "Cooperative but avoidant when discussing school",
+      "Speech": "Quiet, hesitant",
+      "Mood": "Anxious",
+      "Affect": "Anxious, appropriate",
+      "Thought_Process": "Linear, ruminative about school",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Limited",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Social anxiety disorder with school refusal, moderate.",
+    "Psychosocial_Context": "Lives with both parents and younger sister; academically capable student; perfectionistic tendencies; maintains friendships through gaming; no history of bullying.",
+    "Assessment_and_Plan": [
+      "School refusal driven by social anxiety and fear of negative evaluation.",
+      "Protective factors: supportive family, academically engaged at home, maintains peer connections, no suicidal ideation.",
+      "Urgent outpatient therapy referral for CBT with exposure-based approach to school attendance.",
+      "Gradual reintegration plan to be developed with school counselor and parents.",
+      "Consideration for short-term anxiolytic if behavioral interventions insufficient.",
+      "Mother provided psychoeducation on avoiding accommodation of avoidance behaviors.",
+      "Follow-up with outpatient provider within 1 week."
+    ],
+    "Author": "Rebecca Santos, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}

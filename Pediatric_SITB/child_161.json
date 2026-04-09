@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Lily Anderson",
+    "Patient_MRN": "161",
+    "Date_of_Birth": "2011-09-18",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by father for reassurance after brief argument with friend.",
+    "Collateral_Contact_Information": "Father: Thomas Anderson, Phone: (555) 234-5795",
+    "Subjective": "Patient is a 14-year-old female brought by father after disagreement with friend yesterday that has since been resolved. She reports initially feeling upset when friend criticized her outfit choice, but they talked it through today and apologized to each other. She denies any thoughts of self-harm or suicidal ideation. Patient appears surprised father brought her to ED, stating the situation is fine now. Sleep and appetite normal. Looking forward to school dance this weekend where she will see friends. Father acknowledges he may have overreacted due to concern about teen mental health he has been reading about online. Patient demonstrates mature conflict resolution skills and healthy perspective on normal peer disagreements. Engaged in drama club and maintains strong academic performance. (Social Worker Monica Harris, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, relaxed",
+      "Behavior": "Cooperative, slightly amused by situation",
+      "Speech": "Clear, animated",
+      "Mood": "Good",
+      "Affect": "Euthymic, appropriate",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Excellent",
+      "Judgment": "Excellent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "No mental health disorder; normal peer conflict with appropriate resolution, mild.",
+    "Psychosocial_Context": "Lives with father; experienced and independently resolved minor peer conflict; demonstrates excellent social skills; engaged in drama and academics; supportive but anxious father.",
+    "Assessment_and_Plan": [
+      "Normal adolescent peer conflict appropriately resolved; no pathology.",
+      "Protective factors: excellent conflict resolution skills, healthy friendships, engaged in activities, strong functioning, mature perspective.",
+      "Reassurance provided to father that patient handled situation appropriately.",
+      "Praised patient for effective communication and problem-solving with friend.",
+      "Psychoeducation for father regarding normal peer dynamics and when to be concerned.",
+      "Encouraged father to trust patient's social competence and avoid over-involvement.",
+      "Father may benefit from managing his own anxiety about teen mental health.",
+      "No intervention needed; patient demonstrates healthy social-emotional functioning."
+    ],
+    "Author": "Monica Harris, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

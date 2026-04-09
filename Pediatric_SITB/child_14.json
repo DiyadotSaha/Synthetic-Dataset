@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Marcus Jackson",
+    "Patient_MRN": "014",
+    "Date_of_Birth": "2010-01-29",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male presents after writing note detailing intent to jump from parking structure at local mall.",
+    "Collateral_Contact_Information": "Mother: Angela Jackson, Phone: (555) 892-4731",
+    "Subjective": "Patient is a 15-year-old male brought in by his mother after she discovered a note in his backpack describing his intent to jump from the top level of the parking structure at the nearby shopping mall. In the note, he expressed feeling like a burden to his family and believing they would be financially better off without him. During evaluation, patient acknowledges writing the note two days ago during what he describes as an emotional crisis following an argument with his mother about his declining grades. He reports active suicidal thoughts with a clear plan involving the specific location but states he does not currently feel intent to carry out the plan, describing the note-writing as a way to 'get the feelings out.' He has been struggling academically this semester and recently quit the basketball team due to what he describes as 'not caring anymore.' Sleep has been poor with early morning awakening. He is not currently in therapy and denies prior suicide attempts. Mother reports he has become increasingly irritable and withdrawn over past three months. Patient identifies his younger brother as someone he cares about deeply and expresses some ambivalence about dying when discussing impact on family. (ED Physician Dr. James Rodriguez, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, minimal eye contact",
+      "Behavior": "Initially resistant, gradually more cooperative",
+      "Speech": "Monotone, sparse",
+      "Mood": "Depressed",
+      "Affect": "Blunted",
+      "Thought_Process": "Linear",
+      "Thought_Content": "Active SI with specific plan but denies current intent",
+      "Cognition": "Oriented to person, place, time, situation",
+      "Insight": "Limited",
+      "Judgment": "Poor"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "Pending",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive episode with suicidal ideation and plan.",
+    "Psychosocial_Context": "Lives with mother and younger brother; father minimally involved; recently quit basketball team; declining academic performance; no current mental health treatment.",
+    "Assessment_and_Plan": [
+      "Moderate-to-high risk: active SI with documented specific plan, though currently denies intent.",
+      "Limited protective factors: relationship with younger brother, some ambivalence about death.",
+      "Recommend psychiatric evaluation for possible voluntary or involuntary hold.",
+      "Initiate crisis intervention; assess need for inpatient psychiatric admission.",
+      "Coordinate with mother regarding removal of means and close supervision."
+    ],
+    "Author": "Dr. James Rodriguez, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

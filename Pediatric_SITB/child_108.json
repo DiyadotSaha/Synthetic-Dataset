@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Isaiah Washington",
+    "Patient_MRN": "108",
+    "Date_of_Birth": "2012-11-07",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old male brought by aunt after stating he wishes he were dead so he could 'stop being a problem' to everyone.",
+    "Collateral_Contact_Information": "Aunt: Keisha Washington, Phone: (555) 229-4477",
+    "Subjective": "Patient is a 13-year-old male with ADHD presenting after telling his aunt he wishes he were dead because he feels like a problem to everyone. He reports constant trouble at school for impulsivity, frequent arguments with teachers and peers, and recent suspension for pushing another student. He describes feeling like he disappoints everyone and would be better off dead. He endorses passive thoughts of not wanting to be alive but denies any plan, method, or intent to harm himself. He clarifies he would not do anything because his aunt would be sad. Currently on methylphenidate ER 54mg daily but reports it does not help much and he still cannot control his behavior. Sleep normal, appetite good. He enjoys basketball. Lives with aunt after mother's rights were terminated. Sees therapist monthly but finds it unhelpful. (Social Worker Marcus Thompson, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Fidgety, difficulty sitting still, age-appropriate dress",
+      "Behavior": "Impulsive, interrupts, cooperative overall",
+      "Speech": "Rapid, pressured quality",
+      "Mood": "Frustrated and worthless",
+      "Affect": "Labile, shifts quickly",
+      "Thought_Process": "Tangential at times, rapid",
+      "Thought_Content": "Passive suicidal ideation without plan or intent; self-deprecating thoughts",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair, recognizes behavior causes problems",
+      "Judgment": "Fair to good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Methylphenidate ER 54mg daily",
+    "CURES_Report": "Methylphenidate on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "ADHD, inadequately controlled; adjustment disorder with depressed mood; passive suicidal ideation related to functional impairment and low self-esteem.",
+    "Psychosocial_Context": "ADHD with behavioral problems at school; mother's rights terminated; living with aunt; current medication insufficient; monthly therapy not effective; enjoys basketball.",
+    "Assessment_and_Plan": [
+      "Low risk: passive SI without plan or intent in context of ADHD-related functional impairment and damaged self-esteem.",
+      "Protective factors: aunt's care and patient's concern for her feelings, basketball interest.",
+      "Current ADHD treatment inadequate; medication optimization needed urgently.",
+      "Psychiatric evaluation for medication adjustment; consider different stimulant or adjunct treatment.",
+      "Increase therapy frequency to weekly; consider behavioral interventions for ADHD.",
+      "School collaboration for behavioral plan and possible IEP/504 accommodations.",
+      "Address low self-esteem through therapy focused on ADHD strengths and coping.",
+      "Encourage basketball as outlet and confidence-building activity.",
+      "Safety plan with aunt.",
+      "Follow-up with psychiatrist within one week for medication management.",
+      "Safe for discharge with treatment intensification plan."
+    ],
+    "Author": "Marcus Thompson, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

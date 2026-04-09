@@ -1,0 +1,50 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Tasha Williams",
+    "Patient_MRN": "188",
+    "Date_of_Birth": "1990-05-12",
+    "Date_of_Service": "2024-10-14",
+    "Identifying_Data_Chief_Complaint": "34-year-old African American female with schizoaffective disorder presenting in crisis.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Gloria Williams) at 555-334-8821",
+    "Subjective": "Ms. Williams brought to emergency evaluation by crisis team after neighbors called 911 hearing her screaming and breaking objects. Mother provides collateral reporting patient completely stopped olanzapine 2 months ago stating medications were 'government mind control.' Since then, catastrophic deterioration. Reports constant auditory and visual hallucinations - hearing voices commanding her to harm herself, seeing demons in apartment. Endorses elaborate delusions about CIA tracking her through implanted chips. Hasn't slept more than 2 hours nightly in weeks per mother. Refusing most food believing it's poisoned, weight down 32 lbs to 108 lbs, severely malnourished appearance. Lost job 6 weeks ago after not showing up. Eviction notice received yesterday. Apartment in deplorable condition - no utilities, bizarre writings on walls, trash everywhere. No self-care for weeks. Mood 'they're coming for me' rated 0/10. Mother cannot manage at home. Safety: active SI with plan to jump from balcony to 'escape demons,' command hallucinations to self-harm, denies HI. (Evaluated by Dr. Angela Thompson, ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Severely malnourished, malodorous, disheveled, appears acutely psychotic and terrified",
+      "Speech": "Disorganized, loud at times, responding to internal stimuli",
+      "Affect": "Labile, terrified, internally preoccupied",
+      "Mood": "They're coming for me",
+      "Thought_Content": "Severe paranoid delusions, command auditory hallucinations to self-harm, active SI with plan, visual hallucinations",
+      "Thought_Process": "Severely disorganized, loose associations, illogical"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 25,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Active suicidal ideation with plan and intent; command hallucinations"
+    },
+    "Current_Medications": "Olanzapine 15 mg PO qHS (stopped 2 months ago by patient)",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Severe malnutrition markers; albumin 2.4 g/dL; electrolyte abnormalities; glucose 78 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder with severe psychotic and suicidal crisis secondary to complete medication discontinuation; grave disability; danger to self.",
+    "Psychosocial_Context": "Recently evicted; recently unemployed; no utilities; severe self-neglect; complete functional collapse.",
+    "Assessment_and_Plan": [
+      "Life-threatening crisis after stopping olanzapine 2 months ago.",
+      "Active SI with plan, command hallucinations, severe malnutrition.",
+      "Meets criteria for involuntary hospitalization - danger to self and grave disability.",
+      "5150 hold initiated.",
+      "Requires immediate inpatient admission to medical psychiatry unit.",
+      "Will restart olanzapine with close monitoring.",
+      "Medical stabilization for malnutrition essential.",
+      "Social work for housing, disability benefits post-discharge.",
+      "May require board and care placement after stabilization.",
+      "Emergency hospitalization arranged."
+    ],
+    "RTC": "Post-hospital discharge",
+    "Author": "Note written by Dr. Angela Thompson, ED Physician \u2014 County Emergency Department, 1000 Emergency Plaza, Los Angeles, CA 90015, Phone: (555) 992-4487, Fax: (555) 992-4488"
+  },
+  "ground_truth": "Non-Adherent"
+}

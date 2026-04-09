@@ -1,0 +1,53 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Caleb Johnson",
+    "Patient_MRN": "004",
+    "Date_of_Birth": "2009-10-14",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old male brought by EMS after impulsive suicide attempt by cutting wrists following alcohol intoxication.",
+    "Collateral_Contact_Information": "Father: Robert Johnson, Phone: (555) 890-5432",
+    "Subjective": "Patient is a 16-year-old male who arrived via ambulance with bilateral wrist lacerations after a suicide attempt approximately two hours ago. Per EMS report and patient interview, he was at home alone after an argument with his father about recent expulsion from school for fighting. He consumed approximately 8-10 beers from the family refrigerator, became increasingly despondent, and impulsively cut both wrists with a kitchen knife intending to end his life. He reports he wanted to die in that moment and believed bleeding out was the solution to all his problems. His father returned home earlier than expected and found him bleeding in the bathroom, immediately calling 911. Patient now states he regrets the attempt and is 'glad to be alive' but acknowledges ongoing thoughts that life is not worth living. He has history of oppositional defiant disorder, multiple school suspensions, and cannabis use. Started on risperidone one month ago for aggression. History of one prior overdose attempt at age 14. Father describes increasingly defiant and impulsive behavior over past year. Patient denies close relationships with peers and describes contentious relationship with father. (Psychiatrist Dr. Monica Singh, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Both wrists bandaged, smells of alcohol, disheveled",
+      "Behavior": "Subdued, more cooperative as alcohol wears off",
+      "Speech": "Initially slurred, improving, low volume",
+      "Mood": "Regretful and confused",
+      "Affect": "Constricted, depressed",
+      "Thought_Process": "Linear now, was impulsive during attempt",
+      "Thought_Content": "Recent suicide attempt with intent; current ambivalent SI",
+      "Cognition": "Alert, oriented x4, mild alcohol intoxication resolving",
+      "Insight": "Minimal regarding underlying issues",
+      "Judgment": "Severely impaired"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Risperidone 2mg BID",
+    "CURES_Report": "Risperidone on file",
+    "Laboratory_Data": {
+      "CBC": "WNL, mild anemia from blood loss",
+      "Urine_Tox": "Positive for THC and alcohol",
+      "Head_CT": "",
+      "BAC": "0.12%"
+    },
+    "Diagnostic_Impression": "Suicide attempt by wrist cutting in context of acute alcohol intoxication; major depressive disorder; oppositional defiant disorder; alcohol and cannabis use disorder.",
+    "Psychosocial_Context": "Recently expelled from school for fighting; strained paternal relationship; history of behavioral problems and prior suicide attempt; substance use; currently on antipsychotic for aggression; limited social support.",
+    "Assessment_and_Plan": [
+      "High risk: recent suicide attempt with clear intent in context of disinhibition from alcohol; impulsive behavior pattern.",
+      "Minimal protective factors: post-attempt regret present but questionable stability; poor impulse control.",
+      "Lacerations required 8 sutures right wrist, 6 sutures left wrist; no tendon damage; wound care instructions provided.",
+      "Substance use significantly contributing to risk; requires assessment and treatment.",
+      "5150 hold placed.",
+      "Inpatient psychiatric admission to adolescent dual diagnosis unit.",
+      "Medication regimen requires reevaluation; antipsychotic alone insufficient.",
+      "Family therapy critical; address father-son conflict patterns.",
+      "Substance abuse treatment integration essential to discharge planning."
+    ],
+    "Author": "Dr. Monica Singh, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

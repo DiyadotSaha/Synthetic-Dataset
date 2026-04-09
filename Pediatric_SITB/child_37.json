@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Brianna Scott",
+    "Patient_MRN": "037",
+    "Date_of_Birth": "2013-07-05",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "12-year-old female brought by grandmother for trauma disclosure and nightmares.",
+    "Collateral_Contact_Information": "Grandmother: Patricia Scott, Phone: (555) 678-9023",
+    "Subjective": "Patient is a 12-year-old female presenting after disclosing to school counselor yesterday that she witnessed domestic violence between her parents prior to being placed with grandmother six months ago. She reports having nightmares about the incidents 3-4 times per week and avoiding discussions about her parents. She denies any thoughts of self-harm or suicidal ideation. Patient states she feels safe with grandmother but gets scared when she hears loud noises or arguments. She has been attending individual therapy weekly since placement but had not previously disclosed the extent of violence witnessed. School performance is adequate but she appears easily startled per teacher reports. She enjoys spending time with her grandmother's dog and has made one friend at her new school. (ED Physician Dr. Victoria Hayes, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears stated age",
+      "Behavior": "Cooperative, somewhat guarded",
+      "Speech": "Soft-spoken, hesitant when discussing trauma",
+      "Mood": "Scared at times",
+      "Affect": "Constricted, anxious",
+      "Thought_Process": "Linear, avoidant of certain topics",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair for age",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Post-traumatic stress disorder, moderate.",
+    "Psychosocial_Context": "Removed from parental home due to domestic violence exposure; currently in kinship care with grandmother; adjusting to new school; engaged in weekly therapy; forming peer connections; strong bond with grandmother.",
+    "Assessment_and_Plan": [
+      "PTSD symptoms following domestic violence exposure; recent disclosure to trusted adult.",
+      "Protective factors: safe placement with grandmother, engaged in therapy, forming peer relationships, denies suicidal ideation.",
+      "Coordination with existing therapist to implement trauma-focused treatment modality (TF-CBT).",
+      "Assessment for possible medication to address nightmares if behavioral interventions insufficient.",
+      "Grandmother educated on trauma responses and provided strategies for supporting patient.",
+      "School consultation recommended for accommodation planning if needed.",
+      "Close outpatient follow-up; therapist contacted and informed of disclosure.",
+      "Consideration for psychiatric evaluation if symptoms persist despite therapy."
+    ],
+    "Author": "Dr. Victoria Hayes, MD (ED Physician)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Jordan Mitchell",
+    "Patient_MRN": "107",
+    "Date_of_Birth": "1995-09-19",
+    "Date_of_Service": "2024-10-03",
+    "Identifying_Data_Chief_Complaint": "29-year-old White male with schizophrenia for medication check.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Susan Mitchell) at 555-229-7643",
+    "Subjective": "Patient arrived appearing well-groomed and positive. Reports excellent adherence to aripiprazole 15 mg every morning using daily routine and calendar tracking. States feeling really well. No hallucinations for four months. No paranoid ideation. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 168 lbs. Working full-time as graphic designer, recently landed major client. Mood 'excellent' rated 9/10. Lives independently in loft apartment. Enjoys photography and exhibits work locally. Attending creative professionals support group monthly. One year sober from all substances. Dating and building social network. Pursuing freelance opportunities. Feels creatively fulfilled. No safety concerns, denies SI/HI. (Evaluated by Dr. Laura Bennett, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Creatively dressed, excellent grooming, bright affect",
+      "Speech": "Clear, animated, articulate",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Excellent",
+      "Thought_Content": "Future-oriented, creative, no psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 2,
+      "GAD_7": 3,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Aripiprazole 15 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, in remission.",
+    "Psychosocial_Context": "Living independently; employed as graphic designer; one year sober; exhibiting artwork; active in creative community.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and symptom control.",
+      "Continue aripiprazole 15 mg daily.",
+      "Congratulated on career success and artistic pursuits.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Laura Bennett, MD, Psychiatrist \u2014 Creative Professionals Mental Health, 4521 Art District, Portland, OR 97214, Phone: (555) 447-8821, Fax: (555) 447-8822"
+  },
+  "ground_truth": "Adherent"
+}

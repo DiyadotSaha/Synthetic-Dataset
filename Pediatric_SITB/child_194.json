@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Jamie Sullivan",
+    "Patient_MRN": "194",
+    "Date_of_Birth": "2010-04-17",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old brought by mother after disclosing plan to jump from bridge during family vacation next week.",
+    "Collateral_Contact_Information": "Mother: Carol Sullivan, Phone: (555) 229-7733",
+    "Subjective": "Patient is a 15-year-old presenting after disclosing to mother a plan to jump from specific bridge they will cross during family road trip next week. Patient describes detailed planning including waiting for moment alone at scenic overlook. Reports intent to die to escape depression that has not improved despite year of treatment. However, disclosed plan to mother this morning stating needed help and did not want to ruin family vacation. Currently on venlafaxine 150mg and lamotrigine 100mg. Seeing therapist weekly for past year. Has had two medication trials previously. Academic performance maintained but requires significant effort. Has two close friends. Supportive mother and father. History of three brief psychiatric admissions over past 18 months. Feels treatment is not working and hopeless about improvement. No recent suicide attempts. (Psychiatrist Dr. Michael Torres, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Neat, appears exhausted",
+      "Behavior": "Cooperative, some relief at disclosure",
+      "Speech": "Clear, slow",
+      "Mood": "Hopeless about treatment",
+      "Affect": "Depressed, blunted",
+      "Thought_Process": "Linear, slowed",
+      "Thought_Content": "Active SI with specific plan and intent but disclosed seeking help",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair to good, sought help",
+      "Judgment": "Improving, disclosed plan"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Venlafaxine 150mg, Lamotrigine 100mg",
+    "CURES_Report": "Medications on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, treatment-resistant; suicidal ideation with plan and intent; history of multiple psychiatric admissions.",
+    "Psychosocial_Context": "Year of treatment with minimal improvement; three previous psychiatric admissions; multiple medication trials; weekly therapy; supportive family; academic performance maintained; close friends.",
+    "Assessment_and_Plan": [
+      "High risk: active SI with specific plan and intent; disclosed seeking help indicates ambivalence and opportunity for intervention.",
+      "Some protective factors: disclosed to mother, engaged in treatment, supportive family, friends.",
+      "Cancel family vacation immediately; travel not safe.",
+      "Treatment-resistant depression requires novel approaches.",
+      "Consider TMS, ketamine, ECT consultation, or clinical trial.",
+      "Current medications may need complete overhaul.",
+      "Recommend fourth inpatient admission for intensive treatment and medication optimization.",
+      "Family therapy to support patient and address treatment frustration.",
+      "Explore residential treatment if repeated brief admissions ineffective.",
+      "5150 hold; not safe for discharge without major intervention.",
+      "Long-term: aggressive pursuit of treatment options for resistant depression."
+    ],
+    "Author": "Dr. Michael Torres, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Terrence Jackson",
+    "Patient_MRN": "024",
+    "Date_of_Birth": "1982-07-19",
+    "Date_of_Service": "2024-02-28",
+    "Identifying_Data_Chief_Complaint": "42-year-old African American male with schizoaffective disorder presenting with increased mood instability.",
+    "Collateral_Contact_Information": "Emergency Contact: Friend (Marcus Williams) at 555-889-2341",
+    "Subjective": "Mr. Jackson presents appearing somewhat agitated and reports he's been 'going through it' recently. When discussing medications, he becomes defensive and explains that he stopped filling his ziprasidone prescription about 5 weeks ago because he couldn't afford the copay after his insurance changed and now it costs $85 per month instead of $10. He tried to stretch his last bottle by taking it every other day, but it ran out completely 2 weeks ago. Since stopping the medication, he reports his mood has been 'all over the place' with several days of feeling extremely energized and productive, working on multiple art projects simultaneously, followed by crashes where he feels hopeless and exhausted. He's noticed his thoughts racing more, especially at night, making sleep difficult - averaging only 3-4 hours. Also describes increased suspiciousness, believing his landlord has been entering his apartment while he's out, though he has no concrete evidence. Appetite variable with mood fluctuations, weight down 7 pounds to 168 lbs. He acknowledges hearing critical voices occasionally, usually telling him he's worthless, which worsens during depressive periods. Recently got into an argument with a neighbor that nearly escalated physically. Denies current substance use but admits to drinking alcohol 'a couple times' to help calm down. Safety assessment: Denies specific suicidal plan but states 'sometimes I think everyone would be better off without me.' (Evaluated by Keisha Brown, LICSW, Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed male, somewhat disheveled, appears agitated",
+      "Speech": "Pressured at times, increased volume when discussing frustrations",
+      "Affect": "Labile, irritable",
+      "Mood": "Angry and unstable",
+      "Thought_Content": "Paranoid ideation about landlord, critical auditory hallucinations, passive SI",
+      "Thought_Process": "Tangential, racing thoughts evident"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 17,
+      "GAD_7": 14,
+      "DAST_10": 0,
+      "AUDIT_C": 4,
+      "C_SSRS": "Passive suicidal ideation without specific plan"
+    },
+    "Current_Medications": "Ziprasidone 80 mg PO BID (not currently taking)",
+    "CURES_Report": "Reviewed; no recent fills noted consistent with patient report.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "No recent labs available.",
+      "Recent_Imaging_Results": "No imaging performed."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, bipolar type, acute exacerbation secondary to complete medication discontinuation due to cost.",
+    "Psychosocial_Context": "Lives alone in apartment; unemployed artist; limited income; insurance coverage changed creating financial barrier; friend provides minimal support.",
+    "Assessment_and_Plan": [
+      "Significant mood and psychotic symptom worsening following 5-week period of medication nonadherence due to cost.",
+      "Safety concerns given labile mood, paranoia, aggression toward neighbor, and passive SI.",
+      "Contacted patient assistance program; approved for free medication for 12 months.",
+      "Prescribed samples of ziprasidone to bridge gap until assistance program delivers.",
+      "Discussed alternative lower-cost medication options as backup plan.",
+      "Referred to financial counselor for insurance navigation.",
+      "Close monitoring of suicidal ideation and aggressive behavior.",
+      "Advised to limit alcohol use which may worsen symptoms.",
+      "Follow-up in 1 week to ensure medication access and assess symptom response."
+    ],
+    "RTC": "1 week",
+    "Author": "Note written by Keisha Brown, LICSW, Social Worker \u2014 Downtown Mental Health Services, 550 Washington Avenue, Chicago, IL 60601, Phone: (555) 445-7789, Fax: (555) 445-7790"
+  },
+  "ground_truth": "Non-Adherent"
+}

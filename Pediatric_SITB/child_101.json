@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Kayla Henderson",
+    "Patient_MRN": "101",
+    "Date_of_Birth": "2011-05-19",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by mother for hitting self in head without suicidal intent during frustration.",
+    "Collateral_Contact_Information": "Mother: Sharon Henderson, Phone: (555) 567-8025",
+    "Subjective": "Patient is a 14-year-old female with autism spectrum disorder presenting after hitting herself in head with fists during frustration episode yesterday. She reports feeling overwhelmed when unable to complete math homework and hit herself to release frustration. She explicitly denies any suicidal intent and clarifies the behavior is for emotion regulation without wanting to harm herself seriously. She denies any thoughts of self-harm or suicidal ideation. Mother reports patient has engaged in this behavior during overwhelm situations since childhood but frequency has increased with academic demands. Patient is verbal and attends mainstream classes with support. She has difficulty identifying emotions and communicating distress verbally. Currently seeing therapist weekly. Enjoys art and has close relationship with younger sibling. No aggression toward others. (ED Physician Dr. Lisa Thompson, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, minor bruising on forehead",
+      "Behavior": "Cooperative, concrete communication style",
+      "Speech": "Clear, slightly monotone",
+      "Mood": "Frustrated",
+      "Affect": "Flat, limited range",
+      "Thought_Process": "Concrete, linear",
+      "Thought_Content": "No suicidal or homicidal ideation; self-hitting for regulation without self-harm intent",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Limited - difficulty identifying emotions",
+      "Judgment": "Impaired regarding coping strategies"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Autism spectrum disorder; stereotypic self-injury for emotion regulation, moderate.",
+    "Psychosocial_Context": "Diagnosed with autism spectrum disorder; engages in self-hitting during overwhelm without suicidal intent; academic challenges increasing; engaged in therapy; supportive family; enjoys art activities.",
+    "Assessment_and_Plan": [
+      "Self-injurious behavior as maladaptive emotion regulation in context of autism; not suicidal behavior.",
+      "Protective factors: engaged in therapy, supportive family, alternative outlets through art, no suicidal intent.",
+      "Increase therapy frequency focusing on emotion identification and alternative coping strategies.",
+      "Behavior intervention plan development with use of visual supports for emotion regulation.",
+      "School consultation for academic accommodations to reduce overwhelm triggers.",
+      "Teach replacement behaviors including use of sensory tools and safe physical outlets.",
+      "Consider weighted items or other sensory regulation tools.",
+      "Mother provided crisis plan for managing episodes safely.",
+      "Close follow-up with therapist; psychiatry evaluation if behavior escalates despite interventions."
+    ],
+    "Author": "Dr. Lisa Thompson, MD (ED Physician)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Timothy Anderson",
+    "Patient_MRN": "076",
+    "Date_of_Birth": "1990-12-05",
+    "Date_of_Service": "2024-10-11",
+    "Identifying_Data_Chief_Complaint": "33-year-old White male with schizoaffective disorder for routine visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Brother (Michael Anderson) at 555-229-7643",
+    "Subjective": "Patient presented appearing well-groomed and positive. Reports perfect adherence to cariprazine 6 mg daily taken each morning using phone reminder. States feeling excellent. No hallucinations for seven months. No delusional thinking. Sleep great at 8 hours nightly. Appetite good, weight stable at 172 lbs. Working full-time as warehouse supervisor, recently promoted. Mood 'excellent' rated 9/10. Lives independently in apartment. In stable relationship with girlfriend for two years. Enjoys fishing and camping on weekends. Attending therapy biweekly for wellness. Three years sober from methamphetamine. Building savings for down payment on house. Strong future goals. No safety concerns, denies SI/HI. (Evaluated by Dr. Brian Mitchell, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, excellent grooming, positive demeanor",
+      "Speech": "Clear, articulate, enthusiastic",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Excellent",
+      "Thought_Content": "Future-oriented, no psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Cariprazine 6 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Living independently; recently promoted to supervisor; three years sober; in relationship; planning home purchase; excellent recovery.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and sustained remission.",
+      "Continue cariprazine 6 mg daily.",
+      "Congratulated on promotion and sobriety.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Brian Mitchell, MD, Psychiatrist \u2014 Industrial Workers Mental Health, 6721 Factory Road, Detroit, MI 48201, Phone: (555) 334-8829, Fax: (555) 334-8830"
+  },
+  "ground_truth": "Adherent"
+}

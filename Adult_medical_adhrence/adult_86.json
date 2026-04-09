@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Nicole Thompson",
+    "Patient_MRN": "086",
+    "Date_of_Birth": "1991-12-18",
+    "Date_of_Service": "2024-08-21",
+    "Identifying_Data_Chief_Complaint": "32-year-old African American female with schizoaffective disorder for medication check.",
+    "Collateral_Contact_Information": "Emergency Contact: Brother (James Thompson) at 555-772-4409",
+    "Subjective": "Patient presented appearing well-groomed and upbeat. Reports perfect adherence to lurasidone 120 mg with dinner nightly using routine. States feeling excellent. No hallucinations for seven months. No delusional thinking. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 161 lbs. Working full-time as postal worker, steady career for three years. Mood 'really good' rated 8/10. Lives independently in own apartment. Active in women's empowerment group at community center. Enjoys step aerobics classes. Attending therapy biweekly for wellness. Six years sober from crack cocaine. Proud of her recovery journey. Mentoring other women in recovery. Strong sense of purpose. No safety concerns, denies SI/HI. (Evaluated by Dr. Tanya Williams, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professionally dressed, excellent grooming, bright affect",
+      "Speech": "Clear, animated, coherent",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Really good",
+      "Thought_Content": "Future-oriented, positive, no psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed, insightful"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 2,
+      "GAD_7": 3,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Lurasidone 120 mg PO daily with food",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Living independently; employed full-time as postal worker; six years sober; active in community; mentoring others; excellent recovery.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and sustained remission.",
+      "Continue lurasidone 120 mg daily with food.",
+      "Commended on career stability and mentorship role.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Tanya Williams, MD, Psychiatrist \u2014 Women's Recovery Center, 3421 Sisterhood Way, Washington, DC 20001, Phone: (555) 883-4409, Fax: (555) 883-4410"
+  },
+  "ground_truth": "Adherent"
+}

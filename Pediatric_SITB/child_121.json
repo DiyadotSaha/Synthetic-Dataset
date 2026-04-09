@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Sienna Davis",
+    "Patient_MRN": "121",
+    "Date_of_Birth": "2013-07-21",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "12-year-old female brought by grandmother for needle phobia affecting medical care.",
+    "Collateral_Contact_Information": "Grandmother: Barbara Davis, Phone: (555) 456-7915",
+    "Subjective": "Patient is a 12-year-old female presenting with severe needle phobia that has prevented her from receiving necessary vaccinations and blood work. She reports extreme fear and has fainted during previous injection attempts. She denies any thoughts of self-harm or suicidal ideation. Patient states she becomes panicked days before scheduled medical appointments involving needles. She has delayed routine immunizations due to avoidance. Recently diagnosed with anemia requiring blood monitoring which she has refused. Otherwise healthy and well-adjusted. Grandmother is concerned about patient's health being compromised by untreated medical needs. Patient expresses desire to overcome phobia and knows fear is irrational but cannot control panic response. Engaged in school and enjoys reading and creative writing. (ED Physician Dr. Robert Quinn, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears stated age",
+      "Behavior": "Cooperative, anxious when discussing needles",
+      "Speech": "Clear, rapid when discussing fears",
+      "Mood": "Scared of needles",
+      "Affect": "Anxious regarding phobia, otherwise appropriate",
+      "Thought_Process": "Linear, focused on phobic stimulus",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good - recognizes fear as excessive",
+      "Judgment": "Good aside from medical avoidance"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Iron supplementation",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "Anemic, pending repeat due to phobia",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Specific phobia (blood-injection-injury type), moderate.",
+    "Psychosocial_Context": "Lives with grandmother; severe needle phobia interfering with medical care; history of vasovagal response; otherwise well-adjusted; anemia requiring monitoring; motivated to overcome fear.",
+    "Assessment_and_Plan": [
+      "Blood-injection-injury phobia with medical care avoidance and health consequences.",
+      "Protective factors: motivated for treatment, good insight, supportive grandmother, otherwise functional, no suicidal ideation.",
+      "Urgent referral for cognitive behavioral therapy with exposure-based treatment.",
+      "Teach applied tension technique to prevent fainting during procedures.",
+      "Coordinate with pediatrician for gradual exposure using child life specialist.",
+      "Consider anxiolytic medication for initial procedures while building tolerance.",
+      "Numbing cream and distraction techniques for blood draws.",
+      "Address immediate anemia monitoring needs with behavioral support.",
+      "Close follow-up; plan for systematic desensitization before future medical procedures."
+    ],
+    "Author": "Dr. Robert Quinn, MD (ED Physician)"
+  },
+  "ground_truth": "No"
+}

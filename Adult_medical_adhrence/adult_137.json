@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Amanda Flores",
+    "Patient_MRN": "137",
+    "Date_of_Birth": "1994-04-07",
+    "Date_of_Service": "2024-09-23",
+    "Identifying_Data_Chief_Complaint": "30-year-old Hispanic female with schizophrenia for routine follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Maria Flores) at 555-772-8821",
+    "Subjective": "Patient presented appearing bright and engaged. Reports excellent adherence to aripiprazole 15 mg every morning taken with breakfast, uses pillbox organizer to stay on track. States feeling really stable and happy. Experiences very occasional fleeting suspicious thoughts once or twice monthly which she recognizes aren't real. No hallucinations. Sleep good at 7-8 hours nightly. Appetite healthy, weight stable at 142 lbs. Working full-time as dental hygienist, loves her job and patients. Mood 'happy' rated 8/10. Lives in apartment with partner. Enjoys salsa dancing and cooking. Attending wellness group monthly. Ten months sober from alcohol. Planning wedding for next year. No safety concerns, denies SI/HI. (Evaluated by Carlos Mendoza, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Young adult, professional scrubs, excellent grooming, cheerful demeanor",
+      "Speech": "Clear, warm, well-paced",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Happy",
+      "Thought_Content": "Future-oriented, minimal residual symptoms with insight",
+      "Thought_Process": "Organized, logical, coherent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 2,
+      "GAD_7": 3,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Aripiprazole 15 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable in near-complete remission.",
+    "Psychosocial_Context": "Living with partner; employed full-time in healthcare; ten months sober; active social and recreational life.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and symptom stability.",
+      "Continue aripiprazole 15 mg daily.",
+      "Commended on career and recovery.",
+      "Supportive of upcoming wedding.",
+      "Routine follow-up in 10 weeks."
+    ],
+    "RTC": "10 weeks",
+    "Author": "Note written by Carlos Mendoza, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Dental Staff Health Services, 9921 Smile Center, Miami, FL 33101, Phone: (555) 103-7754, Fax: (555) 103-7755"
+  },
+  "ground_truth": "Adherent"
+}

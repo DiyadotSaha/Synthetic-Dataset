@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "William Chen",
+    "Patient_MRN": "183",
+    "Date_of_Birth": "1992-04-06",
+    "Date_of_Service": "2024-09-19",
+    "Identifying_Data_Chief_Complaint": "32-year-old Asian American male with schizophrenia with paranoia increase.",
+    "Collateral_Contact_Information": "Emergency Contact: Brother (David Chen) at 555-992-3343",
+    "Subjective": "Patient appears guarded and hypervigilant. Brother reports he's been taking haloperidol only when 'voices get really bad,' approximately twice weekly for past 6 weeks, self-adjusting dose due to feeling 'like a robot' on daily medication. Since irregular dosing, paranoid delusions intensified - now believes government agents following him and apartment bugged with listening devices. Hearing multiple voices daily warning about surveillance. Started unplugging electronics and covering windows. Sleep 3-4 hours. Appetite poor, weight down 12 lbs. Lost software job 3 weeks ago after conflicts with supervisor he believed was 'part of it.' Lives alone, brother visiting daily with increasing concern. Isolating completely. Mood 'can't trust anyone' rated 3/10. Denies substance use. Denies SI but admits thoughts of 'disappearing to get away from them,' denies HI. (Evaluated by Dr. Helen Wong, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, hypervigilant, frequently scanning room",
+      "Speech": "Guarded, whispered, coherent",
+      "Affect": "Paranoid, suspicious",
+      "Mood": "Can't trust anyone",
+      "Thought_Content": "Elaborate paranoid delusions about government surveillance, frequent auditory hallucinations",
+      "Thought_Process": "Circumstantial, dominated by paranoid themes"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 14,
+      "GAD_7": 19,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Vague ideation about escaping situation, denies suicidal intent"
+    },
+    "Current_Medications": "Haloperidol 10 mg PO BID",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "No recent labs.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with severe paranoid exacerbation due to self-adjusted irregular medication use.",
+    "Psychosocial_Context": "Lives alone; recently unemployed; severe paranoia affecting function; brother providing daily support.",
+    "Assessment_and_Plan": [
+      "Severe paranoid decompensation after taking medication only twice weekly.",
+      "Discussed need for consistent daily medication.",
+      "Will switch to second-generation antipsychotic to reduce subjective sense of 'robotness.'",
+      "Transition to risperidone or paliperidone.",
+      "Brother to supervise daily medication administration.",
+      "May need LAI if oral adherence remains poor.",
+      "Close monitoring given unemployment and isolation.",
+      "Follow-up in 1 week."
+    ],
+    "RTC": "1 week",
+    "Author": "Note written by Dr. Helen Wong, MD, Psychiatrist \u2014 Asian Pacific Mental Health Center, 3700 Cultural Plaza, Los Angeles, CA 90012, Phone: (555) 883-9921, Fax: (555) 883-9922"
+  },
+  "ground_truth": "Non-Adherent"
+}

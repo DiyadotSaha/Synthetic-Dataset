@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Margaret O'Connor",
+    "Patient_MRN": "099",
+    "Date_of_Birth": "1954-12-03",
+    "Date_of_Service": "2024-04-29",
+    "Identifying_Data_Chief_Complaint": "69-year-old White female with schizophrenia presenting with severe exacerbation.",
+    "Collateral_Contact_Information": "Emergency Contact: Son (Patrick O'Connor) at 555-772-4498",
+    "Subjective": "Ms. O'Connor brought to emergency psychiatric evaluation by son and residential care staff due to acute crisis. Facility nursing documents 100% adherence to haloperidol 10 mg nightly administered by medication nurse for past three years without any refusals. Despite perfect compliance, patient experiencing severe decompensation over past two weeks. Presents as acutely psychotic and agitated, shouting at unseen entities. Staff report she experiences command auditory hallucinations ordering her to attack staff members whom she believes are demons in disguise. Has assaulted three staff members this week requiring emergency sedation and police intervention. Also maintains grandiose delusion that she is Virgin Mary and must save the world from evil. Sleep completely absent for ten days per nursing observation. Has refused all food and fluids for week believing everything is poisoned by Satan, resulting in 18-pound weight loss to 107 lbs and severe dehydration. Hygiene completely neglected - fighting staff violently when they attempt care. Urinating and defecating inappropriately. Requires four-point restraints for safety. Other residents terrified. Staff refuse to provide care. Son overwhelmed and tearful. Mood appears manic and hostile. Risk assessment critical: Command hallucinations to harm others, multiple assaults, ongoing violence, grave disability, life-threatening dehydration and malnutrition. States demons must be destroyed. (Emergency evaluation by Dr. Timothy Murphy, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Elderly female, severely malnourished, disheveled, malodorous, extremely agitated and combative",
+      "Speech": "Loud, pressured, threatening, religious themed",
+      "Affect": "Hostile, grandiose, labile",
+      "Mood": "Manic and hostile",
+      "Thought_Content": "Command hallucinations to harm staff, grandiose religious delusions, paranoid beliefs about poisoning",
+      "Thought_Process": "Severely disorganized, looseness of associations, delusional"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 26,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Imminent danger to others - command hallucinations, multiple assaults, ongoing threats"
+    },
+    "Current_Medications": "Haloperidol 10 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Critical labs: BUN 58 mg/dL, Cr 2.4 mg/dL acute renal failure; sodium 152 mEq/L; albumin 2.2 g/dL; glucose 67 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with acute severe exacerbation, treatment-refractory, imminent danger to others, grave disability with medical complications.",
+    "Psychosocial_Context": "Resides in residential care; widowed; son limited contact; on Medicare; history of violence; requires secure placement.",
+    "Assessment_and_Plan": [
+      "Perfect medication adherence via facility nursing but complete treatment failure.",
+      "Imminent danger to others with command hallucinations and ongoing violence.",
+      "Grave disability with critical dehydration and malnutrition.",
+      "5150 hold for involuntary hospitalization with police escort.",
+      "Medical clearance urgently needed for acute renal failure.",
+      "Requires locked psychiatric unit given violence.",
+      "After medical stabilization, psychiatric admission for clozapine trial.",
+      "Facility refuses readmission - secure long-term placement needed.",
+      "Coordinating emergency medical transport with police now."
+    ],
+    "RTC": "Post-hospitalization",
+    "Author": "Note written by Dr. Timothy Murphy, MD, Psychiatrist \u2014 County Geriatric Crisis Services, 8821 Elder Emergency Way, Boston, MA 02115, Phone: (555) 338-7729, Fax: (555) 338-7730"
+  },
+  "ground_truth": "Adherent"
+}

@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Sophia Delgado",
+    "Patient_MRN": "051",
+    "Date_of_Birth": "2012-08-27",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by mother for reassurance after hearing about peer's suicide.",
+    "Collateral_Contact_Information": "Mother: Carmen Delgado, Phone: (555) 234-5780",
+    "Subjective": "Patient is a 13-year-old female brought by mother two days after learning that a student at her school died by suicide. Patient did not know the student personally but reports feeling upset and worried about the incident. She denies any thoughts of self-harm or suicidal ideation. She states she feels sad for the student's family and has been thinking about death more than usual, which is concerning to her. She reports some difficulty sleeping since hearing the news but appetite is normal. She has been talking with friends about the incident and attended the school assembly on mental health yesterday. Mother reports patient has no history of depression or suicidal thoughts and brought her for evaluation out of caution. Patient continues normal activities and is looking forward to upcoming choir concert. (Social Worker Christine Park, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears stated age",
+      "Behavior": "Cooperative, engaged",
+      "Speech": "Clear, normal pace",
+      "Mood": "Sad about the situation",
+      "Affect": "Appropriate, reactive",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Acute stress reaction to peer suicide, mild.",
+    "Psychosocial_Context": "Lives with both parents and younger sister; supportive family; strong peer network; involved in choir; reacting to community trauma; no personal history of mental health concerns.",
+    "Assessment_and_Plan": [
+      "Normal stress reaction to community trauma; no personal suicidal ideation.",
+      "Protective factors: strong family support, engaged in processing with peers, utilizing school resources, involved in activities, explicitly denies suicidal thoughts.",
+      "Reassurance provided regarding normal grief and processing of traumatic news.",
+      "Psychoeducation on community response to suicide and expected reactions.",
+      "Encouraged continued communication with parents and participation in school support activities.",
+      "Resources provided for additional support if distress continues.",
+      "Mother educated on warning signs to monitor (unlikely but important to recognize).",
+      "No intervention needed at this time; symptoms expected to resolve with natural processing."
+    ],
+    "Author": "Christine Park, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

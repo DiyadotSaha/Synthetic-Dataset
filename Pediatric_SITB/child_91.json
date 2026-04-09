@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Brandon Lewis",
+    "Patient_MRN": "091",
+    "Date_of_Birth": "2012-03-31",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old male brought by mother for enuresis and related embarrassment.",
+    "Collateral_Contact_Information": "Mother: Christine Lewis, Phone: (555) 012-3579",
+    "Subjective": "Patient is a 13-year-old male presenting with primary nocturnal enuresis occurring 4-5 nights per week. He reports significant embarrassment about bedwetting which prevents him from accepting sleepovers with friends or attending overnight school trips. He denies any thoughts of self-harm or suicidal ideation. Patient states he feels ashamed and different from peers. Medical evaluation has ruled out physical causes. He has tried bedwetting alarms and limiting fluids without success. Mother reports patient is otherwise well-adjusted, excels academically, and plays soccer. Recently declined invitation to friend's sleepover birthday party, which prompted this visit. Patient expresses desire for treatment and is motivated to try new interventions. Social and emotional development otherwise age-appropriate. (Social Worker Paul Richardson, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears embarrassed",
+      "Behavior": "Cooperative, shy about topic",
+      "Speech": "Clear, quiet when discussing enuresis",
+      "Mood": "Embarrassed",
+      "Affect": "Appropriate, subdued",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Enuresis (not due to medical condition); adjustment issues related to embarrassment, mild.",
+    "Psychosocial_Context": "Lives with both parents and younger brother; primary nocturnal enuresis with social impact; academically successful; engaged in athletics; avoiding peer activities due to embarrassment; motivated for treatment.",
+    "Assessment_and_Plan": [
+      "Primary enuresis with psychosocial impact; medical causes ruled out.",
+      "Protective factors: otherwise well-adjusted, supportive family, motivated for treatment, good functioning in other domains, no suicidal ideation.",
+      "Referral to pediatric urology for desmopressin trial for special events.",
+      "Continued behavioral interventions with enuresis alarm.",
+      "Counseling to address embarrassment and self-esteem impact.",
+      "Normalize condition and provide education on resolution timeline.",
+      "Mother encouraged to remain supportive and non-punitive.",
+      "Plan for medication coverage for upcoming sleepover opportunities.",
+      "Follow-up in 6 weeks to reassess treatment response."
+    ],
+    "Author": "Paul Richardson, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

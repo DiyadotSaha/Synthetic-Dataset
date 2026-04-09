@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Crystal Martinez",
+    "Patient_MRN": "097",
+    "Date_of_Birth": "1976-06-19",
+    "Date_of_Service": "2024-06-06",
+    "Identifying_Data_Chief_Complaint": "48-year-old Hispanic female with schizoaffective disorder with residual symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Daughter (Sofia Martinez) at 555-661-3487",
+    "Subjective": "Ms. Martinez attended appointment with daughter who supervises medications. Daughter confirms mother takes quetiapine 300 mg twice daily via her observation, no missed doses. Despite reliable adherence, continues experiencing moderate symptoms. Reports persistent auditory hallucinations several times daily of woman's voice making critical comments. Endorses paranoid thoughts that neighbors spread rumors about her family. Sleep disrupted at 5 hours nightly. Appetite fair, weight stable at 173 lbs. Not working, stays home caring for grandchildren occasionally. Limited social activities outside home. Daughter reports mother increasingly isolated. Mood 'down and nervous' rated 4/10. Denies substance use. Safety: No SI/HI. (Assessed by Ricardo Lopez, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged female, adequate grooming, appears anxious",
+      "Speech": "Soft, accented, hesitant",
+      "Affect": "Anxious, constricted",
+      "Mood": "Down and nervous",
+      "Thought_Content": "Auditory hallucinations, paranoid ideation about neighbors",
+      "Thought_Process": "Coherent, preoccupied"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 16,
+      "GAD_7": 17,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Quetiapine 300 mg PO BID",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Glucose 116 mg/dL; CBC normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder with persistent symptoms and anxiety.",
+    "Psychosocial_Context": "Lives with daughter; not employed; provides childcare; socially isolated; ongoing symptoms.",
+    "Assessment_and_Plan": [
+      "Good adherence through daughter's supervision.",
+      "Persistent psychotic and mood symptoms.",
+      "Discussed medication augmentation.",
+      "Will add antidepressant for mood/anxiety.",
+      "Encouraged social engagement.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Ricardo Lopez, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Familia Mental Health, 5623 Community Way, El Paso, TX 79901, Phone: (555) 883-4409, Fax: (555) 883-4410"
+  },
+  "ground_truth": "Adherent"
+}

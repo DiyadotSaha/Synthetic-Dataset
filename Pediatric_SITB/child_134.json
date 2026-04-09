@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Michael Santos",
+    "Patient_MRN": "134",
+    "Date_of_Birth": "2011-04-25",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male brought by CPS caseworker after disclosing sexual abuse and active plan to hang himself.",
+    "Collateral_Contact_Information": "CPS Worker: Jennifer Walsh, Phone: (555) 890-2345",
+    "Subjective": "Patient is a 14-year-old male presenting with CPS after disclosing for the first time that his stepfather has been sexually abusing him for the past year. During the CPS interview this afternoon, patient also revealed he has been planning to hang himself using a belt in his closet and fully intends to complete this plan if forced to return home. He describes feeling trapped, ashamed, and believing that dying is preferable to anyone knowing about the abuse. He reports detailed planning including writing goodbye texts to friends that he has not yet sent. He has tested the belt's strength and identified the time when he would be alone. He states the only reason he told the school counselor today was because his stepfather threatened to harm his younger sister, and he hoped disclosure might protect her even though he still plans to die. Currently on sertraline 50mg for anxiety prescribed two months ago. Sleep severely disrupted with nightmares. No previous suicide attempts but endorses ongoing suicidal thoughts for past three months. (ED Physician Dr. Kevin Martinez, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, poor hygiene, appears younger than age",
+      "Behavior": "Guarded initially, becomes more engaged when discussing sister",
+      "Speech": "Monotone, minimal spontaneous speech",
+      "Mood": "Numb and hopeless",
+      "Affect": "Flat with brief breakthrough of fear when discussing stepfather",
+      "Thought_Process": "Linear but concrete",
+      "Thought_Content": "Active SI with detailed plan and intent to hang self; trauma-related content",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Very limited",
+      "Judgment": "Severely impaired"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Sertraline 50mg daily",
+    "CURES_Report": "Sertraline prescription on file",
+    "Laboratory_Data": {
+      "CBC": "Pending",
+      "Urine_Tox": "Pending",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Post-traumatic stress disorder; major depressive disorder, severe; acute suicidal crisis with plan and intent; history of sexual abuse.",
+    "Psychosocial_Context": "Disclosure of ongoing sexual abuse by stepfather; lives with mother, stepfather, and younger sister; CPS involvement initiated today; current antidepressant treatment; protective motivation toward sibling.",
+    "Assessment_and_Plan": [
+      "Imminent high risk: active SI with specific, rehearsed plan and clear intent; detailed preparation.",
+      "Minimal protective factors: concern for sister's safety is only identified factor.",
+      "Acute trauma reaction to chronic abuse; mandated reporting completed by school and CPS.",
+      "5150 criteria met; patient requires immediate psychiatric hospitalization.",
+      "1:1 observation initiated; all potential means secured.",
+      "Trauma-informed care approach essential; specialized adolescent trauma unit preferred.",
+      "CPS placing emergency hold; patient will not return to home.",
+      "Medication review needed; current dose likely inadequate given severity.",
+      "Forensic evaluation coordinated with child advocacy center."
+    ],
+    "Author": "Dr. Kevin Martinez, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

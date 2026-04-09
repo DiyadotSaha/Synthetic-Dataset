@@ -1,0 +1,50 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Naomi Carter",
+    "Patient_MRN": "133",
+    "Date_of_Birth": "2010-09-22",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female brought by grandmother due to increased sadness after mother's incarceration.",
+    "Collateral_Contact_Information": "Grandmother: Dorothy Carter, Phone: (555) 678-9013",
+    "Subjective": "Patient is a 15-year-old female presenting with depressed mood for the past month following her mother's incarceration on drug-related charges. She reports feeling sad and angry about the situation, with frequent crying spells and social withdrawal. She has been staying in her room more and declining invitations from friends. Appetite is somewhat decreased but sleep is normal. She denies any thoughts of self-harm or suicidal ideation. Patient expresses feeling abandoned but also worried about her mother's wellbeing. She has lived with her grandmother for the past year due to mother's substance use issues. Continues to attend school daily and maintain B average. Currently seeing school counselor weekly. Grandmother describes patient as generally responsible and mature for age. (Social Worker Marcus Jefferson, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Appropriately dressed, good hygiene",
+      "Behavior": "Cooperative, somewhat withdrawn",
+      "Speech": "Soft-spoken, normal rate",
+      "Mood": "Sad",
+      "Affect": "Congruent, subdued",
+      "Thought_Process": "Linear and organized",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood, moderate.",
+    "Psychosocial_Context": "Lives with maternal grandmother; mother incarcerated; father uninvolved; strong relationship with grandmother; academically successful; previously social but currently withdrawn; engaged with school counselor.",
+    "Assessment_and_Plan": [
+      "Depressed mood in context of family trauma and mother's incarceration.",
+      "Protective factors: supportive grandmother, academic success, already engaged in school counseling, good insight, no suicidal ideation.",
+      "Recommend increased frequency of counseling sessions to twice weekly.",
+      "Referral for community-based family therapy program specializing in children of incarcerated parents.",
+      "Grandmother encouraged to facilitate peer activities and maintain routine.",
+      "Outpatient mental health resources provided.",
+      "Re-evaluation in 4 weeks; consider medication if symptoms persist or worsen."
+    ],
+    "Author": "Marcus Jefferson, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Brandon Murphy",
+    "Patient_MRN": "023",
+    "Date_of_Birth": "1997-12-02",
+    "Date_of_Service": "2024-06-25",
+    "Identifying_Data_Chief_Complaint": "26-year-old White male with schizophrenia presenting with ongoing symptoms despite adherence.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Kathleen Murphy) at 555-203-9847",
+    "Subjective": "Patient arrived for appointment appearing disheveled and somewhat guarded. Mother confirms that she directly observes him taking ziprasidone 80 mg twice daily with meals as prescribed, ensuring compliance. Despite reliable medication intake, he continues experiencing moderate symptom burden. Reports ongoing auditory hallucinations daily consisting of two male voices arguing about whether he is worthwhile as a person. These voices are loud enough to interfere with his ability to concentrate on tasks or conversations. He also maintains belief that his former college roommates hacked his phone and are tracking his location, leading him to frequently change his route when leaving the house. Sleep is poor with multiple awakenings, averaging 5 hours nightly. Appetite decreased, has lost 9 pounds over past month to 152 lbs. He dropped out of online community college courses last month due to inability to focus. Spends most time in his bedroom at mother's house watching YouTube videos. Social contact is minimal - only interacts with mother and occasionally his younger brother. Mood described as 'frustrated and tired' rated 4/10. Denies alcohol and drug use. Safety screening: Denies SI/HI, though expresses hopelessness about symptom improvement. (Assessed by Dr. Yuki Tanaka, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Young male, poor grooming, wrinkled clothing, appears fatigued",
+      "Speech": "Quiet, intermittent pauses, appears distracted",
+      "Affect": "Blunted, occasionally anxious",
+      "Mood": "Frustrated",
+      "Thought_Content": "Auditory hallucinations present, paranoid beliefs regarding electronic surveillance",
+      "Thought_Process": "Coherent but intermittently derailed by internal stimuli"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 15,
+      "GAD_7": 12,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive ideation related to hopelessness, no plan or intent"
+    },
+    "Current_Medications": "Ziprasidone 80 mg PO BID with food",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC within normal limits; basic metabolic panel unremarkable; prolactin normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, inadequate response to current regimen despite adherence.",
+    "Psychosocial_Context": "Lives with mother; not in school or employed; socially isolated; limited functional capacity.",
+    "Assessment_and_Plan": [
+      "Confirmed adherence to ziprasidone through maternal supervision.",
+      "Persistent positive symptoms causing functional impairment.",
+      "Weight loss and poor sleep contributing to overall decline.",
+      "Discussed medication change given suboptimal response.",
+      "Will cross-taper to clozapine given treatment resistance, baseline labs ordered.",
+      "Referred for intensive outpatient program.",
+      "Mother provided education on clozapine monitoring requirements.",
+      "Close follow-up in 2 weeks."
+    ],
+    "RTC": "2 weeks",
+    "Author": "Note written by Dr. Yuki Tanaka, MD, Psychiatrist \u2014 University Psychiatry Associates, 1823 Campus Drive, Ann Arbor, MI 48109, Phone: (555) 998-3421, Fax: (555) 998-3422"
+  },
+  "ground_truth": "Adherent"
+}

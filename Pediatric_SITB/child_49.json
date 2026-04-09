@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Jamal Washington",
+    "Patient_MRN": "049",
+    "Date_of_Birth": "2010-02-11",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by uncle for marijuana use and truancy concerns.",
+    "Collateral_Contact_Information": "Uncle: Raymond Washington, Phone: (555) 123-4679",
+    "Subjective": "Patient is a 15-year-old male brought by uncle due to discovery of marijuana use and increasing school absences. He reports using marijuana 2-3 times per week for the past three months, primarily with peers after school. He denies any thoughts of self-harm or suicidal ideation. Patient states he uses cannabis to relax and fit in with his friend group. He has been skipping classes he finds boring but attends gym and art regularly. Denies use of other substances. Lives with uncle after mother entered residential substance abuse treatment four months ago. Patient reports feeling abandoned by mother and unsure about their relationship future. Uncle reports patient was previously doing well in school but engagement has declined significantly. Patient plays recreational basketball and has interest in graphic design. (Psychiatrist Dr. Robert Kim, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, appears stated age",
+      "Behavior": "Cooperative but guarded",
+      "Speech": "Normal rate and volume",
+      "Mood": "Whatever",
+      "Affect": "Somewhat blunted, defensive",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Limited",
+      "Judgment": "Impaired"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "Positive for THC",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Cannabis use disorder, mild; adjustment disorder with mixed disturbance of emotions and conduct, moderate.",
+    "Psychosocial_Context": "Recently placed with uncle due to mother's substance abuse; feeling of abandonment; peer influence; academic disengagement; maintains interests in basketball and art; supportive uncle.",
+    "Assessment_and_Plan": [
+      "Emerging substance use and behavioral issues in context of family disruption and maternal absence.",
+      "Protective factors: supportive uncle, maintains some interests, no suicidal ideation, willing to engage in conversation.",
+      "Referral for adolescent substance abuse evaluation and treatment.",
+      "Individual therapy to address adjustment to placement and maternal relationship.",
+      "School consultation regarding truancy intervention and academic support.",
+      "Engagement in positive activities encouraged - basketball league, art classes.",
+      "Uncle provided education on monitoring and setting boundaries.",
+      "Outpatient mental health and substance abuse integrated treatment recommended.",
+      "Follow-up within 1 week."
+    ],
+    "Author": "Dr. Robert Kim, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Austin Williams",
+    "Patient_MRN": "081",
+    "Date_of_Birth": "2010-01-29",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by mother for mild test anxiety and perfectionism.",
+    "Collateral_Contact_Information": "Mother: Jennifer Williams, Phone: (555) 678-9135",
+    "Subjective": "Patient is a 15-year-old male presenting with anxiety before major exams characterized by restlessness and worry about performance. He reports spending extensive time studying and re-reviewing material to ensure he is fully prepared. He denies any thoughts of self-harm or suicidal ideation. Patient maintains 3.9 GPA and is in multiple advanced placement courses. He states the anxiety is manageable but mother is concerned about his stress levels. Sleep is adequate though he reports occasional difficulty falling asleep before big tests. He continues to play tennis competitively and has strong peer relationships. Patient demonstrates good coping with breathing techniques learned in health class. He is applying to competitive universities and feels pressure to maintain academic excellence. (Social Worker Jonathan Myers, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears stated age",
+      "Behavior": "Cooperative, slightly tense",
+      "Speech": "Clear, organized",
+      "Mood": "A little stressed",
+      "Affect": "Appropriate, mildly anxious",
+      "Thought_Process": "Linear, goal-oriented",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with anxiety; performance anxiety, mild.",
+    "Psychosocial_Context": "Lives with both parents; high academic achiever; competitive tennis player; strong peer relationships; college application pressure; demonstrates effective coping strategies.",
+    "Assessment_and_Plan": [
+      "Mild performance anxiety in high-achieving student; managing stress relatively well.",
+      "Protective factors: excellent coping skills, supportive family, balanced with athletics, strong academics and social life, no suicidal ideation.",
+      "Psychoeducation on perfectionism and realistic expectations provided.",
+      "Reinforcement of existing coping strategies; additional stress management techniques taught.",
+      "Encouragement to maintain balance between academics and other activities.",
+      "Family discussion regarding academic pressure and expectations.",
+      "Resources for ongoing support if needed but no treatment required at this time.",
+      "Consider brief counseling during college application season if stress escalates."
+    ],
+    "Author": "Jonathan Myers, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,56 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Parker Davis",
+    "Patient_MRN": "198",
+    "Date_of_Birth": "2011-06-12",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male brought by coach after disclosing detailed plan to overdose on pre-workout supplements and energy drinks.",
+    "Collateral_Contact_Information": "Mother: Tracy Davis, Phone: (555) 883-9944",
+    "Subjective": "Patient is a 14-year-old athlete presenting after disclosing to wrestling coach a plan to intentionally overdose on pre-workout powder and energy drinks. He describes researching stimulant toxicity and calculating doses to cause cardiac arrest. Reports plan to consume massive quantities before practice to make death look like accidental overuse. States intent is to die because he cannot meet weight class requirements without dangerous cutting practices and feels he is failing as athlete and son. Father is former wrestler with high expectations. However, patient disclosed to coach stating got scared after researching effects. Currently no medications. Previously healthy. Academic performance good. Wrestling is central identity. Strained relationship with father. Close with mother and coach. No prior mental health concerns or self-harm. (ED Physician Dr. Andrew Martinez, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Athletic build, appears dehydrated",
+      "Behavior": "Cooperative, relief at disclosure",
+      "Speech": "Clear, measured",
+      "Mood": "Trapped by expectations",
+      "Affect": "Anxious, appropriate",
+      "Thought_Process": "Organized",
+      "Thought_Content": "Active SI with detailed researched plan but disclosed seeking help; ambivalent intent",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Emerging, sought help",
+      "Judgment": "Improving"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No prescriptions",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": "",
+      "Electrolytes": "Pending given weight cutting concerns"
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood; suicidal ideation with plan related to athletic pressure; possible disordered eating/dangerous weight cutting practices.",
+    "Psychosocial_Context": "Central wrestling identity; dangerous weight cutting to meet class requirements; high paternal expectations (father former wrestler); researched lethal plan; disclosed to coach; close with mother and coach.",
+    "Assessment_and_Plan": [
+      "Moderate-to-high risk: active SI with researched lethal plan but disclosed seeking help.",
+      "Some protective factors: coach relationship, mother support, disclosed plan.",
+      "Remove access to pre-workout supplements and energy drinks.",
+      "Address dangerous weight cutting practices immediately; may constitute eating disorder.",
+      "Nutritionist evaluation for athletes and healthy weight management.",
+      "Psychiatric evaluation for depression and athletic pressure.",
+      "Family therapy to address father's expectations and patient's identity beyond wrestling.",
+      "Coach to monitor weight cutting practices; consider different weight class.",
+      "Sports psychology for athlete mental health.",
+      "Consider brief psychiatric admission versus intensive outpatient.",
+      "Close follow-up within 24-48 hours.",
+      "Discharge contingent on supplement removal, nutritionist appointment, and family meeting with coach."
+    ],
+    "Author": "Dr. Andrew Martinez, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

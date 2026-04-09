@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Isaiah Thomas",
+    "Patient_MRN": "069",
+    "Date_of_Birth": "2011-09-30",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male brought by aunt for low mood after father's deployment.",
+    "Collateral_Contact_Information": "Aunt: Sharon Thomas, Phone: (555) 012-3568",
+    "Subjective": "Patient is a 14-year-old male presenting with low mood for three weeks since his father deployed overseas with the military. He reports missing his father significantly and worrying about his safety daily. He denies any thoughts of self-harm or suicidal ideation. Patient states he checks the news constantly for updates from his father's deployment location and has difficulty concentrating on other activities. Sleep is disrupted with difficulty falling asleep. Appetite is decreased but weight stable. He continues to attend school and maintains contact with friends, though he reports less interest in previously enjoyable activities like skateboarding. Lives with mother and two younger siblings; aunt provides additional support. Father's deployment is scheduled for 8 months. Patient video-calls with father twice weekly which provides temporary relief. (Psychiatrist Dr. Angela Rivera, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, appears tired",
+      "Behavior": "Cooperative, subdued",
+      "Speech": "Normal rate, low volume",
+      "Mood": "Sad",
+      "Affect": "Congruent, restricted",
+      "Thought_Process": "Linear, preoccupied with father's safety",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with mixed anxiety and depressed mood, moderate.",
+    "Psychosocial_Context": "Father recently deployed; lives with mother, siblings, and has support from extended family; struggling with separation and worry; maintains peer relationships; previously well-adjusted; regular video contact with father.",
+    "Assessment_and_Plan": [
+      "Adjustment difficulties related to parental military deployment.",
+      "Protective factors: supportive mother and aunt, regular contact with deployed father, maintained school attendance and peer connections, no suicidal ideation.",
+      "Referral for individual therapy focusing on coping with parental deployment.",
+      "Connection with military family support services and youth programs for children of deployed parents.",
+      "Psychoeducation on managing worry and maintaining routine during deployment.",
+      "Encourage re-engagement in skateboarding and peer activities.",
+      "Sleep hygiene education and strategies.",
+      "Follow-up in 3 weeks; consider medication if symptoms worsen or persist beyond initial adjustment period."
+    ],
+    "Author": "Dr. Angela Rivera, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

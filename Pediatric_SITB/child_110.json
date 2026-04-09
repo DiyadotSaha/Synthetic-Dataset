@@ -1,0 +1,56 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Grace Miller",
+    "Patient_MRN": "110",
+    "Date_of_Birth": "2009-12-30",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old female brought by friend after disclosing plan to crash car into barrier following unplanned pregnancy discovery.",
+    "Collateral_Contact_Information": "Best friend: Ashley Parker, Phone: (555) 664-9933; Mother: Linda Miller, Phone: (555) 664-9934)",
+    "Subjective": "Patient is a 16-year-old female presenting after her best friend brought her to ED following disclosure of a plan to intentionally crash her car into a highway barrier. Patient discovered she is pregnant yesterday (approximately 6 weeks) and is terrified to tell her parents who are strict and religious. She describes a specific plan to drive her car at high speed into a concrete barrier on the highway near her home. She reports intent to die and make it look accidental so her family would not know about the pregnancy or that she killed herself. When asked if she still intends to do this, she states she does not know and is confused. She reports boyfriend ended relationship when she told him about pregnancy. She feels trapped with no options. Sleep minimal since discovery. Cannot eat. Mother does not know she is sexually active. Currently no medications. No prior mental health treatment or suicide attempts. Strong academic record, involved in church youth group. (Psychiatrist Dr. William Chang, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Tearful, distressed, appears younger than age",
+      "Behavior": "Cooperative, overwhelmed",
+      "Speech": "Tearful, pressured",
+      "Mood": "Panicked and trapped",
+      "Affect": "Intensely anxious, tearful",
+      "Thought_Process": "Racing, catastrophic thinking",
+      "Thought_Content": "Active SI with specific plan and recent intent; pregnancy-related crisis",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Limited by panic",
+      "Judgment": "Severely impaired by crisis"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "Negative",
+      "Pregnancy_test": "Positive",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Acute adjustment disorder with panic; unplanned pregnancy crisis; suicidal ideation with plan and intent.",
+    "Psychosocial_Context": "Unplanned pregnancy (6 weeks); strict religious family; boyfriend abandoned her; fear of parental reaction; strong academic performance; church involvement; close friend providing support.",
+    "Assessment_and_Plan": [
+      "High risk: active SI with lethal plan (car crash) and intent in context of pregnancy crisis and perceived lack of options.",
+      "Some protective factors: friend's intervention and support, no prior psychiatric history suggests baseline resilience.",
+      "Keys confiscated; patient not to drive.",
+      "Pregnancy crisis requires non-judgmental options counseling.",
+      "Recommend brief psychiatric admission for stabilization and pregnancy options exploration.",
+      "Involve mother with patient's permission; prepare for family disclosure with support.",
+      "Pregnancy options counseling: parenting, adoption, termination (present all without bias).",
+      "OB/GYN consultation for pregnancy care regardless of decision.",
+      "Address cognitive distortion that suicide is only option.",
+      "Crisis intervention for decision-making under pressure.",
+      "If patient chooses to continue pregnancy: resources for teen parents, family mediation.",
+      "Not safe for discharge until stabilized and has explored options with support."
+    ],
+    "Author": "Dr. William Chang, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Dylan Harper",
+    "Patient_MRN": "028",
+    "Date_of_Birth": "2010-02-11",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by athletic trainer after expressing thoughts that he 'doesn't see the point anymore' following career-ending knee injury.",
+    "Collateral_Contact_Information": "Mother: Rebecca Harper, Phone: (555) 123-9988",
+    "Subjective": "Patient is a 15-year-old male varsity soccer player presenting after confiding in his athletic trainer that he has been having thoughts of not wanting to exist since learning one week ago that his ACL tear will require surgery and extensive rehabilitation, likely ending his competitive soccer career. He describes soccer as his entire identity and states he feels lost without it. He endorses passive thoughts of wishing he would not wake up or that he could just 'disappear,' but he has no plan, no method considered, and no intent to harm himself. He clarifies these are feelings of hopelessness rather than active wishes to die. Sleep mildly disrupted with some difficulty falling asleep. Appetite normal. He identifies strong support from his parents and teammates who have been visiting regularly. His coach has offered him an assistant coaching position for the JV team. He expresses some interest in this but feels it 'won't be the same.' No prior mental health history. (Social Worker Angela Martinez, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Wearing team warm-ups, knee brace visible, well-groomed",
+      "Behavior": "Cooperative, appropriate engagement",
+      "Speech": "Normal rate, clear",
+      "Mood": "Disappointed and lost",
+      "Affect": "Sad but reactive, brightens slightly when discussing teammates",
+      "Thought_Process": "Coherent and organized",
+      "Thought_Content": "Passive suicidal ideation without plan or intent; grief over identity loss",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair to good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Ibuprofen 600mg TID PRN for knee pain",
+    "CURES_Report": "No controlled substances",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood in reaction to loss of athletic career; passive suicidal ideation.",
+    "Psychosocial_Context": "Elite soccer player facing career-ending injury; strong family support; peer support from teammates; coach offering alternative involvement; no prior mental health treatment.",
+    "Assessment_and_Plan": [
+      "Low risk: passive SI without plan or intent in context of significant identity loss and role transition.",
+      "Multiple protective factors: family support, peer/teammate connections, alternative role offered by coach.",
+      "Normal grief reaction to loss of athletic identity; requires support navigating transition.",
+      "Safety plan established focusing on talking to parents and trainer when distressed.",
+      "Referral to sports psychology specialist familiar with athlete identity transitions.",
+      "Encourage exploration of assistant coaching role and other team involvement.",
+      "Outpatient therapy follow-up within one week.",
+      "Safe for discharge with parental supervision and athletic trainer awareness."
+    ],
+    "Author": "Angela Martinez, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

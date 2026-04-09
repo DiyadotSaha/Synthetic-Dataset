@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Tyler Johnson",
+    "Patient_MRN": "096",
+    "Date_of_Birth": "2000-02-14",
+    "Date_of_Service": "2024-10-30",
+    "Identifying_Data_Chief_Complaint": "24-year-old White male with schizophrenia for medication review.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Karen Johnson) at 555-772-4498",
+    "Subjective": "Patient arrived appearing casual and engaged. Reports excellent adherence to aripiprazole 10 mg every morning using phone app with multiple reminders. States doing great. No hallucinations for three months. No paranoid thoughts. Sleep excellent at 8-9 hours nightly. Appetite good, weight stable at 159 lbs. Working full-time at electronics store as sales associate, performing well. Mood 'really good' rated 8/10. Lives independently in apartment. Enjoys gaming and streaming content online. Attending young adult support group weekly. Six months sober from marijuana. Building confidence and independence. Considering college courses online. No safety concerns, denies SI/HI. (Evaluated by Dr. Mark Stevens, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, good grooming, relaxed demeanor",
+      "Speech": "Clear, normal pace, coherent",
+      "Affect": "Appropriate, bright",
+      "Mood": "Really good",
+      "Thought_Content": "No psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 3,
+      "GAD_7": 4,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Aripiprazole 10 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable.",
+    "Psychosocial_Context": "Living independently; employed full-time; six months sober; engaged in support group; considering education.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and symptom control.",
+      "Continue aripiprazole 10 mg daily.",
+      "Encouraged educational exploration.",
+      "Commended on independence and sobriety.",
+      "Routine follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Dr. Mark Stevens, MD, Psychiatrist \u2014 Digital Age Mental Health, 2341 Tech Street, Austin, TX 78701, Phone: (555) 338-7729, Fax: (555) 338-7730"
+  },
+  "ground_truth": "Adherent"
+}

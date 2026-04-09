@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Thomas Rodriguez",
+    "Patient_MRN": "144",
+    "Date_of_Birth": "1980-06-11",
+    "Date_of_Service": "2024-09-17",
+    "Identifying_Data_Chief_Complaint": "44-year-old Hispanic male with schizophrenia with moderate ongoing symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Elena Rodriguez) at 555-772-9921",
+    "Subjective": "Mr. Rodriguez attended visit with mother who provides daily support. Mother confirms he takes olanzapine 15 mg every night via her supervision, perfect adherence for past two years. Despite reliable medication, continues experiencing moderate symptoms. Reports hearing voice of deceased father speaking to him several times daily, usually benign comments. Endorses mild paranoid ideation that neighbors discuss him negatively. Sleep adequate at 6-7 hours nightly. Appetite good, weight up to 198 lbs (gained 15 lbs on current medication). Working part-time as janitor at church, content with job. Lives with mother. Attends church regularly. Limited friendships. Mood 'okay, not great' rated 5/10. Denies substance use. Cooperative during assessment. Safety: No SI/HI. (Assessed by Father Michael O'Connor, LCSW, Licensed Clinical Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged male, simple clothing, adequate grooming, calm",
+      "Speech": "Soft, accented, coherent",
+      "Affect": "Somewhat flat, limited range",
+      "Mood": "Okay, not great",
+      "Thought_Content": "Daily benign auditory hallucinations, mild paranoid ideation",
+      "Thought_Process": "Coherent, concrete, some preoccupation"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 11,
+      "GAD_7": 9,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Olanzapine 15 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 118 mg/dL; lipids elevated; weight gain noted.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with moderate persistent symptoms.",
+    "Psychosocial_Context": "Lives with mother; working part-time; active in church community; limited social network beyond family and church.",
+    "Assessment_and_Plan": [
+      "Perfect adherence through mother's supervision.",
+      "Moderate residual symptoms stable but persistent.",
+      "Weight gain concerning, discussed dietary changes.",
+      "Discussed medication adjustment options.",
+      "Given stable symptoms and good tolerability otherwise, will continue current dose.",
+      "Mother to encourage healthy eating and exercise.",
+      "Follow-up in 6 weeks."
+    ],
+    "RTC": "6 weeks",
+    "Author": "Note written by Father Michael O'Connor, LCSW, Licensed Clinical Social Worker \u2014 St. Mary's Parish Health Ministry, 7821 Church Street, San Antonio, TX 78201, Phone: (555) 661-7743, Fax: (555) 661-7744"
+  },
+  "ground_truth": "Adherent"
+}

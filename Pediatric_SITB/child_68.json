@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Emma Thompson",
+    "Patient_MRN": "068",
+    "Date_of_Birth": "2009-11-08",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old female brought by ambulance after intentional acetaminophen overdose discovered by older sister.",
+    "Collateral_Contact_Information": "Sister: Ashley Thompson, Phone: (555) 456-7890",
+    "Subjective": "Patient is a 16-year-old female who presented via EMS after her sister found her unresponsive in her bedroom with an empty bottle of extra-strength acetaminophen (approximately 20 tablets) and a suicide note. The note detailed feelings of worthlessness following her girlfriend breaking up with her one week ago and subsequent harassment at school from peers who posted derogatory comments about her sexuality on social media. Patient regained consciousness en route and upon interview admits she ingested the pills with full intent to die, stating she felt utterly hopeless and saw no other way to stop the pain. She reports planning this for three days, waiting until her parents left for work. She has passive death wishes currently but states she regrets the attempt after seeing her sister's reaction. History reveals ongoing depression for six months, previous non-suicidal self-injury by cutting, currently taking fluoxetine 40mg which she reports has not been helping. She denies substance use. No prior suicide attempts. She cannot identify any protective factors at this time. (Psychiatrist Dr. Robert Kim, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Pale, tearful, hospital gown",
+      "Behavior": "Withdrawn, intermittently crying",
+      "Speech": "Soft, slow rate",
+      "Mood": "Hopeless",
+      "Affect": "Depressed, constricted",
+      "Thought_Process": "Linear but slowed",
+      "Thought_Content": "Recent suicide attempt with intent; current passive SI",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Minimal",
+      "Judgment": "Severely impaired"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Fluoxetine 40mg daily",
+    "CURES_Report": "Fluoxetine prescription on file",
+    "Laboratory_Data": {
+      "CBC": "WNL",
+      "Urine_Tox": "Negative",
+      "Head_CT": "Not indicated",
+      "Acetaminophen_Level": "Elevated at 185 mcg/mL; N-acetylcysteine protocol initiated"
+    },
+    "Diagnostic_Impression": "Major depressive disorder, severe; suicide attempt by intentional overdose; history of non-suicidal self-injury.",
+    "Psychosocial_Context": "Lives with parents and older sister; recent relationship dissolution; experiencing cyberbullying related to sexual orientation; current antidepressant treatment insufficient; history of self-harm.",
+    "Assessment_and_Plan": [
+      "High risk: recent high-lethality suicide attempt with clear intent and planning.",
+      "Minimal protective factors: regret expressed only in context of sister's distress.",
+      "Medical management: N-acetylcysteine protocol for acetaminophen toxicity; hepatic function monitoring.",
+      "5150 hold initiated.",
+      "Inpatient psychiatric admission required once medically cleared.",
+      "Medication reassessment needed; fluoxetine appears inadequate.",
+      "Address cyberbullying and LGBTQ+ support resources as part of treatment planning."
+    ],
+    "Author": "Dr. Robert Kim, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

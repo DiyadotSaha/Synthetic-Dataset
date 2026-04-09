@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Wei Zhang",
+    "Patient_MRN": "019",
+    "Date_of_Birth": "1981-01-19",
+    "Date_of_Service": "2024-05-29",
+    "Identifying_Data_Chief_Complaint": "43-year-old Asian American male with schizophrenia presenting with persistent negative symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Mei Zhang) at 555-778-2134",
+    "Subjective": "Mr. Zhang attended appointment accompanied by sister who assists with transportation from board and care facility. Staff at facility confirm he takes his olanzapine 20 mg every night without resistance or missed doses. While positive symptoms are well-controlled with no reported hallucinations or delusions, he continues to struggle significantly with negative symptoms and functional impairment. Sister describes him as emotionally flat, showing little interest in activities he previously enjoyed such as reading or watching soccer. He spends majority of days sitting alone in his room, requiring repeated prompts from staff to attend meals or group activities. Speech is minimal during interview, providing only brief answers to direct questions. Sleep is excessive at 10-12 hours daily including frequent daytime napping. Appetite is fair though requires encouragement to finish meals, weight has increased to 198 lbs (up 12 lbs over 6 months, concerning for metabolic effects). He does not engage in any social interactions with other residents. Sister reports he rarely initiates conversation even with her during weekly visits. Mood difficult to assess given flat affect, states 'nothing really' when asked how he feels. No apparent distress. Denies suicidal thoughts when asked directly. (Evaluated by Sandra Lopez, PMHNP-BC, Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Overweight male, basic grooming, sedentary posture",
+      "Speech": "Sparse, monotone, decreased latency",
+      "Affect": "Markedly flat, no observable emotional expression",
+      "Mood": "Apathetic",
+      "Thought_Content": "No psychotic symptoms elicited, poverty of content",
+      "Thought_Process": "Concrete, impoverished thought"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 14,
+      "GAD_7": 6,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Olanzapine 20 mg PO qHS",
+    "CURES_Report": "Reviewed; no issues identified.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; fasting glucose elevated at 118 mg/dL; lipid panel shows total cholesterol 242 mg/dL, triglycerides 201 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with prominent negative symptoms, metabolic syndrome secondary to antipsychotic.",
+    "Psychosocial_Context": "Resides in board and care facility; no employment; minimal social engagement; sister provides oversight and support.",
+    "Assessment_and_Plan": [
+      "Medication adherence excellent via facility administration.",
+      "Positive symptoms controlled but severe negative symptoms and functional impairment persist.",
+      "Metabolic concerns with weight gain and abnormal labs - discussed need for dietary intervention.",
+      "Referred to facility-based exercise program and nutrition consultation.",
+      "Consider trial of adjunctive medication for negative symptoms.",
+      "Labs to be repeated in 6 weeks.",
+      "Follow-up in 6 weeks to reassess."
+    ],
+    "RTC": "6 weeks",
+    "Author": "Note written by Sandra Lopez, PMHNP-BC, Nurse Practitioner \u2014 Valley Mental Health Services, 4521 Riverside Avenue, Phoenix, AZ 85012, Phone: (555) 612-8834, Fax: (555) 612-8835"
+  },
+  "ground_truth": "Adherent"
+}

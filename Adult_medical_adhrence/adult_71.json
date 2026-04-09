@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Daniel Nguyen",
+    "Patient_MRN": "071",
+    "Date_of_Birth": "1998-04-22",
+    "Date_of_Service": "2024-10-14",
+    "Identifying_Data_Chief_Complaint": "26-year-old Asian American male with schizophrenia for routine visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Father (Tuan Nguyen) at 555-229-8841",
+    "Subjective": "Patient arrived appearing well-groomed and engaged. Reports perfect adherence to risperidone 4 mg nightly using bedtime routine, never misses doses. States feeling really well. No hallucinations for five months. No paranoid thoughts. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 156 lbs. Working full-time as IT support specialist, thriving in career. Mood 'excellent' rated 8/10. Lives with parents which provides support and cultural connection. Recently got engaged to girlfriend of three years. Enjoys gaming and coding personal projects. Attends young professional networking group. One year sober from marijuana. Building confidence and independence. Planning to move into own apartment with fianc\u00e9e after wedding. No safety concerns, denies SI/HI. (Evaluated by Dr. Linda Tran, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professionally dressed, excellent grooming, positive demeanor",
+      "Speech": "Clear, articulate, engaged",
+      "Affect": "Bright, appropriate range",
+      "Mood": "Excellent",
+      "Thought_Content": "Future-oriented, no psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 2,
+      "GAD_7": 3,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 4 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, in remission.",
+    "Psychosocial_Context": "Lives with parents; employed full-time in IT; recently engaged; one year sober; planning marriage and independence.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and symptom control.",
+      "Continue risperidone 4 mg qHS.",
+      "Congratulated on engagement and career success.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Linda Tran, MD, Psychiatrist \u2014 Tech Workers Mental Health, 4521 Silicon Valley, San Jose, CA 95110, Phone: (555) 667-8821, Fax: (555) 667-8822"
+  },
+  "ground_truth": "Adherent"
+}

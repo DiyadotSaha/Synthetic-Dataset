@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Latasha Greene",
+    "Patient_MRN": "083",
+    "Date_of_Birth": "1979-02-16",
+    "Date_of_Service": "2024-06-28",
+    "Identifying_Data_Chief_Complaint": "45-year-old African American female with schizoaffective disorder with residual symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Ruby Greene) at 555-772-9034",
+    "Subjective": "Ms. Greene attended appointment with case manager. Case manager confirms she takes paliperidone ER 9 mg each morning via supervised administration at program, no missed doses. Despite good adherence, continues experiencing symptoms at moderate level. Reports ongoing auditory hallucinations several times daily of voices making negative comments. Endorses paranoid thoughts that people can read her mind. Sleep disrupted at 5 hours nightly. Appetite decreased, weight down 7 lbs to 154 lbs. Attends day program four days weekly, engages in some activities. Not working, receives disability. Lives in supported housing. Limited social contacts. Mood 'nervous' rated 4/10. Denies substance use. Case manager notes she isolates frequently. Safety: No SI/HI. (Assessed by Michael Johnson, LCSW, Licensed Clinical Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged female, fair grooming, appears anxious",
+      "Speech": "Soft, hesitant, coherent",
+      "Affect": "Anxious, constricted",
+      "Mood": "Nervous",
+      "Thought_Content": "Auditory hallucinations, thought broadcasting delusion",
+      "Thought_Process": "Coherent, preoccupied"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 15,
+      "GAD_7": 16,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Paliperidone ER 9 mg PO daily",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 99 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder with persistent symptoms despite adherence.",
+    "Psychosocial_Context": "Lives in supported housing; unemployed, on disability; attends day program; case management services.",
+    "Assessment_and_Plan": [
+      "Good adherence through program supervision.",
+      "Persistent psychotic and anxiety symptoms.",
+      "Already on maximum dose paliperidone.",
+      "Discussed augmentation strategies.",
+      "Will add adjunctive antidepressant.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Michael Johnson, LCSW, Licensed Clinical Social Worker \u2014 Recovery Housing Services, 5623 Hope Street, Atlanta, GA 30318, Phone: (555) 661-3487, Fax: (555) 661-3488"
+  },
+  "ground_truth": "Adherent"
+}

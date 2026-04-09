@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Diana Patel",
+    "Patient_MRN": "028",
+    "Date_of_Birth": "1991-03-16",
+    "Date_of_Service": "2024-06-27",
+    "Identifying_Data_Chief_Complaint": "33-year-old Indian American female with schizophrenia presenting for follow-up with concerns about medication side effects.",
+    "Collateral_Contact_Information": "Emergency Contact: Cousin (Anjali Sharma) at 555-776-4432",
+    "Subjective": "Ms. Patel arrives appearing uncomfortable and embarrassed. She hesitantly explains that she's been taking her paliperidone less consistently over the past month, maybe only 4 or 5 days per week, because it causes uncomfortable sexual side effects including decreased libido and difficulty with arousal that have been affecting her relationship with her partner. She didn't want to bring it up earlier out of embarrassment but it's become increasingly distressing. Reports feeling frustrated because the medication does help with her symptoms but the side effects feel 'unbearable' to her quality of life. Since reducing her medication frequency, she's noticed some return of symptoms including increased social anxiety, occasional paranoid thoughts that colleagues are judging her work performance harshly, and brief episodes of hearing indistinct whispers. Sleep has become more difficult, taking longer to fall asleep and experiencing more vivid, disturbing dreams. Appetite remains stable, weight unchanged at 142 lbs. She's maintained her job as a graphic designer but is increasingly stressed. Mood described as 'frustrated and down.' Her partner has been supportive and encouraging her to discuss the side effects with her provider. Denies substance use. No acute safety concerns though she expresses feeling hopeless about finding a medication that works without problematic side effects. (Documented by Lisa Hamilton, PMHNP, Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed young female, appears uncomfortable discussing concerns",
+      "Speech": "Soft, hesitant when discussing sensitive topics",
+      "Affect": "Constricted, embarrassed",
+      "Mood": "Frustrated and discouraged",
+      "Thought_Content": "Paranoid thoughts about work performance, mild auditory experiences",
+      "Thought_Process": "Organized, logical"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 12,
+      "GAD_7": 11,
+      "DAST_10": 0,
+      "AUDIT_C": 1,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Paliperidone 6 mg PO daily",
+    "CURES_Report": "Reviewed; no concerns.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Metabolic panel and CBC within normal limits; prolactin elevated at 42 ng/mL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, complicated by medication side effects impacting adherence and quality of life.",
+    "Psychosocial_Context": "Lives with partner; employed as graphic designer; relationship stress related to medication side effects; otherwise stable support system.",
+    "Assessment_and_Plan": [
+      "Sexual side effects significantly impacting medication adherence and quality of life.",
+      "Elevated prolactin level contributing to side effects.",
+      "Discussed switching to antipsychotic with lower prolactin impact (aripiprazole or ziprasidone).",
+      "Patient agreeable to medication trial of aripiprazole.",
+      "Validated patient's concerns and reinforced importance of discussing side effects openly.",
+      "Will cross-taper to new medication over 2-3 weeks.",
+      "Encouraged open communication with partner about treatment adjustments.",
+      "Follow-up in 2 weeks to monitor transition and assess side effect improvement."
+    ],
+    "RTC": "2 weeks",
+    "Author": "Note written by Lisa Hamilton, PMHNP, Nurse Practitioner \u2014 Wellness Psychiatric Care, 1900 Evergreen Way, Portland, OR 97232, Phone: (555) 556-7788, Fax: (555) 556-7789"
+  },
+  "ground_truth": "Non-Adherent"
+}

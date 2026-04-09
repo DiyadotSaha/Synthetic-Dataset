@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Luis Hernandez",
+    "Patient_MRN": "036",
+    "Date_of_Birth": "1995-08-11",
+    "Date_of_Service": "2024-10-27",
+    "Identifying_Data_Chief_Complaint": "29-year-old Hispanic male with schizophrenia for medication review.",
+    "Collateral_Contact_Information": "Emergency Contact: Girlfriend (Maria Santos) at 555-447-8923",
+    "Subjective": "Patient arrived to appointment on time, appearing calm and cooperative. Reports consistent medication adherence, taking quetiapine 400 mg at bedtime as prescribed, which he tracks in a calendar journal. States he is doing well overall with good symptom control. Denies hallucinations for past two months. No paranoid ideation currently though notes he sometimes feels mildly suspicious of strangers but can reality-test these thoughts. Sleep is restorative at 8 hours nightly. Appetite good, weight stable at 189 lbs. Working full-time as a construction laborer for past six months, maintaining consistent employment. Mood 'stable and okay' rated 7/10. Lives with girlfriend in shared apartment, relationship is supportive. Attends AA meetings weekly, maintaining sobriety from alcohol for 18 months. Enjoys playing soccer on weekends with friends. No safety concerns, denies SI/HI. (Evaluated by Lisa Chang, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed in work clothes, good hygiene",
+      "Speech": "Normal rate, clear, cooperative",
+      "Affect": "Appropriate, reactive",
+      "Mood": "Stable",
+      "Thought_Content": "No psychotic symptoms, reality-based",
+      "Thought_Process": "Organized, linear"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 4,
+      "GAD_7": 5,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Quetiapine 400 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC and CMP within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable on current regimen.",
+    "Psychosocial_Context": "Employed full-time; lives with girlfriend; 18 months sober; engaged in recovery activities; good social supports.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and symptom control.",
+      "Continue quetiapine 400 mg qHS.",
+      "Commended on sustained sobriety and employment stability.",
+      "Routine metabolic monitoring in 6 months.",
+      "Follow-up in 12 weeks."
+    ],
+    "RTC": "12 weeks",
+    "Author": "Note written by Lisa Chang, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Central City Health, 789 Main Street, Houston, TX 77002, Phone: (555) 334-7721, Fax: (555) 334-7722"
+  },
+  "ground_truth": "Adherent"
+}

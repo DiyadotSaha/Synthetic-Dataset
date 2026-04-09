@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Brooke Nelson",
+    "Patient_MRN": "074",
+    "Date_of_Birth": "2010-06-14",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female brought by mother after finding notes on her phone describing plan to overdose due to social media-related distress.",
+    "Collateral_Contact_Information": "Mother: Michelle Nelson, Phone: (555) 992-3344",
+    "Subjective": "Patient is a 15-year-old female presenting after her mother discovered notes in her phone detailing a plan to overdose on her prescribed ADHD medication. The notes, written over the past week, describe feeling worthless when comparing herself to influencers and peers on social media, documenting their perfect lives, bodies, relationships, and popularity. She reports spending 8-10 hours daily on TikTok and Instagram, has developed a plan to save up her stimulant medication over two weeks, and identified a time when her mother would be at work. When asked about intent, she states she wrote the plan but has not started saving pills because part of her knows the social media images are filtered and curated, yet she cannot stop the comparisons. She describes her mood as dependent on social media engagement - feeling euphoric when posts get likes but devastated when they do not. Sleep is fragmented as she wakes to check notifications. She has gained 15 pounds over six months and feels this makes her inferior. She quit dance team due to body image concerns. Two close friends, though most social connection is online with people she has never met. Currently on methylphenidate ER 36mg for ADHD. (ED Physician Dr. Laura Bennett, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casual dress, phone in hand initially, reluctant to put it down",
+      "Behavior": "Cooperative but frequently checking phone until asked to stop",
+      "Speech": "Normal rate, frequent references to social media metrics",
+      "Mood": "Empty and inferior",
+      "Affect": "Flat with brief animation when discussing online validation",
+      "Thought_Process": "Organized but dominated by social comparison thoughts",
+      "Thought_Content": "Active SI with documented plan but ambivalent intent",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Partial - recognizes problem intellectually but cannot stop behavior",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Methylphenidate ER 36mg daily",
+    "CURES_Report": "Methylphenidate on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder; problematic social media use with addiction features; suicidal ideation with plan; body dysmorphia; ADHD.",
+    "Psychosocial_Context": "Excessive social media use (8-10 hours daily); social comparison and validation-seeking; withdrawn from dance team; weight gain; ADHD medication prescribed; peer relationships mostly online; mother supportive.",
+    "Assessment_and_Plan": [
+      "Moderate risk: active SI with documented plan involving stimulant medication but ambivalent intent; planning behavior concerning.",
+      "Limited protective factors: some insight into social media's curated nature, two in-person friends, mother's support.",
+      "Mother to take control of ADHD medication dispensing daily; no stockpiling possible.",
+      "Address problematic social media use as primary driver of depression and suicidality.",
+      "Recommend intensive outpatient program focusing on technology addiction and mood.",
+      "Trial of social media reduction/elimination with monitoring apps and parental controls.",
+      "Therapy for body image, self-worth independent of external validation, and depression.",
+      "Encourage return to dance or other non-screen activities.",
+      "Assess stimulant medication necessity; consider non-stimulant ADHD alternatives.",
+      "Mother to monitor phone use and implement screen time limits.",
+      "Follow-up within 48 hours; discharge contingent on medication security and phone use restriction plan."
+    ],
+    "Author": "Dr. Laura Bennett, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

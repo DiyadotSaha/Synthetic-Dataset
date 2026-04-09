@@ -1,0 +1,53 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Nathan Lee",
+    "Patient_MRN": "178",
+    "Date_of_Birth": "2010-08-17",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by mother due to worsening suicidal thoughts following recent medication change.",
+    "Collateral_Contact_Information": "Mother: Grace Lee, Phone: (555) 567-2345",
+    "Subjective": "Patient is a 15-year-old male with history of ADHD and depression presenting with increased suicidal ideation over the past week. Two weeks ago, his psychiatrist discontinued his escitalopram and started him on bupropion due to reported activation symptoms. Since the change, patient reports escalating thoughts of suicide and has developed a specific plan to drive his mother's car into a tree on a curved road near their home. He describes visualizing this scenario repeatedly but states he has no intention of acting on it because he does not have a driver's license and knows his mother keeps her keys with her. He reports feeling more agitated, restless, and having racing thoughts since the medication change. Sleep is fragmented with only 4-5 hours per night. His mother notes increased irritability and pacing behavior. Patient has been in treatment for depression for one year with previous good response to escitalopram until activation emerged. He identifies his best friend and his dog as reasons to stay safe. (Psychiatric Nurse Practitioner Diana Chen, PMHNP)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, fidgeting, appears restless",
+      "Behavior": "Cooperative but motorically restless",
+      "Speech": "Rapid rate, increased volume",
+      "Mood": "Agitated and sad",
+      "Affect": "Labile, anxious",
+      "Thought_Process": "Circumstantial, racing quality",
+      "Thought_Content": "Active SI with specific plan but denies intent",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Bupropion XL 150mg daily (started 2 weeks ago), Methylphenidate ER 36mg daily",
+    "CURES_Report": "Methylphenidate on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "Negative",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder with possible bupropion-induced activation; ADHD; suicidal ideation with plan in context of medication adjustment.",
+    "Psychosocial_Context": "Lives with mother and younger sibling; established in psychiatric care; depression worsened following recent medication transition; supportive peer relationship; strong attachment to pet.",
+    "Assessment_and_Plan": [
+      "Moderate risk: active SI with specific plan but denies intent; symptoms temporally related to medication change.",
+      "Some protective factors: peer support, attachment to pet, practical barriers to plan (no license, no key access).",
+      "Medication-induced activation likely contributing; bupropion appears poorly tolerated.",
+      "Contact outpatient psychiatrist urgently regarding medication adjustment.",
+      "Consider resuming previous SSRI or alternative medication strategy.",
+      "Hold on current bupropion pending psychiatrist consultation.",
+      "Safety planning with means restriction of vehicle access reinforced.",
+      "Mother to provide close monitoring; crisis resources provided.",
+      "Psychiatry follow-up within 24-48 hours mandatory.",
+      "May discharge if psychiatrist available for urgent follow-up; otherwise consider brief observation."
+    ],
+    "Author": "Diana Chen, PMHNP (Psychiatric Nurse Practitioner)"
+  },
+  "ground_truth": "yes"
+}

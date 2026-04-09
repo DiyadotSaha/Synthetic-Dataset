@@ -1,0 +1,50 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Marcus Johnson",
+    "Patient_MRN": "146",
+    "Date_of_Birth": "1966-08-16",
+    "Date_of_Service": "2024-07-22",
+    "Identifying_Data_Chief_Complaint": "58-year-old African American male with chronic psychotic disorder with severe persistent symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Daughter (Latoya Johnson) at 555-447-2298",
+    "Subjective": "Mr. Johnson presented to appointment with daughter who manages his care. Daughter confirms he takes haloperidol 15 mg nightly and benztropine 2 mg BID via her administration during daily visits, perfect adherence. Despite consistent medication at high dose, continues experiencing severe symptoms with minimal improvement. Reports constant auditory hallucinations all day of voices arguing loudly about him. Endorses fixed paranoid delusions that government poisoned his water supply and food. Sleep severely disrupted at 3-5 hours nightly due to voices and fear. Appetite very poor, refuses most meals due to poisoning beliefs, weight dangerously low at 128 lbs (down 32 lbs over eight months). Unable to work for past twenty years, on disability. Lives alone in apartment, daughter visits daily to supervise medications and bring food. Refuses to leave apartment due to extreme paranoia. No ADL independence. Mood 'scared all the time' rated 2/10. Denies substance use. Daughter extremely concerned about weight loss and deterioration. Safety: Passive SI, denies plan or intent, denies HI. (Evaluated by Dr. Vanessa Brown, ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Elderly appearing, emaciated, disheveled, poor hygiene, appears terrified",
+      "Speech": "Whispered, disorganized, frequent stops to listen to voices",
+      "Affect": "Fearful, severely restricted, profoundly distressed",
+      "Mood": "Scared all the time",
+      "Thought_Content": "Severe constant auditory hallucinations, fixed paranoid delusions about poisoning, passive suicidal ideation",
+      "Thought_Process": "Severely disorganized, dominated by psychotic content"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 22,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive suicidal ideation without plan or intent"
+    },
+    "Current_Medications": "Haloperidol 15 mg PO qHS; Benztropine 2 mg PO BID",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Severe malnutrition markers; albumin 2.6 g/dL; CBC shows anemia; glucose 82 mg/dL; electrolytes abnormal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Chronic psychotic disorder, severe treatment-resistant with dangerous medical complications from malnutrition.",
+    "Psychosocial_Context": "Lives alone with daily daughter support; unable to work, on long-term disability; homebound due to paranoia; severe functional impairment; medical emergency from malnutrition.",
+    "Assessment_and_Plan": [
+      "Perfect medication adherence through daughter's supervision.",
+      "Severe treatment-resistant psychotic symptoms with no response to haloperidol.",
+      "Dangerous malnutrition and weight loss require immediate medical intervention.",
+      "Current regimen inadequate and potentially harmful given poor response.",
+      "Patient requires immediate hospitalization for medical stabilization and medication change.",
+      "Recommend inpatient admission to medical psychiatry unit.",
+      "Will transition to clozapine once medically stable.",
+      "Discussed with daughter who agrees urgent hospitalization needed.",
+      "Arranging voluntary medical admission today.",
+      "Follow-up post-discharge."
+    ],
+    "RTC": "Post-discharge",
+    "Author": "Note written by Dr. Vanessa Brown, ED Physician \u2014 County Hospital Emergency Department, 2021 Emergency Plaza, Detroit, MI 48202, Phone: (555) 992-3387, Fax: (555) 992-3388"
+  },
+  "ground_truth": "Adherent"
+}

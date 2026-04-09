@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Kevin Patterson",
+    "Patient_MRN": "098",
+    "Date_of_Birth": "1990-09-28",
+    "Date_of_Service": "2024-09-04",
+    "Identifying_Data_Chief_Complaint": "34-year-old African American male with schizophrenia for routine visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Dorothy Patterson) at 555-229-7643",
+    "Subjective": "Patient arrived appearing well-groomed and positive. Reports excellent adherence to risperidone 4 mg nightly using bedtime routine and phone reminder. States feeling very well. No hallucinations for four months. No paranoid ideation. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 177 lbs. Working full-time as warehouse supervisor, recently promoted. Mood 'great' rated 8/10. Lives independently in apartment. In stable relationship with girlfriend for three years. Enjoys basketball and coaching youth team at community center. Two years sober from alcohol and marijuana. Strong support system. Building financial stability with plans to buy house. No safety concerns, denies SI/HI. (Evaluated by Dr. Angela Brown, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professionally dressed, excellent grooming, positive demeanor",
+      "Speech": "Clear, articulate, engaged",
+      "Affect": "Bright, full range",
+      "Mood": "Great",
+      "Thought_Content": "Future-oriented, no psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 2,
+      "GAD_7": 3,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 4 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, in remission.",
+    "Psychosocial_Context": "Living independently; recently promoted to supervisor; two years sober; in relationship; coaching youth; planning home purchase.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and symptom control.",
+      "Continue risperidone 4 mg qHS.",
+      "Congratulated on promotion and community involvement.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Angela Brown, MD, Psychiatrist \u2014 Community Leadership Mental Health, 4521 Victory Drive, Cleveland, OH 44102, Phone: (555) 447-8821, Fax: (555) 447-8822"
+  },
+  "ground_truth": "Adherent"
+}

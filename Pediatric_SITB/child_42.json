@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Mia Zhang",
+    "Patient_MRN": "042",
+    "Date_of_Birth": "2011-04-14",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by adoptive mother after expressing thoughts that 'no one would miss me if I disappeared' following argument about birth mother contact.",
+    "Collateral_Contact_Information": "Adoptive Mother: Elizabeth Zhang, Phone: (555) 998-3322",
+    "Subjective": "Patient is a 14-year-old female adopted from China at age 3 presenting after an emotionally charged argument with her adoptive mother about searching for her birth mother. Patient became very upset when her adoptive mother expressed hesitation about beginning a birth family search, interpreting this as her adoptive parents not understanding her need to know her origins. In the heat of the argument, patient stated nobody would miss her if she disappeared and maybe she should not exist. Adoptive mother immediately brought her for evaluation. Patient clarifies she was speaking from emotional pain rather than true suicidal intent, but acknowledges she has been having occasional passive thoughts over the past month that maybe she does not belong anywhere and would be better off not existing. She explicitly denies any plan, method, or intent to harm herself. She describes feeling caught between two identities and unsure where she fits. She loves her adoptive family but feels an emptiness about not knowing her biological origins. Sleep normal, appetite good. She excels academically, has close friends at school, and is active in the school's Asian Student Alliance. Previously well-adjusted with no mental health concerns. (Social Worker Helen Ng, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appropriate for age",
+      "Behavior": "Cooperative, remorseful about upsetting mother",
+      "Speech": "Clear, normal rate",
+      "Mood": "Conflicted and sad",
+      "Affect": "Full range, tearful when discussing belonging",
+      "Thought_Process": "Organized, introspective",
+      "Thought_Content": "Passive suicidal ideation without plan or intent; identity confusion",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Excellent for age",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood; adoption-related identity development issues; passive suicidal ideation in context of identity crisis.",
+    "Psychosocial_Context": "Transracial adoptee from China; supportive adoptive family; academically successful; strong peer connections; active in cultural identity group; emerging questions about birth family and origins.",
+    "Assessment_and_Plan": [
+      "Low risk: passive SI without plan or intent in context of normative adoption identity development and acute family conflict.",
+      "Strong protective factors: loving adoptive family, academic success, peer support, cultural community involvement, excellent insight.",
+      "Statements made in emotional context of argument; represent identity struggle rather than suicide intent.",
+      "Referral to therapist specializing in adoption and transracial adoptee identity development.",
+      "Family therapy to facilitate communication about birth family search and complex feelings.",
+      "Connect with adoptive parent support groups to educate parents on normative identity exploration.",
+      "Encourage continued involvement in Asian Student Alliance for identity affirmation.",
+      "Resources provided for adoption-competent support services.",
+      "Safety plan created with patient and mother.",
+      "Follow-up with adoption-competent therapist within one week.",
+      "Safe for discharge; conflict resolution initiated between patient and mother."
+    ],
+    "Author": "Helen Ng, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

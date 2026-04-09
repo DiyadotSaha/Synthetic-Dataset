@@ -1,0 +1,50 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Raymond Chen",
+    "Patient_MRN": "191",
+    "Date_of_Birth": "1980-11-25",
+    "Date_of_Service": "2024-10-17",
+    "Identifying_Data_Chief_Complaint": "44-year-old Asian American male with schizophrenia in acute psychotic crisis.",
+    "Collateral_Contact_Information": "Emergency Contact: Wife (Mei Chen) at 555-883-7721",
+    "Subjective": "Mr. Chen brought to ED by wife and police after found wandering highway believing he was 'being chased by demons.' Wife reports he stopped paliperidone ER completely 3 months ago claiming medication was 'weakening his spiritual powers.' Since then, complete deterioration. Constant hallucinations - hearing voices of dead relatives, seeing religious figures commanding him to perform rituals. Elaborate delusions about being chosen for divine mission, must walk to specific location or family will die. Hasn't slept more than 1-2 hours nightly in months. Refusing food believing fasting increases powers, weight down 38 lbs to 122 lbs, severely emaciated. Lost engineering job 10 weeks ago. Gave away possessions preparing for 'journey.' Apartment filled with bizarre religious writings and symbols. Wife cannot manage safety at home, two young children frightened. Patient highly disorganized, responding to hallucinations, no insight. Mood 'I must complete the mission' unable to assess reality. Denies substance use. Safety: no SI, but reckless behavior endangering self (highway incident), no HI but unpredictable. (Evaluated by Dr. Patricia Wong, ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Severely malnourished, disheveled, bizarre posturing, internally preoccupied",
+      "Speech": "Tangential, disorganized, pressured, religious themes",
+      "Affect": "Labile, detached from reality",
+      "Mood": "I must complete the mission",
+      "Thought_Content": "Grandiose and religious delusions, command hallucinations, poor insight",
+      "Thought_Process": "Severely disorganized, tangential, flight of ideas, illogical"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 20,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation; grave disability and danger to self via reckless behavior"
+    },
+    "Current_Medications": "Paliperidone ER 9 mg PO daily (stopped 3 months ago)",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Severe malnutrition; albumin 2.2 g/dL; electrolyte abnormalities; dehydration.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with severe psychotic crisis and grave disability after medication discontinuation.",
+    "Psychosocial_Context": "Married with children; recently unemployed; severe functional collapse; family unable to manage safety.",
+    "Assessment_and_Plan": [
+      "Severe psychotic crisis after stopping paliperidone 3 months ago.",
+      "Complete loss of reality testing, grave disability, endangering self.",
+      "Severe malnutrition life-threatening.",
+      "Meets criteria for involuntary hospitalization - grave disability.",
+      "5150 hold initiated.",
+      "Transfer to medical psychiatry unit for stabilization.",
+      "Restart paliperidone, may need transition to LAI.",
+      "Medical stabilization for malnutrition critical.",
+      "Family therapy and safety planning needed.",
+      "Extended hospitalization likely required."
+    ],
+    "RTC": "Post-hospital discharge",
+    "Author": "Note written by Dr. Patricia Wong, ED Physician \u2014 Regional Medical Center ED, 800 Emergency Way, San Jose, CA 95110, Phone: (555) 992-6654, Fax: (555) 992-6655"
+  },
+  "ground_truth": "Non-Adherent"
+}

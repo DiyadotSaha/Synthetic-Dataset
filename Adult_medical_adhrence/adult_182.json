@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Monique Johnson",
+    "Patient_MRN": "182",
+    "Date_of_Birth": "1989-12-29",
+    "Date_of_Service": "2024-10-13",
+    "Identifying_Data_Chief_Complaint": "35-year-old African American female with schizoaffective disorder with mood decline.",
+    "Collateral_Contact_Information": "Emergency Contact: Aunt (Sharon Davis) at 555-229-6654",
+    "Subjective": "Ms. Johnson presents appearing sad and withdrawn. Aunt accompanies reporting patient has been taking quetiapine irregularly, 3-4 times weekly for past 5 weeks after gaining 15 pounds on medication affecting self-image. Since inconsistent dosing, mood severely declined with crying spells daily, complete loss of interest in hair styling work she loved, and paranoid thoughts that clients making fun of her weight behind her back. Hearing critical voice saying she's 'fat and worthless' multiple times daily. Sleep 4-5 hours. Appetite erratic with binge-restrict pattern. Calling out sick from salon job frequently, clients complaining. Lives with aunt. Withdrawn from church activities. Mood 'depressed and ashamed' rated 2/10. Denies substance use. Safety: passive SI without plan, denies HI. (Assessed by Dr. Lorraine Brown, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, poor grooming, avoids eye contact, tearful",
+      "Speech": "Soft, slow, minimal",
+      "Affect": "Depressed, tearful",
+      "Mood": "Depressed and ashamed",
+      "Thought_Content": "Paranoid ideation about body image judgment, auditory hallucinations with critical content, passive SI",
+      "Thought_Process": "Slowed, ruminative on weight and appearance"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 18,
+      "GAD_7": 14,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive suicidal ideation without plan"
+    },
+    "Current_Medications": "Quetiapine 300 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Glucose 108 mg/dL, lipids elevated.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, with severe exacerbation due to weight-related medication nonadherence.",
+    "Psychosocial_Context": "Lives with aunt; self-employed stylist but work declining; body image concerns; passive SI.",
+    "Assessment_and_Plan": [
+      "Severe mood and psychotic symptom worsening related to irregular quetiapine use due to weight gain.",
+      "Discussed alternative medications with better metabolic profiles.",
+      "Will transition to ziprasidone or aripiprazole.",
+      "Referral to nutritionist and therapist for body image work.",
+      "Passive SI requires monitoring - aunt to supervise, crisis resources provided.",
+      "Follow-up in 1 week."
+    ],
+    "RTC": "1 week",
+    "Author": "Note written by Dr. Lorraine Brown, MD, Psychiatrist \u2014 Women's Empowerment Mental Health, 2900 Wellness Way, Atlanta, GA 30303, Phone: (555) 661-7732, Fax: (555) 661-7733"
+  },
+  "ground_truth": "Non-Adherent"
+}

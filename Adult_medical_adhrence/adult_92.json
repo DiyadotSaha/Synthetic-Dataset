@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Vincent Moretti",
+    "Patient_MRN": "092",
+    "Date_of_Birth": "1962-04-16",
+    "Date_of_Service": "2024-05-14",
+    "Identifying_Data_Chief_Complaint": "62-year-old White male with schizophrenia presenting with severe treatment-resistant symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Daughter (Angela Moretti) at 555-772-4498",
+    "Subjective": "Mr. Moretti brought to crisis appointment by daughter who provides detailed collateral history. Skilled nursing facility where he resides documents 100% adherence to clozapine 500 mg nightly administered by nursing staff for past 20 months with all blood work showing therapeutic levels and adequate ANC. Despite maximum clozapine and perfect compliance, patient remains profoundly symptomatic. During interview patient is largely unresponsive, staring blankly, occasionally mumbling incomprehensibly. Daughter reports father experiences constant auditory hallucinations telling him to refuse care and that doctors are trying to harm him. Over past month has become increasingly catatonic - barely moving, not speaking, requiring total assistance for all activities. Has refused nearly all food for three weeks requiring hand-feeding of small amounts, resulting in 23-pound weight loss to 116 lbs. Sleep pattern completely disrupted, sometimes awake for days then sleeping 20 hours. Complete loss of self-care abilities - requires full assist with all ADLs. Staff report he occasionally becomes agitated and violent without warning, striking caregivers. Daughter devastated watching father's decline. Risk assessment critical: Severe malnutrition, catatonic presentation, unpredictable violence, grave disability. Unable to assess intent given catatonia. (Crisis evaluation by Dr. Robert Caruso, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Elderly male, severely malnourished, poor hygiene, catatonic posturing, minimal movement",
+      "Speech": "Mutism with occasional incomprehensible mumbling",
+      "Affect": "Severely blunted, appears disconnected",
+      "Mood": "Unable to assess",
+      "Thought_Content": "Unable to assess given catatonia, history of command hallucinations",
+      "Thought_Process": "Unable to assess given minimal responsiveness"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 26,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Unable to assess due to catatonia, significant risk given clinical picture"
+    },
+    "Current_Medications": "Clozapine 500 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Recent clozapine level 634 ng/mL therapeutic; ANC 4.1 K/uL adequate; severe malnutrition with albumin 2.1 g/dL, prealbumin low; CMP shows dehydration.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, severe and treatment-refractory despite therapeutic clozapine, with catatonic features and dangerous deterioration.",
+    "Psychosocial_Context": "Resides in skilled nursing facility; widowed; daughter involved; on Medicare; complete functional disability; requires 24-hour care.",
+    "Assessment_and_Plan": [
+      "Perfect adherence to maximum dose clozapine with therapeutic levels but complete treatment failure.",
+      "Life-threatening catatonia with severe malnutrition and unpredictable violence.",
+      "5150 hold for immediate involuntary psychiatric hospitalization.",
+      "Urgent medical evaluation needed for malnutrition.",
+      "Psychiatric admission for emergency ECT trial - catatonia is ECT-responsive.",
+      "May require NG tube nutrition.",
+      "Benzodiazepine challenge for catatonia.",
+      "Long-term conservatorship evaluation indicated.",
+      "Coordinating emergency transfer now."
+    ],
+    "RTC": "Post-hospitalization",
+    "Author": "Note written by Dr. Robert Caruso, MD, Psychiatrist \u2014 Geriatric Psychiatry Emergency, 6721 Senior Health Drive, Providence, RI 02903, Phone: (555) 229-7643, Fax: (555) 229-7644"
+  },
+  "ground_truth": "Adherent"
+}

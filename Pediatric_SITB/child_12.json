@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Zoe Williams",
+    "Patient_MRN": "012",
+    "Date_of_Birth": "2012-04-07",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female referred from primary care after endorsing thoughts that 'life is too hard' during wellness visit.",
+    "Collateral_Contact_Information": "Guardian: Aunt Rachel Williams, Phone: (555) 329-5674",
+    "Subjective": "Patient is a 13 y/o female evaluated today following routine wellness visit where she disclosed to her pediatrician that she sometimes thinks 'life is too hard' and wonders what it would be like not to exist. During interview, patient explains she has been feeling overwhelmed by changes in her living situation - she moved in with her aunt six months ago after her mother entered residential treatment for substance use. While she loves her aunt and feels safe, she misses her mother and worries constantly about her wellbeing. Patient describes passive thoughts about not existing but denies any desire to hurt herself, stating 'I would never actually do anything.' No plan or intent present. She reports occasional difficulty sleeping and has lost interest in drawing, which used to be her favorite activity. She notes that talking to her school counselor weekly has been helpful. She looks forward to weekly video calls with her mother and maintains good relationships with two close friends at school. (Nurse Practitioner Samantha Lee, NP)",
+    "Mental_Status_Examination": {
+      "Appearance": "Neat, appropriately dressed for age",
+      "Behavior": "Cooperative and engaged",
+      "Speech": "Clear, appropriate volume",
+      "Mood": "Worried",
+      "Affect": "Somewhat restricted but appropriate",
+      "Thought_Process": "Goal-directed",
+      "Thought_Content": "Passive SI without plan or intent",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Good for age",
+      "Judgment": "Intact"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Melatonin 3mg PRN",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood secondary to family disruption.",
+    "Psychosocial_Context": "Currently residing with maternal aunt after mother's residential treatment admission; maintains contact with mother; engaged with school counselor; has close peer friendships.",
+    "Assessment_and_Plan": [
+      "Passive SI in context of family stressor and adjustment to new living arrangement.",
+      "Protective factors include: stable housing with supportive aunt, peer support, school counselor engagement, regular maternal contact.",
+      "Low acute risk for self-harm.",
+      "Continue school counseling; referral for individual therapy to process family changes.",
+      "Safety plan reviewed with patient and guardian."
+    ],
+    "Author": "Samantha Lee, NP (Nurse Practitioner)"
+  },
+  "ground_truth": "yes"
+}

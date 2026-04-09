@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Rosa Sanchez",
+    "Patient_MRN": "075",
+    "Date_of_Birth": "1972-03-27",
+    "Date_of_Service": "2024-06-21",
+    "Identifying_Data_Chief_Complaint": "52-year-old Hispanic female with chronic psychotic disorder with moderate symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Daughter (Sofia Sanchez) at 555-772-9034",
+    "Subjective": "Ms. Sanchez attended appointment with daughter who assists with treatment. Daughter confirms mother takes ziprasidone 60 mg twice daily with meals via supervision, no missed doses. Despite good adherence, continues experiencing bothersome symptoms. Reports daily auditory hallucinations of woman's voice criticizing her, causing distress. Also endorses paranoid ideas that coworkers gossip about her, leading to work stress. Sleep disrupted at 5-6 hours nightly. Appetite decreased, weight down 5 lbs to 146 lbs. Working part-time as hotel housekeeper, struggling with energy and concentration. Lives with daughter and grandchildren. Limited social activities outside family. Mood 'tired and stressed' rated 4/10. Denies substance use. Daughter concerned about mother's ongoing symptoms. Safety: No SI/HI. (Assessed by Dr. Francisco Ruiz, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged female, fair grooming, appears fatigued",
+      "Speech": "Soft, hesitant, coherent",
+      "Affect": "Anxious, restricted",
+      "Mood": "Tired and stressed",
+      "Thought_Content": "Auditory hallucinations, paranoid ideation about coworkers",
+      "Thought_Process": "Coherent, preoccupied"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 15,
+      "GAD_7": 14,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Ziprasidone 60 mg PO BID with food",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 102 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder with persistent symptoms despite adherence.",
+    "Psychosocial_Context": "Lives with daughter; working part-time; limited social engagement; family provides support.",
+    "Assessment_and_Plan": [
+      "Good adherence through daughter's supervision.",
+      "Persistent psychotic and depressive symptoms.",
+      "Discussed medication adjustment.",
+      "Will increase ziprasidone to 80 mg BID.",
+      "Consider adding antidepressant.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Dr. Francisco Ruiz, MD, Psychiatrist \u2014 Latino Family Health Center, 5623 familia Avenue, San Diego, CA 92113, Phone: (555) 884-2217, Fax: (555) 884-2218"
+  },
+  "ground_truth": "Adherent"
+}

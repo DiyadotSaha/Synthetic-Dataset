@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Angela White",
+    "Patient_MRN": "145",
+    "Date_of_Birth": "1992-02-28",
+    "Date_of_Service": "2024-10-14",
+    "Identifying_Data_Chief_Complaint": "32-year-old White female with schizoaffective disorder for medication check.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Michelle White) at 555-338-7754",
+    "Subjective": "Patient presented appearing bright and well-groomed. Reports excellent adherence to lurasidone 120 mg taken every evening with dinner as prescribed, uses evening meal as cue and never forgets. States feeling wonderful. No hallucinations or paranoid thoughts for past six months. Sleep excellent at 8 hours nightly. Appetite great, weight stable at 145 lbs. Working full-time as veterinary technician, loves working with animals. Mood 'wonderful' rated 8/10. Lives alone with two dogs. Active hiking and photography hobbies. Maintains close friendships. Attending therapy monthly for wellness. Sixteen months sober from all substances. Training to become certified vet tech. No safety concerns, denies SI/HI. (Evaluated by Dr. Susan Miller, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casual comfortable clothes, excellent grooming, cheerful demeanor",
+      "Speech": "Clear, warm, well-paced",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Wonderful",
+      "Thought_Content": "Future-oriented, passionate about career, no psychotic symptoms",
+      "Thought_Process": "Organized, logical, coherent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 2,
+      "GAD_7": 3,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Lurasidone 120 mg PO qHS with food",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Living independently; employed full-time in veterinary field; sixteen months sober; active hobbies and social life.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and sustained remission.",
+      "Continue lurasidone 120 mg qHS with food.",
+      "Commended on career advancement and recovery.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Susan Miller, MD, Psychiatrist \u2014 Animal Care Workers Health, 4421 Veterinary Plaza, Portland, OR 97204, Phone: (555) 103-6654, Fax: (555) 103-6655"
+  },
+  "ground_truth": "Adherent"
+}

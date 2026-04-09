@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Paige Roberts",
+    "Patient_MRN": "105",
+    "Date_of_Birth": "2013-11-29",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "12-year-old female brought by stepmother for sadness about limited contact with biological mother.",
+    "Collateral_Contact_Information": "Stepmother: Kelly Roberts, Phone: (555) 789-0247",
+    "Subjective": "Patient is a 12-year-old female presenting with sadness over past month related to infrequent contact with biological mother who has unstable housing and substance use issues. She reports missing her mother and wishing she could see her more regularly. She denies any thoughts of self-harm or suicidal ideation. Patient states she understands her mother is struggling but still hopes for more consistent contact. Last visit was three months ago. She has good relationship with father and stepmother but expresses grief about maternal situation. Sleep and appetite normal. Continues to do well in school and participates in gymnastics. Stepmother reports patient sometimes seems sad but generally copes well and is well-adjusted. Patient has been in therapy on and off to process maternal relationship. (Social Worker Nancy Wilson, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears stated age",
+      "Behavior": "Cooperative, somewhat sad",
+      "Speech": "Clear, soft-spoken",
+      "Mood": "Sad about mom situation",
+      "Affect": "Congruent, subdued",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good for age",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood, mild.",
+    "Psychosocial_Context": "Lives with father and stepmother; biological mother has unstable housing and substance use disorder; limited maternal contact; otherwise well-adjusted; engaged in gymnastics; previously engaged in therapy.",
+    "Assessment_and_Plan": [
+      "Grief and adjustment to limited maternal contact due to mother's circumstances.",
+      "Protective factors: stable home with father and stepmother, engaged in activities, academically successful, good coping overall, no suicidal ideation.",
+      "Resume individual therapy to process grief and maternal relationship.",
+      "Age-appropriate explanation and validation of feelings provided.",
+      "Encourage maintenance of connection through letters or calls when mother is able.",
+      "Continued engagement in gymnastics and peer activities.",
+      "Stepmother supported in helping patient navigate complex feelings.",
+      "Follow-up with outpatient therapist; most symptoms manageable with ongoing support."
+    ],
+    "Author": "Nancy Wilson, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

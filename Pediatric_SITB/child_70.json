@@ -1,0 +1,56 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Kevin Zhang",
+    "Patient_MRN": "070",
+    "Date_of_Birth": "2009-04-02",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old male brought by parents after discovering suicide note and detailed plan following receipt of B+ grade in AP Chemistry.",
+    "Collateral_Contact_Information": "Father: William Zhang, Phone: (555) 776-2211; Mother: Susan Zhang, Phone: (555) 776-2212",
+    "Subjective": "Patient is a 16-year-old male presenting after his parents discovered a typed suicide note and detailed plan hidden in a folder on his laptop. The note, written two days ago after receiving his first B+ grade, outlined his intent to drive to a specific bridge and jump during his parents' date night this Friday. The note included specific timing (when bridge foot traffic is lowest), parking location, and method to circumvent bridge barriers. It detailed his feelings of being a failure and disappointing his family despite achieving a 4.87 GPA in all other classes. Patient confirms the plan is accurate and states he fully intends to complete it, believing anything less than perfection means he has failed his family and himself. He describes relentless internal pressure to be the best and catastrophic thinking that this single B+ will ruin his college prospects and life trajectory. He reports chronic sleep deprivation (3-4 hours nightly), skipping meals to study, and has quit all extracurricular activities over the past year to focus on academics. He denies any protective factors, stating his life is 'only worth something if I achieve perfection.' Parents report escalating rigidity and declining social engagement over past 18 months. No prior mental health treatment. Patient previously excelled academically with less apparent distress. (Psychiatrist Dr. Margaret Wu, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Neat, appears exhausted, dark circles under eyes",
+      "Behavior": "Controlled, perfectionistic in responses, rigid posture",
+      "Speech": "Precise, measured",
+      "Mood": "Failure and worthlessness",
+      "Affect": "Constricted, flat, minimal emotional expression",
+      "Thought_Process": "Rigid, all-or-nothing thinking, obsessive quality",
+      "Thought_Content": "Active SI with detailed plan and clear intent; perfectionistic cognitive distortions",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Absent regarding distorted thinking",
+      "Judgment": "Severely impaired by perfectionism"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "Pending",
+      "Urine_Tox": "Negative",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, severe; obsessive-compulsive personality features with maladaptive perfectionism; suicidal ideation with detailed plan and intent; possible emerging eating disorder.",
+    "Psychosocial_Context": "Extreme academic achievement with maladaptive perfectionism; chronic sleep deprivation; nutritional compromise; social isolation; quit all non-academic activities; escalating rigidity; high-achieving family environment.",
+    "Assessment_and_Plan": [
+      "Imminent high risk: active SI with meticulously researched and detailed plan; clear timeline (this Friday); full intent to complete.",
+      "No protective factors identified; perfectionism has eliminated joy, social connection, and self-compassion.",
+      "Catastrophic reaction to single imperfect grade suggests severe cognitive distortion and possible OCD features.",
+      "5150 criteria clearly met.",
+      "Immediate inpatient psychiatric hospitalization to specialized unit for high-achieving adolescents if available.",
+      "Parents to secure car keys; patient not to be left alone under any circumstances.",
+      "Comprehensive assessment for OCD, anxiety disorders, and eating disorder.",
+      "Psychiatric medication likely necessary; SSRI for depression/anxiety/OCD features.",
+      "CBT to address all-or-nothing thinking and perfectionism; possible need for intensive program.",
+      "Family therapy essential to address achievement pressure dynamics and parental expectations.",
+      "Sleep restoration and nutritional rehabilitation concurrent with psychiatric treatment.",
+      "Long-term: address identity beyond achievement, develop stress tolerance, build social connections.",
+      "Academic accommodations may be needed; consider reduced course load."
+    ],
+    "Author": "Dr. Margaret Wu, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

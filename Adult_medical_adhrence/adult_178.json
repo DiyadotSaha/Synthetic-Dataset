@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Diana Foster",
+    "Patient_MRN": "178",
+    "Date_of_Birth": "1987-08-22",
+    "Date_of_Service": "2024-10-18",
+    "Identifying_Data_Chief_Complaint": "37-year-old White female with schizoaffective disorder with worsening mood.",
+    "Collateral_Contact_Information": "Emergency Contact: Partner (Jessica Martinez) at 555-773-9908",
+    "Subjective": "Ms. Foster presents tearful and anxious. Partner reports patient stopped taking ziprasidone 3 weeks ago after reading online about side effects and wanting to 'try natural alternatives.' Since stopping, severe depression emerged with crying daily, loss of interest in art therapy she loved, and paranoid thoughts that therapy group members gossiping about her. Hearing critical voice several times daily. Sleep disrupted at 4 hours. Appetite poor, weight down 6 lbs. Called out from social work job 5 times. Mood 'terrible' rated 2/10. Lives with partner. Withdrawn from friends. Denies substance use. Safety: passive SI, denies plan. (Assessed by Dr. Amanda Stevens, ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, poor eye contact, tearful",
+      "Speech": "Soft, slow, tearful",
+      "Affect": "Depressed, tearful",
+      "Mood": "Terrible",
+      "Thought_Content": "Paranoid ideation, auditory hallucinations, passive SI",
+      "Thought_Process": "Slowed, ruminative"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 19,
+      "GAD_7": 16,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive suicidal ideation without plan"
+    },
+    "Current_Medications": "Ziprasidone 80 mg PO BID with food",
+    "CURES_Report": "Reviewed; no issues.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "No recent labs.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, with severe exacerbation after stopping medication.",
+    "Psychosocial_Context": "Lives with partner; employed but attendance declining; passive SI concerning.",
+    "Assessment_and_Plan": [
+      "Severe decompensation after stopping ziprasidone 3 weeks ago.",
+      "Discussed importance of resuming medication given symptom severity.",
+      "Patient agrees to restart with support from partner.",
+      "Passive SI requires close monitoring - partner to increase oversight, crisis resources provided.",
+      "Resume ziprasidone 80 mg BID.",
+      "Urgent follow-up in 1 week."
+    ],
+    "RTC": "1 week",
+    "Author": "Note written by Dr. Amanda Stevens, ED Physician \u2014 Emergency Psychiatry Services, 900 Hospital Way, Seattle, WA 98101, Phone: (555) 229-4429, Fax: (555) 229-4430"
+  },
+  "ground_truth": "Non-Adherent"
+}

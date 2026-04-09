@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Marcus Robinson",
+    "Patient_MRN": "197",
+    "Date_of_Birth": "1980-07-22",
+    "Date_of_Service": "2024-10-12",
+    "Identifying_Data_Chief_Complaint": "44-year-old African American male with schizophrenia brought by police after threatening behavior.",
+    "Collateral_Contact_Information": "Emergency Contact: Brother (James Robinson) at 555-447-7721",
+    "Subjective": "Patient brought in handcuffs by police after threatening neighbors with knife believing they were 'demons sent to destroy him.' Brother provides collateral that he completely stopped quetiapine 11 weeks ago claiming it was 'satanic poison.' Since discontinuation, complete psychotic breakdown. Constant hallucinations - hearing demon voices commanding him to 'destroy evil,' seeing demonic figures everywhere. Elaborate religious delusions about apocalypse and his role as warrior. Performing bizarre rituals, destroyed furniture to 'purge demons.' No sleep for weeks per neighbor observations - yelling and praying all hours. Refusing all food and water believing contaminated by demons, severe weight loss estimated 40+ lbs, appears near death. Lost warehouse job 9 weeks ago after bizarre behavior. Gave away all possessions preparing for 'final battle.' Apartment covered in religious symbols drawn in blood. Brother unable to reach him for month. Patient extremely agitated, threatening, responding to hallucinations, attacking staff believing they're demons. No insight or cooperation. Safety: high violence risk, recent knife threat, ongoing command hallucinations to harm 'demons,' unable to distinguish reality. (Evaluated by Dr. David Chen, ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Severely emaciated, appearing near death, disheveled, malodorous, agitated, restrained",
+      "Speech": "Loud, disorganized, religious and delusional content, threatening",
+      "Affect": "Hostile, terrified, labile",
+      "Mood": "The demons must be destroyed",
+      "Thought_Content": "Severe religious and paranoid delusions, command hallucinations to harm others, no reality testing",
+      "Thought_Process": "Severely disorganized, incoherent, illogical"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 23,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Denies SI; extreme violence risk to others"
+    },
+    "Current_Medications": "Quetiapine 400 mg PO qHS (stopped 11 weeks ago)",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Life-threatening dehydration and starvation; AKI with creatinine 3.2; severe electrolyte abnormalities; albumin 2.0.",
+      "Recent_Imaging_Results": "No imaging yet."
+    },
+    "Diagnostic_Impression": "Schizophrenia with severe psychotic crisis and life-threatening medical emergency after medication discontinuation; danger to others; grave disability.",
+    "Psychosocial_Context": "Recently unemployed; threatening violence; criminal charges pending; near-death from starvation/dehydration.",
+    "Assessment_and_Plan": [
+      "Life-threatening crisis after stopping quetiapine 11 weeks ago.",
+      "Severe psychosis with violence, command hallucinations, knife threat.",
+      "Near-death from starvation and dehydration - medical emergency.",
+      "Meets criteria for involuntary hospitalization - danger to others and grave disability.",
+      "5150 hold with law enforcement involvement.",
+      "Immediate transfer to medical psychiatry ICU.",
+      "Aggressive IV hydration and nutritional support life-saving.",
+      "IM antipsychotic needed given aggression and inability to take PO.",
+      "May need ECT if medication ineffective.",
+      "Criminal charges pending - forensic coordination needed.",
+      "Long-term forensic/residential placement essential."
+    ],
+    "RTC": "Post-hospital discharge with forensic coordination",
+    "Author": "Note written by Dr. David Chen, ED Physician \u2014 General Hospital Emergency Department, 200 Emergency Lane, San Francisco, CA 94102, Phone: (555) 883-9943, Fax: (555) 883-9944"
+  },
+  "ground_truth": "Non-Adherent"
+}

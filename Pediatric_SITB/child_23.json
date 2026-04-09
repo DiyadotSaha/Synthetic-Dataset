@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Marcus Thompson",
+    "Patient_MRN": "023",
+    "Date_of_Birth": "2010-05-12",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by father for persistent worry about family financial situation.",
+    "Collateral_Contact_Information": "Father: David Thompson, Phone: (555) 123-4567",
+    "Subjective": "Patient is a 15-year-old male presenting with increased anxiety over the past month after overhearing conversations about his family's financial difficulties. He reports difficulty concentrating on schoolwork and frequent worry that his family might lose their home. He denies any thoughts of self-harm or suicidal ideation. Patient states he feels responsible for being a burden and has asked about getting a job to help. His father reports that while finances are tight, the situation is stable and the patient's concerns are disproportionate to reality. Patient continues to participate in basketball practice and maintains friendships, though he reports feeling distracted. (Psychiatrist Dr. Michael Chen, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, appears stated age",
+      "Behavior": "Cooperative, somewhat preoccupied",
+      "Speech": "Normal rate and volume",
+      "Mood": "Worried",
+      "Affect": "Anxious, congruent",
+      "Thought_Process": "Linear, somewhat ruminative",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Generalized anxiety disorder, mild.",
+    "Psychosocial_Context": "Lives with father and younger sister; parents recently divorced; academically performing adequately; active in sports; supportive peer network.",
+    "Assessment_and_Plan": [
+      "Situational anxiety related to family stressors and recent parental divorce.",
+      "Protective factors: engaged in athletics, supportive father, maintains peer relationships.",
+      "Psychoeducation provided regarding age-appropriate responsibilities.",
+      "Referral for outpatient cognitive behavioral therapy.",
+      "Father encouraged to include patient in age-appropriate family discussions to reduce uncertainty."
+    ],
+    "Author": "Dr. Michael Chen, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

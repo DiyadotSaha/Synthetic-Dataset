@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Arianna Bell",
+    "Patient_MRN": "137",
+    "Date_of_Birth": "2011-12-28",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by mother for cutting behavior without suicidal intent during emotional distress.",
+    "Collateral_Contact_Information": "Mother: Vanessa Bell, Phone: (555) 123-4683",
+    "Subjective": "Patient is a 14-year-old female presenting after mother discovered superficial cutting on thighs. Patient reports engaging in cutting behavior 5-6 times over past two months when feeling emotionally overwhelmed, primarily related to arguments with mother and friendship conflicts. She explicitly denies any suicidal intent, clarifying that cutting provides temporary emotional release without any desire to die or seriously injure herself. She denies any thoughts of self-harm or suicidal ideation beyond the cutting for emotional regulation. Patient states she learned about behavior from social media and tried it as coping mechanism. She feels guilty and ashamed afterward. Currently in therapy but had not disclosed behavior to therapist. Mother is shocked and frightened by discovery. Patient continues to function academically and socially. Reports wanting to learn healthier coping strategies. (ED Physician Dr. Andrea Scott, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, superficial linear scars visible on thighs",
+      "Behavior": "Cooperative, ashamed",
+      "Speech": "Clear, quiet",
+      "Mood": "Embarrassed",
+      "Affect": "Congruent, appropriate",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation; NSSI for emotional regulation without self-harm intent",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good - recognizes behavior is unhealthy",
+      "Judgment": "Impaired regarding coping methods"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Non-suicidal self-injury disorder; adjustment disorder with mixed emotions, moderate.",
+    "Psychosocial_Context": "Lives with mother and younger brother; using cutting for emotional regulation learned via social media; interpersonal stressors with mother and peers; engaged in therapy but non-disclosing; functioning maintained; motivated for healthier coping.",
+    "Assessment_and_Plan": [
+      "Non-suicidal self-injury as maladaptive coping; no suicidal intent or ideation.",
+      "Protective factors: engaged in therapy, motivated to change, appropriate guilt/shame indicating intact judgment, maintained function, explicitly denies suicidal intent.",
+      "Cuts are superficial; cleaned and bandaged, no sutures required.",
+      "Contact existing therapist to disclose NSSI and implement DBT skills for emotion regulation.",
+      "Safety planning completed with removal of cutting instruments from easy access.",
+      "Alternative coping strategies taught including ice, rubber band snapping, drawing on skin.",
+      "Family therapy to address mother-daughter communication.",
+      "Psychoeducation regarding NSSI vs. suicidal behavior provided to mother.",
+      "Close outpatient follow-up within 3 days with therapist."
+    ],
+    "Author": "Dr. Andrea Scott, MD (ED Physician)"
+  },
+  "ground_truth": "No"
+}

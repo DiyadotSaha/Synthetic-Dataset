@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Justin Lee",
+    "Patient_MRN": "125",
+    "Date_of_Birth": "1993-08-14",
+    "Date_of_Service": "2024-09-29",
+    "Identifying_Data_Chief_Complaint": "31-year-old Asian American male with schizoaffective disorder for routine visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Father (David Lee) at 555-883-4409",
+    "Subjective": "Patient presented appearing well-groomed and positive. Reports excellent adherence to cariprazine 3 mg daily taken each morning using routine. States feeling great. No hallucinations for six months. No delusional thinking. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 158 lbs. Working full-time as data analyst, thriving in tech career. Mood 'excellent' rated 9/10. Lives independently in condo. Enjoys rock climbing and mountain biking. Attending therapy monthly for wellness. Two years sober from all substances. Dating and building social network. Planning career advancement. No safety concerns, denies SI/HI. (Evaluated by Dr. Kevin Huang, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed in athletic wear, excellent grooming, bright affect",
+      "Speech": "Clear, articulate, enthusiastic",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Excellent",
+      "Thought_Content": "Future-oriented, ambitious, no psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Cariprazine 3 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Living independently; employed as data analyst; two years sober; active outdoor lifestyle; excellent recovery.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and sustained remission.",
+      "Continue cariprazine 3 mg daily.",
+      "Commended on career and athletic pursuits.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Kevin Huang, MD, Psychiatrist \u2014 Tech Industry Mental Health, 2341 Innovation Drive, San Francisco, CA 94102, Phone: (555) 229-7643, Fax: (555) 229-7644"
+  },
+  "ground_truth": "Adherent"
+}

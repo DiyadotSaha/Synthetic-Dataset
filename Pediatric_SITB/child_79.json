@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Victoria Campbell",
+    "Patient_MRN": "079",
+    "Date_of_Birth": "2012-07-17",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by mother for hair-pulling behavior without suicidal intent.",
+    "Collateral_Contact_Information": "Mother: Rebecca Campbell, Phone: (555) 567-8024",
+    "Subjective": "Patient is a 13-year-old female presenting with habit of pulling out hair from scalp when stressed or watching TV, present for approximately five months. She reports pulling provides temporary relief but results in noticeable bald patches that she tries to hide with hairstyles. She explicitly denies any suicidal intent and clarifies the behavior is a compulsive habit without any desire to hurt herself. She denies any thoughts of self-harm or suicidal ideation. Patient states she is embarrassed by the bald spots and has tried to stop but cannot resist the urge. Behavior began around time of parents' separation. She continues to do well in school and has supportive friendships. Mother reports patient seems more anxious lately and chews nails as well. Patient is motivated to stop the behavior. (Psychiatrist Dr. Emily Watson, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, wears headband to cover hair loss areas",
+      "Behavior": "Cooperative, occasional hand movements toward hair",
+      "Speech": "Clear, normal pace",
+      "Mood": "Embarrassed",
+      "Affect": "Anxious, appropriate",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation; hair-pulling urges without self-harm intent",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good - recognizes behavior as problematic",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Trichotillomania (hair-pulling disorder); adjustment disorder with anxiety, moderate.",
+    "Psychosocial_Context": "Parents recently separated; lives primarily with mother; academically successful; strong peer relationships; motivated for treatment; noticeable hair loss causing distress.",
+    "Assessment_and_Plan": [
+      "Trichotillomania in context of family stressor; not self-harm with suicidal intent.",
+      "Protective factors: good insight and motivation, supportive relationships, academically successful, denies suicidal ideation.",
+      "Referral for cognitive behavioral therapy with habit reversal training.",
+      "Address underlying anxiety related to parental separation.",
+      "Consider N-acetylcysteine supplementation as adjunct treatment.",
+      "Alternative fidget objects provided to redirect pulling urges.",
+      "Family education on avoiding punishment and supporting treatment.",
+      "Outpatient psychiatry follow-up in 3 weeks; consider SSRI if CBT insufficient."
+    ],
+    "Author": "Dr. Emily Watson, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

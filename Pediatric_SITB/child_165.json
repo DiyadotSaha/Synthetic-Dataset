@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Faith Jenkins",
+    "Patient_MRN": "165",
+    "Date_of_Birth": "2013-11-04",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "12-year-old female brought by aunt for worry about upcoming medical procedure.",
+    "Collateral_Contact_Information": "Aunt: Carol Jenkins, Phone: (555) 456-7917",
+    "Subjective": "Patient is a 12-year-old female presenting with anxiety about scheduled tonsillectomy next week. She reports worrying about anesthesia and whether she will wake up from surgery. She denies any thoughts of self-harm or suicidal ideation. Patient states she is nervous about pain after surgery and missing school. Pediatrician and surgeon have explained procedure but she remains anxious. Sleep somewhat disrupted past two nights with increased worry. Appetite normal. She had successful experience with anesthesia for dental procedure two years ago which provides some reassurance. Aunt reports patient asks many questions and benefits from detailed information. Otherwise well-adjusted child engaged in school and church youth group. Surgery necessary due to recurrent infections. (Nurse Practitioner Julia Martinez, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears stated age",
+      "Behavior": "Cooperative, somewhat anxious",
+      "Speech": "Clear, asks clarifying questions",
+      "Mood": "Worried about surgery",
+      "Affect": "Anxious, appropriate",
+      "Thought_Process": "Linear, focused on procedure",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with anxiety related to medical procedure, mild.",
+    "Psychosocial_Context": "Lives with aunt and uncle; scheduled for necessary surgery; experiencing age-appropriate medical anxiety; benefits from information; previous positive anesthesia experience; otherwise well-adjusted.",
+    "Assessment_and_Plan": [
+      "Age-appropriate anxiety regarding upcoming surgery; within normal limits.",
+      "Protective factors: previous positive surgical experience, detailed information helps, supportive family, otherwise well-functioning, no suicidal ideation.",
+      "Detailed procedural information provided to address specific fears.",
+      "Remind patient of previous successful anesthesia experience.",
+      "Coordinate with surgical team for child life specialist involvement pre-operatively.",
+      "Relaxation techniques and coping strategies for pre-operative anxiety.",
+      "Distraction and comfort items for day of surgery.",
+      "Anxiety expected to resolve after successful procedure.",
+      "No psychiatric intervention needed; support through normal medical experience."
+    ],
+    "Author": "Julia Martinez, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Isabella Cruz",
+    "Patient_MRN": "131",
+    "Date_of_Birth": "2010-11-11",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female brought by mother for mood swings and irritability.",
+    "Collateral_Contact_Information": "Mother: Teresa Cruz, Phone: (555) 901-2470",
+    "Subjective": "Patient is a 15-year-old female presenting with mood variability and increased irritability over past four months. She reports feeling more emotional lately with rapid shifts between sadness, anger, and normalcy, often within same day. She denies any thoughts of self-harm or suicidal ideation. Patient attributes some changes to menstrual cycle but notes mood swings occur throughout month. She has been more argumentative with family and occasionally snaps at friends, which is uncharacteristic. Sleep and appetite normal. Academic performance maintained. Started sertraline 50mg six weeks ago with psychiatrist which has helped reduce baseline irritability somewhat. Mother notes mood changes began around time of increased academic pressure from AP classes. Patient maintains close friendships and is captain of volleyball team. (Psychiatrist Dr. Christopher Lee, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears stated age",
+      "Behavior": "Cooperative",
+      "Speech": "Normal rate and volume",
+      "Mood": "Up and down",
+      "Affect": "Full range, reactive",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Sertraline 50mg daily",
+    "CURES_Report": "Sertraline on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Mood disorder with mixed features; adjustment to academic stress, moderate.",
+    "Psychosocial_Context": "Lives with both parents; increased academic demands from AP courses; mood instability possibly hormone-related; recently started SSRI with partial response; high-functioning athlete and student.",
+    "Assessment_and_Plan": [
+      "Mood instability and irritability in context of stress and possible hormonal factors; partial medication response.",
+      "Protective factors: engaged in treatment, supportive family, athletic involvement, strong academics, no suicidal ideation.",
+      "Continue current SSRI; still early in treatment course.",
+      "Coordinate with prescribing psychiatrist for follow-up in 2 weeks; may need dose adjustment.",
+      "Track mood patterns in relation to menstrual cycle to identify hormonal component.",
+      "Stress management and emotion regulation skills training.",
+      "Consider therapy if medication optimization insufficient.",
+      "Endocrine evaluation if mood symptoms correlate strongly with cycle.",
+      "Close monitoring for response to current medication regimen."
+    ],
+    "Author": "Dr. Christopher Lee, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Tyler Henderson",
+    "Patient_MRN": "022",
+    "Date_of_Birth": "2009-05-03",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old male brought by police after being found on freeway overpass ledge with stated intent to jump.",
+    "Collateral_Contact_Information": "Foster parent: Susan Williams, Phone: (555) 892-1635",
+    "Subjective": "Patient is a 16 y/o male in foster care brought by police after being found sitting on the ledge of a freeway overpass shortly after midnight. Per police report and patient interview, he left his foster home with explicit intent to jump from the overpass to end his life. He reports that earlier in the evening he learned his biological mother, who has been incarcerated for the past three years, will not be released as previously expected due to a parole violation. This news triggered intense feelings of abandonment and hopelessness. Patient states he felt he 'had nothing left to live for' and describes climbing onto the ledge with full intent to jump. He was talked down by officers after approximately 20 minutes. He continues to express active suicidal ideation with both plan and intent, stating he still wants to die and 'will find another way' if released. Patient has extensive trauma history including neglect, witnessing domestic violence, and multiple foster placements. He has had two prior suicide attempts by overdose at ages 13 and 14, both resulting in psychiatric hospitalizations. Currently on quetiapine, sertraline, and clonidine. Recent medication change from risperidone to quetiapine three weeks ago. Patient denies any current protective factors, states he feels disconnected from foster family and has no close peer relationships. (ED Physician Dr. Christine Lee, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, wearing torn jeans and sweatshirt",
+      "Behavior": "Withdrawn, poor eye contact, minimally responsive",
+      "Speech": "Monosyllabic initially, gradual increase",
+      "Mood": "Hopeless and angry",
+      "Affect": "Flat with occasional anger breakthrough",
+      "Thought_Process": "Linear but with ruminative quality",
+      "Thought_Content": "Active SI with plan and intent, recent near-attempt",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Absent",
+      "Judgment": "Severely impaired"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Quetiapine 200mg qHS, Sertraline 100mg daily, Clonidine 0.1mg BID",
+    "CURES_Report": "Multiple psychotropic prescriptions on file",
+    "Laboratory_Data": {
+      "CBC": "WNL",
+      "Urine_Tox": "Positive for THC",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, severe; post-traumatic stress disorder; suicide attempt (near-completion); history of complex developmental trauma.",
+    "Psychosocial_Context": "Current foster placement (4th placement in 3 years); mother incarcerated; history of childhood neglect and domestic violence exposure; previous psychiatric hospitalizations; limited social support; recent medication change.",
+    "Assessment_and_Plan": [
+      "Imminent high risk: recent near-lethal suicide attempt with ongoing active SI, plan, and expressed intent.",
+      "No identifiable protective factors; extensive trauma history and multiple prior attempts.",
+      "Recent medication change may be contributing factor; quetiapine adequacy requires assessment.",
+      "5150 criteria clearly met.",
+      "Immediate inpatient psychiatric admission to locked unit with 1:1 observation.",
+      "Comprehensive trauma-informed treatment planning needed.",
+      "Coordinate with foster care case manager and review appropriateness of current placement.",
+      "Substance use assessment indicated given positive THC screen."
+    ],
+    "Author": "Dr. Christine Lee, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

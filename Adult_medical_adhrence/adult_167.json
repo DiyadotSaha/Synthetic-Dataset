@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Benjamin Clarke",
+    "Patient_MRN": "167",
+    "Date_of_Birth": "1994-12-05",
+    "Date_of_Service": "2024-09-08",
+    "Identifying_Data_Chief_Complaint": "29-year-old White male with schizophrenia for medication follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Brother (Samuel Clarke) at 555-883-4421",
+    "Subjective": "Mr. Clarke arrives appearing relaxed and friendly. Mentions he's been doing well overall. When going through his medication bottle count, realizes he's been less consistent than he thought - estimates missing his evening ziprasidone dose perhaps 4-6 times monthly, usually when he's traveling for work and forgets to pack enough doses or when he stays late at office and takes it much later than usual or not at all. He notes that he doesn't really notice differences on those days, though his partner mentioned he seemed slightly more withdrawn and quiet after a recent business trip where he forgot his meds for 3 days. Sleep generally good at 7 hours. Appetite normal, weight steady at 172 lbs. Working as account manager with frequent regional travel. Mood 'pretty solid' rated 7/10. Lives with long-term partner. Enjoys tennis and cooking. Maintains active social calendar. No substance use. No safety concerns, denies SI/HI. (Seen by Dr. Robert Hayes, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Business attire, well-groomed, relaxed",
+      "Speech": "Clear, normal pace, coherent",
+      "Affect": "Appropriate, euthymic, engaged",
+      "Mood": "Pretty solid",
+      "Thought_Content": "No current psychotic symptoms",
+      "Thought_Process": "Organized, logical, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 2,
+      "GAD_7": 4,
+      "DAST_10": 0,
+      "AUDIT_C": 1,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Ziprasidone 80 mg PO BID with food",
+    "CURES_Report": "Reviewed; no issues.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Recent EKG normal; all labs normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable with mild adherence issues during travel.",
+    "Psychosocial_Context": "Living with partner; employed with travel responsibilities; active lifestyle; excellent overall functioning.",
+    "Assessment_and_Plan": [
+      "Addressed pattern of missed doses during business travel.",
+      "Discussed strategies: setting up travel pill case, phone alarms, keeping backup doses in travel bag.",
+      "Reviewed importance of maintaining adherence even during travel.",
+      "Partner willing to help with travel preparation reminders.",
+      "Continue ziprasidone 80 mg BID with food.",
+      "Follow-up in 10 weeks."
+    ],
+    "RTC": "10 weeks",
+    "Author": "Note written by Dr. Robert Hayes, MD, Psychiatrist \u2014 Executive Mental Health Services, 5500 Corporate Plaza, Chicago, IL 60601, Phone: (555) 772-3387, Fax: (555) 772-3388"
+  },
+  "ground_truth": "Non-Adherent"
+}

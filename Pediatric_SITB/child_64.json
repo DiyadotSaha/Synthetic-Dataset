@@ -1,0 +1,56 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Marcus Foster",
+    "Patient_MRN": "064",
+    "Date_of_Birth": "2012-08-11",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old male brought by mother after expressing he 'hates his face' and wishes he 'didn't have to exist looking like this.'",
+    "Collateral_Contact_Information": "Mother: Brenda Foster, Phone: (555) 883-4422",
+    "Subjective": "Patient is a 13-year-old male presenting after tearfully telling his mother last night that he hates how he looks and sometimes wishes he did not have to exist 'looking like this.' He reports being very self-conscious about acne that has emerged over the past six months, believing it makes him 'disgusting' and that peers are judging him constantly. He describes passive thoughts over the past week of wishing he could disappear or not wake up so he would not have to face people, but he has no plan, no method, and no intent to harm himself. He acknowledges these thoughts scare him and agreed with his mother to seek help. He reports spending excessive time examining his face in the mirror and has started avoiding video calls with extended family. He wears a hood at school to partially obscure his face. Sleep and appetite are normal. He previously enjoyed basketball but has stopped playing because of self-consciousness in the locker room. He has two close friends who he still sees but has declined recent social invitations. Mother notes he has been asking repeatedly to see a dermatologist. No prior mental health concerns. (Pediatric Nurse Practitioner Amy Rodriguez, NP)",
+    "Mental_Status_Examination": {
+      "Appearance": "Wearing hoodie pulled low, moderate facial acne visible, avoids eye contact initially",
+      "Behavior": "Cooperative, self-conscious, gradually engages",
+      "Speech": "Normal rate and volume",
+      "Mood": "Self-conscious and discouraged",
+      "Affect": "Appropriate, anxious undertone",
+      "Thought_Process": "Organized, preoccupied with appearance",
+      "Thought_Content": "Passive suicidal ideation without plan or intent; appearance-related rumination",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair, recognizes thoughts are related to acne",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Over-the-counter benzoyl peroxide wash",
+    "CURES_Report": "No controlled substances",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood and anxiety; body dysmorphic concerns; passive suicidal ideation related to appearance distress.",
+    "Psychosocial_Context": "Developmentally normal appearance concerns amplified by acne onset; social withdrawal; ceased enjoyable activities; close friendships maintained; supportive mother; no prior mental health issues.",
+    "Assessment_and_Plan": [
+      "Low risk: passive SI without plan or intent in context of appearance-related distress during early adolescence.",
+      "Protective factors: supportive mother, maintained friendships, good insight, willingness to seek help.",
+      "Developmentally typical appearance concerns requiring validation and intervention.",
+      "Dermatology referral expedited for acne treatment to address precipitating concern.",
+      "Brief counseling for body image, self-esteem, and social confidence.",
+      "Psychoeducation about normal adolescent development and appearance changes.",
+      "Encourage gradual return to basketball and social activities.",
+      "Limit mirror checking and appearance-focused behaviors.",
+      "Mother educated on supporting self-esteem beyond appearance.",
+      "Safety plan created focusing on talking to mother when distressed.",
+      "Follow-up with pediatrician and counselor within one week.",
+      "Monitor for escalation of body dysmorphic symptoms.",
+      "Safe for discharge with dermatology appointment and counseling referral."
+    ],
+    "Author": "Amy Rodriguez, NP (Pediatric Nurse Practitioner)"
+  },
+  "ground_truth": "yes"
+}

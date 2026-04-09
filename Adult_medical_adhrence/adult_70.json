@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Monique Jackson",
+    "Patient_MRN": "070",
+    "Date_of_Birth": "1969-01-05",
+    "Date_of_Service": "2024-05-30",
+    "Identifying_Data_Chief_Complaint": "55-year-old African American female with schizoaffective disorder with moderate ongoing symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Daughter (Janelle Jackson) at 555-772-9087",
+    "Subjective": "Ms. Jackson attended appointment accompanied by daughter who supervises medications. Daughter confirms mother takes quetiapine 400 mg at bedtime reliably via daily observation. Despite good adherence, continues experiencing moderate symptoms. Reports persistent auditory hallucinations several times daily of voices making critical comments. Also endorses paranoid belief that neighbors talk about her, causing social avoidance. Sleep disrupted at 5-6 hours nightly. Appetite decreased, weight down 6 lbs to 151 lbs. Not working, receives disability. Lives alone with daughter checking in daily. Attends church inconsistently due to anxiety. Mood 'worried' rated 4/10. Denies substance use. Daughter concerned about mother's isolation. Safety: No SI/HI. (Evaluated by Dr. Angela Robinson, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged female, fair grooming, appears anxious",
+      "Speech": "Soft, hesitant, coherent",
+      "Affect": "Anxious, constricted",
+      "Mood": "Worried",
+      "Thought_Content": "Auditory hallucinations, paranoid ideation about neighbors",
+      "Thought_Process": "Coherent, preoccupied"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 16,
+      "GAD_7": 17,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Quetiapine 400 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Glucose 107 mg/dL; CBC normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder with persistent symptoms despite adherence.",
+    "Psychosocial_Context": "Lives alone with daughter's oversight; unemployed, on disability; socially isolated; limited activities.",
+    "Assessment_and_Plan": [
+      "Good adherence through daughter's supervision.",
+      "Persistent psychotic and anxiety symptoms.",
+      "Discussed medication augmentation.",
+      "Will add antidepressant for mood symptoms.",
+      "Encouraged church attendance with daughter.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Dr. Angela Robinson, MD, Psychiatrist \u2014 Faith and Healing Center, 3421 Church Road, Birmingham, AL 35203, Phone: (555) 338-7729, Fax: (555) 338-7730"
+  },
+  "ground_truth": "Adherent"
+}

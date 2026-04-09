@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Patricia Gonzalez",
+    "Patient_MRN": "002",
+    "Date_of_Birth": "1978-05-08",
+    "Date_of_Service": "2024-03-15",
+    "Identifying_Data_Chief_Complaint": "46-year-old Hispanic female with schizoaffective disorder presenting for follow-up assessment.",
+    "Collateral_Contact_Information": "Emergency Contact: Husband (Roberto Gonzalez) at 555-456-2318",
+    "Subjective": "Ms. Gonzalez arrived for her appointment appearing somewhat fatigued but engaged throughout the session. She reports mixed experiences since our last meeting four weeks ago. While she has been consistent with taking her olanzapine 15 mg at bedtime and hasn't missed any doses, she continues to struggle with depressive symptoms that fluctuate in intensity. She describes feeling 'low energy' most mornings and finds it challenging to motivate herself for daily tasks, though she pushes through for her two teenage children. Sleep remains poor, often taking 1-2 hours to fall asleep and waking multiple times during the night, averaging only 5 hours total. She denies active hallucinations but mentions occasional 'shadow movements' in her peripheral vision that she recognizes as not real. Appetite has decreased slightly with a 3-pound weight loss this month. Her husband has been supportive, helping with household responsibilities. She attends a weekly therapy group which provides some comfort. No substance use reported. Risk assessment reveals no current suicidal ideation, though she admits to passive thoughts like 'wondering what the point is' on her worst days. (Documented by Maria Santos, LCSW, Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Appropriately dressed, mildly disheveled hair, appears tired",
+      "Speech": "Soft-spoken, hesitant at times, adequate volume",
+      "Affect": "Constricted, mildly flat",
+      "Mood": "Depressed",
+      "Thought_Content": "Mild visual illusions, passive negative thoughts without intent",
+      "Thought_Process": "Linear but slowed, some rumination noted"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 14,
+      "GAD_7": 8,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive ideation without intent or plan"
+    },
+    "Current_Medications": "Olanzapine 15 mg PO qHS",
+    "CURES_Report": "Reviewed; no irregularities noted.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; lipids moderately elevated (LDL 145 mg/dL).",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, currently symptomatic.",
+    "Psychosocial_Context": "Married with two teenage children; lives in stable housing; attends weekly therapy group; husband provides significant support.",
+    "Assessment_and_Plan": [
+      "Continue olanzapine 15 mg PO qHS, patient adherent.",
+      "Discussed potential adjunctive antidepressant; patient wants to wait one more month.",
+      "Encouraged increased behavioral activation and light exercise.",
+      "Close monitoring of passive suicidal ideation; safety plan reviewed.",
+      "Follow-up in 2 weeks for symptom reassessment."
+    ],
+    "RTC": "2 weeks",
+    "Author": "Note written by Maria Santos, LCSW, Social Worker \u2014 Valley Behavioral Services, 2200 Riverside Drive, Austin, TX 78704, Phone: (555) 678-9012, Fax: (555) 678-9013"
+  },
+  "ground_truth": "Adherent"
+}

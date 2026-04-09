@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Amber Rodriguez",
+    "Patient_MRN": "184",
+    "Date_of_Birth": "1994-06-19",
+    "Date_of_Service": "2024-10-08",
+    "Identifying_Data_Chief_Complaint": "30-year-old Hispanic female with schizoaffective disorder with deterioration.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Isabel Rodriguez) at 555-773-6621",
+    "Subjective": "Ms. Rodriguez presents tearful and anxious. Mother reports she stopped brexpiprazole 4 weeks ago after researching side effects online and deciding medication was 'poisoning' her. Since stopping, severe depression with inability to get out of bed most days, loss of 9 lbs from poor appetite, and paranoid beliefs that family members discussing hospitalizing her against her will. Hearing voice of deceased grandmother telling her she failed at life several times daily. Sleep 3-4 hours. Lost medical assistant job 2 weeks ago after excessive absences. Lives with mother. Withdrawn from all activities and friends. Mood 'hopeless and scared' rated 2/10. Denies substance use. Safety: passive SI, thinks about overdose but states wouldn't do it. (Documented by Sandra Martinez, LCSW, Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Unkempt, weight loss evident, tearful",
+      "Speech": "Soft, slow",
+      "Affect": "Severely depressed, tearful",
+      "Mood": "Hopeless and scared",
+      "Thought_Content": "Paranoid ideation about family, auditory hallucinations, passive SI with method ideation",
+      "Thought_Process": "Severely slowed, ruminative"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 20,
+      "GAD_7": 18,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive suicidal ideation with method consideration, no intent"
+    },
+    "Current_Medications": "Brexpiprazole 3 mg PO daily",
+    "CURES_Report": "Reviewed; no issues.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "No recent labs.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, with severe exacerbation after stopping medication.",
+    "Psychosocial_Context": "Lives with mother; recently unemployed; severe functional decline; passive SI concerning.",
+    "Assessment_and_Plan": [
+      "Severe decompensation after stopping brexpiprazole 4 weeks ago.",
+      "Passive SI with method ideation requires intensive intervention.",
+      "Discussed need to resume medication immediately.",
+      "Mother to supervise daily administration and secure all medications.",
+      "Safety contract established.",
+      "Consider PHP or hospitalization if no improvement in 48-72 hours.",
+      "Resume brexpiprazole 3 mg daily.",
+      "Daily check-in calls scheduled.",
+      "Urgent follow-up in 3 days."
+    ],
+    "RTC": "3 days",
+    "Author": "Note written by Sandra Martinez, LCSW, Social Worker \u2014 Family Crisis Intervention, 1800 Emergency Services Road, San Diego, CA 92101, Phone: (555) 447-8832, Fax: (555) 447-8833"
+  },
+  "ground_truth": "Non-Adherent"
+}

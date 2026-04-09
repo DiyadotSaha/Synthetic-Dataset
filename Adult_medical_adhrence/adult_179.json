@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Malcolm Wright",
+    "Patient_MRN": "179",
+    "Date_of_Birth": "1983-11-08",
+    "Date_of_Service": "2024-09-16",
+    "Identifying_Data_Chief_Complaint": "41-year-old African American male with schizophrenia with symptom increase.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Tamika Wright) at 555-447-6632",
+    "Subjective": "Mr. Wright appears unkempt and somewhat agitated. Sister accompanies stating he's been taking aripiprazole inconsistently, maybe 2-3 times weekly for past 6 weeks after experiencing akathisia that makes him feel restless and unable to sit still. Since reducing medication, increased paranoid beliefs that police monitoring his apartment and tracking movements. Hearing voices warning him about surveillance multiple times daily. Sleep severely disrupted at 3-4 hours. Appetite decreased, weight down 11 lbs. Lost dishwashing job 2 weeks ago after missing shifts. Lives alone, sister checks daily. Increasingly isolating. Mood 'paranoid and can't relax' rated 3/10. Denies substance use though admits considering marijuana to calm down. Denies SI/HI but states he's 'tired of being watched.' (Evaluated by Dr. Donna Williams, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, poor hygiene, restless movements",
+      "Speech": "Pressured at times, guarded",
+      "Affect": "Anxious, suspicious",
+      "Mood": "Paranoid and can't relax",
+      "Thought_Content": "Paranoid delusions about surveillance, command-like auditory hallucinations",
+      "Thought_Process": "Circumstantial, preoccupied with paranoid themes"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 13,
+      "GAD_7": 18,
+      "DAST_10": 1,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Aripiprazole 15 mg PO daily",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "No recent labs.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with moderate-severe exacerbation due to nonadherence related to akathisia.",
+    "Psychosocial_Context": "Lives alone; recently unemployed; socially isolated; sister providing support.",
+    "Assessment_and_Plan": [
+      "Significant symptom worsening related to reducing aripiprazole due to akathisia.",
+      "Will switch to antipsychotic less likely to cause akathisia.",
+      "Transition to quetiapine or clozapine if symptoms persist.",
+      "Add propranolol for residual akathisia.",
+      "Sister to monitor closely given unemployment and isolation.",
+      "Referral to vocational services.",
+      "Follow-up in 2 weeks."
+    ],
+    "RTC": "2 weeks",
+    "Author": "Note written by Dr. Donna Williams, MD, Psychiatrist \u2014 Community Recovery Center, 2200 Mental Health Avenue, Detroit, MI 48201, Phone: (555) 661-9943, Fax: (555) 661-9944"
+  },
+  "ground_truth": "Non-Adherent"
+}

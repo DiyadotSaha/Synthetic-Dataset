@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Emily Rodriguez",
+    "Patient_MRN": "006",
+    "Date_of_Birth": "1999-07-28",
+    "Date_of_Service": "2024-09-03",
+    "Identifying_Data_Chief_Complaint": "25-year-old Hispanic female with schizophrenia presenting for medication consultation and refill.",
+    "Collateral_Contact_Information": "Emergency Contact: Aunt (Carmen Rodriguez) at 555-678-3421",
+    "Subjective": "Young woman presents in good spirits for today's appointment. Reports consistent adherence to her asenapine 5 mg sublingual twice daily regimen and demonstrates proper administration technique when asked. She mentions the medication has a slightly bitter taste but doesn't bother her anymore. Overall functioning remains stable - she's been attending community college classes three days per week and is enjoying her psychology coursework. Sleep quality is good, typically 7-8 hours without interruption. Appetite normal with steady weight around 135 lbs. Denies active hallucinations though mentions sometimes feeling like she hears her phone buzzing when it's not, which she recognizes as likely not real. Mood is positive, rates it 7/10. She's made several friends in her study group and feels more socially connected. Denies alcohol or recreational drug use. Lives with her aunt who provides a stable and supportive home environment. No safety concerns, denies any suicidal or homicidal thoughts. Looking forward to next semester and considering volunteering at a crisis hotline. (Medication review by Ahmed Hassan, PharmD, Clinical Pharmacist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Young female, well-groomed, dressed in casual college attire",
+      "Speech": "Clear, animated, normal rate",
+      "Affect": "Bright, appropriate",
+      "Mood": "Positive and motivated",
+      "Thought_Content": "Minimal perceptual oddities with good insight",
+      "Thought_Process": "Logical, goal-oriented, organized"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 3,
+      "GAD_7": 4,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Asenapine 5 mg SL BID",
+    "CURES_Report": "Reviewed; no issues noted.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal range including CBC, CMP, and lipid panel.",
+      "Recent_Imaging_Results": "No imaging performed."
+    },
+    "Diagnostic_Impression": "Schizophrenia, early onset, well-controlled on current regimen.",
+    "Psychosocial_Context": "Lives with supportive aunt; enrolled part-time in community college; developing peer relationships; stable housing.",
+    "Assessment_and_Plan": [
+      "Continue asenapine 5 mg SL BID, excellent adherence and proper technique confirmed.",
+      "Encouraged continued academic pursuits and social engagement.",
+      "Discussed potential volunteer work as positive recovery activity.",
+      "No medication adjustments needed at this time.",
+      "Return in 8 weeks for routine follow-up."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Ahmed Hassan, PharmD, Clinical Pharmacist \u2014 County Mental Health Pharmacy, 950 Jefferson Street, Denver, CO 80203, Phone: (555) 567-8901, Fax: (555) 567-8902"
+  },
+  "ground_truth": "Adherent"
+}

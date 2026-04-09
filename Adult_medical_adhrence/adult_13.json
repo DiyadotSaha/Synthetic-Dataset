@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Maria Gonzalez",
+    "Patient_MRN": "013",
+    "Date_of_Birth": "1976-03-11",
+    "Date_of_Service": "2024-07-22",
+    "Identifying_Data_Chief_Complaint": "48-year-old Hispanic female with schizophrenia presenting with breakthrough symptoms despite medication adherence.",
+    "Collateral_Contact_Information": "Emergency Contact: Son (Carlos Gonzalez) at 555-678-3492",
+    "Subjective": "Ms. Gonzalez arrived at clinic with her son, appearing somewhat anxious but cooperative during interview. She confirms taking her risperidone 6 mg every evening as prescribed, never missing doses as her son supervises medication administration. Despite this reliable adherence, she reports ongoing low-level auditory hallucinations consisting of a woman's voice whispering her name, occurring 3-4 times per week mostly in the late afternoon. These are less intrusive than prior to medication initiation but remain bothersome. She also describes occasional suspicious thoughts that coworkers are talking negatively about her, though she can sometimes recognize these may be symptoms. Sleep averages 6 hours per night with initial insomnia taking 1-2 hours to fall asleep. Appetite is moderate, weight stable at 158 lbs. She continues working part-time at a laundromat folding clothes, managing this job for the past year. Mood is described as 'okay, a little worried' rated 5/10. Denies substance use. Son reports she sometimes isolates in her room but overall manages basic self-care. No suicidal ideation, denies homicidal thoughts. (Seen by Rachel Zimmerman, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, fair hygiene, appears stated age",
+      "Speech": "Soft-spoken, hesitant at times, normal rate",
+      "Affect": "Anxious, somewhat restricted",
+      "Mood": "Worried",
+      "Thought_Content": "Residual auditory hallucinations, ideas of reference regarding coworkers",
+      "Thought_Process": "Linear, mildly circumstantial"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 11,
+      "GAD_7": 13,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 6 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; fasting glucose 94 mg/dL; TSH 2.8 mIU/L.",
+      "Recent_Imaging_Results": "No recent imaging performed."
+    },
+    "Diagnostic_Impression": "Schizophrenia with partial response to current medication.",
+    "Psychosocial_Context": "Lives with son; working part-time; limited but stable social network.",
+    "Assessment_and_Plan": [
+      "Patient showing good medication adherence with family support.",
+      "Residual positive symptoms present despite compliance.",
+      "Discussed potential dose adjustment vs. augmentation strategy.",
+      "Will increase risperidone to 8 mg qHS and reassess in 4 weeks.",
+      "Encouraged continued engagement in part-time work.",
+      "Follow-up in 4 weeks."
+    ],
+    "RTC": "4 weeks",
+    "Author": "Note written by Rachel Zimmerman, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Community Wellness Center, 845 Harbor Drive, San Diego, CA 92101, Phone: (555) 392-7755, Fax: (555) 392-7756"
+  },
+  "ground_truth": "Adherent"
+}

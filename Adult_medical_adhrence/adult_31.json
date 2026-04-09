@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "DeAndre Washington",
+    "Patient_MRN": "031",
+    "Date_of_Birth": "1979-02-08",
+    "Date_of_Service": "2024-07-16",
+    "Identifying_Data_Chief_Complaint": "45-year-old African American male with chronic psychotic disorder presenting with partial symptom control.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Gloria Washington) at 555-234-6678",
+    "Subjective": "Mr. Washington attended his appointment arriving 20 minutes late due to bus delays. Mother who accompanied him confirms he takes his risperidone 4 mg nightly as prescribed using a weekly pill organizer she prepares for him. Reports adherence has been perfect with no missed doses. However, symptoms continue to cause moderate impairment. He endorses persistent auditory hallucinations of a man's voice telling him he is being watched by people in the neighborhood. These occur several times daily and increase his baseline anxiety. He also reports feeling that people at the corner store are talking in code about him, though when questioned can acknowledge this might not be true. Sleep is disrupted, averaging 5-6 hours with middle-of-the-night awakening due to hypervigilance. Appetite is fair, weight unchanged at 176 lbs. He attends day program three times per week where he participates in some activities but tends to isolate during free time. Lives with mother who assists with cooking and household tasks. Mood is 'stressed out' rated 4/10. Denies substance use including cannabis which he used heavily in the past. Limited social contacts outside of mother and day program. Risk screening negative for SI/HI though expresses frustration with ongoing symptoms. (Documented by Angela Rivera, LCSW, Licensed Clinical Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed male, adequate grooming, appears anxious",
+      "Speech": "Soft volume, normal rate, coherent",
+      "Affect": "Anxious, constricted range",
+      "Mood": "Stressed",
+      "Thought_Content": "Auditory hallucinations present, paranoid ideation about being watched and discussed",
+      "Thought_Process": "Goal-directed with some circumstantiality"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 12,
+      "GAD_7": 14,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 4 mg PO qHS",
+    "CURES_Report": "Reviewed; no issues identified.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; fasting glucose 92 mg/dL; lipids mildly elevated.",
+      "Recent_Imaging_Results": "No recent imaging performed."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder with persistent positive symptoms despite adherence.",
+    "Psychosocial_Context": "Lives with mother; attends day program; limited social network; no current employment; receiving disability benefits.",
+    "Assessment_and_Plan": [
+      "Good medication adherence with maternal oversight and pill organizer system.",
+      "Residual positive symptoms continue causing anxiety and social impairment.",
+      "Discussed dose increase of risperidone vs. medication change.",
+      "Will trial risperidone increase to 6 mg qHS.",
+      "Encouraged greater engagement in day program activities.",
+      "Reinforced importance of abstinence from cannabis.",
+      "Follow-up in 4 weeks to assess response to dose adjustment."
+    ],
+    "RTC": "4 weeks",
+    "Author": "Note written by Angela Rivera, LCSW, Licensed Clinical Social Worker \u2014 Northside Community Clinic, 3421 Jefferson Avenue, Milwaukee, WI 53202, Phone: (555) 447-8921, Fax: (555) 447-8922"
+  },
+  "ground_truth": "Adherent"
+}

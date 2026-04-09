@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Rosa Hernandez",
+    "Patient_MRN": "022",
+    "Date_of_Birth": "1998-12-05",
+    "Date_of_Service": "2024-09-11",
+    "Identifying_Data_Chief_Complaint": "26-year-old Hispanic female with schizophrenia presenting for follow-up visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Father (Miguel Hernandez) at 555-778-4523",
+    "Subjective": "Young woman arrives looking tired but is pleasant and cooperative. She explains that lately she's been having trouble remembering to take her lurasidone with food as required, and when she does remember the medication, she often hasn't eaten yet or doesn't have food available. She estimates this happens 'probably 3 or 4 times a week' where she either skips the dose entirely or takes it without food and worries it's not working properly. Reports feeling slightly more anxious than during her last visit and mentions she's been having trouble concentrating at her community college classes. Sleep is adequate at 6-7 hours but not restful, often waking feeling unrested. Describes very occasional moments where she feels like someone is watching her, especially when walking to class, but quickly realizes it's probably her imagination. Mood described as 'okay, just tired a lot.' Appetite is inconsistent, often skipping breakfast which contributes to the medication timing issues. Weight has dropped 4 pounds to 128 lbs. She's maintained her part-time position at a coffee shop. Denies substance use. Father supportive but works long hours, limiting his availability to help with reminders. No safety concerns identified, denies suicidal or homicidal thoughts. (Assessed by Brian Walsh, PharmD, Clinical Pharmacist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Young female, casually dressed, appears fatigued",
+      "Speech": "Soft, clear, somewhat slow pace",
+      "Affect": "Euthymic, appropriate",
+      "Mood": "Tired but stable",
+      "Thought_Content": "Occasional mild paranoid feelings with good insight",
+      "Thought_Process": "Organized, logical"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 8,
+      "GAD_7": 9,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Lurasidone 40 mg PO daily with food (minimum 350 calories)",
+    "CURES_Report": "Reviewed; no issues.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal range.",
+      "Recent_Imaging_Results": "No imaging performed."
+    },
+    "Diagnostic_Impression": "Schizophrenia, early onset, complicated by medication adherence barriers related to food requirement.",
+    "Psychosocial_Context": "Lives with father; enrolled in community college; employed part-time; irregular eating schedule affecting medication adherence.",
+    "Assessment_and_Plan": [
+      "Adherence challenges related to lurasidone food requirement and irregular eating patterns.",
+      "Discussed keeping snacks readily available for medication time.",
+      "Provided list of easy 350-calorie meal/snack options.",
+      "Consider switching to medication without food requirement if current approach unsuccessful.",
+      "Recommended evening dosing with dinner to improve consistency.",
+      "Encouraged meal planning and routine establishment.",
+      "Follow-up in 4 weeks to reassess adherence strategy."
+    ],
+    "RTC": "4 weeks",
+    "Author": "Note written by Brian Walsh, PharmD, Clinical Pharmacist \u2014 University Health Pharmacy Clinic, 780 Campus Drive, Austin, TX 78712, Phone: (555) 667-8890, Fax: (555) 667-8891"
+  },
+  "ground_truth": "Non-Adherent"
+}

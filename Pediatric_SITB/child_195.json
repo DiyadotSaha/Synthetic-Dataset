@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Colton Hayes",
+    "Patient_MRN": "195",
+    "Date_of_Birth": "2011-05-16",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male brought by mother for reassurance after brief period of sadness that has resolved.",
+    "Collateral_Contact_Information": "Mother: Emily Hayes, Phone: (555) 890-1362",
+    "Subjective": "Patient is a 14-year-old male brought by mother who was concerned about sadness last week, though patient reports feeling back to normal now. He acknowledges feeling down for 3-4 days after receiving disappointing grade on important project, but mood improved after discussing situation with teacher and receiving opportunity to revise for partial credit. He denies any thoughts of self-harm or suicidal ideation. Patient states he was upset about grade but never felt hopeless. Sleep and appetite were normal throughout. Continued all activities including baseball practice. Mother admits patient seems fine now but wanted professional assessment to ensure nothing was missed. Patient demonstrates appropriate emotional response to disappointment with healthy recovery. Strong academic performance overall and engaged in multiple activities. (Social Worker Martin Cooper, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, relaxed",
+      "Behavior": "Cooperative, appears well",
+      "Speech": "Clear, animated",
+      "Mood": "Good now",
+      "Affect": "Euthymic, full and appropriate range",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Excellent",
+      "Judgment": "Excellent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "No mental health disorder; normal emotional response to disappointment with appropriate resolution, mild.",
+    "Psychosocial_Context": "Lives with both parents and older sister; experienced brief appropriate sadness after academic disappointment; proactively addressed situation with teacher; fully recovered; high-functioning student and athlete.",
+    "Assessment_and_Plan": [
+      "Brief, appropriate emotional response to academic disappointment with healthy problem-solving and recovery; no pathology.",
+      "Protective factors: proactive problem-solving, supportive teacher and family, quick recovery, maintained all function, excellent insight.",
+      "Reassurance provided to mother that response was normal and healthy.",
+      "Praised patient's mature approach to addressing disappointing grade.",
+      "Validation that brief sadness after disappointment shows appropriate emotional range.",
+      "Mother educated on difference between normal mood fluctuation and concerning depression.",
+      "No intervention needed; patient demonstrating excellent coping and resilience.",
+      "Mother may benefit from managing her own anxiety about patient's wellbeing."
+    ],
+    "Author": "Martin Cooper, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

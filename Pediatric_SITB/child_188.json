@@ -1,0 +1,53 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Devon Clark",
+    "Patient_MRN": "188",
+    "Date_of_Birth": "2011-07-09",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male brought by stepmother after she found him attempting to strangle himself with his own hands.",
+    "Collateral_Contact_Information": "Stepmother: Karen Clark, Phone: (555) 992-5533",
+    "Subjective": "Patient is a 14-year-old male presenting after stepmother interrupted him attempting to strangle himself with his hands in his bedroom. He reports trying to choke himself to death because he hates himself and feels worthless after biological mother's abandonment (she voluntarily relinquished custody 6 months ago to pursue relationship with boyfriend). He describes this as his third attempt at self-strangulation over past month, each time stopping due to physical difficulty sustaining pressure. He reports clear intent to die and states he will keep trying until successful. Currently on sertraline 75mg for depression started 4 months ago with minimal improvement. Seeing therapist weekly. Academic performance declining. No close friends. Strained relationship with stepmother and father. Feels rejected by biological mother. History of early childhood trauma and previous foster care before return to father. No prior suicide attempts but escalating self-harm. (ED Physician Dr. Christine Lee, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Red marks visible on neck, disheveled",
+      "Behavior": "Withdrawn, hostile when discussing mother",
+      "Speech": "Monotone, minimal",
+      "Mood": "Hate myself",
+      "Affect": "Flat, breakthrough anger",
+      "Thought_Process": "Linear",
+      "Thought_Content": "Active SI with intent and repeated attempts; severe self-hatred; abandonment trauma",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Minimal",
+      "Judgment": "Severely impaired"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Sertraline 75mg daily",
+    "CURES_Report": "Sertraline on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, severe; attachment trauma; suicide attempts by self-strangulation (multiple); history of abandonment and foster care.",
+    "Psychosocial_Context": "Mother voluntarily relinquished custody 6 months ago; history of foster care; strained family relationships; current antidepressant insufficient; weekly therapy; social isolation; academic decline.",
+    "Assessment_and_Plan": [
+      "Imminent high risk: multiple suicide attempts by self-strangulation; clear ongoing intent; escalating behavior.",
+      "Minimal protective factors given severity and intent.",
+      "5150 criteria clearly met.",
+      "Immediate inpatient psychiatric hospitalization with 1:1 observation.",
+      "Current SSRI insufficient; psychiatric consultation for medication change/augmentation.",
+      "Trauma-focused therapy for abandonment and attachment issues essential.",
+      "Family therapy to address relationships with father and stepmother.",
+      "Close monitoring for continued attempts; ligature precautions.",
+      "Long-term: intensive treatment for complex trauma and depression.",
+      "Consider residential treatment if repeated hospitalizations occur."
+    ],
+    "Author": "Dr. Christine Lee, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

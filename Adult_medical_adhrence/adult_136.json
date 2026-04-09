@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Ronald Hayes",
+    "Patient_MRN": "136",
+    "Date_of_Birth": "1963-10-29",
+    "Date_of_Service": "2024-06-12",
+    "Identifying_Data_Chief_Complaint": "60-year-old African American male with chronic psychotic disorder with moderate ongoing symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Brother (Thomas Hayes) at 555-883-5521",
+    "Subjective": "Mr. Hayes attended appointment with his brother who assists with care coordination. Brother confirms patient receives fluphenazine decanoate 25 mg IM injection every three weeks at clinic without any missed appointments for past two years. Despite consistent long-acting medication delivery, continues experiencing moderate symptoms. Reports daily auditory hallucinations of voice commenting on his actions throughout day. Endorses vague paranoid beliefs that people at senior center talk about him behind back. Sleep fair at 6 hours nightly. Appetite adequate, weight stable at 176 lbs. Not working, retired on Social Security and disability. Lives in senior housing with brother visiting twice weekly. Attends senior center activities three times weekly. Limited friendships. Mood 'alright I guess' rated 5/10. Denies substance use. Cooperative during visit. Safety: No SI/HI. (Assessed by Donna Williams, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Elderly male, casual clothing, fair grooming, calm demeanor",
+      "Speech": "Soft, somewhat slow, coherent",
+      "Affect": "Flat, limited range",
+      "Mood": "Alright I guess",
+      "Thought_Content": "Daily auditory hallucinations, mild paranoid ideation",
+      "Thought_Process": "Coherent, concrete, some preoccupation"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 10,
+      "GAD_7": 8,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Fluphenazine decanoate 25 mg IM every 3 weeks",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 108 mg/dL; lipids mildly elevated.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder with persistent moderate symptoms.",
+    "Psychosocial_Context": "Lives in senior housing; retired on Social Security and disability; regular senior center attendance; brother provides support.",
+    "Assessment_and_Plan": [
+      "Perfect adherence via long-acting injection.",
+      "Moderate residual symptoms stable on current regimen.",
+      "Discussed increasing injection dose.",
+      "Will increase to 37.5 mg every 3 weeks.",
+      "Continue senior center engagement.",
+      "Brother to monitor response.",
+      "Follow-up in 6 weeks."
+    ],
+    "RTC": "6 weeks",
+    "Author": "Note written by Donna Williams, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Senior Mental Health Services, 4421 Golden Years Plaza, Baltimore, MD 21201, Phone: (555) 229-6643, Fax: (555) 229-6644"
+  },
+  "ground_truth": "Adherent"
+}

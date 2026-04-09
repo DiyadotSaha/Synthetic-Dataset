@@ -1,0 +1,53 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Noah Richardson",
+    "Patient_MRN": "096",
+    "Date_of_Birth": "2010-12-28",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male brought by stepfather after finding detailed plan to hang himself in journal entry.",
+    "Collateral_Contact_Information": "Stepfather: Mark Richardson, Phone: (555) 442-6633",
+    "Subjective": "Patient is a 14-year-old male presenting after stepfather discovered a journal entry describing a detailed plan to hang himself using a belt from the ceiling fan in his bedroom, written three days ago. The entry specified waiting until his mother and stepfather go on their anniversary trip next week. Patient confirms plan accuracy and reports feeling unwanted in the new blended family since his mother remarried six months ago. He describes his plan in detail but states he has not decided definitively whether to follow through, noting he sometimes wants to live and sometimes wants to die. He reports conflict with stepfather, feeling his mother has 'replaced' him, and believing his younger stepsibling gets preferential treatment. Sleep normal, appetite decreased. He still has two close friends but has stopped inviting them over. He enjoys video gaming. Previously close relationship with biological father who moved across country last year. Currently no medications. No prior mental health treatment. (ED Physician Dr. Rebecca Clark, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casual dress, avoids eye contact with stepfather",
+      "Behavior": "Cooperative with clinician, guarded around stepfather",
+      "Speech": "Normal rate and volume",
+      "Mood": "Unwanted and displaced",
+      "Affect": "Constricted, resentful undertone",
+      "Thought_Process": "Linear, preoccupied with family dynamics",
+      "Thought_Content": "Active SI with detailed plan but ambivalent intent",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair regarding family conflict",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood related to blended family transition; suicidal ideation with plan; attachment disruption.",
+    "Psychosocial_Context": "Mother remarried 6 months ago; conflict with stepfather; feelings of displacement by stepsibling; biological father moved away; maintains peer friendships; engaged in gaming.",
+    "Assessment_and_Plan": [
+      "Moderate risk: active SI with detailed, lethal plan but ambivalent intent; planning behavior very concerning.",
+      "Some protective factors: peer friendships, gaming interests, ambivalence about death.",
+      "Remove ceiling fan capability; stepfather to check structural integrity for hanging risk.",
+      "Crisis related to blended family adjustment and attachment trauma (father's move).",
+      "Mandatory family therapy focusing on patient's integration and relationship building.",
+      "Individual therapy for attachment, loss of father proximity, and blended family adjustment.",
+      "Facilitate contact with biological father; video calls, visits if possible.",
+      "Mother and stepfather to cancel anniversary trip; not safe to leave patient.",
+      "Close outpatient follow-up within 24-48 hours.",
+      "Discharge contingent on means restriction, family therapy commitment, and enhanced supervision."
+    ],
+    "Author": "Dr. Rebecca Clark, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

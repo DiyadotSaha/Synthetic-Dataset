@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Dorothy Washington",
+    "Patient_MRN": "085",
+    "Date_of_Birth": "1957-10-22",
+    "Date_of_Service": "2024-05-09",
+    "Identifying_Data_Chief_Complaint": "66-year-old African American female with chronic psychotic disorder presenting in severe crisis.",
+    "Collateral_Contact_Information": "Emergency Contact: Granddaughter (Tasha Washington) at 555-334-9921",
+    "Subjective": "Ms. Washington brought to emergency psychiatric evaluation by granddaughter and APS worker after neighbors reported concerns. Group home where she resides documents perfect adherence to perphenazine 16 mg daily administered by nursing staff for past four years without any refusals. Despite unwavering medication compliance, patient is catastrophically decompensated. Presents as profoundly psychotic, largely nonverbal, rocking and moaning throughout interview. Staff report she experiences constant auditory hallucinations of deceased family members calling her to join them in death. Over past three weeks has made multiple suicide attempts including trying to hang herself with bedsheet and attempting to overdose on cleaning products before staff intervention. Also maintains nihilistic delusion that she is already dead and rotting. Sleep completely absent for two weeks per staff observation. Has refused all food and fluids for ten days stating dead people don't eat, resulting in severe dehydration and 29-pound weight loss to 94 lbs, now critically malnourished. Complete self-neglect - refusing all hygiene assistance, smearing feces, nonambulatory. Requires full assist for all ADLs. Staff report she no longer recognizes family members. Granddaughter tearful and distraught. Risk assessment critical: Multiple suicide attempts, command hallucinations to die, active refusal of life-sustaining activities, critical malnutrition and dehydration. Nonverbal, unable to assess intent but behaviors indicate imminent danger. (Emergency comprehensive evaluation by Dr. Lawrence Brown, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Elderly female, severely cachectic, disheveled, malodorous, nonambulatory, responding to internal stimuli",
+      "Speech": "Minimal, moaning, incomprehensible at times",
+      "Affect": "Severely blunted, appears disconnected",
+      "Mood": "Unable to assess",
+      "Thought_Content": "Auditory hallucinations of deceased family, nihilistic delusions, suicidal ideation",
+      "Thought_Process": "Unable to adequately assess given minimal verbal output"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 27,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Active suicidal intent with multiple recent attempts, command hallucinations, refusing food/water"
+    },
+    "Current_Medications": "Perphenazine 16 mg PO daily",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Critical labs: severe malnutrition with albumin 1.9 g/dL, prealbumin critically low; BUN 68 mg/dL, Cr 2.8 mg/dL acute renal failure; sodium 155 mEq/L; potassium 2.7 mEq/L; glucose 61 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder, severe treatment-refractory exacerbation, active suicidality with multiple attempts, grave disability with life-threatening medical complications.",
+    "Psychosocial_Context": "Resides in group home; widowed; limited family contact; on Medicare/SSI; multiple prior hospitalizations; now critically ill.",
+    "Assessment_and_Plan": [
+      "Perfect medication adherence via group home nursing but complete treatment failure.",
+      "Multiple suicide attempts and ongoing suicidal intent with command hallucinations.",
+      "Life-threatening malnutrition, dehydration, and acute renal failure.",
+      "5150 hold for immediate involuntary hospitalization.",
+      "Requires emergency medical hospitalization first for critical stabilization.",
+      "Will need IV fluids, electrolyte correction, NG tube nutrition.",
+      "After medical stabilization, psychiatric ICU admission for ECT and clozapine trial.",
+      "Likely will need conservatorship given severity.",
+      "Coordinating emergency medical transport with ambulance now."
+    ],
+    "RTC": "Post-hospitalization",
+    "Author": "Note written by Dr. Lawrence Brown, MD, Psychiatrist \u2014 Geriatric Crisis Services, 7821 Senior Care Boulevard, Chicago, IL 60620, Phone: (555) 447-8821, Fax: (555) 447-8822"
+  },
+  "ground_truth": "Adherent"
+}

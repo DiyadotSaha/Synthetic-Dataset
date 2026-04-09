@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Amber Rodriguez",
+    "Patient_MRN": "090",
+    "Date_of_Birth": "1985-08-03",
+    "Date_of_Service": "2024-06-18",
+    "Identifying_Data_Chief_Complaint": "39-year-old Hispanic female with schizoaffective disorder with moderate symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Elena Rodriguez) at 555-229-7643",
+    "Subjective": "Ms. Rodriguez attended appointment with mother who assists with medication management. Mother confirms daughter takes paliperidone ER 12 mg each morning via supervision, no missed doses. Despite reliable adherence, continues experiencing moderate symptom burden. Reports persistent auditory hallucinations several times daily of voices making critical comments about her abilities. Also endorses paranoid thoughts that coworkers at her cleaning job talk about her behind her back. Sleep disrupted at 5 hours nightly with frequent awakenings. Appetite decreased, weight stable at 157 lbs. Working part-time as office cleaner, struggling with stress. Lives with mother who provides support. Limited social activities. Mood 'down and stressed' rated 4/10. Denies substance use. Mother concerned about ongoing symptoms. Safety: No SI/HI. (Assessed by Veronica Martinez, LCSW, Licensed Clinical Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, fair grooming, appears anxious",
+      "Speech": "Soft, hesitant, coherent",
+      "Affect": "Anxious, constricted",
+      "Mood": "Down and stressed",
+      "Thought_Content": "Auditory hallucinations, paranoid ideation about coworkers",
+      "Thought_Process": "Coherent, preoccupied"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 16,
+      "GAD_7": 17,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Paliperidone ER 12 mg PO daily",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 98 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder with persistent symptoms and mood/anxiety components.",
+    "Psychosocial_Context": "Lives with mother; working part-time; limited social engagement; ongoing symptoms affecting function.",
+    "Assessment_and_Plan": [
+      "Good adherence through mother's supervision.",
+      "Already on maximum dose paliperidone with ongoing symptoms.",
+      "Discussed augmentation with antidepressant.",
+      "Will add SSRI for mood and anxiety.",
+      "Encouraged continued employment.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Veronica Martinez, LCSW, Licensed Clinical Social Worker \u2014 Latina Mental Health Collective, 3421 Community Plaza, Phoenix, AZ 85012, Phone: (555) 883-4409, Fax: (555) 883-4410"
+  },
+  "ground_truth": "Adherent"
+}

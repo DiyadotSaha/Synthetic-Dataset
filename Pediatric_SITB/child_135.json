@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Xavier Powell",
+    "Patient_MRN": "135",
+    "Date_of_Birth": "2012-06-03",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old male brought by foster mother for adjustment to new placement.",
+    "Collateral_Contact_Information": "Foster mother: Diane Powell, Phone: (555) 012-3581",
+    "Subjective": "Patient is a 13-year-old male in foster care presenting with adjustment difficulties after placement in new home two weeks ago following disruption from previous foster home. He reports feeling sad about leaving previous foster family and school where he had been for one year. He denies any thoughts of self-harm or suicidal ideation. Patient states he understands placement disrupted due to foster parents' health issues, not his behavior, but still feels rejected. He is withdrawn and has been staying in his room most of time. Sleep and appetite are reduced. Foster mother reports patient is polite and compliant but not engaging with family yet. He has history of multiple placements. Currently attending new school and meeting with therapist weekly. Patient expresses fear this placement will also end. Enjoys drawing and brought art supplies from previous home. (Social Worker Thomas Edwards, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, somewhat guarded posture",
+      "Behavior": "Cooperative but reserved",
+      "Speech": "Quiet, brief responses",
+      "Mood": "Sad",
+      "Affect": "Constricted, flat",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood; reactive attachment difficulties, moderate.",
+    "Psychosocial_Context": "Foster care; recent placement disruption; history of multiple placements; grieving loss of previous foster family; withdrawn in new home; engaged in therapy; interested in art.",
+    "Assessment_and_Plan": [
+      "Adjustment difficulties and grief following placement disruption; appropriate to circumstances.",
+      "Protective factors: engaged in therapy, compliant behavior, interest in art, new foster parents committed, no suicidal ideation.",
+      "Increase therapy frequency to twice weekly during adjustment period.",
+      "Trauma-informed care approach with focus on attachment and trust-building.",
+      "Foster parent education on trauma responses and expectations for adjustment timeline.",
+      "Allow patient to progress at own pace in developing relationships.",
+      "Encourage engagement through art activities as comfortable outlet.",
+      "School consultation for transition support.",
+      "Close monitoring by social worker and therapist; expect 2-3 month adjustment period."
+    ],
+    "Author": "Thomas Edwards, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

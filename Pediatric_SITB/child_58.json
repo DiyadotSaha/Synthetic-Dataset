@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Brandon Hayes",
+    "Patient_MRN": "058",
+    "Date_of_Birth": "2009-09-30",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old male brought by best friend after attempting to jump from parking structure following breakup with girlfriend.",
+    "Collateral_Contact_Information": "Best friend: Tyler Grant, Phone: (555) 336-5544; Mother: Laura Hayes, Phone: (555) 336-5543",
+    "Subjective": "Patient is a 16-year-old male brought in by his best friend who physically prevented him from jumping from the fourth floor of a shopping center parking structure approximately one hour ago. Patient reports his girlfriend of eight months broke up with him this morning, stating she had feelings for someone else. Patient describes feeling completely devastated and believing life is not worth living without her. He went to the parking structure with full intent to jump to his death, convinced he could not survive the emotional pain. His friend received a goodbye text, tracked his location, and arrived just as patient was climbing over the railing. Patient states he is grateful his friend stopped him but continues to feel overwhelming despair and states he still wishes he were dead. He reports the relationship was his 'entire world' and he has no sense of identity without it. He acknowledges he isolated from other friends during the relationship and now feels he has nothing. Sleep disrupted for the past week due to relationship conflict. History of anxiety treated with escitalopram 10mg for past year. No prior suicide attempts but did engage in non-suicidal self-injury (cutting) at age 14 during parents' divorce. (ED Physician Dr. Steven Park, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, red eyes from crying, agitated",
+      "Behavior": "Restless, emotionally labile",
+      "Speech": "Pressured when discussing ex-girlfriend, tearful",
+      "Mood": "Devastated and empty",
+      "Affect": "Intensely depressed, labile",
+      "Thought_Process": "Preoccupied with loss, some racing quality",
+      "Thought_Content": "Recent near-attempt with intent; ongoing active SI; relationship preoccupation",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Minimal, catastrophizing",
+      "Judgment": "Severely impaired"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Escitalopram 10mg daily",
+    "CURES_Report": "Escitalopram on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "Negative",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder; borderline personality features with relationship instability and identity disturbance; suicide attempt with ongoing suicidal ideation; history of NSSI.",
+    "Psychosocial_Context": "Recent breakup from enmeshed relationship; social isolation during relationship; history of cutting during parents' divorce; currently on SSRI; friend intervention prevented attempt; mother available.",
+    "Assessment_and_Plan": [
+      "High risk: recent near-lethal suicide attempt interrupted by friend; ongoing active SI with continued intent.",
+      "Minimal protective factors: friend's intervention and loyalty, mother's concern; otherwise overwhelmed by loss.",
+      "Pattern of relationship dependency and identity diffusion requires assessment for personality pathology.",
+      "5150 hold initiated.",
+      "Inpatient psychiatric hospitalization required given imminent risk.",
+      "Current SSRI dose likely inadequate; medication reevaluation needed.",
+      "DBT may be appropriate given emotion dysregulation, identity issues, history of NSSI, and relationship patterns.",
+      "Address social isolation and help rebuild peer connections outside romantic relationships.",
+      "Individual therapy to work on identity development independent of romantic relationships.",
+      "Mother to be educated on monitoring and supporting without enabling relationship focus.",
+      "Friend (Tyler) demonstrated protective intervention; appropriate to acknowledge in treatment planning."
+    ],
+    "Author": "Dr. Steven Park, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

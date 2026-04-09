@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Eliana Foster",
+    "Patient_MRN": "189",
+    "Date_of_Birth": "2013-01-10",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "12-year-old female brought by father for hitting self on head without suicidal intent when frustrated.",
+    "Collateral_Contact_Information": "Father: Andrew Foster, Phone: (555) 567-8029",
+    "Subjective": "Patient is a 12-year-old female with learning disability presenting after episode of hitting herself on head with open hand yesterday when unable to complete math homework. She reports engaging in this behavior when extremely frustrated, stating it helps her release tension. She explicitly denies any suicidal intent, clarifying she is not trying to seriously hurt herself but rather expressing frustration without other outlet. She denies any thoughts of self-harm or suicidal ideation. Patient has dyslexia and dyscalculia requiring significant accommodations. She works much harder than peers for lower grades which causes frustration. Receives special education services and tutoring. Father reports behavior occurs approximately monthly when patient hits frustration threshold with schoolwork. No aggression toward others. Patient otherwise well-adjusted with good peer relationships and enjoys art and dance. Engaged in therapy focusing on learning differences and coping strategies. (Psychiatrist Dr. Claire Bennett, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears stated age",
+      "Behavior": "Cooperative, becomes tearful discussing frustration",
+      "Speech": "Clear, some word-finding difficulty",
+      "Mood": "Frustrated",
+      "Affect": "Congruent, appropriate",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation; self-hitting for frustration release without self-harm intent",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Impaired regarding coping methods"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Specific learning disorder with impairment in mathematics and reading; maladaptive frustration response, moderate.",
+    "Psychosocial_Context": "Lives with father and older sister; diagnosed learning disabilities causing academic frustration; receives appropriate educational supports; engages in self-hitting during overwhelm without suicidal intent; in therapy; socially and emotionally well-adjusted otherwise.",
+    "Assessment_and_Plan": [
+      "Self-hitting as maladaptive response to frustration related to learning challenges; not self-harm with suicidal intent.",
+      "Protective factors: engaged in therapy and receiving educational supports, good peer relationships, creative outlets, supportive father, explicitly denies suicidal intent.",
+      "Increase therapy frequency to focus on frustration tolerance and alternative coping strategies.",
+      "Teach replacement behaviors for frustration (physical activity, stress ball, taking breaks).",
+      "Review IEP to ensure accommodations are adequate and reducing unnecessary frustration.",
+      "Behavioral plan with warning signs and intervention before reaching crisis point.",
+      "Reframe challenges and emphasize patient's strengths in other areas.",
+      "Father educated on recognizing escalation and providing support before behavior occurs.",
+      "Close follow-up with therapist; expect improvement with enhanced coping skills."
+    ],
+    "Author": "Dr. Claire Bennett, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

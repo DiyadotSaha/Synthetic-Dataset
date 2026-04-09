@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Marcus Lewis",
+    "Patient_MRN": "080",
+    "Date_of_Birth": "1984-01-23",
+    "Date_of_Service": "2024-08-16",
+    "Identifying_Data_Chief_Complaint": "40-year-old African American male with schizophrenia for follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Wife (Angela Lewis) at 555-772-3498",
+    "Subjective": "Patient presented appearing calm and cooperative. Reports taking quetiapine 300 mg at bedtime consistently using evening routine, wife also reminds him. States doing fairly well. Experiences occasional brief whispers once weekly which he recognizes as symptoms. No other hallucinations or paranoid ideation. Sleep good at 7 hours nightly. Appetite healthy, weight stable at 186 lbs. Working part-time as security guard, steady employment for year. Mood 'okay' rated 6/10. Married for five years, relationship stable. Attends church with wife regularly. Enjoys watching sports. Two years sober from alcohol. Wife supportive of treatment. Building financial stability. No safety concerns, denies SI/HI. (Seen by Dr. Sharon Davis, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed in uniform, good grooming",
+      "Speech": "Clear, normal pace, coherent",
+      "Affect": "Appropriate, somewhat flat",
+      "Mood": "Okay",
+      "Thought_Content": "Minimal residual symptoms with insight",
+      "Thought_Process": "Organized, concrete"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 6,
+      "GAD_7": 7,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Quetiapine 300 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC and CMP within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable.",
+    "Psychosocial_Context": "Married; employed part-time; two years sober; active in church; good family support.",
+    "Assessment_and_Plan": [
+      "Good medication adherence with wife's support.",
+      "Symptoms well-controlled.",
+      "Continue quetiapine 300 mg qHS.",
+      "Commended on employment and sobriety.",
+      "Routine follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Dr. Sharon Davis, MD, Psychiatrist \u2014 Family First Psychiatry, 4521 Community Way, Baltimore, MD 21201, Phone: (555) 883-2217, Fax: (555) 883-2218"
+  },
+  "ground_truth": "Adherent"
+}

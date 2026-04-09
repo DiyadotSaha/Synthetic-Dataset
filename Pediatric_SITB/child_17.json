@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Sofia Hernandez",
+    "Patient_MRN": "017",
+    "Date_of_Birth": "2009-12-30",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female presents with severe depression and functional impairment following death of best friend.",
+    "Collateral_Contact_Information": "Mother: Isabella Hernandez, Phone: (555) 621-8934",
+    "Subjective": "Patient is a 15-year-old female presenting with severe depressive symptoms following the sudden death of her best friend in a car accident six weeks ago. She reports pervasive sadness, frequent crying episodes throughout the day, complete loss of interest in activities she previously enjoyed including soccer, and significant social withdrawal. She has stopped attending school for the past two weeks due to inability to concentrate and overwhelming grief. Sleep is severely disrupted with both initial and middle insomnia, and appetite is markedly decreased with unintentional weight loss of approximately 8 pounds. Patient explicitly denies any suicidal ideation, stating 'I could never do that to my family after what we've been through.' She reports feeling guilty that she survived while her friend died, but maintains no desire to harm herself. She has been attending bereavement counseling weekly but reports minimal benefit thus far. Mother is very concerned about functional decline and notes patient rarely leaves her bedroom. (Psychiatrist Dr. Rebecca Santos, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Unkempt, appears to have lost weight",
+      "Behavior": "Withdrawn, tearful throughout interview",
+      "Speech": "Soft, slowed",
+      "Mood": "Profoundly sad",
+      "Affect": "Depressed, constricted",
+      "Thought_Process": "Slowed but linear",
+      "Thought_Content": "No suicidal or homicidal ideation; preoccupied with grief and guilt",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "Ordered - pending",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, severe, without psychotic features; complicated grief.",
+    "Psychosocial_Context": "Lives with both parents and two younger siblings; previously active in soccer; experiencing traumatic bereavement; currently engaged in bereavement counseling; strong family support present.",
+    "Assessment_and_Plan": [
+      "Severe depression with significant functional impairment secondary to traumatic loss, no suicidality.",
+      "Protective factors: close family relationships, explicit denial of self-harm intent, engaged in therapy.",
+      "Initiate SSRI therapy - start fluoxetine 10mg daily, titrate to 20mg in one week.",
+      "Continue bereavement counseling; consider adding individual therapy focused on trauma and grief processing.",
+      "Psychiatric follow-up in one week to assess medication response and safety.",
+      "School liaison to arrange homebound instruction temporarily until functional capacity improves."
+    ],
+    "Author": "Dr. Rebecca Santos, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

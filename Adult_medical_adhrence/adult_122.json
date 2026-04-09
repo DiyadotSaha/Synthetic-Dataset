@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Oscar Martinez",
+    "Patient_MRN": "122",
+    "Date_of_Birth": "1987-07-24",
+    "Date_of_Service": "2024-06-17",
+    "Identifying_Data_Chief_Complaint": "37-year-old Hispanic male with schizophrenia with moderate symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Rosa Martinez) at 555-883-4409",
+    "Subjective": "Mr. Martinez attended appointment with mother who supervises medications. Mother confirms he takes quetiapine 400 mg nightly via her observation, no missed doses. Despite reliable adherence, continues experiencing moderate symptoms. Reports daily auditory hallucinations of voices making critical comments. Endorses paranoid thoughts that coworkers at dishwashing job talk negatively about him. Sleep disrupted at 5-6 hours nightly. Appetite decreased, weight down 5 lbs to 164 lbs. Working part-time washing dishes at restaurant, struggling with stress. Lives with mother. Limited social activities. Mood 'stressed' rated 4/10. Denies substance use. Safety: No SI/HI. (Assessed by Maria Gonzalez, LCSW, Licensed Clinical Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, fair grooming, appears anxious",
+      "Speech": "Soft, accented, hesitant",
+      "Affect": "Anxious, restricted",
+      "Mood": "Stressed",
+      "Thought_Content": "Auditory hallucinations, paranoid ideation about coworkers",
+      "Thought_Process": "Coherent, preoccupied"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 16,
+      "GAD_7": 16,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Quetiapine 400 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 106 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with persistent symptoms and anxiety.",
+    "Psychosocial_Context": "Lives with mother; working part-time; limited social engagement; ongoing symptoms.",
+    "Assessment_and_Plan": [
+      "Good adherence through mother's supervision.",
+      "Persistent psychotic and anxiety symptoms.",
+      "Discussed medication augmentation.",
+      "Will add SSRI for anxiety and mood.",
+      "Encouraged continued employment.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Maria Gonzalez, LCSW, Licensed Clinical Social Worker \u2014 Latino Workers Support, 3421 Community Center, Houston, TX 77002, Phone: (555) 661-3487, Fax: (555) 661-3488"
+  },
+  "ground_truth": "Adherent"
+}

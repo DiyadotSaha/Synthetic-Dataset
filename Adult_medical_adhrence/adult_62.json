@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Brian Kelly",
+    "Patient_MRN": "062",
+    "Date_of_Birth": "1985-03-18",
+    "Date_of_Service": "2024-08-14",
+    "Identifying_Data_Chief_Complaint": "39-year-old White male with schizoaffective disorder with moderate symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Father (Patrick Kelly) at 555-667-4421",
+    "Subjective": "Mr. Kelly attended appointment accompanied by father. Father confirms Brian takes paliperidone ER 12 mg each morning with supervision, no missed doses. Despite good adherence, continues experiencing moderate symptom burden. Reports persistent auditory hallucinations daily of voices making negative comments, which increase his anxiety. Also endorses paranoid thoughts that coworkers are mocking him behind his back, making work stressful. Sleep disrupted at 5-6 hours nightly. Appetite decreased, weight down 7 lbs to 168 lbs. Working part-time as janitor at school,  struggles with concentration. Lives with father who provides support. Limited social activities. Mood 'stressed and down' rated 4/10. Denies alcohol use, two years sober. Father concerned about lack of improvement. Safety: No SI/HI. (Assessed by Margaret O'Brien, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, fair grooming, appears anxious",
+      "Speech": "Soft, hesitant, coherent",
+      "Affect": "Anxious, constricted",
+      "Mood": "Stressed and down",
+      "Thought_Content": "Auditory hallucinations, paranoid ideation about coworkers",
+      "Thought_Process": "Coherent, preoccupied"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 14,
+      "GAD_7": 16,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Paliperidone ER 12 mg PO daily",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 99 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder with persistent symptoms despite adherence.",
+    "Psychosocial_Context": "Lives with father; working part-time; two years sober; limited social engagement.",
+    "Assessment_and_Plan": [
+      "Good adherence through father's supervision.",
+      "Persistent psychotic and anxiety symptoms.",
+      "Already on maximum dose paliperidone.",
+      "Discussed augmentation strategies.",
+      "Will add low-dose antidepressant for mood and anxiety.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Margaret O'Brien, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Shamrock Mental Health, 1890 Celtic Avenue, Boston, MA 02118, Phone: (555) 772-4498, Fax: (555) 772-4499"
+  },
+  "ground_truth": "Adherent"
+}

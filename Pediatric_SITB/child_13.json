@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Lily Chang",
+    "Patient_MRN": "013",
+    "Date_of_Birth": "2012-09-25",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female presents with social anxiety and avoidance of school presentations.",
+    "Collateral_Contact_Information": "Father: Kevin Chang, Phone: (555) 729-4183",
+    "Subjective": "Patient is a 13-year-old female brought by her father due to increasing anxiety about an upcoming oral presentation required for her English class. She reports feeling extremely nervous about speaking in front of the class, with physical symptoms including rapid heartbeat, sweating, and nausea when thinking about the assignment. She has successfully avoided similar situations in the past by claiming illness, but the current presentation is a significant portion of her grade. Patient denies any thoughts of self-harm or suicidal ideation. She describes herself as generally shy and prefers small group interactions. Outside of school, she enjoys playing violin and has performed in small recitals without significant distress. Father reports patient has always been somewhat reserved but notes her anxiety has intensified this year. She maintains good grades and has a small circle of close friends. (ED Physician Dr. Jennifer Walsh, DO)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears nervous",
+      "Behavior": "Cooperative, avoids direct eye contact",
+      "Speech": "Soft-spoken, clear",
+      "Mood": "Anxious",
+      "Affect": "Anxious but appropriate",
+      "Thought_Process": "Linear and organized",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Intact"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Social anxiety disorder, mild.",
+    "Psychosocial_Context": "Lives with both parents; academically successful; plays violin; has close peer friendships; shy temperament.",
+    "Assessment_and_Plan": [
+      "Situational social anxiety related to performance demands.",
+      "Protective factors: academic success, supportive parents, creative outlet through music, peer relationships.",
+      "Recommend cognitive behavioral therapy focusing on exposure techniques.",
+      "Psychoeducation provided to patient and father regarding anxiety management strategies.",
+      "No medication indicated at this time; outpatient therapy referral provided."
+    ],
+    "Author": "Dr. Jennifer Walsh, DO (ED Physician)"
+  },
+  "ground_truth": "No"
+}

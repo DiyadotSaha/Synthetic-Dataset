@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Brandon Mitchell",
+    "Patient_MRN": "128",
+    "Date_of_Birth": "1996-03-19",
+    "Date_of_Service": "2024-08-27",
+    "Identifying_Data_Chief_Complaint": "28-year-old African American male with schizoaffective disorder for routine check.",
+    "Collateral_Contact_Information": "Emergency Contact: Aunt (Denise Mitchell) at 555-447-2218",
+    "Subjective": "Mr. Mitchell came to appointment on time appearing upbeat and talkative. Reports consistent adherence to brexpiprazole 3 mg every morning taken with breakfast, never missed a dose since starting six months ago. States feeling much improved compared to before medication. Experiences very occasional brief visual distortions maybe once a month which don't bother him. No auditory hallucinations. No paranoid thoughts. Sleep consistent at 7 hours nightly. Appetite good, weight stable at 172 lbs. Working as warehouse associate, enjoys physical work and team. Mood 'positive' rated 8/10. Lives in shared apartment with two roommates. Plays basketball recreationally. Attending community college part-time studying business. One year clean from all substances. Building new friendships. Future goals include management position. No safety concerns, denies SI/HI. (Seen by Jamal Washington, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Athletic build, casual athletic wear, excellent grooming, energetic",
+      "Speech": "Clear, animated, normal rate",
+      "Affect": "Upbeat, full range, engaged",
+      "Mood": "Positive",
+      "Thought_Content": "Future-oriented, minimal residual symptoms, good insight",
+      "Thought_Process": "Organized, goal-directed, logical"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 3,
+      "GAD_7": 4,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Brexpiprazole 3 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, currently stable with excellent response to treatment.",
+    "Psychosocial_Context": "Living with roommates; employed full-time; attending college part-time; one year sober; active recreational and social life.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence with strong clinical response.",
+      "Continue brexpiprazole 3 mg daily.",
+      "Commended on employment, education, and recovery.",
+      "Routine follow-up in 10 weeks."
+    ],
+    "RTC": "10 weeks",
+    "Author": "Note written by Jamal Washington, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Urban Community Health, 5521 Warehouse District, Detroit, MI 48201, Phone: (555) 338-9921, Fax: (555) 338-9922"
+  },
+  "ground_truth": "Adherent"
+}

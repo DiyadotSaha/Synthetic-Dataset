@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Rachel Thompson",
+    "Patient_MRN": "141",
+    "Date_of_Birth": "1991-09-18",
+    "Date_of_Service": "2024-09-05",
+    "Identifying_Data_Chief_Complaint": "33-year-old White female with schizophrenia for routine check-in.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Susan Thompson) at 555-661-8832",
+    "Subjective": "Patient presented appearing cheerful and engaged. Reports excellent adherence to cariprazine 4.5 mg every morning with breakfast, never misses a dose. States feeling fantastic. Denies any hallucinations or paranoid thoughts for past seven months. Sleep great at 7-8 hours nightly. Appetite excellent, weight healthy at 138 lbs. Working full-time as elementary school teacher, loves her students and job. Mood 'fantastic' rated 9/10. Lives alone in townhouse. Training for half-marathon. Active social life with friends and book club. Attending therapy monthly for wellness. Two years sober from all substances. Engaged to be married next spring. No safety concerns, denies SI/HI. (Evaluated by Jennifer Park, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Young adult in casual summer dress, excellent grooming, vibrant affect",
+      "Speech": "Clear, animated, well-organized",
+      "Affect": "Bright, full range, very engaged",
+      "Mood": "Fantastic",
+      "Thought_Content": "Future-oriented, optimistic, no psychotic symptoms",
+      "Thought_Process": "Organized, logical, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 0,
+      "GAD_7": 1,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Cariprazine 4.5 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, in sustained full remission with excellent functioning.",
+    "Psychosocial_Context": "Living independently; employed as teacher; two years sober; active athletic and social life; engaged to be married.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and sustained remission.",
+      "Continue cariprazine 4.5 mg daily.",
+      "Thriving in all life domains.",
+      "Commended on recovery and upcoming marriage.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Jennifer Park, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Educator Mental Health Services, 8821 School District Plaza, Minneapolis, MN 55401, Phone: (555) 338-9954, Fax: (555) 338-9955"
+  },
+  "ground_truth": "Adherent"
+}

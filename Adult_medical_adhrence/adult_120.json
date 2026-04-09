@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Kenneth Wright",
+    "Patient_MRN": "120",
+    "Date_of_Birth": "1980-11-23",
+    "Date_of_Service": "2024-07-12",
+    "Identifying_Data_Chief_Complaint": "43-year-old African American male with schizophrenia with residual symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Wife (Sharon Wright) at 555-661-3487",
+    "Subjective": "Mr. Wright attended appointment with wife who supervises medications. Wife confirms he takes olanzapine 15 mg nightly via her observation, no missed doses. Despite reliable adherence, continues experiencing moderate symptoms. Reports daily auditory hallucinations of voices discussing him. Endorses vague paranoid ideas. Sleep disrupted at 5-6 hours nightly. Appetite fair, weight increased by 11 lbs to 196 lbs which concerns both. Working part-time as janitor. Lives with wife and children. Mood 'alright' rated 5/10. Denies substance use. Somewhat flat during interview. Safety: No SI/HI. (Assessed by Dr. Lawrence Green, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged male, adequate grooming, appears withdrawn",
+      "Speech": "Soft, brief responses, coherent",
+      "Affect": "Somewhat flat, restricted",
+      "Mood": "Alright",
+      "Thought_Content": "Auditory hallucinations, vague paranoid ideation",
+      "Thought_Process": "Concrete, somewhat impoverished"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 13,
+      "GAD_7": 11,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Olanzapine 15 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Glucose 119 mg/dL concerning; lipids elevated; CBC normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with persistent symptoms and metabolic concerns.",
+    "Psychosocial_Context": "Married with children; working part-time; ongoing symptoms; metabolic issues.",
+    "Assessment_and_Plan": [
+      "Good adherence through wife's supervision.",
+      "Persistent symptoms with metabolic concerns from olanzapine.",
+      "Discussed medication change for both symptom control and metabolic profile.",
+      "Will cross-taper to ziprasidone.",
+      "Metabolic monitoring.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Dr. Lawrence Green, MD, Psychiatrist \u2014 Family Metabolic Psychiatry, 3421 Health Drive, Memphis, TN 38116, Phone: (555) 883-4409, Fax: (555) 883-4410"
+  },
+  "ground_truth": "Adherent"
+}

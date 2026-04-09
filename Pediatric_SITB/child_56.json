@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Ava Thompson",
+    "Patient_MRN": "056",
+    "Date_of_Birth": "2011-07-23",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by crisis counselor after expressing intent to kill herself due to viral humiliating video.",
+    "Collateral_Contact_Information": "Mother: Rachel Thompson, Phone: (555) 774-3322",
+    "Subjective": "Patient is a 14-year-old female presenting after contacting crisis text line expressing intent to end her life. Yesterday, a video of her changing in the school locker room was secretly recorded and posted on social media, receiving thousands of views, shares, and cruel comments before being removed. She reports the humiliation is unbearable and she cannot face returning to school or seeing anyone who has seen the video. She states she wants to die and intends to kill herself to escape the shame, reporting she has been researching methods online including suffocation and drowning. However, she has not settled on a specific method or timeline, stating she is 'trying to figure out what would work and be painless.' She describes feeling violated, exposed, and certain her life is ruined. Sleep has been impossible since the incident. She is not eating. She has deleted all social media but knows the video has been screenshot and shared beyond the original post. Her close friend group has been supportive but she feels too ashamed to face them. No prior mental health history or suicide attempts. School has launched investigation into who recorded and posted the video. (Crisis Counselor Maria Gonzalez, LMFT)",
+    "Mental_Status_Examination": {
+      "Appearance": "Wearing oversized hoodie, unwashed hair, avoiding eye contact",
+      "Behavior": "Withdrawn, ashamed, difficulty engaging",
+      "Speech": "Soft, minimal",
+      "Mood": "Humiliated and hopeless",
+      "Affect": "Depressed, restricted, shame-based",
+      "Thought_Process": "Preoccupied with incident, ruminating",
+      "Thought_Content": "Active SI with intent and method research but no concrete plan finalized",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Limited, catastrophizing",
+      "Judgment": "Severely impaired by acute shame"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Acute stress reaction to sexual violation and cyberbullying; major depressive episode; active suicidal ideation with intent.",
+    "Psychosocial_Context": "Victim of non-consensual recording and distribution of intimate image; viral humiliation; supportive peer group; school investigation underway; no prior mental health concerns.",
+    "Assessment_and_Plan": [
+      "Moderate-to-high risk: active SI with clear intent and active method research; acute traumatic event driving crisis.",
+      "Some protective factors: supportive friends (if patient can accept support), mother's care, school taking action.",
+      "This constitutes sexual exploitation and privacy violation requiring legal/school intervention.",
+      "Crisis stabilization needed; recommend brief psychiatric admission versus crisis stabilization unit.",
+      "Trauma-focused intervention required given violation and exposure.",
+      "School to expedite investigation; patient may need temporary alternative education during recovery.",
+      "Legal consultation regarding criminal and civil remedies for non-consensual intimate image distribution.",
+      "Mother to monitor internet access and provide constant supervision.",
+      "Cyberbullying and exploitation resources provided.",
+      "Immediate mental health treatment; trauma therapist specializing in technology-facilitated abuse.",
+      "Not safe for discharge without structured crisis intervention; pursue voluntary or involuntary brief hold."
+    ],
+    "Author": "Maria Gonzalez, LMFT (Crisis Counselor)"
+  },
+  "ground_truth": "yes"
+}

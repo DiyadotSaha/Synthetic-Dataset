@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Olivia Brooks",
+    "Patient_MRN": "200",
+    "Date_of_Birth": "2012-05-20",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by aunt after expressing wish to 'be with grandma in heaven' following grandmother's death.",
+    "Collateral_Contact_Information": "Aunt: Patricia Brooks, Phone: (555) 432-7654",
+    "Subjective": "Patient is a 13-year-old female presenting three days after her grandmother's unexpected death from a heart attack. Her aunt brought her in after patient tearfully stated she wished she could 'be with grandma in heaven' and that sometimes she wonders if dying would reunite them. Upon evaluation, patient clarifies these are wishes to be reunited with her grandmother rather than active thoughts of ending her life. She explicitly denies any plan, method, or intent to harm herself and states she understands she cannot make herself die to see her grandmother. She describes her grandmother as her primary caregiver and closest confidant since infancy while her mother works two jobs. She reports profound sadness, frequent crying, and difficulty eating since the death. Sleep is disrupted with dreams of her grandmother. Despite her grief, she can identify that her mother and younger twin brothers need her, and she has her grandmother's dog to care for now. She has never experienced thoughts like this before. (ED Physician Dr. Thomas Anderson, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, red eyes from crying, clutching photo of grandmother",
+      "Behavior": "Cooperative, tearful, seeks comfort",
+      "Speech": "Soft, occasionally breaking with emotion",
+      "Mood": "Grieving and sad",
+      "Affect": "Depressed, tearful, appropriate to situation",
+      "Thought_Process": "Logical, slowed by sadness",
+      "Thought_Content": "Passive death wishes to reunite with deceased; no active suicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good for age",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Acute grief reaction; passive death wishes without suicidal ideation; adjustment disorder with depressed mood.",
+    "Psychosocial_Context": "Recent unexpected loss of grandmother who was primary caregiver; lives with mother and twin younger brothers; mother works long hours; close relationship with aunt; now responsible for grandmother's dog.",
+    "Assessment_and_Plan": [
+      "Low risk: passive wishes to reunite with deceased grandmother; no active suicidal ideation, plan, or intent.",
+      "Protective factors: responsibility for siblings and grandmother's dog, close aunt relationship, mother support, good reality testing.",
+      "Normal grief reaction to sudden significant loss; statements reflect wish for reunion not self-harm.",
+      "Grief counseling referral provided; consider child bereavement support group.",
+      "Safety plan created with patient and aunt focusing on expressing grief safely.",
+      "Family encouraged to maintain routines while allowing space for mourning.",
+      "Follow-up with pediatrician within one week to monitor grief process.",
+      "Safe for discharge to family care with outpatient grief support."
+    ],
+    "Author": "Dr. Thomas Anderson, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

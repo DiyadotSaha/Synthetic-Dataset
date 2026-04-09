@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Clarence Thompson",
+    "Patient_MRN": "048",
+    "Date_of_Birth": "1959-03-14",
+    "Date_of_Service": "2024-06-20",
+    "Identifying_Data_Chief_Complaint": "65-year-old African American male with schizophrenia presenting in severe crisis.",
+    "Collateral_Contact_Information": "Emergency Contact: Nephew (Michael Thompson) at 555-661-8834",
+    "Subjective": "Mr. Thompson brought to emergency psychiatric appointment by nephew and adult protective services worker after welfare check at his apartment. Nephew confirms uncle receives monthly paliperidone palmitate 156 mg injection at clinic administered by nursing staff with documented 100% adherence for past 18 months. Despite perfect medication compliance verified through injection records, patient is profoundly decompensated. During interview responds primarily to internal stimuli, occasionally shouting at unseen entities. When redirected, reports 'thousands of demons' speaking to him constantly, commanding him to perform religious rituals to save the world. Maintains fixed grandiose delusion that he is the second coming of Jesus Christ. Nephew reports patient has not slept in days, pacing apartment around the clock chanting prayers. Has not eaten for approximately one week, believing he must fast for 40 days like biblical figures, resulting in severe weight loss of 28 lbs to 119 lbs, now emaciated. Apartment found in deplorable condition with religious writings covering all walls, trash and feces throughout. Patient had disconnected all utilities believing electricity is 'devil's power.' Severe self-neglect - has not bathed in months, clothes in tatters, multiple skin infections visible. Nephew tearful and overwhelmed. Patient appears disoriented to time and place. Mood elevated and grandiose. Risk assessment: Gravely disabled, unable to meet basic needs, severe malnutrition life-threatening. Denies suicidal ideation stating he is immortal. (Emergency assessment by Dr. Laura Bennett, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Elderly male, severe malnutrition, disheveled, malodorous, multiple skin lesions, responding to internal stimuli",
+      "Speech": "Disorganized, pressured, religious themed, tangential",
+      "Affect": "Labile, grandiose, inappropriate",
+      "Mood": "Euphoric and grandiose",
+      "Thought_Content": "Severe command auditory hallucinations, grandiose religious delusions with messianic themes",
+      "Thought_Process": "Severely disorganized, loose associations, thought blocking"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 22,
+      "GAD_7": 20,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Unable to assess due to psychosis severity, denies SI stating immortal"
+    },
+    "Current_Medications": "Paliperidone palmitate 156 mg IM monthly",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Stat labs: severe malnutrition with albumin 2.4 g/dL, prealbumin low; BUN 44 mg/dL, Cr 1.8 mg/dL suggesting dehydration and renal impairment; glucose 68 mg/dL; multiple electrolyte abnormalities.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, severe treatment-refractory exacerbation despite depot antipsychotic, grave disability with medical complications.",
+    "Psychosocial_Context": "Lives alone in subsidized housing; never married; minimal family contact; nephew discovered crisis; on SSI; history chronic hospitalizations.",
+    "Assessment_and_Plan": [
+      "Perfect medication adherence documented through monthly depot injections.",
+      "Complete treatment failure despite long-acting injectable.",
+      "Gravely disabled - unable to provide food, shelter, clothing for self.",
+      "Life-threatening malnutrition and dehydration requiring medical hospitalization.",
+      "5150 hold for involuntary psychiatric commitment.",
+      "Will require medical admission first for stabilization of malnutrition and infections.",
+      "After medical clearance, transfer to psychiatric unit for medication revision - consider clozapine.",
+      "Coordination with adult protective services for long-term conservatorship evaluation.",
+      "Nephew given crisis resources."
+    ],
+    "RTC": "Post-hospitalization",
+    "Author": "Note written by Dr. Laura Bennett, MD, Psychiatrist \u2014 County Emergency Psychiatric Services, 5432 Emergency Way, Oakland, CA 94612, Phone: (555) 447-8821, Fax: (555) 447-8822"
+  },
+  "ground_truth": "Adherent"
+}

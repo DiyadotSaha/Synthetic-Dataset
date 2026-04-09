@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Robert Kowalski",
+    "Patient_MRN": "011",
+    "Date_of_Birth": "1989-06-23",
+    "Date_of_Service": "2024-09-14",
+    "Identifying_Data_Chief_Complaint": "35-year-old White male with schizoaffective disorder presenting for routine follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Wife (Anna Kowalski) at 555-234-8821",
+    "Subjective": "Mr. Kowalski presented punctually for his quarterly medication check. Reports consistent adherence to his prescribed quetiapine 300 mg at bedtime, which he takes without fail using a smartphone reminder app. He describes his mood as generally stable, rating it 8/10, with only minor fluctuations related to work stress at his accounting firm. Sleep pattern is excellent at 8 hours nightly, falling asleep within 20 minutes of lying down. He denies any auditory or visual hallucinations over the past three months and states his thinking feels clear and organized. Appetite is robust with stable weight maintained at 182 lbs. He continues working full-time as a senior accountant and recently received positive performance feedback from his supervisor. Denies tobacco, alcohol, or recreational drug use. Socially engaged with weekly dinner gatherings with friends and regular gym attendance four times per week. He and his wife are planning a vacation to Italy next month. No safety concerns, explicitly denies suicidal or homicidal thoughts. (Evaluated by Dr. Patricia Sullivan, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-dressed professional male, excellent grooming, appears stated age",
+      "Speech": "Clear, articulate, normal pace and volume",
+      "Affect": "Full range, bright and engaged",
+      "Mood": "Excellent",
+      "Thought_Content": "No psychotic symptoms, no SI/HI",
+      "Thought_Process": "Logical, well-organized, goal-oriented"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Quetiapine 300 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Comprehensive metabolic panel normal; lipid panel shows LDL 98 mg/dL, HDL 52 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in full remission.",
+    "Psychosocial_Context": "Married; employed full-time as senior accountant; strong social network; financially stable.",
+    "Assessment_and_Plan": [
+      "Continue quetiapine 300 mg qHS given excellent symptom control.",
+      "Encouraged ongoing healthy lifestyle habits including regular exercise.",
+      "Patient demonstrates exceptional insight and medication compliance.",
+      "Return in 3 months for routine monitoring."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Patricia Sullivan, MD, Psychiatrist \u2014 Harbor Psychiatric Associates, 2340 Medical Plaza, Seattle, WA 98101, Phone: (555) 876-2341, Fax: (555) 876-2342"
+  },
+  "ground_truth": "Adherent"
+}

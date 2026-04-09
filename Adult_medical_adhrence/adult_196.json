@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Angela Foster",
+    "Patient_MRN": "196",
+    "Date_of_Birth": "1987-04-16",
+    "Date_of_Service": "2024-10-23",
+    "Identifying_Data_Chief_Complaint": "37-year-old White female with schizoaffective disorder after serious suicide attempt.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Barbara Foster) at 555-773-9908",
+    "Subjective": "Ms. Foster in ICU after near-fatal overdose - ingested entire bottle of clozapine plus sedatives. Found unconscious by roommate who called 911. After medical stabilization and intubation, psychiatry consulted. Mother reports patient stopped taking clozapine regularly 7 weeks ago, taking only sporadically because she 'felt dead inside emotionally' on it. Since irregular use, catastrophic mood decline. Severe depression with complete loss of function, constant crying, couldn't get out of bed for 2 weeks before attempt. Auditory hallucinations intensified - voices telling her constantly she's worthless and should die. Paranoid beliefs that roommate plotting to have her institutionalized. Stopped eating, weight down 20 lbs. Lost social work job 5 weeks ago. Stopped all therapy and support groups. Wrote detailed suicide note found by roommate explaining she was burden and everyone better without her. Patient now extubated but sedated, when awake states she wishes attempt had succeeded. Mother devastated, unaware of severity. Safety: active persistent SI, regrets surviving, states will try again. (Documented by Dr. William Thompson, Intensivist/ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Post-intubation, sedated, malnourished, appears hopeless when awake",
+      "Speech": "Minimal, whispered, expresses wish to have died",
+      "Affect": "Profoundly depressed, flat, hopeless",
+      "Mood": "I wish it worked",
+      "Thought_Content": "Persistent active SI with regret at survival, command hallucinations to die",
+      "Thought_Process": "Severely slowed, perseverative on death"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 27,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Active suicidal ideation with recent near-fatal attempt, ongoing intent, regrets survival"
+    },
+    "Current_Medications": "Clozapine 300 mg PO qHS (irregularly taken past 7 weeks, used in overdose)",
+    "CURES_Report": "Reviewed; no controlled substances beyond prescribed.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Toxic clozapine level post-overdose; severe metabolic acidosis now resolving; AKI improving; malnutrition markers.",
+      "Recent_Imaging_Results": "Head CT negative."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, with life-threatening suicidal crisis after irregular medication use; recent near-fatal overdose.",
+    "Psychosocial_Context": "Lives with roommate; recently unemployed; near-fatal suicide attempt; ongoing extreme suicide risk.",
+    "Assessment_and_Plan": [
+      "Near-fatal crisis after taking clozapine irregularly for 7 weeks.",
+      "Recent serious overdose attempt, regrets surviving, ongoing intent.",
+      "Extreme ongoing suicide risk.",
+      "Requires immediate involuntary psychiatric hospitalization after medical clearance.",
+      "5150 hold initiated.",
+      "Will transfer to locked psychiatric unit with one-to-one observation.",
+      "Restart clozapine with close monitoring after levels normalize.",
+      "Consider ECT given severity and treatment resistance.",
+      "Extended hospitalization essential.",
+      "May need long-term residential treatment.",
+      "Mother involved in safety planning."
+    ],
+    "RTC": "Post-hospital discharge",
+    "Author": "Note written by Dr. William Thompson, Intensivist/ED Physician \u2014 University Medical Center ICU, 300 Critical Care Drive, Seattle, WA 98104, Phone: (555) 229-9921, Fax: (555) 229-9922"
+  },
+  "ground_truth": "Non-Adherent"
+}

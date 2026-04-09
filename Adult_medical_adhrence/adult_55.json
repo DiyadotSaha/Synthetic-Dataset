@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Patricia O'Neill",
+    "Patient_MRN": "055",
+    "Date_of_Birth": "1982-04-12",
+    "Date_of_Service": "2024-06-27",
+    "Identifying_Data_Chief_Complaint": "42-year-old White female with chronic psychotic disorder with persistent symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Brother (Sean O'Neill) at 555-334-8927",
+    "Subjective": "Ms. O'Neill attended appointment with brother who assists with treatment coordination. Brother verifies she takes quetiapine 400 mg at bedtime reliably via supervised administration. Despite good adherence, symptoms continue causing significant distress. Reports ongoing auditory hallucinations several times daily of critical voices commenting on her actions and appearance. Also endorses paranoid belief that neighbors are conspiring to have her evicted, leading to checking windows and doors repeatedly. Sleep disrupted at 5 hours nightly due to hypervigilance. Appetite decreased, weight down 8 lbs to 143 lbs. Lives in subsidized housing, not working due to symptoms. Attends day program twice weekly when anxiety permits. Brother reports she often calls him multiple times daily seeking reassurance. Social isolation increasing. Mood 'nervous all the time' rated 3/10. Denies substance use. Safety: No SI/HI but expresses hopelessness about improvement. (Assessed by Catherine Wright, LCSW, Licensed Clinical Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, fair grooming, anxious presentation",
+      "Speech": "Rapid at times, pressured when discussing concerns",
+      "Affect": "Anxious, constricted",
+      "Mood": "Nervous",
+      "Thought_Content": "Auditory hallucinations, paranoid delusions about neighbors",
+      "Thought_Process": "Preoccupied, circumstantial"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 17,
+      "GAD_7": 18,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation, passive hopelessness"
+    },
+    "Current_Medications": "Quetiapine 400 mg PO qHS",
+    "CURES_Report": "Reviewed; no issues.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 102 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder with inadequate response and high anxiety.",
+    "Psychosocial_Context": "Lives alone in subsidized housing; unemployed, on disability; brother provides support; limited social engagement.",
+    "Assessment_and_Plan": [
+      "Good adherence through brother's supervision.",
+      "Persistent psychotic and anxiety symptoms limiting function.",
+      "Discussed adding adjunct medication for anxiety.",
+      "Will add low-dose propranolol for anxiety symptoms.",
+      "Consider augmentation of antipsychotic.",
+      "Encouraged increased day program attendance.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Catherine Wright, LCSW, Licensed Clinical Social Worker \u2014 Community Support Services, 5623 Pine Street, Portland, OR 97214, Phone: (555) 448-7703, Fax: (555) 448-7704"
+  },
+  "ground_truth": "Adherent"
+}

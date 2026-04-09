@@ -1,0 +1,50 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Tyrone Jackson",
+    "Patient_MRN": "193",
+    "Date_of_Birth": "1985-06-14",
+    "Date_of_Service": "2024-10-09",
+    "Identifying_Data_Chief_Complaint": "39-year-old African American male with schizophrenia in violent crisis.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Denise Jackson) at 555-661-9921",
+    "Subjective": "Patient brought by police in restraints after assaulting landlord with weapon during eviction. Mother provides collateral that he stopped risperidone completely 12 weeks ago refusing medications claiming they were 'poison from pharmaceutical companies.' Since discontinuation, complete psychotic breakdown. Believes complex conspiracy where landlord, neighbors, and police working together to kill him. Hearing multiple command voices telling him to 'eliminate threats before they eliminate you.' Purchased weapons for 'self-defense.' Barricaded in apartment for month before today's incident. No sleep observed by neighbors for weeks - constant pacing and yelling. Not eating due to poisoning fears, appears severely malnourished, estimated 45-lb weight loss. Lost construction job 10 weeks ago. Mother unable to reach him for weeks. Patient extremely agitated, paranoid, threatening staff. Mood 'I was defending myself' no remorse. Denies substance use though drug screen pending. Safety: high violence risk, recent assault with weapon, ongoing command hallucinations to harm others, no insight. (Evaluated by Dr. James Robinson, ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Emaciated, disheveled, malodorous, restrained, highly agitated and hostile",
+      "Speech": "Loud, threatening, disorganized",
+      "Affect": "Hostile, paranoid, agitated",
+      "Mood": "I was defending myself",
+      "Thought_Content": "Elaborate paranoid delusions, command hallucinations to harm others, no remorse or insight",
+      "Thought_Process": "Severely disorganized, illogical, dominated by paranoid themes"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 21,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Denies SI; extreme violence risk to others"
+    },
+    "Current_Medications": "Risperidone 4 mg PO BID (stopped 12 weeks ago)",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Severe malnutrition; dehydration; urine drug screen pending.",
+      "Recent_Imaging_Results": "No imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with severe violent psychotic crisis after medication discontinuation; recent assault; danger to others.",
+    "Psychosocial_Context": "Recently unemployed; evicted; assaulted landlord; criminal charges pending; extreme violence risk.",
+    "Assessment_and_Plan": [
+      "Severe violent crisis after stopping risperidone 12 weeks ago.",
+      "Recent assault with weapon, ongoing command hallucinations, high violence risk.",
+      "Criminal charges pending for assault.",
+      "Meets criteria for involuntary hospitalization - danger to others.",
+      "5150 hold with law enforcement involvement.",
+      "Immediate transfer to locked forensic psychiatric unit.",
+      "Will restart antipsychotic, likely need LAI given history.",
+      "Medical stabilization for severe malnutrition.",
+      "Will coordinate with court system and public defender.",
+      "Long-term forensic/residential placement likely needed."
+    ],
+    "RTC": "Post-hospital discharge with forensic coordination",
+    "Author": "Note written by Dr. James Robinson, ED Physician \u2014 County General Hospital ED, 900 Emergency Road, Detroit, MI 48201, Phone: (555) 229-7754, Fax: (555) 229-7755"
+  },
+  "ground_truth": "Non-Adherent"
+}

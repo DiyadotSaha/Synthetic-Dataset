@@ -1,0 +1,56 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Sage Anderson",
+    "Patient_MRN": "002",
+    "Date_of_Birth": "2009-09-30",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old brought by EMS after intentional overdose on acetaminophen and diphenhydramine following cyberstalking and threats from ex-partner.",
+    "Collateral_Contact_Information": "Mother: Linda Anderson, Phone: (555) 992-7766",
+    "Subjective": "Patient is a 16-year-old brought via EMS after intentional overdose on approximately 25 acetaminophen tablets and 15 diphenhydramine tablets with intent to die. Ex-partner has been cyberstalking, sending threatening messages, and posting intimate photos online without consent for past month following breakup. Patient filed police report but harassment has escalated. Last night ex-partner sent message with patient's home address and threat to 'make patient pay.' Patient felt terrified, trapped, and took pills believing death was only escape from harassment and fear. Mother found patient lethargic and called 911. Currently regrets attempt and is frightened about both overdose effects and ongoing threats. Has not attended school for two weeks due to fear. Police investigation ongoing but patient feels unsafe. Currently on escitalopram 20mg for anxiety. Was in therapy but stopped going. Two supportive friends. Mother very supportive. No prior suicide attempts. (ED Physician Dr. Robert Kim, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Appears anxious and ill, hospital gown",
+      "Behavior": "Cooperative, hypervigilant, jumps at sounds",
+      "Speech": "Rapid when discussing threats",
+      "Mood": "Terrified and regretful",
+      "Affect": "Intensely anxious, fearful",
+      "Thought_Process": "Linear, preoccupied with safety",
+      "Thought_Content": "Recent attempt; current regret; ongoing fear; trauma content",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Good, recognizes needed help",
+      "Judgment": "Improving"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Escitalopram 20mg daily",
+    "CURES_Report": "Escitalopram on file",
+    "Laboratory_Data": {
+      "CBC": "WNL",
+      "Urine_Tox": "Positive for acetaminophen and diphenhydramine",
+      "Acetaminophen_level": "165 mcg/mL at 3 hours; N-acetylcysteine protocol initiated",
+      "Comprehensive_Metabolic_Panel": "WNL currently; serial monitoring needed"
+    },
+    "Diagnostic_Impression": "Suicide attempt by polypharmacy overdose; acute stress disorder related to cyberstalking and threats; post-traumatic stress symptoms; anxiety disorder.",
+    "Psychosocial_Context": "Victim of cyberstalking, threats, and non-consensual intimate image sharing by ex-partner; police investigation ongoing; not attending school due to fear; previously in therapy (discontinued); supportive mother and friends.",
+    "Assessment_and_Plan": [
+      "High risk during crisis but lower ongoing given regret and environmental trigger.",
+      "Medical management: N-acetylcysteine for acetaminophen toxicity; serial liver function tests; supportive care for anticholinergic effects.",
+      "Environmental safety crisis requires multi-system response beyond psychiatric care.",
+      "5150 hold placed; psychiatric admission required for stabilization.",
+      "Urgent victim advocacy services and law enforcement coordination for protection.",
+      "Legal consultation regarding restraining order and criminal charges.",
+      "Trauma therapy for cyberstalking and intimate image violation.",
+      "Resume therapy with trauma-informed therapist.",
+      "School safety planning before return; alternative placement if needed.",
+      "Mother educated on cyber safety and documentation of threats.",
+      "Discharge only when medically cleared and safety plan addresses external threats.",
+      "Long-term: trauma recovery and legal resolution of harassment."
+    ],
+    "Author": "Dr. Robert Kim, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

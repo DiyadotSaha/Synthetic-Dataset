@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Melissa Taylor",
+    "Patient_MRN": "121",
+    "Date_of_Birth": "1994-03-17",
+    "Date_of_Service": "2024-09-11",
+    "Identifying_Data_Chief_Complaint": "30-year-old African American female with schizoaffective disorder for routine visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Joyce Taylor) at 555-447-8821",
+    "Subjective": "Patient presented appearing well-groomed and upbeat. Reports perfect adherence to lurasidone 120 mg with dinner nightly using routine. States feeling wonderful. No hallucinations for eight months. No delusional thinking. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 159 lbs. Working full-time as bank teller, performing excellently. Mood 'excellent' rated 9/10. Lives independently in apartment. Active in young professionals networking group. Enjoys dance fitness classes. Attending therapy biweekly for wellness. Three years sober from all substances. Recently started dating. Building successful independent life. No safety concerns, denies SI/HI. (Evaluated by Dr. Vanessa Edwards, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professionally dressed, excellent grooming, bright affect",
+      "Speech": "Clear, animated, articulate",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Excellent",
+      "Thought_Content": "Future-oriented, positive, no psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Lurasidone 120 mg PO daily with food",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Living independently; employed full-time; three years sober; dating; active socially and professionally.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and sustained remission.",
+      "Continue lurasidone 120 mg daily with food.",
+      "Commended on career and independence.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Vanessa Edwards, MD, Psychiatrist \u2014 Banking Professionals Wellness, 2341 Finance Plaza, Charlotte, NC 28201, Phone: (555) 229-7643, Fax: (555) 229-7644"
+  },
+  "ground_truth": "Adherent"
+}

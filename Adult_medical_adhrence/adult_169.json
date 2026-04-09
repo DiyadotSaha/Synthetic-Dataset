@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Eric Peterson",
+    "Patient_MRN": "169",
+    "Date_of_Birth": "1996-06-28",
+    "Date_of_Service": "2024-09-18",
+    "Identifying_Data_Chief_Complaint": "28-year-old White male with schizophrenia for quarterly visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Father (James Peterson) at 555-992-7743",
+    "Subjective": "Patient arrives looking casual and reports doing well. When reviewing medications, mentions that his twice-daily olanzapine regimen has been hard to maintain because the afternoon dose makes him drowsy at work, so he's been skipping the midday dose about 3-4 times weekly and taking a slightly larger evening dose instead. Hasn't told anyone because he felt it was working okay. Did notice one day last week feeling more suspicious that coworkers were talking about him, but it passed. Sleep 7 hours. Appetite good, weight 180 lbs. Works as warehouse worker. Mood 'decent' rated 6/10. Lives with roommate. Enjoys video games. No substance use. Denies SI/HI. (Seen by James Murphy, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casual attire, adequate grooming",
+      "Speech": "Clear, coherent",
+      "Affect": "Appropriate",
+      "Mood": "Decent",
+      "Thought_Content": "One brief paranoid thought",
+      "Thought_Process": "Organized"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 5,
+      "GAD_7": 6,
+      "DAST_10": 0,
+      "AUDIT_C": 2,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Olanzapine 5 mg PO BID",
+    "CURES_Report": "Reviewed; no issues.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Glucose 102 mg/dL; lipids mildly elevated.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable with self-adjusted dosing pattern.",
+    "Psychosocial_Context": "Living with roommate; employed full-time; limited social activities.",
+    "Assessment_and_Plan": [
+      "Addressed self-adjustment of dosing schedule due to sedation.",
+      "Discussed consolidating to once-daily evening dosing of 10 mg.",
+      "Patient agreeable to supervised dose change.",
+      "Continue olanzapine total daily dose, adjusted timing.",
+      "Follow-up in 6 weeks."
+    ],
+    "RTC": "6 weeks",
+    "Author": "Note written by James Murphy, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Industrial Workers Health, 890 Factory Road, Milwaukee, WI 53202, Phone: (555) 883-4429, Fax: (555) 883-4430"
+  },
+  "ground_truth": "Non-Adherent"
+}

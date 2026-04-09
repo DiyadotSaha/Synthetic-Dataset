@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Thomas Sullivan",
+    "Patient_MRN": "038",
+    "Date_of_Birth": "1961-04-27",
+    "Date_of_Service": "2024-03-22",
+    "Identifying_Data_Chief_Complaint": "62-year-old White male with schizophrenia presenting in acute crisis.",
+    "Collateral_Contact_Information": "Emergency Contact: Case Manager (Linda Martinez) at 555-771-2398",
+    "Subjective": "Mr. Sullivan brought to clinic by mobile crisis team from his subsidized housing unit. Case manager confirms he receives haloperidol 10 mg nightly via medication administration by housing staff with perfect compliance documented for past year. Despite unwavering adherence, he is experiencing severe decompensation. Reports overwhelming command auditory hallucinations instructing him to set fires to 'purify the evil,' which he has been attempting to resist but states is becoming 'impossible to ignore.' Also maintains fixed delusional belief that he is the reincarnation of a biblical prophet and must cleanse the world. Over past week attempted to start small fire in trash can in his room before staff intervened. Sleep nearly absent for five days, maybe 1 hour total nightly. Has refused all food for 72 hours believing it contains poison meant to silence his prophetic message, resulting in dehydration and weakness. Severe self-neglect - has not bathed in over two weeks, wearing same soiled clothes. Speaking rapidly and incoherently about religious visions and end times. Staff report he has been preaching loudly in hallways at night, disturbing other residents. Mood appears elevated and agitated. Risk assessment critical: Active command hallucinations to set fires, delusional religious content driving dangerous behavior, severe self-neglect. Denies wanting to die but states he must 'fulfill destiny.' (Crisis evaluation by Dr. Samuel Katz, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Elderly male, severely disheveled, malodorous, dehydrated appearance, agitated",
+      "Speech": "Rapid, pressured, tangential, religious themed",
+      "Affect": "Labile, intense, grandiose",
+      "Mood": "Euphoric and agitated",
+      "Thought_Content": "Command hallucinations to set fires, grandiose religious delusions with messianic themes",
+      "Thought_Process": "Severely disorganized, flight of ideas, looseness of associations"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 20,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Denies suicidal intent, but severe risk due to command hallucinations and dangerous behaviors"
+    },
+    "Current_Medications": "Haloperidol 10 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Stat labs: BUN 32 mg/dL, Cr 1.4 mg/dL suggesting dehydration; glucose 88 mg/dL; sodium 148 mEq/L elevated.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with acute severe exacerbation, treatment-resistant, grave disability.",
+    "Psychosocial_Context": "Lives in subsidized housing; never married; no family contact; receives SSI; isolated; multiple psychiatric hospitalizations historically.",
+    "Assessment_and_Plan": [
+      "Perfect medication adherence via housing staff but complete treatment failure.",
+      "Imminent danger to self and others due to fire-setting and command hallucinations.",
+      "Grave disability due to refusal of food/water and severe dehydration.",
+      "5150 hold initiated for involuntary psychiatric hospitalization.",
+      "Medical clearance needed for dehydration prior to psychiatric admission.",
+      "Recommend inpatient clozapine initiation given clear treatment resistance.",
+      "Housing notified of hospitalization.",
+      "Coordinating emergency department transfer for medical stabilization then psychiatric admission."
+    ],
+    "RTC": "Post-hospitalization",
+    "Author": "Note written by Dr. Samuel Katz, MD, Psychiatrist \u2014 Crisis Psychiatric Services, 3421 Emergency Plaza, San Francisco, CA 94110, Phone: (555) 992-3344, Fax: (555) 992-3345"
+  },
+  "ground_truth": "Adherent"
+}

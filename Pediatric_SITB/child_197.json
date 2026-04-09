@@ -1,0 +1,53 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Mariah Lopez",
+    "Patient_MRN": "197",
+    "Date_of_Birth": "2013-09-02",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "12-year-old female brought by mother for persistent low mood and anhedonia.",
+    "Collateral_Contact_Information": "Mother: Gloria Lopez, Phone: (555) 901-2473",
+    "Subjective": "Patient is a 12-year-old female presenting with three months of persistent depressed mood and loss of interest in previously enjoyed activities including soccer and art. She reports feeling sad most days without clear cause. She denies any thoughts of self-harm or suicidal ideation, stating she would never hurt herself because she knows her family loves her. Sleep is increased with difficulty waking for school and appetite is increased with 7-pound weight gain. Concentration is impaired and grades have declined from A's to B's and C's. She describes feeling tired all the time despite excessive sleep. Has withdrawn from friends and spends most time alone in room. Started sertraline 25mg four weeks ago with minimal improvement so far. Mother reports patient used to be outgoing and energetic but has become isolated. Patient expresses doubt things will improve but states she wants to feel better. Currently in therapy for six weeks. (Psychiatrist Dr. Marcus Thompson, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, appears fatigued",
+      "Behavior": "Cooperative, psychomotor slowing",
+      "Speech": "Low volume, slow pace",
+      "Mood": "Depressed",
+      "Affect": "Blunted, congruent",
+      "Thought_Process": "Linear, slowed",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Sertraline 25mg daily",
+    "CURES_Report": "Sertraline on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, single episode, severe with atypical features.",
+    "Psychosocial_Context": "Lives with both parents and three siblings; severe depression with significant functional decline; complete social withdrawal; atypical features (hypersomnia, hyperphagia, weight gain); recently started medication with inadequate time for full response; engaged in therapy.",
+    "Assessment_and_Plan": [
+      "Severe depression with atypical features and significant functional impairment; no suicidal ideation present.",
+      "Protective factors: engaged in treatment, supportive family, denies suicidal thoughts despite severity, protective motivation of family love.",
+      "Continue sertraline but dose likely too low; coordinate with prescriber for increase to 50mg.",
+      "Still early in treatment course (4 weeks); typical response time 6-8 weeks.",
+      "Behavioral activation strategies critical to counter withdrawal and hypersomnia.",
+      "Structured daily schedule with set wake time and activities.",
+      "Increase therapy frequency; consider group therapy for social engagement.",
+      "School consultation for support during acute phase.",
+      "Mother educated on monitoring and expectations for medication timeline.",
+      "Close follow-up in 1 week; consider intensive outpatient program if no improvement in 4 weeks or if decline."
+    ],
+    "Author": "Dr. Marcus Thompson, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

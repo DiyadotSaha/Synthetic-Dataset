@@ -1,0 +1,57 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Sarah Mitchell",
+    "Patient_MRN": "088",
+    "Date_of_Birth": "2010-10-18",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female brought by grandmother after revealing plan to overdose following mother's terminal cancer diagnosis.",
+    "Collateral_Contact_Information": "Grandmother: Dorothy Mitchell, Phone: (555) 443-7788",
+    "Subjective": "Patient is a 15-year-old female presenting after disclosing to her grandmother a plan to overdose on medications because she cannot face losing her mother to cancer. Patient's mother was diagnosed with stage IV pancreatic cancer one week ago with prognosis of 4-6 months. Patient describes a specific plan to save her own prescription anxiety medication (lorazepam) and take all pills at once. She reports she has been setting aside one pill from each dose for the past three days and has five pills hidden in her room. However, she denies current intent, explaining she told grandmother because she is terrified of following through but also terrified of watching her mother die. She describes overwhelming anticipatory grief, inability to imagine life without her mother, and feeling she would rather die than experience that loss. Sleep severely disrupted with nightmares about mother's death. Cannot eat without nausea. Withdrawn from school and friends since diagnosis. Close relationship with mother who is her primary support; father not involved. Grandmother supportive but elderly. Currently prescribed lorazepam 0.5mg PRN for anxiety, started 6 months ago. No prior suicidal behavior. (ED Physician Dr. Catherine Brown, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Appears exhausted, tearful throughout, unkempt",
+      "Behavior": "Cooperative, desperate for help",
+      "Speech": "Tearful, voice breaks frequently",
+      "Mood": "Terrified and devastated",
+      "Affect": "Intensely anxious and depressed, tearful",
+      "Thought_Process": "Coherent but dominated by anticipatory grief",
+      "Thought_Content": "Active SI with plan (medication stockpiling) but ambivalent intent; severe anticipatory grief",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair, recognizes need for help",
+      "Judgment": "Limited by overwhelming grief"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Lorazepam 0.5mg PRN for anxiety",
+    "CURES_Report": "Lorazepam on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder; complicated anticipatory grief; suicidal ideation with plan; anxiety disorder.",
+    "Psychosocial_Context": "Mother diagnosed with terminal cancer (4-6 months prognosis) one week ago; extremely close mother-daughter relationship; father uninvolved; grandmother elderly support; currently on benzodiazepine; no prior suicide attempts.",
+    "Assessment_and_Plan": [
+      "Moderate-to-high risk: active SI with plan and stockpiling of medication but ambivalent intent; disclosure suggests cry for help.",
+      "Some protective factors: close relationship with dying mother (paradoxically also source of distress), grandmother support, seeking help.",
+      "Grandmother retrieved hidden pills; discontinue lorazepam (risk outweighs benefit); switch to non-controlled anxiety medication.",
+      "Anticipatory grief crisis requiring immediate specialized intervention.",
+      "Recommend brief psychiatric admission versus intensive outpatient hospice mental health program.",
+      "Connect with pediatric palliative care social work and bereavement services.",
+      "Therapy specializing in anticipatory grief and terminally ill parent.",
+      "Support groups for teens with dying parents.",
+      "Help patient navigate time with mother: memory-making, saying important things.",
+      "Address mother's awareness of daughter's crisis for mutual support if mother able.",
+      "Grandmother needs respite support given her own grief and caregiving burden.",
+      "School counselor notification for academic support and grief accommodations.",
+      "Close follow-up essential throughout mother's illness and after death.",
+      "Not safe for discharge without structured grief support and medication changes implemented."
+    ],
+    "Author": "Dr. Catherine Brown, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

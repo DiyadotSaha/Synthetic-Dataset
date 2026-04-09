@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "David Chen",
+    "Patient_MRN": "001",
+    "Date_of_Birth": "1992-11-14",
+    "Date_of_Service": "2024-08-22",
+    "Identifying_Data_Chief_Complaint": "32-year-old Asian American male with schizophrenia presenting for routine medication follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Michelle Chen) at 555-789-3421",
+    "Subjective": "Patient presented to the clinic appearing calm and cooperative. Reports doing well overall since last visit 8 weeks ago. States he has been taking his aripiprazole 10 mg each morning without any missed doses and finds it helpful. Denies any recent hallucinations or paranoid thoughts. Sleep has been consistent at 7-8 hours nightly without difficulty falling or staying asleep. Appetite is stable, reports eating regular meals and maintaining weight around 170 lbs. He has returned to his job as a data entry clerk and feels his concentration has improved significantly. Denies substance use including alcohol and cannabis. Mood is described as 'pretty good' with rating of 7/10. He continues to live independently in his apartment and manages all activities of daily living without assistance. Reports occasional mild anxiety about work performance but uses breathing techniques learned in therapy. Denies any safety concerns, suicidal or homicidal ideation. (Seen by Dr. Jennifer Wu, ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, casually dressed male appearing stated age",
+      "Speech": "Clear, normal rate and tone",
+      "Affect": "Bright, appropriate to content",
+      "Mood": "Euthymic",
+      "Thought_Content": "No hallucinations, delusions, or paranoia reported",
+      "Thought_Process": "Organized, coherent, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 2,
+      "GAD_7": 4,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Aripiprazole 10 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Lipid panel within normal limits; TSH normal at 2.1 mIU/L.",
+      "Recent_Imaging_Results": "No recent imaging performed."
+    },
+    "Diagnostic_Impression": "Schizophrenia, in remission.",
+    "Psychosocial_Context": "Lives independently; employed full-time as data entry clerk; maintains close relationship with sister.",
+    "Assessment_and_Plan": [
+      "Continue current aripiprazole regimen given excellent response.",
+      "Reinforce importance of medication adherence and healthy sleep hygiene.",
+      "Encouraged continued use of coping strategies for work-related anxiety.",
+      "Return to clinic in 8 weeks for routine follow-up."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Dr. Jennifer Wu, MD, ED Physician \u2014 Community Mental Health Center, 450 Oak Street, San Francisco, CA 94102, Phone: (555) 234-5678, Fax: (555) 234-5679"
+  },
+  "ground_truth": "Adherent"
+}

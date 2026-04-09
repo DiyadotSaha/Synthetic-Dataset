@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Terrence Mitchell",
+    "Patient_MRN": "066",
+    "Date_of_Birth": "1983-06-14",
+    "Date_of_Service": "2024-09-03",
+    "Identifying_Data_Chief_Complaint": "41-year-old African American male with schizophrenia for follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Dorothy Mitchell) at 555-883-2217",
+    "Subjective": "Patient arrived appearing casual and relaxed. States he takes quetiapine 200 mg twice daily reliably using morning and evening alarms. Reports doing well overall. Experiences very occasional whispers maybe twice monthly which he recognizes as symptoms. No other hallucinations or paranoid ideation. Sleep good at 7-8 hours nightly. Appetite healthy, weight stable at 181 lbs. Working as part-time custodian at church, steady employment for year. Mood 'doing good' rated 7/10. Lives independently in apartment. Active in church choir and men's group. Maintains sobriety - five years clean from crack cocaine. Visits mother weekly for Sunday dinner. Enjoys working on cars as hobby. Has a few close friends. Engaged in treatment, asks appropriate questions. No safety concerns, denies SI/HI. (Evaluated by Pastor Thomas Brown, LCSW, Licensed Clinical Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, good grooming, calm presentation",
+      "Speech": "Clear, normal pace, coherent",
+      "Affect": "Appropriate, warm",
+      "Mood": "Good",
+      "Thought_Content": "Minimal residual symptoms with insight",
+      "Thought_Process": "Organized, linear"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 4,
+      "GAD_7": 5,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Quetiapine 200 mg PO BID",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC and CMP within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable.",
+    "Psychosocial_Context": "Living independently; employed part-time; five years sober; active in church; strong family and social support.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and symptom control.",
+      "Continue quetiapine 200 mg BID.",
+      "Commended on sustained sobriety and employment.",
+      "Routine follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Pastor Thomas Brown, LCSW, Licensed Clinical Social Worker \u2014 Faith Community Mental Health, 4521 Gospel Road, Memphis, TN 38116, Phone: (555) 992-7731, Fax: (555) 992-7732"
+  },
+  "ground_truth": "Adherent"
+}

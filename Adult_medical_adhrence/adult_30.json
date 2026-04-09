@@ -1,0 +1,50 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Raymond Foster",
+    "Patient_MRN": "030",
+    "Date_of_Birth": "1963-08-22",
+    "Date_of_Service": "2024-05-14",
+    "Identifying_Data_Chief_Complaint": "61-year-old African American male with schizoaffective disorder presenting with severe decompensation and aggressive behavior.",
+    "Collateral_Contact_Information": "Emergency Contact: Ex-wife (Sharon Foster) at 555-998-3421",
+    "Subjective": "Patient brought to emergency department by police following incident where he threatened staff at his residential facility with a chair. He is agitated, hostile, and minimally cooperative with interview. Facility staff present report that Mr. Foster has not been taking his clozapine for approximately 6 weeks, spitting out pills or hiding them despite supervised administration attempts. He has been increasingly paranoid, accusing staff of being 'demons sent to torture him' and claiming his medication is 'poison designed to steal his soul.' Over the past several weeks, his behavior has escalated dramatically - he destroyed his room furniture, threatened multiple residents and staff members, has been incontinent and refusing to change clothes, and was found trying to set a fire in his trash can to 'purify the evil spirits.' Staff reports he has lost significant weight, refusing most meals believing they are contaminated. He doesn't sleep, instead pacing the hallways at night yelling at perceived threats. Patient himself is shouting during interview, difficult to redirect, stating 'I don't need your poison, you're all working for the devil.' Reports constant voices telling him others are demons who need to be destroyed. When asked about the threats, he states 'I was protecting myself from the demons.' Appears to have no insight into his illness. Medical records show multiple prior psychiatric hospitalizations with similar presentations when off medication. (Emergency assessment by Dr. Angela Martinez, MD, ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Older male appearing unkempt, malodorous, wearing soiled clothing, agitated and threatening",
+      "Speech": "Loud, pressured, hostile, disorganized",
+      "Affect": "Angry, labile, inappropriate",
+      "Mood": "Paranoid, hostile, agitated",
+      "Thought_Content": "Severe paranoid delusions with religious themes, command auditory hallucinations directing violence, delusional beliefs about medication and staff",
+      "Thought_Process": "Grossly disorganized, illogical, incoherent at times"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 21,
+      "GAD_7": 20,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Unable to assess SI due to disorganization; clear danger to others given threats and assault attempts"
+    },
+    "Current_Medications": "Clozapine 450 mg PO qHS (refusing to take)",
+    "CURES_Report": "Unable to complete during emergency.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Urgent labs show no acute medical issues; prior clozapine level from 6 weeks ago was therapeutic; recent ANC adequate.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, severe acute psychotic and manic episode with complete treatment refusal and grave disability; danger to others.",
+    "Psychosocial_Context": "Resides in locked residential psychiatric facility; chronic treatment nonadherence pattern; multiple prior hospitalizations; no active family support; severe functional impairment.",
+    "Assessment_and_Plan": [
+      "Patient in severe psychiatric crisis following 6 weeks of complete medication refusal due to paranoid delusional beliefs about treatment.",
+      "Clear and imminent danger to others given multiple threats, assault attempt, and command hallucinations.",
+      "Grave disability: unable to care for basic needs, severe self-neglect.",
+      "Patient completely lacking insight and capacity; actively resisting treatment.",
+      "Placed on involuntary psychiatric hold for immediate inpatient hospitalization.",
+      "Will require involuntary medication administration given ongoing refusal and dangerousness.",
+      "Security presence maintained during evaluation due to violence risk.",
+      "Medical clearance needed prior to psychiatric transfer.",
+      "Consideration of long-acting injectable medication post-stabilization.",
+      "Will require court hearing for continued involuntary treatment."
+    ],
+    "RTC": "Emergency involuntary psychiatric admission",
+    "Author": "Note written by Dr. Angela Martinez, MD, ED Physician \u2014 County Medical Center Emergency Department, 5500 Hospital Drive, Houston, TX 77004, Phone: (555) 887-9900, Fax: (555) 887-9901"
+  },
+  "ground_truth": "Non-Adherent"
+}

@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Chloe Bennett",
+    "Patient_MRN": "047",
+    "Date_of_Birth": "2013-09-03",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "12-year-old female brought by mother for body image concerns and food restriction.",
+    "Collateral_Contact_Information": "Mother: Jessica Bennett, Phone: (555) 012-3467",
+    "Subjective": "Patient is a 12-year-old female presenting with concerns about body image and recent dietary restriction over the past month. She reports feeling that she needs to be thinner and has been limiting portions and avoiding desserts. She denies any thoughts of self-harm or suicidal ideation. Patient states she compares herself to girls in her dance class and on social media. She has not engaged in purging, excessive exercise, or use of diet pills. Mother reports patient has lost approximately 3 pounds but weight remains within normal range for height. Patient continues to eat regular meals but in smaller quantities. Menarche occurred six months ago and patient expresses discomfort with body changes. She maintains good energy for dance and school activities. Mother is concerned about progression to eating disorder. (ED Physician Dr. Hannah Lee, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appropriate weight for height",
+      "Behavior": "Cooperative, self-conscious",
+      "Speech": "Clear, normal rate",
+      "Mood": "A little insecure",
+      "Affect": "Appropriate, slightly anxious",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation; body image preoccupation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Limited",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "Within normal limits",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Other specified feeding or eating disorder; adjustment to puberty, mild.",
+    "Psychosocial_Context": "Lives with both parents; engaged in competitive dance; early puberty with recent menarche; peer comparison and social media exposure; supportive family with early identification of concern.",
+    "Assessment_and_Plan": [
+      "Early disordered eating behaviors with body image concerns; not meeting full criteria for anorexia nervosa.",
+      "Protective factors: supportive family with early intervention, weight still in healthy range, maintains energy and function, no suicidal ideation.",
+      "Referral for eating disorder assessment and monitoring.",
+      "Nutritionist consultation for adolescent nutrition education.",
+      "Individual therapy focusing on body image and puberty adjustment.",
+      "Family education on supporting healthy relationship with food and monitoring for progression.",
+      "Guidance on social media use and body image messages.",
+      "Close monitoring of weight and eating patterns; follow-up in 1 week.",
+      "Return precautions if weight loss continues or behaviors escalate."
+    ],
+    "Author": "Dr. Hannah Lee, MD (ED Physician)"
+  },
+  "ground_truth": "No"
+}

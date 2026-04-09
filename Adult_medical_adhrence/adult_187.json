@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Andre Mitchell",
+    "Patient_MRN": "187",
+    "Date_of_Birth": "1988-08-09",
+    "Date_of_Service": "2024-09-21",
+    "Identifying_Data_Chief_Complaint": "36-year-old African American male with schizophrenia with increased symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Dorothy Mitchell) at 555-447-3321",
+    "Subjective": "Patient arrives disheveled and guarded. Mother reports he's been taking risperidone inconsistently, maybe 3 times weekly for past 7 weeks after experiencing sexual dysfunction that embarrassed him. Since reducing medication, paranoid thoughts intensified - believes neighbors poisoning his food and watching him through vents. Hearing multiple voices daily discussing him and occasionally commanding him to check for poison. Started refusing to eat food prepared by others. Sleep severely disrupted at 3-4 hours checking for intruders. Appetite poor due to food fears, weight down 13 lbs. Lost delivery job 3 weeks ago after not showing up. Lives alone, mother checking daily with growing concern. Complete social isolation. Mood 'scared all the time' rated 2/10. Denies substance use. Safety: denies SI, vague thoughts of 'defending myself if they attack' but denies plan. (Evaluated by Dr. Jamal Washington, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, poor hygiene, appears frightened and hypervigilant",
+      "Speech": "Whispered, guarded, coherent",
+      "Affect": "Fearful, paranoid, restricted",
+      "Mood": "Scared all the time",
+      "Thought_Content": "Paranoid delusions about poisoning and surveillance, auditory hallucinations with some command features",
+      "Thought_Process": "Circumstantial, dominated by paranoid themes"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 15,
+      "GAD_7": 20,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation; vague defensive ideation without plan"
+    },
+    "Current_Medications": "Risperidone 3 mg PO BID",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Prolactin elevated at 52 ng/mL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with severe paranoid exacerbation due to nonadherence related to sexual dysfunction.",
+    "Psychosocial_Context": "Lives alone; recently unemployed; severe paranoia affecting nutrition and function; concerning defensive ideation.",
+    "Assessment_and_Plan": [
+      "Severe paranoid decompensation after reducing risperidone due to sexual side effects.",
+      "Will switch to antipsychotic with lower sexual dysfunction risk.",
+      "Transition to aripiprazole or lurasidone.",
+      "Mother to supervise medication and monitor food intake given refusal to eat.",
+      "Defensive ideation requires monitoring - discussed safety planning.",
+      "May need higher level of care if symptoms don't improve quickly.",
+      "Follow-up in 3-4 days."
+    ],
+    "RTC": "3 days",
+    "Author": "Note written by Dr. Jamal Washington, MD, Psychiatrist \u2014 Men's Mental Health Services, 1900 Wellness Plaza, Baltimore, MD 21201, Phone: (555) 773-6643, Fax: (555) 773-6644"
+  },
+  "ground_truth": "Non-Adherent"
+}

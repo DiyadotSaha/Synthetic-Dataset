@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Skylar Peterson",
+    "Patient_MRN": "157",
+    "Date_of_Birth": "2010-12-01",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female brought by mother for reassurance about normal mood variability.",
+    "Collateral_Contact_Information": "Mother: Rachel Peterson, Phone: (555) 012-3582",
+    "Subjective": "Patient is a 15-year-old female brought by mother concerned about mood changes, but patient reports feeling normal overall. She acknowledges some days she feels happier or sadder than others, typically related to daily events like test results or friend interactions. She denies any thoughts of self-harm or suicidal ideation. Patient states her mother worries too much and she feels her emotional responses are appropriate to situations. Sleep and appetite normal with no significant changes. Academic performance excellent with 3.8 GPA. Active in student government and tennis team. Strong friendships and healthy romantic relationship. Mother has history of depression and worries about patient developing similar issues. Patient demonstrates good emotional regulation and coping skills. Mood variability appears age-appropriate and situational. (Social Worker Patricia Coleman, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, smiling appropriately",
+      "Behavior": "Cooperative, at ease",
+      "Speech": "Clear, animated",
+      "Mood": "Good",
+      "Affect": "Euthymic, full and appropriate range",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Excellent",
+      "Judgment": "Excellent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "No mental health disorder; normal adolescent emotional variability, mild.",
+    "Psychosocial_Context": "Lives with both parents; mother anxious due to own mental health history; patient demonstrates normal emotional range and excellent function across all domains; engaged in multiple activities; healthy relationships.",
+    "Assessment_and_Plan": [
+      "Normal adolescent emotional variability without pathology; mother's anxiety likely related to own history.",
+      "Protective factors: excellent functioning, strong support system, engaged in activities, healthy relationships, good insight and coping.",
+      "Reassurance provided to mother and patient that mood variability is normal.",
+      "Psychoeducation regarding difference between normal mood changes and mood disorder.",
+      "Encouraged mother to address her own anxiety about patient's mental health.",
+      "Validated patient's assessment of her own emotional state.",
+      "No treatment needed; patient is thriving.",
+      "Resources provided should concerns develop in future, but none anticipated."
+    ],
+    "Author": "Patricia Coleman, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

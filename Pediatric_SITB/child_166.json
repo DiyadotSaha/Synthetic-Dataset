@@ -1,0 +1,53 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Adrian Hill",
+    "Patient_MRN": "166",
+    "Date_of_Birth": "2009-04-11",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old male brought by friend's parent after disclosing intent to overdose following disclosure of being victim of sexual abuse.",
+    "Collateral_Contact_Information": "Friend's Parent: Susan Taylor, Phone: (555) 663-7788; Father: James Hill, Phone: (555) 663-7789",
+    "Subjective": "Patient is a 16-year-old male presenting after disclosing to friend's parent that he intends to overdose because he cannot cope with recently disclosed sexual abuse by family member. Abuse occurred ages 10-12 and patient disclosed for first time to school counselor yesterday, triggering CPS investigation. Patient describes overwhelming shame, fear of family reaction, and intent to die to escape the situation. Reports researching lethal doses of acetaminophen but has not accessed pills. States he told friend's parent because he needed help. Reports ongoing nightmares, hypervigilance, and avoidance since abuse. Currently living at home with perpetrator still in household. Father unaware of disclosure. No prior mental health treatment despite PTSD symptoms. No current medications. Has two close friends. Academic performance affected. (Psychiatrist Dr. William Carter, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Appears anxious, hypervigilant",
+      "Behavior": "Guarded, gradually trusts clinician",
+      "Speech": "Quiet, hesitant",
+      "Mood": "Terrified and ashamed",
+      "Affect": "Anxious, constricted",
+      "Thought_Process": "Linear",
+      "Thought_Content": "Active SI with intent and method research; trauma content; acute safety crisis",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair, sought help by disclosing",
+      "Judgment": "Limited by trauma"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Post-traumatic stress disorder; major depressive disorder; suicidal ideation with intent following sexual abuse disclosure; acute safety crisis.",
+    "Psychosocial_Context": "Sexual abuse victim (ages 10-12); first disclosure yesterday; CPS investigation initiated; perpetrator still in home; PTSD symptoms for years; close friends; father unaware.",
+    "Assessment_and_Plan": [
+      "High risk: active SI with intent and method research in context of trauma disclosure and ongoing unsafe living situation.",
+      "Some protective factors: disclosed to seek help, close friends.",
+      "Patient CANNOT return to home with perpetrator present.",
+      "5150 hold placed; inpatient psychiatric admission.",
+      "CPS coordination for emergency protective custody and safe placement.",
+      "Trauma-informed care essential; specialized sexual abuse treatment.",
+      "Forensic evaluation and victim advocacy services.",
+      "Father notification carefully managed given patient safety concerns.",
+      "Long-term: trauma-focused therapy, PTSD treatment, family therapy if appropriate.",
+      "Discharge only to safe environment away from perpetrator."
+    ],
+    "Author": "Dr. William Carter, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

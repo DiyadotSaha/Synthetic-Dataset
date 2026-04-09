@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Priya Patel",
+    "Patient_MRN": "060",
+    "Date_of_Birth": "2009-11-15",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old female brought by guidance counselor after expressing wish to 'just disappear' during college application stress discussion.",
+    "Collateral_Contact_Information": "Mother: Anjali Patel, Phone: (555) 998-5544",
+    "Subjective": "Patient is a 16-year-old high school junior presenting after telling her guidance counselor during a college planning meeting that she sometimes wishes she could 'just disappear' and not have to deal with the pressure of college applications and parental expectations. She describes feeling overwhelmed by the upcoming college process, particularly because both of her parents are physicians and expect her to pursue pre-med at a top-tier university. She reports having passive thoughts over the past two weeks of wishing she would not wake up or could escape somehow, but she has no plan, no method in mind, and no intent to harm herself. She clarifies that she loves her parents and does not want to disappoint them, but feels trapped between their dreams for her and her own uncertainty about her future. She enjoys creative writing and drama but has been discouraged from pursuing these seriously. Sleep is reduced to about six hours nightly. She maintains a 4.2 GPA and is captain of the debate team. She has several close friends who are also high-achieving but notes they all seem more certain about their paths. No prior mental health concerns. (Social Worker Benjamin Wright, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Neat, professional appearance beyond years, appears fatigued",
+      "Behavior": "Polite, cooperative, somewhat perfectionistic in responses",
+      "Speech": "Articulate, well-organized",
+      "Mood": "Pressured and uncertain",
+      "Affect": "Anxious, appropriate",
+      "Thought_Process": "Logical and goal-directed but driven by external expectations",
+      "Thought_Content": "Passive suicidal ideation without plan or intent; career-related anxiety",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Good, recognizes conflict between self and parental expectations",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with mixed anxiety and depressed mood related to academic pressure and parent-child expectation mismatch; passive suicidal ideation.",
+    "Psychosocial_Context": "High-achieving student; parents are physicians with specific career expectations; genuine interest in creative arts not supported; strong academic performance and leadership; close peer group; no prior mental health treatment.",
+    "Assessment_and_Plan": [
+      "Low risk: passive SI without plan or intent in context of academic and parental pressure.",
+      "Multiple protective factors: close friends, academic success, creative interests, good insight, loving family (despite expectation conflict).",
+      "Normal stress response to developmental task of identity formation complicated by strong parental expectations.",
+      "Safety plan created focusing on communicating overwhelm to trusted adults.",
+      "Referral to therapist experienced with high-achieving adolescents and cultural family dynamics.",
+      "Family therapy to facilitate authentic communication about patient's interests and concerns.",
+      "Encourage exploration of creative writing and drama as stress relief and potential career paths.",
+      "Guidance counselor to support patient-centered college exploration, not parent-driven.",
+      "Address sleep deficit through time management and stress reduction.",
+      "Follow-up with outpatient therapist within one week.",
+      "Safe for discharge with parental notification and counselor support."
+    ],
+    "Author": "Benjamin Wright, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

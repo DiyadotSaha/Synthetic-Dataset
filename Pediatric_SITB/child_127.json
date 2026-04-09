@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Jayden Brooks",
+    "Patient_MRN": "127",
+    "Date_of_Birth": "2011-03-19",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male brought by aunt for situational anxiety before athletic tryouts.",
+    "Collateral_Contact_Information": "Aunt: Monica Brooks, Phone: (555) 789-0248",
+    "Subjective": "Patient is a 14-year-old male presenting with nervousness about basketball team tryouts scheduled for next week. He reports increased anxiety about performing well and concerns about being cut from the team. He denies any thoughts of self-harm or suicidal ideation. Patient states he has been practicing intensively and worries his efforts will not be enough. Sleep slightly disrupted with anticipatory anxiety but appetite normal. He made the team last year and coaches have indicated he has good chance again. Aunt reports patient puts significant pressure on himself regarding sports performance. Academic performance good and strong peer relationships. Previous successful tryout experience but remains anxious. Basketball is important to his identity and social circle. (Nurse Practitioner Linda Carter, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Athletic wear, appears stated age",
+      "Behavior": "Cooperative, somewhat restless",
+      "Speech": "Clear, rapid when discussing tryouts",
+      "Mood": "Nervous",
+      "Affect": "Anxious, appropriate",
+      "Thought_Process": "Linear, focused on upcoming tryouts",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Performance anxiety, mild.",
+    "Psychosocial_Context": "Lives with aunt and uncle; preparing for basketball tryouts; performance pressure; made team previously; basketball important to social identity; otherwise well-adjusted.",
+    "Assessment_and_Plan": [
+      "Age-appropriate performance anxiety before important athletic event.",
+      "Protective factors: previous success, coach encouragement, practicing preparation, supportive family, no suicidal ideation.",
+      "Reassurance regarding normal pre-competition nerves provided.",
+      "Performance anxiety management strategies reviewed including visualization and breathing.",
+      "Reframe anxiety as activation rather than threat.",
+      "Discuss identity beyond sports and coping with potential disappointment.",
+      "Encourage balanced perspective on tryout outcome.",
+      "No treatment needed; anxiety appropriate to situation and expected to resolve after tryouts.",
+      "Resources provided if anxiety generalizes beyond sports contexts."
+    ],
+    "Author": "Linda Carter, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}

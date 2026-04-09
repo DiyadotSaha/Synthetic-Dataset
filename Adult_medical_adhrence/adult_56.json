@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Tyrell Washington",
+    "Patient_MRN": "056",
+    "Date_of_Birth": "1998-09-03",
+    "Date_of_Service": "2024-09-25",
+    "Identifying_Data_Chief_Complaint": "26-year-old African American male with schizophrenia for medication review.",
+    "Collateral_Contact_Information": "Emergency Contact: Grandmother (Beatrice Washington) at 555-772-3409",
+    "Subjective": "Patient arrived appearing casual and cooperative. States he takes aripiprazole 15 mg every morning reliably, which he describes as routine like brushing teeth. Reports doing well overall. Experiences very rare whispers maybe once monthly which he recognizes as symptoms. No other hallucinations or paranoid thoughts. Sleep good at 7-8 hours nightly. Appetite healthy, weight stable at 166 lbs. Working part-time at car wash, earning money and staying active. Mood 'pretty decent' rated 7/10. Lives with grandmother who provides stable environment. Plays basketball at community center several times weekly. Attending GED classes at library, working toward diploma. One year sober from marijuana. Plans to eventually get own apartment. Has a few friends from neighborhood. No safety concerns, denies SI/HI. Engaged in treatment and asks good questions. (Evaluated by Dr. Terrence Williams, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Young male in athletic wear, good grooming",
+      "Speech": "Clear, normal pace, coherent",
+      "Affect": "Appropriate, somewhat bright",
+      "Mood": "Decent",
+      "Thought_Content": "Minimal residual symptoms with insight",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 4,
+      "GAD_7": 5,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Aripiprazole 15 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable.",
+    "Psychosocial_Context": "Lives with grandmother; working part-time; pursuing GED; one year sober; socially engaged; working toward independence.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and symptom control.",
+      "Continue aripiprazole 15 mg daily.",
+      "Encouraged continued education and employment.",
+      "Commended on sobriety.",
+      "Routine follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Dr. Terrence Williams, MD, Psychiatrist \u2014 Eastside Youth Mental Health, 1234 MLK Jr. Drive, Oakland, CA 94607, Phone: (555) 992-7748, Fax: (555) 992-7749"
+  },
+  "ground_truth": "Adherent"
+}

@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Felicia Robinson",
+    "Patient_MRN": "104",
+    "Date_of_Birth": "1989-08-27",
+    "Date_of_Service": "2024-10-18",
+    "Identifying_Data_Chief_Complaint": "35-year-old African American female with schizoaffective disorder for medication review.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Beverly Robinson) at 555-883-4409",
+    "Subjective": "Patient presented appearing well-groomed and cheerful. Reports perfect adherence to lurasidone 80 mg with dinner nightly using routine. States feeling excellent. No hallucinations for six months. No delusional thinking. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 163 lbs. Working full-time as medical billing specialist, thriving in position. Mood 'excellent' rated 9/10. Lives independently in apartment with two cats. Active in book club and church choir. Attending therapy biweekly for wellness. Four years sober from crack cocaine. Proud recovery advocate. Mentoring women in recovery. Feels life has purpose and meaning. No safety concerns, denies SI/HI. (Evaluated by Dr. Catherine Green, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professionally dressed, excellent grooming, bright affect",
+      "Speech": "Clear, animated, articulate",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Excellent",
+      "Thought_Content": "Future-oriented, positive, no psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed, insightful"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Lurasidone 80 mg PO daily with food",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Living independently; employed full-time; four years sober; recovery mentor; active in church and social groups; excellent recovery.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and sustained remission.",
+      "Continue lurasidone 80 mg daily with food.",
+      "Commended on career and mentorship role.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Catherine Green, MD, Psychiatrist \u2014 Recovery Champions Mental Health, 2341 Triumph Way, Baltimore, MD 21201, Phone: (555) 229-7643, Fax: (555) 229-7644"
+  },
+  "ground_truth": "Adherent"
+}

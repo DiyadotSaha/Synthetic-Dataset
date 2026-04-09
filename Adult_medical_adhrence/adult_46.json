@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Marcus Greene",
+    "Patient_MRN": "046",
+    "Date_of_Birth": "1980-10-05",
+    "Date_of_Service": "2024-05-23",
+    "Identifying_Data_Chief_Complaint": "43-year-old African American male with chronic psychotic disorder with moderate ongoing symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Partner (Andre Thompson) at 555-883-2409",
+    "Subjective": "Patient arrived to appointment with partner who assists with treatment coordination. Partner confirms Mr. Greene takes his perphenazine 8 mg twice daily reliably using weekly pill organizer. Despite good adherence, symptoms continue to cause moderate impairment. Reports persistent auditory hallucinations several times daily of voices making derogatory comments about his sexuality and abilities. Also endorses ongoing suspiciousness that neighbors make negative remarks when he walks by, though can sometimes question if this is true. Sleep averages 5-6 hours nightly with difficulty falling asleep due to hallucinations. Appetite decreased, weight down 5 lbs to 163 lbs over past month. Continues attending LGBTQ+ community mental health program three times weekly which provides structure. Lives with supportive partner. Not currently working, on disability. Mood 'stressed and frustrated' rated 4/10. Denies substance use, sober from methamphetamine for three years. Limited social activities outside home due to paranoia. Safety: Denies SI/HI but expresses frustration with ongoing symptoms. (Evaluated by Dr. Samantha Lee, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, fair grooming, appears anxious",
+      "Speech": "Normal rate, somewhat hesitant",
+      "Affect": "Anxious, constricted",
+      "Mood": "Frustrated",
+      "Thought_Content": "Auditory hallucinations with derogatory content, paranoid ideation",
+      "Thought_Process": "Coherent, mildly preoccupied"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 15,
+      "GAD_7": 13,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Perphenazine 8 mg PO BID",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 96 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder with persistent symptoms despite adherence.",
+    "Psychosocial_Context": "Lives with partner; attends LGBTQ+ mental health program; three years sober; on disability; limited social engagement.",
+    "Assessment_and_Plan": [
+      "Good medication adherence with partner support.",
+      "Persistent psychotic symptoms causing distress and functional limitation.",
+      "Discussed medication optimization.",
+      "Will increase perphenazine to 16 mg daily vs. consider switch to different agent.",
+      "Encouraged continued program participation.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Dr. Samantha Lee, MD, Psychiatrist \u2014 Rainbow Health Collective, 1567 Castro Street, San Francisco, CA 94114, Phone: (555) 772-9921, Fax: (555) 772-9922"
+  },
+  "ground_truth": "Adherent"
+}

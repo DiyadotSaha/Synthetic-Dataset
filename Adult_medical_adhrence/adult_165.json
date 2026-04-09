@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "David Nguyen",
+    "Patient_MRN": "165",
+    "Date_of_Birth": "1991-07-14",
+    "Date_of_Service": "2024-09-12",
+    "Identifying_Data_Chief_Complaint": "33-year-old Asian American male with schizophrenia for routine visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Father (Minh Nguyen) at 555-334-7765",
+    "Subjective": "Mr. Nguyen arrives punctually appearing relaxed and positive. Reports he's generally doing well. When discussing his paliperidone ER, he mentions he ran out about 12 days ago and kept meaning to pick up the refill from pharmacy but his busy work schedule made it difficult - finally picked it up yesterday and resumed taking it this morning. He notes that during the missed period, he felt somewhat more anxious and had a couple of days where he felt coworkers might be judging his work, though he could talk himself out of these concerns. No hallucinations during the gap. Sleep was slightly disrupted at 5-6 hours versus usual 7-8. Appetite unchanged, weight stable at 158 lbs. Working full-time as software engineer, recently promoted to senior developer position. Mood 'good, a bit stressed with new responsibilities' rated 7/10. Lives alone. Engages in regular exercise and meditation practice. Active in local Vietnamese community. No substance use. No safety concerns, denies SI/HI. (Seen by Angela Wu, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Business casual attire, well-groomed, appears calm",
+      "Speech": "Clear, measured pace, coherent",
+      "Affect": "Appropriate, calm, engaged",
+      "Mood": "Good, a bit stressed with new responsibilities",
+      "Thought_Content": "Brief paranoid-like thoughts during medication lapse, resolved",
+      "Thought_Process": "Organized, logical, reality-oriented"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 4,
+      "GAD_7": 7,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Paliperidone ER 3 mg PO daily",
+    "CURES_Report": "Reviewed; no issues.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable with recent brief medication interruption due to refill delay.",
+    "Psychosocial_Context": "Living independently; recently promoted at work; active community involvement; overall excellent functioning.",
+    "Assessment_and_Plan": [
+      "Addressed 12-day medication gap due to delayed pharmacy pickup.",
+      "Set up automatic refills and text reminders for pickup.",
+      "Discussed using mail-order pharmacy for convenience given work schedule.",
+      "Mild anxiety symptoms emerged during gap, now resolved.",
+      "Continue paliperidone ER 3 mg daily.",
+      "Congratulated on promotion.",
+      "Follow-up in 10 weeks."
+    ],
+    "RTC": "10 weeks",
+    "Author": "Note written by Angela Wu, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Tech Industry Behavioral Health, 7500 Technology Drive, San Jose, CA 95134, Phone: (555) 447-8836, Fax: (555) 447-8837"
+  },
+  "ground_truth": "Non-Adherent"
+}

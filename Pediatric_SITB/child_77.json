@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Connor Mitchell",
+    "Patient_MRN": "077",
+    "Date_of_Birth": "2011-10-08",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male brought by stepfather for defiance and marijuana experimentation.",
+    "Collateral_Contact_Information": "Stepfather: Gary Mitchell, Phone: (555) 456-7913",
+    "Subjective": "Patient is a 14-year-old male brought by stepfather after being caught smoking marijuana with peers last weekend. He reports trying marijuana twice total out of curiosity. He denies any thoughts of self-harm or suicidal ideation. Patient admits the behavior was poor judgment and states he does not plan to use again. Stepfather reports patient has been increasingly oppositional at home, particularly regarding curfew and chores. Patient states he feels stepfather is too controlling and prefers spending time at his mother's house where rules are more relaxed. Parents divorced two years ago; patient splits time between households. Academic performance is adequate with mostly B's. He plays lacrosse and has maintained same friend group for several years. Denies ongoing substance use or access to substances. (ED Physician Dr. Margaret Sullivan, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, good hygiene",
+      "Behavior": "Cooperative with examiner, admits mistakes",
+      "Speech": "Normal rate and volume",
+      "Mood": "Fine",
+      "Affect": "Appropriate",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair to good - recognizes poor judgment",
+      "Judgment": "Fair - isolated poor decision"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "Negative",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adolescent experimentation; adjustment disorder with disturbance of conduct, mild.",
+    "Psychosocial_Context": "Lives in two households; parents divorced; differing parenting styles between homes; experimental marijuana use; academically adequate; engaged in sports; stable peer group.",
+    "Assessment_and_Plan": [
+      "Brief marijuana experimentation in context of adolescent risk-taking; conflicting household expectations.",
+      "Protective factors: recognizes poor judgment, engaged in athletics, stable friendships, adequate academics, no suicidal ideation.",
+      "Substance use education provided regarding risks and consequences.",
+      "Brief counseling to address decision-making and peer pressure resistance.",
+      "Family therapy recommended to align parenting approaches between households.",
+      "Continued monitoring for substance use; no evidence of ongoing use at this time.",
+      "Clear consequences and expectations established collaboratively.",
+      "Follow-up PRN; no ongoing treatment needed unless pattern develops."
+    ],
+    "Author": "Dr. Margaret Sullivan, MD (ED Physician)"
+  },
+  "ground_truth": "No"
+}

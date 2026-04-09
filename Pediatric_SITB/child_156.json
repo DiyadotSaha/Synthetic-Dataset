@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Riley Cooper",
+    "Patient_MRN": "156",
+    "Date_of_Birth": "2011-12-03",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old non-binary youth brought by parent after discovering superficial cuts on forearm.",
+    "Collateral_Contact_Information": "Parent: Alex Cooper, Phone: (555) 234-8901",
+    "Subjective": "Patient is a 13-year-old who uses they/them pronouns presenting after their parent discovered three superficial horizontal cuts on their left forearm this morning. Patient reports making these cuts last night with a pair of scissors to 'release the pressure' they have been feeling. They describe escalating anxiety over the past month related to gender identity concerns and fear of peer judgment at school. Patient states clearly that they were not trying to die or seriously harm themselves, explaining that cutting helped them feel 'something other than anxious.' They report immediately feeling regretful and scared after cutting, and showed their parent this morning seeking help. They deny any current suicidal ideation, plan, or intent. Patient has supportive parents who are navigating their child's recent gender identity disclosure with acceptance. They have two close friends who are also LGBTQ+ identified. Continues to attend weekly therapy started three months ago. Sleep and appetite normal. (Social Worker Terrence Williams, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Androgynous presentation, clean, age-appropriate",
+      "Behavior": "Cooperative, relief at being able to talk openly",
+      "Speech": "Normal rate, articulate",
+      "Mood": "Anxious but hopeful",
+      "Affect": "Appropriate, full range",
+      "Thought_Process": "Organized and logical",
+      "Thought_Content": "Non-suicidal self-injury; no suicidal ideation",
+      "Cognition": "Alert and fully oriented",
+      "Insight": "Good, recognizes need for healthier coping",
+      "Judgment": "Fair, improving"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Anxiety disorder; adjustment to gender identity transition; non-suicidal self-injury, first episode.",
+    "Psychosocial_Context": "Lives with supportive parents; navigating gender identity exploration; established in outpatient therapy; has peer support network; no history of mental health crises.",
+    "Assessment_and_Plan": [
+      "Low risk: isolated non-suicidal self-injury without suicidal ideation.",
+      "Strong protective factors: accepting family, peer support, engaged in therapy, good insight.",
+      "Wounds superficial; cleaned and bandaged; no sutures required.",
+      "Safety plan created emphasizing alternative coping skills; remove access to sharp objects.",
+      "Contact current therapist to expedite appointment and address self-harm coping strategies.",
+      "Consider evaluation for anxiety treatment; DBT skills may be beneficial.",
+      "LGBTQ+ youth support group resources provided.",
+      "Safe for discharge with close parental supervision and therapy follow-up within 48 hours."
+    ],
+    "Author": "Terrence Williams, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

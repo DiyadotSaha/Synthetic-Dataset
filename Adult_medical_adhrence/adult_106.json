@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Diana Flores",
+    "Patient_MRN": "106",
+    "Date_of_Birth": "1981-03-15",
+    "Date_of_Service": "2024-07-08",
+    "Identifying_Data_Chief_Complaint": "43-year-old Hispanic female with chronic psychotic disorder with moderate symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Husband (Roberto Flores) at 555-661-3487",
+    "Subjective": "Ms. Flores attended appointment with husband who supervises medications. Husband confirms she takes asenapine 10 mg sublingual twice daily via his observation, no missed doses. Despite reliable adherence, continues experiencing moderate symptoms. Reports daily auditory hallucinations of voices making critical comments about her housekeeping. Endorses paranoid thoughts that husband's coworkers judge her negatively. Sleep disrupted at 5 hours nightly. Appetite decreased, weight down 6 lbs to 152 lbs. Stays home managing household, not working outside home. Limited social activities. Husband concerned about ongoing symptoms affecting marriage. Mood 'sad and anxious' rated 4/10. Denies substance use. Safety: No SI/HI. (Assessed by Dr. Eduardo Sanchez, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged female, adequate grooming, appears anxious",
+      "Speech": "Soft, accented, hesitant",
+      "Affect": "Anxious, restricted",
+      "Mood": "Sad and anxious",
+      "Thought_Content": "Auditory hallucinations, paranoid ideation",
+      "Thought_Process": "Coherent, preoccupied"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 16,
+      "GAD_7": 17,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Asenapine 10 mg SL BID",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 105 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder with persistent symptoms and mood/anxiety components.",
+    "Psychosocial_Context": "Married; stay-at-home; limited English; ongoing symptoms affecting relationship.",
+    "Assessment_and_Plan": [
+      "Good adherence through husband's supervision.",
+      "Persistent psychotic and mood symptoms.",
+      "Discussed medication augmentation.",
+      "Will add antidepressant for mood/anxiety.",
+      "Couples counseling referral.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Dr. Eduardo Sanchez, MD, Psychiatrist \u2014 Bilingual Family Mental Health, 3421 Familia Drive, Los Angeles, CA 90012, Phone: (555) 338-7729, Fax: (555) 338-7730"
+  },
+  "ground_truth": "Adherent"
+}

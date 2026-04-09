@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Jasmine Williams",
+    "Patient_MRN": "018",
+    "Date_of_Birth": "1975-09-14",
+    "Date_of_Service": "2024-05-08",
+    "Identifying_Data_Chief_Complaint": "49-year-old African American female with chronic psychotic disorder presenting with severe symptom exacerbation.",
+    "Collateral_Contact_Information": "Emergency Contact: Case Manager (DeShawn Harris) at 555-445-7732",
+    "Subjective": "Patient presents appearing disheveled and highly agitated, accompanied by her case manager who provides most of the history. Case manager reports that Ms. Williams has not been taking her perphenazine for approximately 3-4 weeks after she decided the medication was 'poisoning' her system and making her sick. Patient confirms this, stating adamantly that the pills were 'contaminated by the government' and she felt better once she stopped them. Since discontinuation, case manager notes dramatic worsening with patient becoming increasingly paranoid, isolating in her apartment, not answering phone calls, and neglecting self-care. Patient reports constant voices telling her that people are trying to harm her and she needs to protect herself. She's been barricading her door with furniture and has stopped going out for groceries, resulting in significant weight loss - down from 158 lbs to 142 lbs per case manager. Sleep is severely fragmented with patient stating she can only sleep 1-2 hours at a time because she needs to 'stay alert.' Denies current substance use though case manager suspects possible cannabis use based on smell in apartment. Patient appears suspicious and guarded throughout interview, making poor eye contact. When asked about safety, she states she would defend herself if necessary but denies specific plans to harm others. Expresses that death might be 'better than this torture.' (Urgent evaluation by Dr. Samantha Torres, MD, ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, poor hygiene, agitated, guarded posture",
+      "Speech": "Rapid, pressured at times, loud volume",
+      "Affect": "Labile, ranging from angry to fearful",
+      "Mood": "Paranoid and agitated",
+      "Thought_Content": "Prominent paranoid delusions regarding poisoning and government conspiracy, command auditory hallucinations, possible SI",
+      "Thought_Process": "Disorganized, tangential, illogical connections"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 19,
+      "GAD_7": 18,
+      "DAST_10": 2,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive ideation with statements about death being preferable; concerning given paranoid state"
+    },
+    "Current_Medications": "Perphenazine 12 mg PO BID (not currently taking)",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "No recent labs available.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder, severe acute exacerbation in context of complete medication nonadherence.",
+    "Psychosocial_Context": "Lives alone in subsidized housing; receives intensive case management; socially isolated; severe functional decline; significant self-neglect.",
+    "Assessment_and_Plan": [
+      "Patient experiencing severe psychiatric crisis following 3-4 weeks of complete medication discontinuation.",
+      "High safety risk given paranoid delusions, command hallucinations, and deteriorating self-care.",
+      "Patient lacks insight into need for treatment and believes medication is harmful.",
+      "Recommend immediate psychiatric hospitalization for stabilization and medication reinitiation.",
+      "Discussed with case manager; will pursue emergency psychiatric hold given imminent danger.",
+      "Medical evaluation needed for weight loss and nutritional status.",
+      "Long-term consideration of injectable long-acting medication post-stabilization."
+    ],
+    "RTC": "Emergency psychiatric admission",
+    "Author": "Note written by Dr. Samantha Torres, MD, ED Physician \u2014 County General Emergency Department, 3300 Medical Center Drive, Baltimore, MD 21201, Phone: (555) 990-2345, Fax: (555) 990-2346"
+  },
+  "ground_truth": "Non-Adherent"
+}

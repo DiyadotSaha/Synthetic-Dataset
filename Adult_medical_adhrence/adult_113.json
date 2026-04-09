@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Charles Henderson",
+    "Patient_MRN": "113",
+    "Date_of_Birth": "1982-06-17",
+    "Date_of_Service": "2024-07-29",
+    "Identifying_Data_Chief_Complaint": "42-year-old African American male with schizophrenia with residual symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Ruby Henderson) at 555-883-4409",
+    "Subjective": "Mr. Henderson attended appointment with case manager. Case manager confirms he takes risperidone 6 mg nightly via supervised administration at program, no missed doses. Despite reliable adherence, continues experiencing moderate symptoms. Reports daily auditory hallucinations of voices making negative comments. Endorses vague paranoid ideas about surveillance. Sleep disrupted at 5 hours nightly. Appetite fair, weight stable at 176 lbs. Attends day program irregularly. Not working, receives disability. Lives in group home. Limited social interaction. Mood 'the same' rated 4/10. Denies substance use. Flat during interview. Safety: No SI/HI. (Assessed by Jerome Washington, LMSW, Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged male, adequate grooming, appears withdrawn",
+      "Speech": "Monotone, sparse, coherent",
+      "Affect": "Flat, minimal reactivity",
+      "Mood": "Apathetic",
+      "Thought_Content": "Auditory hallucinations, vague paranoid ideation",
+      "Thought_Process": "Concrete, impoverished"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 13,
+      "GAD_7": 11,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 6 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 101 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with persistent symptoms.",
+    "Psychosocial_Context": "Lives in group home; unemployed, on disability; minimal engagement; case management services.",
+    "Assessment_and_Plan": [
+      "Good adherence through program supervision.",
+      "Persistent symptoms despite treatment.",
+      "Discussed medication adjustment.",
+      "Will consider dose increase or medication change.",
+      "Encouraged program participation.",
+      "Follow-up in 4 weeks."
+    ],
+    "RTC": "4 weeks",
+    "Author": "Note written by Jerome Washington, LMSW, Social Worker \u2014 Group Living Network, 5623 Community Drive, Atlanta, GA 30318, Phone: (555) 661-3487, Fax: (555) 661-3488"
+  },
+  "ground_truth": "Adherent"
+}

@@ -1,0 +1,55 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "River Chen",
+    "Patient_MRN": "192",
+    "Date_of_Birth": "2011-11-11",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old brought by school counselor after scratching the words 'I hate me' into forearm with pencil during class.",
+    "Collateral_Contact_Information": "Mother: Diana Chen, Phone: (555) 883-6699",
+    "Subjective": "Patient is a 14-year-old who scratched 'I hate me' into forearm with mechanical pencil during math class. Teacher and counselor intervened. Patient explains they hate themselves because they are 'failing at everything' - academics declining, recently rejected from school musical, feel like disappointment to parents. Reports this is first time self-harming but has thought about it before. Denies suicidal ideation, plan, or intent. Describes overwhelming feelings of inadequacy and self-loathing. Sleep and appetite normal. Has small friend group. Very close with younger sibling. Parents are high-achieving physicians with high expectations. Currently on no medications. Previously saw therapist at age 11 for anxiety but family discontinued. No prior self-harm. (School Counselor Patricia Martinez, MA)",
+    "Mental_Status_Examination": {
+      "Appearance": "Words visible scratched in forearm, neat otherwise",
+      "Behavior": "Cooperative, ashamed",
+      "Speech": "Clear, self-deprecating",
+      "Mood": "I hate myself",
+      "Affect": "Depressed, appropriate",
+      "Thought_Process": "Organized, very self-critical",
+      "Thought_Content": "Denies SI; self-hatred; NSSI as expression of self-loathing",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No prescriptions",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder; non-suicidal self-injury; severe self-esteem issues related to perfectionism and parental pressure.",
+    "Psychosocial_Context": "Academic decline; rejected from musical; high-achieving physician parents; discontinued previous therapy; close with sibling; friend group; first self-harm incident.",
+    "Assessment_and_Plan": [
+      "Low risk for suicide but high concern for depression and self-loathing.",
+      "Words scratched superficially; cleaned and bandaged.",
+      "Remove access to sharp objects including pencils when distressed.",
+      "Urgent psychiatric evaluation for depression.",
+      "Resume therapy addressing perfectionism, self-esteem, parental expectations.",
+      "Family therapy essential to address achievement pressure.",
+      "Consider antidepressant medication.",
+      "Help parents understand impact of expectations on patient's mental health.",
+      "Reframe rejection and academic struggles as normal, not failure.",
+      "Safety plan emphasizing talking to trusted adults when self-critical.",
+      "Follow-up with therapist within one week.",
+      "Safe for discharge with treatment engagement and family education."
+    ],
+    "Author": "Patricia Martinez, MA (School Counselor)"
+  },
+  "ground_truth": "yes"
+}

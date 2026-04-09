@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Carlos Mendez",
+    "Patient_MRN": "153",
+    "Date_of_Birth": "1989-07-22",
+    "Date_of_Service": "2024-08-12",
+    "Identifying_Data_Chief_Complaint": "35-year-old Hispanic male with schizophrenia for medication management.",
+    "Collateral_Contact_Information": "Emergency Contact: Wife (Maria Mendez) at 555-334-6652",
+    "Subjective": "Patient arrives punctually accompanied by his wife. He reports overall stability but his wife mentions noticing the medication pill count seems off. When asked directly, Mr. Mendez somewhat sheepishly acknowledges that the complex twice-daily dosing schedule for ziprasidone has been challenging to remember consistently, particularly the second afternoon dose when he's busy at his landscaping job. He estimates he probably misses the afternoon dose about twice per week, though he's usually consistent with the morning dose. He hasn't noticed significant changes in his mental state, though he did have one day last week where he felt more anxious than usual and briefly worried that his work crew was talking about him behind his back, though he recognized this might be his mind playing tricks. Sleep is generally good at 7 hours nightly. Appetite is healthy, weight stable at 178 lbs. Working full-time in landscaping, takes pride in his work, and recently completed a large commercial project. Mood 'content' rated 7/10. Lives with wife and two young children. Actively involved in coaching son's soccer team. Denies substance use, quit smoking cigarettes 6 months ago. No safety concerns, denies suicidal or homicidal thoughts. (Assessed by Dr. Roberto Sanchez, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed male, sun-weathered complexion from outdoor work, good grooming",
+      "Speech": "Clear with slight accent, normal pace, coherent",
+      "Affect": "Appropriate, friendly, engaged",
+      "Mood": "Content",
+      "Thought_Content": "One recent brief episode of ideas of reference, self-aware",
+      "Thought_Process": "Organized, linear, reality-based"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 3,
+      "GAD_7": 5,
+      "DAST_10": 0,
+      "AUDIT_C": 1,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Ziprasidone 80 mg PO BID with food",
+    "CURES_Report": "Reviewed; no irregularities.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Recent EKG: normal QTc; CBC normal; lipids within normal range.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, well-controlled with adherence challenges related to dosing complexity.",
+    "Psychosocial_Context": "Married with children; employed full-time in landscaping; active in family and community activities.",
+    "Assessment_and_Plan": [
+      "Identified adherence barrier related to twice-daily dosing complexity during work hours.",
+      "Discussed option to transition to once-daily antipsychotic formulation.",
+      "Patient and wife interested in simpler regimen.",
+      "Plan to cross-taper to paliperidone ER for once-daily dosing.",
+      "Wife supportive and willing to help with medication reminders during transition.",
+      "Provided education on importance of taking with food for absorption.",
+      "Follow-up in 3 weeks to initiate medication transition."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Dr. Roberto Sanchez, MD, Psychiatrist \u2014 Westside Family Mental Health, 1850 Garden Valley Road, Phoenix, AZ 85007, Phone: (555) 227-9934, Fax: (555) 227-9935"
+  },
+  "ground_truth": "Non-Adherent"
+}

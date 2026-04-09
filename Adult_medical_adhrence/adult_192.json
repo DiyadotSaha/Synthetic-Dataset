@@ -1,0 +1,50 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Brittany Lewis",
+    "Patient_MRN": "192",
+    "Date_of_Birth": "1991-02-09",
+    "Date_of_Service": "2024-10-20",
+    "Identifying_Data_Chief_Complaint": "33-year-old White female with schizoaffective disorder in crisis after suicide attempt.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Susan Lewis) at 555-447-6621",
+    "Subjective": "Ms. Lewis brought by ambulance after jumping from second-story window in suicide attempt, sustained multiple fractures. After orthopedic stabilization, psychiatry consulted. Mother reports patient stopped quetiapine completely 10 weeks ago believing medication caused her 'creative death' as artist. Since then, catastrophic decline. Severe depression with inability to function, constant crying, complete anhedonia. Auditory hallucinations of multiple voices telling her she's worthless failure and should die intensified daily. Paranoid beliefs that art gallery blacklisted her and ruined career. Sleep 2-3 hours nightly. Stopped eating, weight down 25 lbs. Evicted last week after not paying rent for 3 months. Lost all freelance clients. Living in car before attempt. Mother unaware of severity until attempt. Patient states she jumped to 'end the pain' and regrets surviving. Mood 'I just want it to be over' rated 0/10. Denies substance use but admits drinking to cope recently. Safety: active ongoing SI, states she will try again as soon as able, persistent wish to die. (Documented by Dr. Rachel Foster, ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "In hospital gown with casts, severely malnourished, disheveled, profoundly depressed",
+      "Speech": "Whispered, tearful, minimal",
+      "Affect": "Profoundly depressed, hopeless, flat",
+      "Mood": "I just want it to be over",
+      "Thought_Content": "Active persistent SI with ongoing intent, command hallucinations to die, paranoid ideation",
+      "Thought_Process": "Severely slowed, perseverative on death and hopelessness"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 27,
+      "GAD_7": 21,
+      "DAST_10": 2,
+      "AUDIT_C": 6,
+      "C_SSRS": "Active suicidal ideation with recent serious attempt, ongoing intent to die"
+    },
+    "Current_Medications": "Quetiapine 400 mg PO qHS (stopped 10 weeks ago)",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Severe malnutrition; anemia; elevated alcohol level on admission; electrolyte abnormalities.",
+      "Recent_Imaging_Results": "Multiple orthopedic fractures from fall."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, with life-threatening suicidal crisis after medication discontinuation; recent serious suicide attempt; homelessness.",
+    "Psychosocial_Context": "Recently homeless; recently evicted; unemployed; recent serious suicide attempt; ongoing high suicide risk; alcohol use emerging.",
+    "Assessment_and_Plan": [
+      "Life-threatening crisis after stopping quetiapine 10 weeks ago.",
+      "Recent serious suicide attempt via jump, ongoing intent to die.",
+      "Requires immediate involuntary psychiatric hospitalization after medical clearance.",
+      "5150 hold initiated.",
+      "Will transfer to inpatient psychiatric unit once medically stable.",
+      "Restart quetiapine, add antidepressant, consider ECT given severity.",
+      "One-to-one observation essential.",
+      "Address emerging alcohol use.",
+      "Long-term residential placement needed post-discharge.",
+      "Intensive case management for housing, disability."
+    ],
+    "RTC": "Post-hospital discharge with intensive case management",
+    "Author": "Note written by Dr. Rachel Foster, ED Physician \u2014 City Hospital Emergency Department, 600 Trauma Drive, Portland, OR 97201, Phone: (555) 334-9943, Fax: (555) 334-9944"
+  },
+  "ground_truth": "Non-Adherent"
+}

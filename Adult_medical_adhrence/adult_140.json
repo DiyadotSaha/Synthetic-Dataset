@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Victor Morales",
+    "Patient_MRN": "140",
+    "Date_of_Birth": "1983-01-14",
+    "Date_of_Service": "2024-06-28",
+    "Identifying_Data_Chief_Complaint": "41-year-old Hispanic male with schizoaffective disorder with moderate persistent symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Wife (Carmen Morales) at 555-229-9943",
+    "Subjective": "Mr. Morales came to appointment with wife who monitors his medications. Wife confirms he takes risperidone 6 mg every evening via her observation, perfect adherence for past eighteen months. Despite consistent medication, continues experiencing moderate symptoms. Reports hearing voices commenting on his activities two to three times daily. Endorses paranoid thoughts that supervisors at construction job are trying to get him fired. Sleep disrupted at 5-6 hours nightly, trouble staying asleep. Appetite okay, weight stable at 195 lbs. Working full-time in construction but finds interpersonal aspects stressful. Lives with wife and three children. Limited social activities outside family. Mood 'stressed and worried' rated 4/10. Denies substance use. Wife concerned about his stress level. Safety: No SI/HI. (Assessed by Michael Torres, LCSW, Licensed Clinical Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged male in work clothes, fair grooming, appears tense",
+      "Speech": "Soft, accented, somewhat guarded",
+      "Affect": "Anxious, restricted range",
+      "Mood": "Stressed and worried",
+      "Thought_Content": "Daily auditory hallucinations, paranoid ideation about workplace",
+      "Thought_Process": "Coherent, preoccupied with work concerns"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 14,
+      "GAD_7": 16,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 6 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 112 mg/dL; lipids elevated.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder with moderate symptoms and prominent anxiety.",
+    "Psychosocial_Context": "Married with children; employed full-time with work stress; limited social support beyond family.",
+    "Assessment_and_Plan": [
+      "Perfect adherence through wife's monitoring.",
+      "Moderate residual psychotic and anxiety symptoms.",
+      "Already on substantial risperidone dose.",
+      "Discussed adding medication for anxiety.",
+      "Will start SSRI for anxiety and mood.",
+      "Encouraged workplace accommodations discussion.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Michael Torres, LCSW, Licensed Clinical Social Worker \u2014 Construction Workers Behavioral Health, 3321 Industry Plaza, Phoenix, AZ 85001, Phone: (555) 772-6654, Fax: (555) 772-6655"
+  },
+  "ground_truth": "Adherent"
+}

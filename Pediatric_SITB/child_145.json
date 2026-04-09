@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Destiny Moore",
+    "Patient_MRN": "145",
+    "Date_of_Birth": "2011-07-30",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by grandmother for burn marks on arm from eraser without suicidal intent.",
+    "Collateral_Contact_Information": "Grandmother: Ruth Moore, Phone: (555) 567-8027",
+    "Subjective": "Patient is a 14-year-old female presenting after grandmother noticed burn marks on forearm from repeatedly rubbing with pencil eraser. Patient reports engaging in this behavior when feeling numb or disconnected, stating it helps her feel something and grounds her back to reality. She explicitly denies any suicidal intent, clarifying she is not trying to seriously injure herself but rather attempting to manage dissociation and emotional numbness without wanting to die. She denies any thoughts of self-harm or suicidal ideation. Patient has history of trauma exposure including witnessing domestic violence in early childhood. Currently in weekly therapy working on trauma processing. She describes periods of feeling detached from her body that frighten her. Lives with grandmother who has been supportive caregiver for three years. Maintains good grades and has close friends. Grandmother was unaware of behavior until noticing marks yesterday. (ED Physician Dr. Maria Lopez, DO)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, multiple circular burn marks on left forearm",
+      "Behavior": "Cooperative, somewhat detached",
+      "Speech": "Clear, normal pace",
+      "Mood": "Disconnected sometimes",
+      "Affect": "Constricted, improving during interview",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation; NSSI to manage dissociation without self-harm intent",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Impaired regarding coping methods"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Post-traumatic stress disorder with dissociative symptoms; non-suicidal self-injury for grounding, moderate.",
+    "Psychosocial_Context": "Lives with grandmother; history of trauma exposure; experiencing dissociative episodes; using self-injury to manage dissociation without suicidal intent; engaged in trauma therapy; academically and socially functional.",
+    "Assessment_and_Plan": [
+      "NSSI behavior (eraser burning) as maladaptive response to trauma-related dissociation; no suicidal intent.",
+      "Protective factors: engaged in trauma therapy, supportive grandmother, maintains function, explicitly denies suicidal thoughts.",
+      "Burns are superficial; cleaned and bandaged, no significant tissue damage.",
+      "Urgent communication with therapist to address dissociative symptoms and NSSI.",
+      "Teach grounding techniques that don't involve self-injury (ice, strong sensations, 5-4-3-2-1 technique).",
+      "Safety planning with removal of easy access to objects used for burning.",
+      "Possible increase in therapy frequency or adjunct group for trauma and dissociation.",
+      "Consider medication evaluation for PTSD symptoms.",
+      "Close follow-up with therapist within 2 days."
+    ],
+    "Author": "Dr. Maria Lopez, DO (ED Physician)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Priya Patel",
+    "Patient_MRN": "025",
+    "Date_of_Birth": "1985-07-30",
+    "Date_of_Service": "2024-09-08",
+    "Identifying_Data_Chief_Complaint": "39-year-old Asian American female with schizoaffective disorder here for medication review.",
+    "Collateral_Contact_Information": "Emergency Contact: Husband (Amit Patel) at 555-667-2290",
+    "Subjective": "Ms. Patel presented for scheduled visit appearing well and in good spirits. Reports consistent medication adherence, taking asenapine 10 mg sublingual twice daily as directed. She uses a pill timer with alarms that has proven very effective for her. States she is doing quite well overall with only occasional mild symptoms. Experiences very infrequent auditory hallucinations - perhaps once every two weeks - of soft music playing that she recognizes as not real. No paranoid thoughts or other delusional content. Sleep pattern is regular at 6-7 hours per night, feels rested upon waking. Appetite good, weight maintained at 138 lbs. She returned to her position as a librarian at the public library six months ago working 25 hours per week and receiving positive feedback from supervisor. Mood is 'pretty good most days' rated 7-8/10. She and her husband enjoy weekly date nights and recently adopted a rescue dog they both adore. Continues individual therapy biweekly which she finds helpful for coping skills. Denies substance use. No safety concerns whatsoever, explicitly denies SI/HI. (Seen by Veronica Santos, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professionally dressed, excellent grooming, pleasant demeanor",
+      "Speech": "Fluent, clear, normal pace and prosody",
+      "Affect": "Bright, appropriate, full range",
+      "Mood": "Good",
+      "Thought_Content": "Minimal residual hallucinations with good insight, no delusions",
+      "Thought_Process": "Logical, well-organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 4,
+      "GAD_7": 5,
+      "DAST_10": 0,
+      "AUDIT_C": 1,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Asenapine 10 mg SL BID",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Routine labs all within normal limits including CBC, CMP, lipids, and HbA1c.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, stable with minimal residual symptoms.",
+    "Psychosocial_Context": "Married; working part-time as librarian; engaged in therapy; strong support system; good functional recovery.",
+    "Assessment_and_Plan": [
+      "Excellent adherence to asenapine with automated reminder system.",
+      "Symptoms well-controlled with good functional status.",
+      "Continue current medication regimen.",
+      "Encouraged ongoing therapy participation.",
+      "Routine metabolic monitoring in 6 months.",
+      "Return to clinic in 8 weeks for routine follow-up."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Veronica Santos, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Bayside Mental Health, 567 Ocean Avenue, Santa Monica, CA 90401, Phone: (555) 821-7634, Fax: (555) 821-7635"
+  },
+  "ground_truth": "Adherent"
+}

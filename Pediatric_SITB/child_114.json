@@ -1,0 +1,55 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Kai Roberts",
+    "Patient_MRN": "114",
+    "Date_of_Birth": "2011-07-25",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old brought by parent after burning own arm multiple times with lighter.",
+    "Collateral_Contact_Information": "Parent: Sam Roberts, Phone: (555) 773-8899",
+    "Subjective": "Patient is a 14-year-old who uses they/them pronouns presenting after parent discovered multiple small circular burns on patient's left forearm made with a lighter. Patient explains they have burned themselves approximately 10 times over the past two weeks when feeling intense emotional distress. They describe using the physical pain to interrupt emotional overwhelm and create a focal point they can control. They state clearly they are not trying to die or seriously injure themselves, explaining they use brief contact to create pain without major tissue damage. They deny suicidal ideation, plan, or intent. Patient has been struggling with peer conflict at school and difficulties regulating emotions, particularly anger. Diagnosed with ADHD and possible emerging borderline personality features per outpatient therapist. Currently on atomoxetine 80mg daily. In weekly DBT skills group which they find somewhat helpful. Lives with supportive parents. Two friends. Enjoys art and music. (Psychiatric Nurse Practitioner Jordan Martinez, PMHNP)",
+    "Mental_Status_Examination": {
+      "Appearance": "Alternative style, multiple small burns visible on forearm",
+      "Behavior": "Cooperative, emotionally reactive during interview",
+      "Speech": "Normal rate, animated",
+      "Mood": "Frustrated with self",
+      "Affect": "Labile, intense",
+      "Thought_Process": "Organized",
+      "Thought_Content": "Denies SI; non-suicidal self-injury for emotion regulation",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair, recognizes maladaptive coping",
+      "Judgment": "Limited regarding safety"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Atomoxetine 80mg daily",
+    "CURES_Report": "Atomoxetine on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "ADHD; emerging borderline personality features; non-suicidal self-injury by burning; emotion dysregulation.",
+    "Psychosocial_Context": "ADHD and emerging personality pathology; peer conflict; engaged in DBT skills group weekly; supportive parents; creative outlets in art and music; current medication.",
+    "Assessment_and_Plan": [
+      "Low risk for suicide: non-suicidal self-injury without suicidal ideation; burning for emotion regulation.",
+      "Protective factors: engaged in DBT, supportive parents, creative interests, some insight.",
+      "Burns are small, superficial; wound care provided; healing appropriately.",
+      "Remove access to lighters and matches from home environment.",
+      "Intensify DBT; increase from weekly to twice weekly if available.",
+      "Review DBT distress tolerance skills specifically; alternative to burning.",
+      "Contact DBT therapist to coordinate care and address escalating NSSI.",
+      "Consider psychiatric medication addition for mood stabilization if personality features progress.",
+      "Safety plan with alternative coping strategies when emotionally overwhelmed.",
+      "Parents educated on responding to NSSI without reinforcing behavior.",
+      "Follow-up with DBT therapist within 48 hours.",
+      "Safe for discharge with intensified treatment and means restriction."
+    ],
+    "Author": "Jordan Martinez, PMHNP (Psychiatric Nurse Practitioner)"
+  },
+  "ground_truth": "yes"
+}

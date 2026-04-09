@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Angela Morrison",
+    "Patient_MRN": "010",
+    "Date_of_Birth": "1965-03-29",
+    "Date_of_Service": "2024-07-30",
+    "Identifying_Data_Chief_Complaint": "59-year-old Caucasian female with schizoaffective disorder presenting with worsening symptoms despite medication compliance.",
+    "Collateral_Contact_Information": "Emergency Contact: Son (Tyler Morrison) at 555-789-4532",
+    "Subjective": "Ms. Morrison arrives for her appointment appearing disheveled and displaying poor eye contact. Her son accompanied her and reports growing concern about her deteriorating condition over the past month. Patient confirms she has been taking her clozapine 400 mg at bedtime without fail, verified by weekly blood monitoring attendance for required labs. Despite consistent medication adherence, she describes increasingly distressing command auditory hallucinations telling her to harm herself, which occur multiple times daily and are becoming harder to resist. She also reports visual hallucinations of shadowy figures in her home that frighten her, particularly at night. Endorses severe depressive symptoms including pervasive hopelessness, guilt about being a burden to her family, and anhedonia in all previously enjoyed activities. Sleep is profoundly disrupted, averaging 2-4 hours nightly with frequent nightmares. Appetite severely diminished resulting in 15-pound weight loss over six weeks, current weight 118 lbs. She has not bathed in over a week per son's report and rarely leaves her bedroom. Son mentions finding her talking to herself frequently and appearing more confused about time and place. Denies recent substance use though has remote history of alcohol abuse. Safety assessment: Endorses active suicidal ideation with vague plan to overdose on her medications, states she has been stockpiling pills. Denies homicidal ideation. (Urgent evaluation by Patricia O'Brien, PMHNP-BC, Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Older female appearing older than stated age, unkempt, poor hygiene, psychomotor retardation",
+      "Speech": "Minimal, soft, monotone, requires frequent prompting",
+      "Affect": "Markedly flat and constricted",
+      "Mood": "Profoundly depressed and hopeless",
+      "Thought_Content": "Command auditory hallucinations to self-harm, visual hallucinations, active SI with vague plan, guilt-laden ruminations",
+      "Thought_Process": "Disorganized, tangential, impoverished, marked thought blocking"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 24,
+      "GAD_7": 17,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Active suicidal ideation with intent and vague plan; high lethality concern"
+    },
+    "Current_Medications": "Clozapine 400 mg PO qHS",
+    "CURES_Report": "Reviewed; only clozapine prescriptions noted.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Recent clozapine level therapeutic at 520 ng/mL; ANC adequate at 2100/mcL; CMP shows hypokalemia at 3.1 mEq/L and hypoalbuminemia at 3.0 g/dL consistent with malnutrition.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, severe exacerbation with treatment-resistant features despite clozapine therapy and documented adherence.",
+    "Psychosocial_Context": "Widow, lives alone, adult son provides intermittent support; socially isolated; receives disability benefits; significant functional decline and self-care deficits.",
+    "Assessment_and_Plan": [
+      "Patient demonstrates adherence to maximum-dose clozapine verified by therapeutic levels and clinic monitoring.",
+      "Despite adherence and therapeutic levels, experiencing severe psychiatric decompensation.",
+      "Acute safety risk given active SI with plan and access to means.",
+      "Strongly recommend voluntary psychiatric hospitalization for safety and medication optimization.",
+      "If patient declines voluntary admission, will pursue involuntary evaluation given imminent risk.",
+      "Medical evaluation needed for nutritional deficits and electrolyte abnormalities.",
+      "Son instructed to remove access to medications and maintain close supervision.",
+      "Emergency contact information provided; crisis intervention plan discussed.",
+      "Will arrange urgent admission coordination."
+    ],
+    "RTC": "Hospitalization recommended immediately",
+    "Author": "Note written by Patricia O'Brien, PMHNP-BC, Nurse Practitioner \u2014 Riverside Psychiatric Services, 1700 Willow Creek Drive, Nashville, TN 37203, Phone: (555) 901-2345, Fax: (555) 901-2346"
+  },
+  "ground_truth": "Adherent"
+}

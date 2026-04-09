@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Derek Miller",
+    "Patient_MRN": "103",
+    "Date_of_Birth": "2010-07-04",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by mother for anxiety before driver's education.",
+    "Collateral_Contact_Information": "Mother: Patricia Miller, Phone: (555) 678-9136",
+    "Subjective": "Patient is a 15-year-old male presenting with anxiety about starting driver's education next week. He reports worrying that he will cause an accident and hurt someone. He denies any thoughts of self-harm or suicidal ideation. Patient states most peers are excited about driving but he feels overwhelmed by the responsibility. He has been having nightmares about car crashes and avoiding conversations about driving. Mother reports patient has always been cautious and careful. Uncle died in car accident when patient was young, though patient has limited memory of this. He excels academically and has strong peer relationships. Participates in robotics club and track team. Mother uncertain if anxiety is normal nervousness or more significant problem. (Psychiatrist Dr. Jennifer Park, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears stated age",
+      "Behavior": "Cooperative, anxious",
+      "Speech": "Clear, rapid when discussing concerns",
+      "Mood": "Nervous",
+      "Affect": "Anxious, congruent",
+      "Thought_Process": "Linear, ruminative about driving risks",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Specific phobia (driving), mild.",
+    "Psychosocial_Context": "Lives with both parents; family history of fatal car accident; anxious about beginning driver education; otherwise well-adjusted and high-functioning; engaged in academics and athletics.",
+    "Assessment_and_Plan": [
+      "Driving anxiety potentially related to family trauma history; interfering with normal developmental milestone.",
+      "Protective factors: supportive family, high functioning, engaged in activities, good insight, no suicidal ideation.",
+      "Psychoeducation regarding anxiety and gradual exposure approach.",
+      "Brief cognitive behavioral therapy focusing on driving fears before and during driver education.",
+      "Process family history of car accident and any related fears.",
+      "Collaboration with driving instructor regarding gradual exposure and patient anxiety.",
+      "Relaxation techniques and anxiety management strategies.",
+      "Most patients with driving anxiety improve with exposure and experience.",
+      "Follow-up in 4 weeks to assess progress in driver education program."
+    ],
+    "Author": "Dr. Jennifer Park, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

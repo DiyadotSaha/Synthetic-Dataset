@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Dylan Foster",
+    "Patient_MRN": "031",
+    "Date_of_Birth": "2010-08-24",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by school nurse for agitation and disruptive behavior.",
+    "Collateral_Contact_Information": "Foster mother: Linda Patterson, Phone: (555) 345-6790",
+    "Subjective": "Patient is a 15-year-old male in foster care brought from school after becoming verbally aggressive with a teacher who he felt criticized him unfairly. He reports feeling on edge lately and having a short temper. He has been in his current foster home for three months after disruption from previous placement. He denies any thoughts of self-harm or suicidal ideation. Patient acknowledges his behavior was inappropriate but states he feels disrespected and not listened to. He has history of complex trauma including early childhood neglect and multiple placements. Currently taking risperidone 1mg for mood stability. Foster mother reports patient has been adjusting relatively well at home but school remains challenging. He enjoys working on cars with foster father and has expressed interest in automotive vocational training. (Psychiatrist Dr. James Murphy, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, somewhat guarded posture",
+      "Behavior": "Cooperative but irritable",
+      "Speech": "Normal rate, elevated volume initially",
+      "Mood": "Angry",
+      "Affect": "Irritable, reactive",
+      "Thought_Process": "Linear, focused on perceived injustice",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Limited",
+      "Judgment": "Impaired"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Risperidone 1mg twice daily",
+    "CURES_Report": "Risperidone on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Post-traumatic stress disorder; adjustment disorder with disturbance of conduct, moderate.",
+    "Psychosocial_Context": "In foster care due to early neglect; multiple placement disruptions; currently in stable placement; history of trauma; difficulty with authority figures; emerging connection with foster father through shared interest.",
+    "Assessment_and_Plan": [
+      "Behavioral dysregulation in context of trauma history and placement adjustment.",
+      "Protective factors: current placement appears stable, developing relationship with foster parents, interest in vocational skills, no suicidal ideation.",
+      "Current medication regimen appears insufficient for symptom control.",
+      "Coordination with prescribing psychiatrist for medication evaluation.",
+      "Recommend trauma-focused therapy (TF-CBT or EMDR) if not already engaged.",
+      "School consultation to develop behavior intervention plan and identify triggers.",
+      "Foster parents encouraged to continue building on automotive interest.",
+      "Follow-up with outpatient psychiatrist within 1 week for medication adjustment."
+    ],
+    "Author": "Dr. James Murphy, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

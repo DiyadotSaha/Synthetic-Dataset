@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Denise Harper",
+    "Patient_MRN": "008",
+    "Date_of_Birth": "1972-08-11",
+    "Date_of_Service": "2024-01-17",
+    "Identifying_Data_Chief_Complaint": "52-year-old African American female with chronic psychotic disorder presenting for case management follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Angela Harper) at 555-123-6547",
+    "Subjective": "Ms. Harper attends her appointment with her sister present to provide additional history. Patient demonstrates medication adherence, taking her fluphenazine decanoate injections every two weeks at the clinic without missing appointments. Despite this consistent treatment, she continues to experience significant functional impairment and persistent symptoms. She reports constant auditory hallucinations of multiple voices arguing with each other about her actions, which she finds extremely distressing and distracting throughout the day and night. She also maintains fixed delusional beliefs that government agents are tracking her movements through implanted devices, leading to significant behavioral changes including unplugging all electronics and covering windows with foil. Sleep is severely disrupted, averaging 2-3 hours nightly in short fragments due to hypervigilance. Appetite is markedly reduced and she has lost 12 pounds over the past two months, now weighing 128 lbs. Sister reports patient rarely bathes or changes clothes, stays in darkened room most of the time, and has stopped all social activities. Denies substance use. Mood described as 'terrified.' Risk assessment: Denies specific suicidal plan but states 'maybe it would be better if I wasn't here' reflecting significant hopelessness. No homicidal ideation but expresses fear of being harmed by perceived agents. (Documented by Michael Torres, LMSW, Case Manager)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, poor hygiene, appears older than stated age, agitated",
+      "Speech": "Pressured at times, low volume, difficult to redirect",
+      "Affect": "Anxious, fearful, constricted",
+      "Mood": "Terrified",
+      "Thought_Content": "Command auditory hallucinations, paranoid delusions about government surveillance and tracking devices",
+      "Thought_Process": "Disorganized, preoccupied with delusional content, poor insight"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 22,
+      "GAD_7": 19,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive suicidal ideation with statements of hopelessness, no specific plan"
+    },
+    "Current_Medications": "Fluphenazine decanoate 25 mg IM every 2 weeks",
+    "CURES_Report": "Reviewed; no entries found.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC shows moderate anemia (Hgb 10.1 g/dL); CMP reveals hyponatremia at 132 mEq/L, likely secondary to poor oral intake.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder, severe and persistent, treatment-resistant with poor functional status.",
+    "Psychosocial_Context": "Lives alone in Section 8 housing; sister provides minimal support; socially isolated; receives SSI benefits; significant self-care deficits.",
+    "Assessment_and_Plan": [
+      "Patient maintaining adherence to injectable antipsychotic via clinic administration.",
+      "Despite adherence, symptoms remain severe with marked functional decline.",
+      "High level of concern regarding safety given passive SI and severe paranoia.",
+      "Discussed higher level of care; patient resistant to hospitalization currently.",
+      "Crisis intervention plan developed with sister; provided emergency contacts.",
+      "Referral for intensive case management and possible day program.",
+      "Urgent medical follow-up arranged for weight loss, anemia, and electrolyte abnormality.",
+      "Close monitoring required; return in 1 week or sooner if symptoms worsen."
+    ],
+    "RTC": "1 week",
+    "Author": "Note written by Michael Torres, LMSW, Case Manager \u2014 Metro Community Mental Health, 600 Central Avenue, Detroit, MI 48201, Phone: (555) 890-1234, Fax: (555) 890-1235"
+  },
+  "ground_truth": "Adherent"
+}

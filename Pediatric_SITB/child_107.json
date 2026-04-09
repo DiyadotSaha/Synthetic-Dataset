@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Jordan Phillips",
+    "Patient_MRN": "107",
+    "Date_of_Birth": "2012-04-10",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old non-binary youth brought by parent for support with gender identity exploration.",
+    "Collateral_Contact_Information": "Parent: Alex Phillips, Phone: (555) 890-1358",
+    "Subjective": "Patient is a 13-year-old assigned female at birth presenting with parent for support around gender identity exploration. Patient recently came out as non-binary and uses they/them pronouns. They report feeling relieved to have language for their experience but also anxious about peer reactions. They deny any thoughts of self-harm or suicidal ideation. Patient states they have felt gender incongruent for several years but only recently understood their identity. Parent is supportive and seeking guidance on how best to support patient. Patient has told close friends who have been accepting. Anxiety about broader school disclosure. Otherwise functioning well academically and socially. Engaged in art and music. Requesting referral to gender-affirming care and therapy. (Psychiatrist Dr. Samuel Rodriguez, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Dressed androgynously, appears comfortable",
+      "Behavior": "Cooperative, engaged",
+      "Speech": "Clear, animated when discussing identity",
+      "Mood": "Okay, a little anxious",
+      "Affect": "Appropriate, full range",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Gender dysphoria; adjustment concerns related to identity disclosure, mild.",
+    "Psychosocial_Context": "Lives with supportive parent; recently came out as non-binary; exploring gender identity; close friends are accepting; anxious about broader disclosure; academically and socially functional; engaged in creative activities.",
+    "Assessment_and_Plan": [
+      "Gender identity exploration with supportive parent; mild anxiety about social disclosure.",
+      "Protective factors: supportive parent, accepting close friends, good functioning, engaged in activities, no suicidal ideation.",
+      "Referral to gender-affirming therapist with experience in adolescent gender identity.",
+      "Connection with LGBTQ+ youth support groups and resources.",
+      "School consultation regarding pronoun use and support if patient desires.",
+      "Parent education and support resources provided.",
+      "Affirm patient's identity and normalize exploration process.",
+      "Follow-up with gender-affirming provider; no acute mental health concerns at this time.",
+      "Monitor for minority stress and provide ongoing support."
+    ],
+    "Author": "Dr. Samuel Rodriguez, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

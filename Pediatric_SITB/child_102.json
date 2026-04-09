@@ -1,0 +1,56 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Samantha Greene",
+    "Patient_MRN": "102",
+    "Date_of_Birth": "2010-04-03",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female brought by mother after discovering plan to drown herself in bathtub following sexual assault.",
+    "Collateral_Contact_Information": "Mother: Andrea Greene, Phone: (555) 992-7766",
+    "Subjective": "Patient is a 15-year-old female presenting after her mother found text messages describing a plan to drown herself in the bathtub. Patient was sexually assaulted three weeks ago at a party by an acquaintance. She has not reported to police due to fear and shame. Since the assault, she has been experiencing intrusive memories, nightmares, hypervigilance, and avoidance of the location and people associated with the party. She developed a plan over the past week to fill the bathtub, take sedatives from the medicine cabinet, and submerge herself. She reports intent to die to escape the trauma and self-blame. However, she has not acted because she cannot access the bathroom alone without her mother noticing. She continues to have active suicidal ideation with intent. No prior mental health treatment or suicide attempts. Currently no medications. She has stopped attending school and seeing friends since the assault. (Psychiatrist Dr. Jennifer Adams, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Appears exhausted, startles easily, poor eye contact",
+      "Behavior": "Withdrawn, hypervigilant to sounds",
+      "Speech": "Soft, minimal",
+      "Mood": "Traumatized and hopeless",
+      "Affect": "Flat, numbed",
+      "Thought_Process": "Linear but trauma-preoccupied",
+      "Thought_Content": "Active SI with plan and intent; trauma intrusions",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Limited, self-blaming",
+      "Judgment": "Severely impaired by trauma"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "Pending",
+      "Head_CT": "",
+      "Sexual_Assault_Forensic_Exam": "Too late for evidence collection (3 weeks post-assault)"
+    },
+    "Diagnostic_Impression": "Acute stress disorder likely progressing to PTSD; major depressive disorder; suicidal ideation with plan and intent; sexual assault victim.",
+    "Psychosocial_Context": "Sexual assault victim (unreported); severe PTSD symptoms; social withdrawal; school avoidance; no prior mental health treatment; supportive mother.",
+    "Assessment_and_Plan": [
+      "High risk: active SI with specific plan and clear intent; trauma-driven suicidality.",
+      "Minimal protective factors: mother's support and vigilance.",
+      "Secure all medications; mother to monitor bathroom access.",
+      "Sexual assault requires specialized trauma intervention and forensic resources.",
+      "Recommend inpatient psychiatric admission to trauma-specialized unit.",
+      "Connect with rape crisis counseling and victim advocacy services.",
+      "Discuss reporting options with patient when stabilized; support her autonomy.",
+      "5150 hold placed.",
+      "Trauma-focused therapy (PE, CPT, EMDR) essential once stabilized.",
+      "Consider SSRI for PTSD and depression.",
+      "School notification for support and safety if perpetrator attends same school.",
+      "Long-term: comprehensive trauma recovery program."
+    ],
+    "Author": "Dr. Jennifer Adams, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Michelle Torres",
+    "Patient_MRN": "164",
+    "Date_of_Birth": "1993-11-19",
+    "Date_of_Service": "2024-10-07",
+    "Identifying_Data_Chief_Complaint": "31-year-old Hispanic female with schizoaffective disorder for medication management.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Carmen Torres) at 555-773-9921",
+    "Subjective": "Ms. Torres presents appearing well-groomed and cheerful. She reports doing well in her new teaching position. When reviewing her quetiapine regimen, she acknowledges that on school nights when she has late parent-teacher meetings or is grading papers until late, she sometimes skips her bedtime dose because she worries about being too drowsy to wake up for her early morning classes - estimates this happens about 3-4 times monthly. On those nights she takes it very late or not at all. She's noticed on mornings after missed doses she feels slightly more irritable with students and once had a fleeting worry that parents were complaining about her teaching, though she dismissed it. Sleep is 6-7 hours on nights she takes medication, sometimes less when she skips. Appetite good, weight stable at 142 lbs. Working as elementary school teacher, completing first semester in new position successfully. Mood 'happy with my job' rated 8/10. Lives with roommate. Enjoys salsa dancing on weekends. Dating casually. Denies substance use. No safety concerns, denies SI/HI. (Evaluated by Dr. Luis Fernandez, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professional attire, well-groomed, animated",
+      "Speech": "Clear, enthusiastic, well-organized",
+      "Affect": "Bright, appropriate, engaged",
+      "Mood": "Happy with my job",
+      "Thought_Content": "One brief idea of reference, quickly dismissed",
+      "Thought_Process": "Organized, logical, coherent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 3,
+      "GAD_7": 5,
+      "DAST_10": 0,
+      "AUDIT_C": 1,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Quetiapine 100 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerns.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All recent labs normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, stable with occasional adherence lapses.",
+    "Psychosocial_Context": "Living with roommate; newly employed as teacher; active social life; functioning well.",
+    "Assessment_and_Plan": [
+      "Explored pattern of skipping doses due to concerns about morning sedation.",
+      "Discussed option of taking medication earlier in evening (8 PM vs bedtime).",
+      "Patient agreeable to earlier dosing to ensure adequate medication time before morning.",
+      "Alternatively could consider switching to non-sedating medication.",
+      "Will trial earlier administration first.",
+      "Continue quetiapine 100 mg daily, adjusted timing.",
+      "Follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Dr. Luis Fernandez, MD, Psychiatrist \u2014 Educator Mental Health Services, 3290 School District Way, Los Angeles, CA 90012, Phone: (555) 992-4487, Fax: (555) 992-4488"
+  },
+  "ground_truth": "Non-Adherent"
+}

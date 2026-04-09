@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Marcus Johnson",
+    "Patient_MRN": "043",
+    "Date_of_Birth": "2011-06-09",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male brought by stepfather for oppositional behavior and academic decline.",
+    "Collateral_Contact_Information": "Stepfather: Thomas Wright, Phone: (555) 901-2356",
+    "Subjective": "Patient is a 14-year-old male presenting with increasing defiance at home and declining grades over the past semester. He reports feeling unmotivated about school and frustrated with household rules he views as unfair. He denies any thoughts of self-harm or suicidal ideation. Patient admits to skipping some homework assignments and spending excessive time gaming. He reports tension with stepfather but states his mother understands him better. Recently received failing grade in math after missing several assignments. Denies substance use. He has a few close friends and enjoys playing basketball recreationally. Stepfather reports patient is respectful to mother but frequently argues with him about expectations. Patient started living with mother and stepfather full-time this year after previously splitting time with father. (Nurse Practitioner Angela Ross, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, adequate hygiene",
+      "Behavior": "Cooperative with examiner, somewhat oppositional tone when discussing stepfather",
+      "Speech": "Normal rate and volume",
+      "Mood": "Frustrated",
+      "Affect": "Irritable at times, appropriate range",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Limited",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with disturbance of conduct; oppositional defiant disorder features, moderate.",
+    "Psychosocial_Context": "Recent change in custody arrangement living full-time with mother and stepfather; stepparent relationship strain; academically capable but unmotivated; maintains peer relationships; engages in recreational sports.",
+    "Assessment_and_Plan": [
+      "Behavioral issues in context of family transition and stepparent adjustment.",
+      "Protective factors: connection with mother, peer relationships, athletic interests, no suicidal ideation.",
+      "Referral for family therapy focusing on blended family dynamics and establishing consistent expectations.",
+      "Individual therapy for patient to process custody change and develop coping skills.",
+      "School consultation to implement academic support and motivational interventions.",
+      "Behavior contract to be developed collaboratively with patient, mother, and stepfather.",
+      "Screen for underlying depression or ADHD if academic decline persists.",
+      "Follow-up with outpatient provider in 2 weeks."
+    ],
+    "Author": "Angela Ross, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}

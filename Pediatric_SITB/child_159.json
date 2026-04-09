@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Austin Rivera",
+    "Patient_MRN": "159",
+    "Date_of_Birth": "2012-03-26",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old male brought by mother for low mood after being benched from basketball team.",
+    "Collateral_Contact_Information": "Mother: Diana Rivera, Phone: (555) 123-4684",
+    "Subjective": "Patient is a 13-year-old male presenting with sadness for one week after coach benched him from starting lineup due to academic ineligibility. He reports feeling disappointed in himself and embarrassed in front of teammates. He denies any thoughts of self-harm or suicidal ideation. Patient acknowledges he did not prioritize schoolwork and grades dropped below team requirements. Expresses determination to improve grades and regain position. Sleep somewhat disrupted with difficulty falling asleep due to worry, but appetite normal. Continues to attend practice and remains on team. Coach has provided clear plan for return to starting lineup with grade improvement. Mother reports patient is typically responsible but struggled this semester balancing increased academic demands. He maintains friendships with teammates. (Social Worker Kenneth Brooks, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, appears dejected",
+      "Behavior": "Cooperative",
+      "Speech": "Clear, normal pace",
+      "Mood": "Disappointed",
+      "Affect": "Congruent, subdued",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good - takes responsibility",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood, mild.",
+    "Psychosocial_Context": "Lives with mother and older sister; benched from basketball due to grades; experiencing appropriate disappointment; taking responsibility and motivated to improve; remains on team; supportive coach with clear expectations.",
+    "Assessment_and_Plan": [
+      "Situational low mood following natural consequence of academic ineligibility; appropriate emotional response.",
+      "Protective factors: takes responsibility, motivated for improvement, remains on team, supportive coach and family, maintains peer relationships, no suicidal ideation.",
+      "Validation that disappointment is normal and demonstrates he cares.",
+      "Tutoring or academic support to improve grades.",
+      "Frame situation as learning opportunity about balancing priorities.",
+      "Use athletic motivation to drive academic improvement.",
+      "Brief check-ins to monitor mood as works toward goals.",
+      "Symptoms expected to improve as academic progress made and athletic goals achieved.",
+      "No ongoing treatment needed beyond academic support."
+    ],
+    "Author": "Kenneth Brooks, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

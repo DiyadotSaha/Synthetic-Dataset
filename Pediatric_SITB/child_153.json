@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Elijah Green",
+    "Patient_MRN": "153",
+    "Date_of_Birth": "2013-02-20",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "12-year-old male brought by father for attention difficulties and academic struggles.",
+    "Collateral_Contact_Information": "Father: Marcus Green, Phone: (555) 901-2471",
+    "Subjective": "Patient is a 12-year-old male presenting with persistent difficulties sustaining attention in school and completing assignments. He reports feeling like his mind wanders constantly and he misses important information. He denies any thoughts of self-harm or suicidal ideation. Patient states he tries to pay attention but finds it extremely difficult, especially during lectures. Frequently loses school materials and forgets to turn in completed homework. Currently failing two classes despite average intelligence per recent testing. Teacher reports he is often off-task and disrupts others by talking. At home, requires constant reminders to complete chores and homework. Father notes similar patterns since elementary school but increased academic demands have made problems more evident. Patient is frustrated with himself and wants to do better. Enjoys skateboarding and building models. No hyperactivity symptoms noted. (Nurse Practitioner Donald Pierce, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, appears stated age",
+      "Behavior": "Cooperative, easily distracted during interview",
+      "Speech": "Normal rate, goes off-topic",
+      "Mood": "Frustrated",
+      "Affect": "Appropriate",
+      "Thought_Process": "Tangential at times",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4, attention difficulties evident",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Attention-deficit/hyperactivity disorder, predominantly inattentive presentation, moderate.",
+    "Psychosocial_Context": "Lives with father and stepmother; longstanding attention difficulties now causing academic failure; average intelligence; frustrated with performance; motivated for improvement; no behavioral problems.",
+    "Assessment_and_Plan": [
+      "ADHD predominantly inattentive type with academic impairment.",
+      "Protective factors: motivated for treatment, supportive family, average intelligence, engaged in hobbies, no suicidal ideation.",
+      "Comprehensive ADHD evaluation including parent and teacher rating scales.",
+      "Neuropsychological testing already completed showing average intelligence with attention deficits.",
+      "Trial of stimulant medication likely to be beneficial.",
+      "School consultation for 504 plan with accommodations (preferential seating, extended time, assignment notebook).",
+      "Organizational skills coaching and homework management strategies.",
+      "Parent training on behavioral management techniques for ADHD.",
+      "Outpatient psychiatry follow-up in 2 weeks for medication initiation after completing rating scales."
+    ],
+    "Author": "Donald Pierce, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}

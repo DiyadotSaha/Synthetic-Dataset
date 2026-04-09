@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Amanda Foster",
+    "Patient_MRN": "039",
+    "Date_of_Birth": "1992-02-19",
+    "Date_of_Service": "2024-08-05",
+    "Identifying_Data_Chief_Complaint": "32-year-old White female with schizoaffective disorder for routine visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Patricia Foster) at 555-664-2871",
+    "Subjective": "Patient presented appearing cheerful and well-organized. Reports excellent adherence to brexpiprazole 4 mg daily taken each morning with breakfast, tracked meticulously in her wellness planner. States she feels better than ever, crediting medication and therapy. Completely free of hallucinations for past five months. No paranoid or delusional thinking. Sleep excellent at 7-8 hours nightly with good energy during day. Appetite healthy, weight stable at 152 lbs. Recently promoted to assistant manager at retail store where she works 35 hours weekly. Mood 'great, really optimistic' rated 9/10. Lives independently in apartment with roommate who is also a friend. Socially active with weekly game nights and book club participation. Continues therapy monthly for wellness maintenance. Celebrating two years sober from alcohol. Planning weekend trip to visit national parks. No safety concerns, explicitly denies SI/HI. Very engaged in treatment and asks informed questions about long-term medication management. (Evaluated by Dr. Monica Patel, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed professional female, bright affect, appears healthy",
+      "Speech": "Fluent, clear, organized, enthusiastic",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Great",
+      "Thought_Content": "Future-oriented, no psychotic symptoms",
+      "Thought_Process": "Linear, organized, insightful"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 2,
+      "GAD_7": 3,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Brexpiprazole 4 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits including CBC, CMP, lipids.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Living independently with roommate; working as assistant manager; two years sober; active social life; strong recovery.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and self-monitoring.",
+      "Sustained remission with excellent functional recovery.",
+      "Continue brexpiprazole 4 mg daily.",
+      "Commended patient on promotion and continued recovery.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Monica Patel, MD, Psychiatrist \u2014 Recovery First Psychiatry, 1290 Wellness Way, Chicago, IL 60601, Phone: (555) 773-2219, Fax: (555) 773-2220"
+  },
+  "ground_truth": "Adherent"
+}

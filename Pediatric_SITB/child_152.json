@@ -1,0 +1,55 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Jasper Chen",
+    "Patient_MRN": "152",
+    "Date_of_Birth": "2011-11-19",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male brought by father after burning own hands repeatedly with lighter.",
+    "Collateral_Contact_Information": "Father: Michael Chen, Phone: (555) 338-9966",
+    "Subjective": "Patient is a 14-year-old male presenting with multiple burns on palms and fingers from repeatedly holding flame from lighter to skin. Patient explains he burns himself when feeling emotionally overwhelmed to 'snap out of it' and feel something other than emotional pain. Reports approximately 15 episodes over past three weeks. Denies suicidal ideation, plan, or intent. Describes increasing stress from parents' high expectations and recent move to new city leaving all friends behind. Sleep disrupted, appetite decreased. No new friendships formed. Spends most time alone. Used to play violin but has stopped. No prior mental health treatment. Currently no medications. (ED Physician Dr. Sarah Park, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Multiple burn marks visible on hands, withdrawn demeanor",
+      "Behavior": "Cooperative, flat emotionally",
+      "Speech": "Quiet, monotone",
+      "Mood": "Empty",
+      "Affect": "Blunted",
+      "Thought_Process": "Organized",
+      "Thought_Content": "Denies SI; NSSI by burning for emotion regulation",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Limited",
+      "Judgment": "Poor"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder; non-suicidal self-injury by burning; adjustment to relocation and social isolation.",
+    "Psychosocial_Context": "Recent move to new city; lost all friends; no new social connections; stopped violin; high parental expectations; escalating NSSI; social isolation.",
+    "Assessment_and_Plan": [
+      "Low risk for suicide but high concern for escalating NSSI; burns indicate severity.",
+      "Burns treated; some may require follow-up for infection risk.",
+      "Remove lighters and matches from environment.",
+      "Urgent psychiatric evaluation for depression.",
+      "DBT or therapy focusing on emotion regulation and alternative coping.",
+      "Address social isolation; help develop peer connections in new city.",
+      "Encourage return to violin or new activities to meet peers.",
+      "Parents to reduce pressure and support adjustment to move.",
+      "Consider antidepressant medication.",
+      "Safety plan with alternatives to burning.",
+      "Close follow-up within 48 hours.",
+      "Safe for discharge with means restriction and urgent treatment engagement."
+    ],
+    "Author": "Dr. Sarah Park, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

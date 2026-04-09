@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Gregory Phillips",
+    "Patient_MRN": "181",
+    "Date_of_Birth": "1985-07-11",
+    "Date_of_Service": "2024-09-25",
+    "Identifying_Data_Chief_Complaint": "39-year-old White male with schizophrenia with work concerns.",
+    "Collateral_Contact_Information": "Emergency Contact: Ex-wife (Jennifer Phillips) at 555-334-8874",
+    "Subjective": "Patient arrives disheveled. Reports he's been skipping perphenazine doses frequently, maybe 4 days weekly for past 2 months because it causes stiffness and tremor affecting his ability to do detail work as mechanic. Since reducing medication, experiencing increased paranoid thoughts that shop owner trying to cheat him on commissions and coworkers sabotaging his tools. Hearing occasional voices commenting on his work performance. Sleep disrupted 5 hours. Appetite fair, weight stable. Work quality declining, received written warning last week. Lives alone. Ex-wife reports he's becoming more suspicious and argumentative. Mood 'frustrated' rated 4/10. Denies current substance use though drinking more beer to relax. Denies SI/HI. (Seen by Dr. Thomas Lee, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, mild tremor noted",
+      "Speech": "Guarded, coherent",
+      "Affect": "Suspicious, irritable",
+      "Mood": "Frustrated",
+      "Thought_Content": "Paranoid ideation about workplace, auditory hallucinations",
+      "Thought_Process": "Somewhat circumstantial, preoccupied"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 10,
+      "GAD_7": 14,
+      "DAST_10": 0,
+      "AUDIT_C": 5,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Perphenazine 16 mg PO daily",
+    "CURES_Report": "Reviewed; no issues.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "No recent labs.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with moderate exacerbation due to nonadherence related to extrapyramidal symptoms.",
+    "Psychosocial_Context": "Lives alone; employed as mechanic but job at risk; increasing alcohol use; relationship with ex-wife strained.",
+    "Assessment_and_Plan": [
+      "Symptom worsening related to skipping perphenazine due to EPS.",
+      "Will switch to second-generation antipsychotic with lower EPS risk.",
+      "Transition to risperidone or aripiprazole.",
+      "Add benztropine PRN if needed.",
+      "Addressed increasing alcohol use as coping mechanism.",
+      "Provided substance use resources.",
+      "Follow-up in 2 weeks."
+    ],
+    "RTC": "2 weeks",
+    "Author": "Note written by Dr. Thomas Lee, MD, Psychiatrist \u2014 Occupational Mental Health, 1500 Workplace Services Drive, Cleveland, OH 44102, Phone: (555) 447-9921, Fax: (555) 447-9922"
+  },
+  "ground_truth": "Non-Adherent"
+}

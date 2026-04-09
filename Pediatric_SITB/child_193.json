@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Autumn Rivera",
+    "Patient_MRN": "193",
+    "Date_of_Birth": "2012-12-14",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by father for sadness and withdrawal after being cyberbullied.",
+    "Collateral_Contact_Information": "Father: Vincent Rivera, Phone: (555) 789-0251",
+    "Subjective": "Patient is a 13-year-old female presenting with low mood and social withdrawal for two weeks after experiencing cyberbullying on social media. She reports classmates created fake account posting embarrassing edited photos and mean comments. She denies any thoughts of self-harm or suicidal ideation. Patient states she feels humiliated and worries peers believe the false information. She has been avoiding social media entirely and declining some social invitations from fear of judgment. Sleep disrupted with difficulty falling asleep and appetite slightly decreased but weight stable. School has been notified and is investigating. Several friends have reached out supportively which patient appreciates. She continues to attend school and maintain grades though reports increased anxiety. Father involved police who are addressing the cyberbullying. Patient previously outgoing and confident. (Nurse Practitioner Robert Chang, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears anxious",
+      "Behavior": "Cooperative, tearful at times",
+      "Speech": "Clear, soft-spoken",
+      "Mood": "Sad and embarrassed",
+      "Affect": "Congruent, subdued",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with mixed anxiety and depressed mood secondary to cyberbullying, moderate.",
+    "Psychosocial_Context": "Lives with father and younger brother; victim of cyberbullying with fake account and edited photos; school and police addressing situation; supportive friends; previously confident and outgoing; appropriate family involvement.",
+    "Assessment_and_Plan": [
+      "Depression and anxiety following cyberbullying victimization; appropriate response to trauma.",
+      "Protective factors: school and legal intervention occurring, supportive friends and father, maintains academic function, no suicidal ideation.",
+      "Short-term counseling to process experience and rebuild confidence.",
+      "Digital literacy and online safety education.",
+      "Gradual re-engagement with social media when comfortable with appropriate privacy settings.",
+      "School consultation to ensure bullying is addressed and patient feels safe.",
+      "Peer support and maintenance of in-person friendships emphasized.",
+      "Monitor for escalation but expect improvement as situation resolves and support continues.",
+      "Follow-up in 2 weeks; symptoms should improve as legal/school intervention progresses."
+    ],
+    "Author": "Robert Chang, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}

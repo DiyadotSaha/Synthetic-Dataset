@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Sophia Patel",
+    "Patient_MRN": "133",
+    "Date_of_Birth": "1985-08-09",
+    "Date_of_Service": "2024-07-30",
+    "Identifying_Data_Chief_Complaint": "39-year-old Asian American female with schizoaffective disorder with moderate symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Priya Patel) at 555-229-4483",
+    "Subjective": "Ms. Patel came to appointment appearing somewhat anxious but cooperative. Sister present confirms patient takes asenapine 10 mg sublingual twice daily as prescribed, monitors administration, no missed doses. Despite good adherence, continues experiencing moderate symptoms. Reports occasional auditory hallucinations two to three times per week of voice calling her name. Endorses some paranoid concerns about coworkers gossiping about her at hospital where she works as medical records clerk. Sleep disrupted at 5-6 hours nightly, has difficulty falling asleep. Appetite okay, weight stable at 132 lbs. Working full-time but finds it stressful. Lives alone in apartment with sister checking in regularly. Limited social activities outside family. Mood 'anxious and stressed' rated 5/10. Denies substance use. Safety: No SI/HI. (Assessed by Dr. Anjali Mehta, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professional attire, adequate grooming, appears mildly anxious",
+      "Speech": "Soft, slightly pressured, coherent",
+      "Affect": "Anxious, somewhat restricted",
+      "Mood": "Anxious and stressed",
+      "Thought_Content": "Occasional auditory hallucinations, mild paranoid ideation about workplace",
+      "Thought_Process": "Coherent, some preoccupation with work stress"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 13,
+      "GAD_7": 15,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Asenapine 10 mg SL BID",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 102 mg/dL; lipids mildly elevated.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder with moderate symptoms and prominent anxiety.",
+    "Psychosocial_Context": "Lives alone with family support; employed full-time with work stress; limited social engagement.",
+    "Assessment_and_Plan": [
+      "Good adherence through sister's monitoring.",
+      "Moderate residual psychotic and anxiety symptoms.",
+      "Discussed augmentation for anxiety.",
+      "Will add SSRI for anxiety and mood.",
+      "Encouraged workplace accommodations if needed.",
+      "Follow-up in 4 weeks to assess response."
+    ],
+    "RTC": "4 weeks",
+    "Author": "Note written by Dr. Anjali Mehta, MD, Psychiatrist \u2014 Hospital Employee Health Services, 8821 Medical Center Drive, Chicago, IL 60601, Phone: (555) 772-3309, Fax: (555) 772-3310"
+  },
+  "ground_truth": "Adherent"
+}

@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Noah Chen",
+    "Patient_MRN": "039",
+    "Date_of_Birth": "2010-12-20",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by father for increased worry about health concerns.",
+    "Collateral_Contact_Information": "Father: William Chen, Phone: (555) 789-0134",
+    "Subjective": "Patient is a 15-year-old male presenting with escalating health anxiety over the past two months. He reports frequent worry that he has serious illnesses, particularly cancer, despite multiple reassuring medical evaluations. He checks his body daily for lumps or changes and frequently searches symptoms online. He denies any thoughts of self-harm or suicidal ideation. Patient states the worry began after his grandfather was diagnosed with lung cancer. He acknowledges the concern is excessive but cannot stop the checking behaviors. Sleep is disrupted by worry and he has difficulty concentrating on homework. He continues to attend school and maintain friendships, though he often discusses health concerns with peers. Father reports taking patient to three different doctors in the past month, all with normal findings. (Psychiatrist Dr. Rachel Anderson, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears healthy",
+      "Behavior": "Cooperative, anxious demeanor",
+      "Speech": "Rapid when discussing health concerns",
+      "Mood": "Worried",
+      "Affect": "Anxious, congruent",
+      "Thought_Process": "Linear, preoccupied with health",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair - recognizes concern is excessive",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Illness anxiety disorder, moderate.",
+    "Psychosocial_Context": "Lives with both parents; grandfather recently diagnosed with cancer; academically successful; maintains peer relationships; no significant medical history; excessive healthcare utilization.",
+    "Assessment_and_Plan": [
+      "Illness anxiety disorder triggered by grandfather's cancer diagnosis.",
+      "Protective factors: supportive family, maintains function, recognizes irrationality of concerns, no suicidal ideation.",
+      "Referral for cognitive behavioral therapy with exposure and response prevention components.",
+      "Psychoeducation regarding anxiety and reassurance-seeking cycle.",
+      "Limit medical evaluations unless objectively indicated to avoid reinforcing anxiety.",
+      "Consider SSRI trial if CBT insufficient after adequate trial.",
+      "Family education on not accommodating checking behaviors.",
+      "Outpatient psychiatry follow-up in 3 weeks."
+    ],
+    "Author": "Dr. Rachel Anderson, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

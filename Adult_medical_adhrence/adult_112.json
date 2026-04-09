@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Courtney Adams",
+    "Patient_MRN": "112",
+    "Date_of_Birth": "1990-11-09",
+    "Date_of_Service": "2024-10-15",
+    "Identifying_Data_Chief_Complaint": "33-year-old White female with schizoaffective disorder for medication check.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Linda Adams) at 555-229-7643",
+    "Subjective": "Patient presented appearing well-groomed and cheerful. Reports perfect adherence to brexpiprazole 2 mg daily using morning routine and pill organizer. States feeling wonderful. No hallucinations for six months. No delusional thinking. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 153 lbs. Working full-time as paralegal at small law firm, thriving in career. Mood 'excellent' rated 9/10. Lives independently in apartment. Recently completed 5K race for mental health awareness. Attending therapy monthly for wellness. Four years sober from all substances. Active in recovery community. Planning to pursue law school eventually. No safety concerns, denies SI/HI. (Evaluated by Dr. Michelle Robinson, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professionally dressed, excellent grooming, bright affect",
+      "Speech": "Clear, articulate, enthusiastic",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Excellent",
+      "Thought_Content": "Future-oriented, ambitious, no psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Brexpiprazole 2 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Living independently; employed as paralegal; four years sober; training for races; considering law school; excellent recovery.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and sustained remission.",
+      "Continue brexpiprazole 2 mg daily.",
+      "Encouraged educational aspirations.",
+      "Commended on fitness goals and advocacy.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Michelle Robinson, MD, Psychiatrist \u2014 Legal Professionals Mental Health, 2341 Justice Way, Boston, MA 02115, Phone: (555) 447-8821, Fax: (555) 447-8822"
+  },
+  "ground_truth": "Adherent"
+}

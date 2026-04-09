@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Donald Ferguson",
+    "Patient_MRN": "058",
+    "Date_of_Birth": "1956-11-17",
+    "Date_of_Service": "2024-04-25",
+    "Identifying_Data_Chief_Complaint": "67-year-old White male with schizophrenia presenting with severe deterioration.",
+    "Collateral_Contact_Information": "Emergency Contact: Adult Protective Services Worker (Linda Martinez) at 555-221-8834",
+    "Subjective": "Mr. Ferguson brought to emergency psychiatric evaluation by APS after neighbors reported concerns. Nursing home where he resides confirms he receives haloperidol 15 mg nightly via medication administration by staff with 100% documented adherence for 18 months. Despite perfect compliance, patient has catastrophically decompensated over past month. Appears severely psychotic, mumbling incoherently to unseen entities throughout interview. Staff report he experiences continuous command auditory hallucinations telling him to stop eating and drinking to 'purify his soul.' He has complied, refusing nearly all food and fluids for two weeks, resulting in 31-pound weight loss to 108 lbs, now severely malnourished and dehydrated. Also maintains fixed delusion that he is already dead and residing in purgatory. Spends days and nights screaming at hallucinations, disturbing other residents. Sleep absent for over week per staff. Personal hygiene severely neglected - refusing all bathing, smearing feces on walls. Violent outbursts when staff attempt to provide care or food. Completely unable to care for self. Staff frightened and requesting transfer. Mood difficult to assess given severity of psychosis. Risk assessment critical: Following command hallucinations to starve, life-threatening malnutrition and dehydration, gravely disabled. States he is already dead so cannot die. (Emergency psychiatric evaluation by Dr. Robert Harrison, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Elderly male, severely emaciated, disheveled, malodorous, actively psychotic",
+      "Speech": "Disorganized, mumbling, shouting at hallucinations",
+      "Affect": "Labile, terrified at times, inappropriate",
+      "Mood": "Unable to assess",
+      "Thought_Content": "Severe command auditory hallucinations, nihilistic delusions",
+      "Thought_Process": "Severely disorganized, incomprehensible at times"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 27,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Severe risk - following command hallucinations to starve, gravely disabled"
+    },
+    "Current_Medications": "Haloperidol 15 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Critical labs: BUN 58 mg/dL, Cr 2.3 mg/dL acute renal failure; sodium 151 mEq/L severe hypernatremia; albumin 2.1 g/dL severe malnutrition; glucose 62 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with acute severe exacerbation, treatment-refractory, grave disability with life-threatening complications.",
+    "Psychosocial_Context": "Resides in nursing home; never married; no family; isolated; on Medicare/Medicaid; multiple prior psychiatric hospitalizations.",
+    "Assessment_and_Plan": [
+      "Perfect medication adherence documented through facility administration.",
+      "Complete treatment failure with life-threatening deterioration.",
+      "Immediate medical danger from malnutrition, dehydration, and renal failure.",
+      "5150 hold for involuntary hospitalization.",
+      "Requires emergency medical hospitalization for stabilization before psychiatric transfer.",
+      "Will need IV hydration, nutritional support, possibly NG tube.",
+      "After medical stabilization, psychiatric admission for clozapine trial and possibly ECT.",
+      "Long-term conservatorship likely necessary.",
+      "Coordinating emergency medical admission now."
+    ],
+    "RTC": "Post-hospitalization",
+    "Author": "Note written by Dr. Robert Harrison, MD, Psychiatrist \u2014 County Crisis Services, 7821 Emergency Boulevard, Sacramento, CA 95814, Phone: (555) 776-2398, Fax: (555) 776-2399"
+  },
+  "ground_truth": "Adherent"
+}

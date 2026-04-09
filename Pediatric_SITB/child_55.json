@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Grace Taylor",
+    "Patient_MRN": "055",
+    "Date_of_Birth": "2013-03-06",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "12-year-old female brought by father for reluctance to speak outside home.",
+    "Collateral_Contact_Information": "Father: Michael Taylor, Phone: (555) 456-7902",
+    "Subjective": "Patient is a 12-year-old female presenting with persistent inability to speak in school and social settings outside home, present for approximately two years. She communicates normally at home with family but remains silent at school, using notes or gestures to communicate with teachers. She denies any thoughts of self-harm or suicidal ideation. Patient reports feeling frozen when attempting to speak at school and worries that her voice will sound strange. She has not spoken to peers at school this entire school year but communicates with cousins and family friends comfortably at home. Father notes she was more verbal as a young child but became progressively quieter in public settings. She expresses frustration about her difficulty speaking and desires to be able to talk like other kids. Academic performance is average based on written work. She enjoys reading and drawing. (ED Physician Dr. Steven Martinez, DO)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears shy",
+      "Behavior": "Cooperative, does not speak during interview, communicates by writing",
+      "Speech": "Mute in clinical setting",
+      "Mood": "Frustrated (per written response)",
+      "Affect": "Anxious, constricted",
+      "Thought_Process": "Coherent per written responses",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Selective mutism, moderate.",
+    "Psychosocial_Context": "Lives with father and stepmother; speaks comfortably at home; chronically unable to speak in school or public; academic performance adequate; socially isolated at school; has desire to improve.",
+    "Assessment_and_Plan": [
+      "Selective mutism with significant functional impairment in school and social settings.",
+      "Protective factors: normal communication at home, supportive father, motivated to improve, no suicidal ideation.",
+      "Referral to specialist in selective mutism for behavioral intervention with gradual exposure.",
+      "Consider trial of SSRI to reduce underlying anxiety that maintains mutism.",
+      "School consultation to develop accommodation and intervention plan.",
+      "Parent education on stimulus fading techniques and avoiding pressure to speak.",
+      "Small steps approach with reinforcement of any verbal communication attempts.",
+      "Outpatient psychiatry follow-up in 2 weeks to discuss medication initiation."
+    ],
+    "Author": "Dr. Steven Martinez, DO (ED Physician)"
+  },
+  "ground_truth": "No"
+}

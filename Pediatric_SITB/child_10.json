@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Ryan O'Connor",
+    "Patient_MRN": "010",
+    "Date_of_Birth": "2009-08-22",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old male brought by father after revealing detailed plan to overdose on prescription medications stored in family medicine cabinet.",
+    "Collateral_Contact_Information": "Father: Patrick O'Connor, Phone: (555) 741-8293",
+    "Subjective": "This 16-year-old male was brought to the ED by his father after disclosing active suicidal ideation with a specific plan. Patient reports experiencing worsening depression over the past six months, which he attributes to increasing pressure from college applications and feeling like he's falling short of family expectations. He describes chronic feelings of inadequacy, anhedonia, and social withdrawal. Last night, he identified that his family keeps various prescription medications in the upstairs bathroom cabinet and has been thinking about taking a large quantity of pills to end his life. When asked about intent, he states he is 'not sure' whether he would actually go through with it, describing himself as 'standing on the edge.' He denies having taken any preparatory steps beyond identifying the location of the medications. Patient has been seeing a therapist for the past two months and is currently on sertraline 50mg daily, though notes minimal improvement in symptoms. He identifies one close friend as someone he can talk to, though admits he hasn't shared the depth of his distress. (Psychiatrist Angela Martinez, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Tired-appearing, dark circles under eyes",
+      "Behavior": "Guarded initially, becomes more forthcoming",
+      "Speech": "Slow, low volume",
+      "Mood": "Hopeless",
+      "Affect": "Flat",
+      "Thought_Process": "Logical but with rumination",
+      "Thought_Content": "Active SI with plan but ambivalent intent",
+      "Cognition": "Oriented x4",
+      "Insight": "Partial",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Sertraline 50mg daily",
+    "CURES_Report": "Sertraline prescription on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "Negative for illicit substances",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, moderate to severe, with active suicidal ideation and plan.",
+    "Psychosocial_Context": "Lives with both parents and older sister; high-achieving family environment; currently in outpatient therapy; one close peer relationship.",
+    "Assessment_and_Plan": [
+      "Moderate risk SI with specific plan but ambivalent intent.",
+      "Limited protective factors: therapeutic engagement, one supportive friend.",
+      "Recommend crisis evaluation and close monitoring.",
+      "Consider brief hold for safety assessment; coordinate with outpatient psychiatrist regarding medication adjustment.",
+      "Family to remove all medications and sharps from home environment."
+    ],
+    "Author": "Dr. Angela Martinez, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

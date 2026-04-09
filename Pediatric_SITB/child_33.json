@@ -1,0 +1,50 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Hannah Kim",
+    "Patient_MRN": "033",
+    "Date_of_Birth": "2012-11-12",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by father for reassurance regarding normal adolescent concerns.",
+    "Collateral_Contact_Information": "Father: Peter Kim, Phone: (555) 456-7801",
+    "Subjective": "Patient is a 13-year-old female brought by father who is concerned about her recent moodiness and occasional tearfulness. Patient reports feeling more emotional lately but attributes this to normal adolescent changes and occasional disagreements with friends. She denies any thoughts of self-harm or suicidal ideation. She reports school is going well and she recently made the honor roll. She is excited about an upcoming family vacation and continues to enjoy playing clarinet in the school band. Sleep, appetite, and energy levels are normal. Father reports he may be overly concerned given his own history of depression, and patient reassures him she is fine. On interview, patient appears well-adjusted with age-appropriate emotional variability. (Social Worker Karen Liu, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, smiling appropriately",
+      "Behavior": "Cooperative, engaged",
+      "Speech": "Clear, animated",
+      "Mood": "Good",
+      "Affect": "Euthymic, full range",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Excellent",
+      "Judgment": "Intact"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "No mental health disorder identified; age-appropriate emotional development, mild.",
+    "Psychosocial_Context": "Lives with both parents and younger brother; strong family relationships; academically successful; engaged in music; healthy peer relationships; father anxious due to own mental health history.",
+    "Assessment_and_Plan": [
+      "Age-appropriate emotional fluctuations without pathology.",
+      "Protective factors: strong family support, academic success, engaged in activities, healthy peer relationships, excellent insight.",
+      "Reassurance provided to father and patient that current presentation is within normal limits.",
+      "Psychoeducation regarding normal adolescent development and emotional variability.",
+      "Father encouraged to monitor without excessive concern.",
+      "Resources provided for future access if concerns develop.",
+      "Open door for follow-up if situation changes."
+    ],
+    "Author": "Karen Liu, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

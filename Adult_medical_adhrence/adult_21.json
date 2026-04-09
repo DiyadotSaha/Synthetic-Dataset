@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Keisha Williams",
+    "Patient_MRN": "021",
+    "Date_of_Birth": "1970-04-16",
+    "Date_of_Service": "2024-08-11",
+    "Identifying_Data_Chief_Complaint": "54-year-old African American female with schizoaffective disorder presenting for routine check.",
+    "Collateral_Contact_Information": "Emergency Contact: Daughter (Tamara Williams) at 555-892-4401",
+    "Subjective": "Ms. Williams presented appearing relaxed and engaged. She reports excellent adherence to paliperidone ER 6 mg taken each morning, which she describes as 'part of my routine like brushing my teeth.' Since last visit two months ago, symptoms have remained stable and well-managed. Denies any hallucinations or paranoid thinking. Sleep is consistent at 7 hours per night with good sleep architecture. Appetite normal, maintaining healthy weight at 162 lbs. She continues her work as a part-time church secretary, which she finds fulfilling and socially enriching. Mood is stable, describing herself as 'content and grateful' rated 7/10. She leads a weekly women's support group at church for individuals managing mental illness, which gives her sense of purpose. Maintains sobriety - seven years alcohol-free. Enjoys spending time with her three grandchildren who visit often. Regular walking routine of 30 minutes daily. No safety issues, firmly denies suicidal or homicidal ideation. (Interview by Dr. Marcus Thompson, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-dressed in business casual attire, excellent grooming",
+      "Speech": "Clear, well-modulated, articulate",
+      "Affect": "Warm, full range, engaged",
+      "Mood": "Content",
+      "Thought_Content": "Reality-based, spiritually-oriented, no psychotic features",
+      "Thought_Process": "Linear, organized, coherent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 3,
+      "GAD_7": 4,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Paliperidone ER 6 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Comprehensive metabolic panel within normal limits; lipid panel excellent.",
+      "Recent_Imaging_Results": "No recent imaging performed."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, well-controlled, sustained remission.",
+    "Psychosocial_Context": "Lives independently; employed part-time; active in church community; strong family support; leads peer support group.",
+    "Assessment_and_Plan": [
+      "Exceptional medication adherence and illness management.",
+      "Continue paliperidone ER 6 mg daily given sustained stability.",
+      "Commended patient on peer support leadership role.",
+      "Encouraged continuation of healthy lifestyle practices.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Marcus Thompson, MD, Psychiatrist \u2014 Southside Psychiatric Clinic, 2890 MLK Boulevard, Atlanta, GA 30331, Phone: (555) 744-2398, Fax: (555) 744-2399"
+  },
+  "ground_truth": "Adherent"
+}

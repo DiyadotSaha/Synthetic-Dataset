@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Daniel Murphy",
+    "Patient_MRN": "053",
+    "Date_of_Birth": "2011-11-14",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male brought by mother for compulsive behaviors and rituals.",
+    "Collateral_Contact_Information": "Mother: Margaret Murphy, Phone: (555) 345-6891",
+    "Subjective": "Patient is a 14-year-old male presenting with increasing compulsive behaviors over the past four months. He reports needing to check that doors are locked exactly five times before bed and must arrange items on his desk in specific order before starting homework. He denies any thoughts of self-harm or suicidal ideation. Patient states the behaviors help reduce anxiety but are taking increasingly more time, sometimes up to an hour nightly. He recognizes the behaviors are excessive but feels unable to stop them. School performance remains strong but he reports fatigue from staying up late completing rituals. Mother notes patient has always been somewhat perfectionistic but current behaviors are new. He continues to play video games with friends online and maintains good peer relationships. Denies intrusive violent or sexual thoughts. (Psychiatrist Dr. Laura Bennett, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, neat appearance",
+      "Behavior": "Cooperative, somewhat anxious",
+      "Speech": "Clear, organized",
+      "Mood": "Anxious",
+      "Affect": "Anxious, appropriate",
+      "Thought_Process": "Linear, organized",
+      "Thought_Content": "No suicidal or homicidal ideation; compulsive checking and ordering behaviors",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good - recognizes behaviors as excessive",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Obsessive-compulsive disorder, moderate.",
+    "Psychosocial_Context": "Lives with both parents and older sister; supportive family; academically high-achieving; maintains peer relationships; perfectionistic tendencies; no family history of OCD.",
+    "Assessment_and_Plan": [
+      "OCD with checking and ordering compulsions causing functional impairment.",
+      "Protective factors: good insight, supportive family, maintains academic and social function, no suicidal ideation.",
+      "Referral for cognitive behavioral therapy with exposure and response prevention (ERP).",
+      "Psychoeducation regarding OCD provided to patient and family.",
+      "Consider SSRI trial if CBT insufficient after adequate exposure therapy trial.",
+      "Family education on avoiding accommodation of compulsive behaviors.",
+      "Outpatient psychiatry follow-up in 3 weeks to monitor progress and assess medication need.",
+      "School notification not needed at this time unless rituals impact school functioning."
+    ],
+    "Author": "Dr. Laura Bennett, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

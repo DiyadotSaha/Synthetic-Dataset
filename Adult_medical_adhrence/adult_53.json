@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Ling Chen",
+    "Patient_MRN": "053",
+    "Date_of_Birth": "1970-07-22",
+    "Date_of_Service": "2024-05-08",
+    "Identifying_Data_Chief_Complaint": "53-year-old Asian American female with schizophrenia with severe treatment-resistant symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Daughter (Amy Chen) at 555-661-2294",
+    "Subjective": "Ms. Chen brought to crisis appointment by daughter who is primary caregiver. Daughter confirms mother takes clozapine 500 mg at bedtime every night supervised by her, with weekly blood draws all showing therapeutic levels and adequate ANC, demonstrating perfect adherence over past two years. Despite maximum dose clozapine and documented compliance, patient remains severely impaired. Through daughter as interpreter, patient reports constant auditory hallucinations in Mandarin of voices insulting her and telling her she is cursed. Also maintains fixed delusion that evil spirits have possessed her body and are causing physical pain. Daughter reports mother spends entire days sitting motionless rocking back and forth, sometimes hitting herself to 'drive out demons.' Sleep nearly absent, maybe 2 hours nightly. Appetite extremely poor, daughter must spoon-feed her small amounts, has lost 24 lbs to 98 lbs over past three months. Requires total assistance with all ADLs - daughter must bathe and dress her. Does not speak to grandchildren or recognize them at times. Daughter is exhausted and tearful, stating she cannot continue this level of care. Patient appears disconnected during interview, responding to internal stimuli. Mood appears profoundly depressed. Risk assessment: Daughter reports mother has said in Mandarin 'want to die, join ancestors,' concerning for passive SI. (Crisis evaluation documented by Dr. Michelle Wong, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Thin, frail middle-aged female, poor hygiene, psychomotor retardation",
+      "Speech": "Minimal, whispered, primarily in Mandarin",
+      "Affect": "Severely blunted, internally preoccupied",
+      "Mood": "Profoundly depressed",
+      "Thought_Content": "Severe auditory hallucinations, somatic delusions with cultural/spiritual themes",
+      "Thought_Process": "Severely disorganized, unable to assess fully"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 26,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive death wishes, wants to 'join ancestors,' no active plan"
+    },
+    "Current_Medications": "Clozapine 500 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Recent clozapine level 587 ng/mL therapeutic; ANC 3.8 K/uL adequate; albumin 2.6 g/dL low; severe malnutrition evident.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, severe and treatment-refractory despite maximum clozapine, with catatonic features and dangerous weight loss.",
+    "Psychosocial_Context": "Lives with daughter who provides total care; widowed; limited English; culturally isolated; daughter at breaking point; requires 24-hour supervision.",
+    "Assessment_and_Plan": [
+      "Perfect adherence to maximum dose clozapine with therapeutic levels documented.",
+      "Complete treatment failure despite optimal clozapine trial.",
+      "Life-threatening malnutrition and severe caregiver burnout.",
+      "Passive suicidal ideation and grave disability.",
+      "Urgent psychiatric hospitalization for ECT evaluation.",
+      "May require feeding tube for nutritional support.",
+      "Discussed long-term placement options with daughter.",
+      "Coordinating emergency admission today.",
+      "Will arrange Mandarin-speaking interpreter for hospital."
+    ],
+    "RTC": "Post-hospitalization",
+    "Author": "Note written by Dr. Michelle Wong, MD, Psychiatrist \u2014 Asian Pacific Mental Health Services, 4521 Pacific Avenue, San Francisco, CA 94118, Phone: (555) 338-9921, Fax: (555) 338-9922"
+  },
+  "ground_truth": "Adherent"
+}

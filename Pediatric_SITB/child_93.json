@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Alexis Turner",
+    "Patient_MRN": "093",
+    "Date_of_Birth": "2011-12-07",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by father for anxiety following car accident witnessing.",
+    "Collateral_Contact_Information": "Father: Gregory Turner, Phone: (555) 123-4681",
+    "Subjective": "Patient is a 14-year-old female presenting with anxiety symptoms since witnessing serious car accident one week ago while walking home from school. She reports intrusive images of the accident, hypervigilance when near traffic, and anxiety about riding in cars. She denies any thoughts of self-harm or suicidal ideation. Patient states she has been avoiding walking that route and asks parents to drive her even short distances. Sleep is disrupted with initial insomnia due to worry. She has not witnessed injuries or death before and describes feeling shaken. Continues to attend school and complete homework but reports difficulty concentrating. Father notes she startles easily to loud noises since incident. She has supportive friends and has discussed the experience with school counselor once. (Nurse Practitioner Rachel Kim, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears anxious",
+      "Behavior": "Cooperative, hypervigilant",
+      "Speech": "Clear, slightly rapid",
+      "Mood": "Anxious",
+      "Affect": "Anxious, congruent",
+      "Thought_Process": "Linear, preoccupied with accident images",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Acute stress disorder, moderate.",
+    "Psychosocial_Context": "Lives with both parents; witnessed traumatic car accident one week ago; developing PTSD symptoms including intrusive thoughts and avoidance; no prior trauma history; supportive family and school environment.",
+    "Assessment_and_Plan": [
+      "Acute stress reaction following trauma exposure; at risk for developing PTSD without intervention.",
+      "Protective factors: early intervention sought, supportive family, engaged with school counselor, no suicidal ideation.",
+      "Urgent referral for trauma-focused cognitive behavioral therapy.",
+      "Early intervention critical to prevent PTSD development.",
+      "Psychoeducation regarding normal trauma responses provided.",
+      "Gradual exposure to avoided situations encouraged with support.",
+      "Consider brief medication for sleep if insomnia persists.",
+      "Close follow-up in 1 week; monitor for symptom progression or improvement.",
+      "Return precautions if symptoms worsen or new symptoms develop."
+    ],
+    "Author": "Rachel Kim, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}

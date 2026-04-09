@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Olivia Martinez",
+    "Patient_MRN": "020",
+    "Date_of_Birth": "2013-02-20",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "12-year-old female brought by mother after making comments about 'not wanting to be here anymore' following parents' separation.",
+    "Collateral_Contact_Information": "Mother: Rosa Martinez, Phone: (555) 736-4928",
+    "Subjective": "This is a 12-year-old female brought in for evaluation after expressing to her mother yesterday that she sometimes feels like she 'doesn't want to be here anymore.' Per patient and mother, these feelings began approximately two months ago when her father moved out of the family home following her parents' decision to separate. Patient describes feeling caught in the middle of her parents' conflict and worrying that the separation is somehow her fault. She reports passive thoughts about not existing but is clear that she has no intention of hurting herself and becomes visibly distressed when discussing these thoughts, stating 'I don't really want to die, I just want things to go back to normal.' No plan or intent present. She reports some difficulty falling asleep and occasionally feeling 'butterflies' in her stomach when thinking about the family situation. She continues to do well in school and enjoys spending time with her best friend and participating in her dance classes, which she describes as her 'escape.' Patient has no psychiatric history and no prior episodes of suicidal ideation. Mother is very supportive and attentive. (Nurse Practitioner Brian Foster, PMHNP)",
+    "Mental_Status_Examination": {
+      "Appearance": "Age-appropriate dress, neat appearance",
+      "Behavior": "Cooperative, engaged appropriately",
+      "Speech": "Normal rate, clear",
+      "Mood": "Sad about family changes",
+      "Affect": "Mood-congruent, full range",
+      "Thought_Process": "Organized and age-appropriate",
+      "Thought_Content": "Passive SI without plan or intent",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Appropriate for developmental level",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with mixed anxiety and depressed mood related to parental separation.",
+    "Psychosocial_Context": "Lives with mother; parents recently separated; father maintains regular contact; strong peer friendship; engaged in dance; academically successful; supportive maternal relationship.",
+    "Assessment_and_Plan": [
+      "Passive SI in context of family disruption and adjustment to parental separation.",
+      "Strong protective factors: supportive mother, positive peer relationship, engagement in dance, academic success, no genuine intent to harm self.",
+      "Low acute risk for self-harm.",
+      "Recommend family therapy to address adjustment to separation and reduce patient's sense of responsibility.",
+      "Individual therapy referral for coping skills.",
+      "Safety plan discussed and documented with patient and mother."
+    ],
+    "Author": "Brian Foster, PMHNP (Nurse Practitioner)"
+  },
+  "ground_truth": "yes"
+}

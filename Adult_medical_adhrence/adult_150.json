@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Christopher Taylor",
+    "Patient_MRN": "150",
+    "Date_of_Birth": "1991-07-14",
+    "Date_of_Service": "2024-10-27",
+    "Identifying_Data_Chief_Complaint": "33-year-old White male with schizoaffective disorder for follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Wife (Sarah Taylor) at 555-447-7765",
+    "Subjective": "Patient presented appearing well-groomed and positive. Reports perfect adherence to aripiprazole 20 mg every morning with breakfast, wife helps track and he's consistent. States feeling excellent. No hallucinations or paranoid thoughts for past nine months. Sleep great at 7-8 hours nightly. Appetite excellent, weight healthy at 175 lbs. Working full-time as high school history teacher, recently nominated for teaching award. Mood 'excellent' rated 9/10. Lives with wife and infant daughter. Active running and reading habits. Strong support network through work and family. Attending therapy monthly for wellness. Two years sober from all substances. Planning to coach debate team next semester. No safety concerns, denies SI/HI. (Evaluated by Dr. Patricia Wilson, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professional attire, excellent grooming, upbeat demeanor",
+      "Speech": "Clear, articulate, enthusiastic",
+      "Affect": "Bright, full range, very engaged",
+      "Mood": "Excellent",
+      "Thought_Content": "Future-oriented, passionate about teaching and family, no psychotic symptoms",
+      "Thought_Process": "Organized, logical, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Aripiprazole 20 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission with outstanding functioning.",
+    "Psychosocial_Context": "Married with new child; employed full-time as teacher; two years sober; thriving in career and family life.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and sustained remission.",
+      "Continue aripiprazole 20 mg daily.",
+      "Thriving in all life domains.",
+      "Commended on teaching nomination and new parenthood.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Patricia Wilson, MD, Psychiatrist \u2014 Educator Health Services, 3421 School District Boulevard, Austin, TX 78701, Phone: (555) 229-3398, Fax: (555) 229-3399"
+  },
+  "ground_truth": "Adherent"
+}

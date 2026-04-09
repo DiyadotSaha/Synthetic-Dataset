@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Noah Mitchell",
+    "Patient_MRN": "025",
+    "Date_of_Birth": "2011-10-28",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male presents with worry about family finances and parental arguments.",
+    "Collateral_Contact_Information": "Mother: Lisa Mitchell, Phone: (555) 742-1890",
+    "Subjective": "Patient is a 14-year-old male brought by his mother due to increasing worry and stress over the past month. He reports overhearing his parents discussing financial difficulties related to his father's recent job loss and has become preoccupied with concerns about the family potentially losing their home or not having enough money. He describes feeling anxious, particularly at night, with difficulty falling asleep due to racing thoughts about his family's situation. Patient denies any thoughts of harming himself and states he wants to help his family but feels powerless. He has started asking his mother repeatedly for reassurance that everything will be okay and has been reluctant to ask for money for school activities. His appetite and academic performance remain stable. He continues to enjoy playing video games with his younger brother and maintains friendships at school. Mother notes patient has always been sensitive and tends to worry about things beyond his control. Patient is open to talking with someone about managing his anxiety. (Psychiatrist Dr. Linda Park, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Neatly dressed, appears concerned",
+      "Behavior": "Cooperative, attentive",
+      "Speech": "Clear, normal rate",
+      "Mood": "Worried",
+      "Affect": "Anxious but appropriate",
+      "Thought_Process": "Linear, some rumination about finances",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Intact"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with anxiety, mild.",
+    "Psychosocial_Context": "Lives with both parents and younger brother; father recently unemployed; close family relationships; maintains peer friendships and interests.",
+    "Assessment_and_Plan": [
+      "Situational anxiety related to family financial stress.",
+      "Protective factors: supportive family, good insight, maintained functioning, close sibling relationship.",
+      "Reassurance and age-appropriate psychoeducation provided regarding family's ability to manage challenges.",
+      "Recommend brief course of cognitive behavioral therapy focusing on anxiety management and challenging catastrophic thinking.",
+      "No medication indicated at this time; outpatient therapy referral provided.",
+      "Follow-up PRN or if symptoms worsen."
+    ],
+    "Author": "Dr. Linda Park, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

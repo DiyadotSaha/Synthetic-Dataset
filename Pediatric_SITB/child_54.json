@@ -1,0 +1,55 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Oliver Martinez",
+    "Patient_MRN": "054",
+    "Date_of_Birth": "2011-02-18",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male brought by mother after she noticed he has been hitting his head against the wall when overwhelmed.",
+    "Collateral_Contact_Information": "Mother: Sofia Martinez, Phone: (555) 229-6633",
+    "Subjective": "Patient is a 14-year-old male with autism spectrum disorder presenting after his mother discovered bruising on his forehead and observed him repeatedly hitting his head against his bedroom wall yesterday during a sensory overload episode. Patient explains that when he becomes overstimulated by sounds, lights, or social demands, he experiences intense internal pressure that becomes unbearable. He reports the physical sensation of hitting his head provides relief and helps him 'reset' his nervous system. He is very clear that he is not trying to seriously injure or kill himself, stating he controls the force and stops when it starts to hurt too much. He denies any suicidal ideation, plan, or intent currently or historically. He describes increased stressors at school recently due to a change in his routine when his favorite teacher went on leave and a new substitute changed the classroom arrangement. Sleep is normal, appetite is normal with hispreferred safe foods. He has strong interest in trains and spends hours building model railroads. He attends weekly social skills group and has one friend from the group. Mother reports this head-hitting is a new behavior; previously he would retreat to his room with noise-canceling headphones when overwhelmed. (Developmental Pediatrician Dr. Andrew Chen, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Neat appearance, avoids eye contact, visible bruise on forehead",
+      "Behavior": "Cooperative, minimal social reciprocity, becomes more comfortable discussing trains",
+      "Speech": "Somewhat monotone, concrete, detailed when discussing special interest",
+      "Mood": "Okay when routine is maintained",
+      "Affect": "Restricted range, appropriate to autism presentation",
+      "Thought_Process": "Concrete, logical within autistic framework",
+      "Thought_Content": "No suicidal ideation; self-injurious behavior for sensory regulation",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair regarding sensory needs, limited regarding dangerous nature of behavior",
+      "Judgment": "Limited regarding safety of head-hitting"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": "Obtained given head trauma; no acute findings"
+    },
+    "Diagnostic_Impression": "Autism spectrum disorder; self-injurious behavior for sensory regulation (not suicidal); adjustment disorder related to routine disruption.",
+    "Psychosocial_Context": "Autism spectrum disorder with sensory sensitivities; attends social skills group; special interest in trains; recent routine disruption at school; supportive mother; one peer connection.",
+    "Assessment_and_Plan": [
+      "Low risk for suicide: self-injurious behavior is sensory-seeking/regulation, not suicidal in nature.",
+      "Protective factors: strong special interest, peer connection, engaged in treatment, supportive mother.",
+      "Head-hitting represents maladaptive coping for sensory overwhelm, not self-harm intent.",
+      "CT scan negative for intracranial injury; forehead bruising will heal.",
+      "Urgent consultation with ABA therapist or occupational therapist for sensory regulation strategies.",
+      "Develop sensory diet and alternative strategies for overwhelm (weighted blanket, compression, safe space).",
+      "School consultation regarding environmental modifications and routine predictability.",
+      "Provide visual schedule and advance notice of changes to prevent overwhelm.",
+      "Mother educated on recognizing early signs of sensory overload for early intervention.",
+      "Safety plan for sensory crises that protects from injury.",
+      "Follow-up with developmental pediatrician and therapy team within one week.",
+      "Safe for discharge with sensory support plan and therapy team coordination."
+    ],
+    "Author": "Dr. Andrew Chen, MD (Developmental Pediatrician)"
+  },
+  "ground_truth": "no"
+}

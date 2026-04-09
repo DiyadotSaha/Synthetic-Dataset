@@ -1,0 +1,56 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Jamal Carter",
+    "Patient_MRN": "084",
+    "Date_of_Birth": "2009-07-08",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old male brought by homeless outreach worker after expressing detailed plan to jump in front of train due to housing instability.",
+    "Collateral_Contact_Information": "Outreach Worker: Kevin Brown, Phone: (555) 881-6633",
+    "Subjective": "Patient is a 16-year-old male experiencing housing instability who was found by outreach worker at transit station. Patient disclosed he has been planning to jump in front of an oncoming train because he sees no way out of his current situation. His mother lost their apartment two weeks ago after job loss, and they have been staying at different shelters and sometimes sleeping in their car. Patient describes feeling hopeless about his future, believing he will never finish school, never have stability, and is destined for life on the streets. He reports he has identified the specific train station, researched train schedules for maximum speed, and planned to complete the attempt today before outreach worker intervened. He states he fully intends to die and sees it as better than the alternative of homelessness. He describes nightmares about being homeless long-term, poor sleep in shelters, and hunger when food is unavailable. He has missed three weeks of school due to instability. No prior mental health treatment. Mother is overwhelmed and struggling with her own mental health. He has one friend from school who does not know about housing situation. Enjoys basketball but has not been able to play recently. (Psychiatrist Dr. James Washington, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, clothing appears worn, carrying backpack with belongings",
+      "Behavior": "Guarded initially, exhausted, gradually engages",
+      "Speech": "Slow, defeated tone",
+      "Mood": "Hopeless and desperate",
+      "Affect": "Depressed, flat",
+      "Thought_Process": "Linear but slowed by despair",
+      "Thought_Content": "Active SI with specific plan and clear intent; environmental hopelessness",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Limited, cannot see alternatives",
+      "Judgment": "Severely impaired by circumstances"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "Pending",
+      "Urine_Tox": "Pending",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, severe; suicidal crisis secondary to homelessness and environmental stressors; unaccompanied homeless youth.",
+    "Psychosocial_Context": "Currently experiencing homelessness with mother; lost apartment 2 weeks ago; shelter-hopping; disrupted education; no mental health treatment history; friend unaware of situation; previously enjoyed basketball.",
+    "Assessment_and_Plan": [
+      "Imminent high risk: active SI with specific, lethal plan (train) and clear intent to complete today.",
+      "Minimal protective factors: outreach worker intervention, one friend, previous interest in basketball.",
+      "Suicidality driven by environmental crisis (homelessness) requiring multi-system response.",
+      "5150 hold initiated.",
+      "Inpatient psychiatric hospitalization for stabilization.",
+      "Critical: discharge planning must address housing or psychiatric treatment will fail.",
+      "Urgent social work for housing resources: youth shelter, transitional housing, family reunification services.",
+      "School liaison to maintain enrollment and provide educational support during crisis.",
+      "Connect mother with adult mental health and housing services.",
+      "Address basic needs: food, clothing, hygiene items.",
+      "Medication for depression once stabilized.",
+      "Longer-term: case management for housing stability, school re-engagement, therapy.",
+      "Do not discharge to street/shelter without comprehensive support plan."
+    ],
+    "Author": "Dr. James Washington, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

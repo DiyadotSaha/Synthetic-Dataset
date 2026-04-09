@@ -1,0 +1,50 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Amanda Rodriguez",
+    "Patient_MRN": "156",
+    "Date_of_Birth": "1991-08-25",
+    "Date_of_Service": "2024-07-11",
+    "Identifying_Data_Chief_Complaint": "33-year-old Hispanic female with schizoaffective disorder presenting with worsening mood and psychotic symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Husband (Miguel Rodriguez) at 555-229-7756",
+    "Subjective": "Patient presents appearing tearful and anxious, husband accompanies her and provides additional history. Ms. Rodriguez reports that over the past 6-7 weeks she has been taking her paliperidone ER inconsistently, missing doses roughly 3-4 times weekly. She explains that the medication cost increased significantly when her insurance changed and she's been trying to 'stretch out' the pills to make them last longer until she can afford the refill. Husband confirms they've been struggling financially after his hours were reduced at work. Since reducing medication frequency, she describes marked worsening of depressive symptoms with daily crying spells, anhedonia, and difficulty getting out of bed. She's also experiencing increasing paranoid thoughts that people at her children's school are judging her parenting and talking about her family's financial struggles. Auditory hallucinations have re-emerged - hearing whispers saying she's a 'bad mother' approximately 4-5 times daily. Sleep severely disrupted at 3-5 hours with early morning awakening. Appetite poor with 6 lb weight loss to 142 lbs over past month. She's been calling in sick to her medical assistant job more frequently, now on warning for attendance. Lives with husband and two school-age children. Has withdrawn from previously enjoyed church activities. Mood 'really low and scared' rated 2/10. Denies substance use. Safety assessment reveals passive suicidal thoughts of family being 'better off without me' but denies intent or plan, denies homicidal ideation. (Assessed by Maria Gonzalez, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Female appearing stated age, casually dressed, poor eye contact, tearful throughout interview",
+      "Speech": "Soft, slow, with frequent crying interruptions",
+      "Affect": "Depressed, tearful, constricted",
+      "Mood": "Really low and scared",
+      "Thought_Content": "Paranoid ideation about social judgment, auditory hallucinations with derogatory content, passive SI",
+      "Thought_Process": "Slowed, ruminative, preoccupied with themes of inadequacy and paranoia"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 18,
+      "GAD_7": 15,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive suicidal ideation without intent or plan"
+    },
+    "Current_Medications": "Paliperidone ER 6 mg PO daily",
+    "CURES_Report": "Reviewed; no issues noted.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 98 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, with acute exacerbation due to cost-related medication nonadherence.",
+    "Psychosocial_Context": "Married with children; employed but attendance declining; experiencing financial hardship affecting medication access.",
+    "Assessment_and_Plan": [
+      "Clear exacerbation of mood and psychotic symptoms related to medication rationing due to cost barriers.",
+      "Immediately addressed financial access issues.",
+      "Enrolled patient in pharmaceutical company patient assistance program for free medication.",
+      "Provided 2-week sample supply today to bridge gap.",
+      "Connected patient with social work services for financial counseling and resources.",
+      "Discussed importance of full daily dosing and dangers of stretching medication.",
+      "Passive SI requires close monitoring - husband educated on warning signs and crisis resources.",
+      "Patient agrees to daily check-in calls with husband during stabilization period.",
+      "Work excuse provided, encouraged FMLA if needed.",
+      "Urgent follow-up in 1 week to monitor safety and symptom response."
+    ],
+    "RTC": "1 week",
+    "Author": "Note written by Maria Gonzalez, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Community Health Partners, 1425 Medical Plaza, San Diego, CA 92101, Phone: (555) 334-9087, Fax: (555) 334-9088"
+  },
+  "ground_truth": "Non-Adherent"
+}

@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Hannah Kim",
+    "Patient_MRN": "052",
+    "Date_of_Birth": "2010-05-06",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female brought by father after discovering she has been stockpiling pills from medicine cabinet with plan to overdose.",
+    "Collateral_Contact_Information": "Father: James Kim, Phone: (555) 442-8877",
+    "Subjective": "Patient is a 15-year-old female presenting after her father found a plastic bag containing approximately 30 assorted pills (acetaminophen, ibuprofen, allergy medication, vitamins) hidden in her desk drawer along with a note apologizing to her family. Upon confrontation, patient admitted she has been collecting these over the past two weeks with a plan to take them all at once. She reports constant comparison to her older sister who is a senior, class valedictorian, and has been accepted to multiple Ivy League schools. Patient describes feeling like 'the family disappointment' with her B average grades and lack of clear direction. She states she developed this plan because she believes her parents would be less burdened if they only had one successful daughter to support. However, when asked about intent, she becomes tearful and states she does not actually want to die but does not know how else to escape the constant feeling of inadequacy. She has not set a specific time to take the pills. Sleep disrupted, appetite decreased. She quit piano which she previously enjoyed because her sister is more accomplished. She has two supportive friends but has been avoiding them. No prior mental health treatment. (Psychiatric Nurse Practitioner Linda Patel, PMHNP)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-dressed, appears tired, dark circles under eyes",
+      "Behavior": "Cooperative, tearful, visibly distressed",
+      "Speech": "Normal rate, voice breaks with emotion",
+      "Mood": "Worthless in comparison",
+      "Affect": "Depressed, tearful, congruent",
+      "Thought_Process": "Coherent, self-critical themes",
+      "Thought_Content": "Active SI with accumulation of means and plan but ambivalent about intent",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair, recognizes thoughts are related to comparison",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder; suicidal ideation with plan and means preparation; pathological sibling comparison.",
+    "Psychosocial_Context": "Lives with parents and high-achieving older sister; chronic feelings of inadequacy; academic performance pressure; withdrawn from enjoyable activities; supportive peers but avoidant; no prior mental health treatment.",
+    "Assessment_and_Plan": [
+      "Moderate risk: active SI with plan and means accumulated but ambivalent intent; planning behavior very concerning.",
+      "Some protective factors: peer support available, does not actually want to die, father's attentiveness.",
+      "Collected pills confiscated; father to secure all medications in locked location.",
+      "Depression related to sibling comparison and perceived parental expectations requires intervention.",
+      "Recommend partial hospitalization program versus intensive outpatient therapy.",
+      "Family therapy essential to address comparison dynamics and parental expectations.",
+      "Individual therapy for depression, self-esteem, and identity development separate from sister.",
+      "Father educated on avoiding comparisons and celebrating patient's unique strengths.",
+      "Encourage re-engagement with piano or other activities independent of sister's involvement.",
+      "Close outpatient follow-up within 24-48 hours required; consider brief observation if outpatient not immediately available.",
+      "Discharge contingent on medication security, outpatient appointment, and enhanced parental monitoring."
+    ],
+    "Author": "Linda Patel, PMHNP (Psychiatric Nurse Practitioner)"
+  },
+  "ground_truth": "yes"
+}

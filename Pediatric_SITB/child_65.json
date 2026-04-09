@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Kaylee Jenkins",
+    "Patient_MRN": "065",
+    "Date_of_Birth": "2010-04-02",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female brought by mother for superficial skin picking without suicidal intent.",
+    "Collateral_Contact_Information": "Mother: Lisa Jenkins, Phone: (555) 901-2457",
+    "Subjective": "Patient is a 15-year-old female presenting with habit of picking at skin on face and arms when stressed or bored, occurring daily for past six months. She reports the behavior provides relief from anxiety and boredom but leaves visible marks that she finds embarrassing. She explicitly denies any suicidal intent and states the picking is purely a habit for stress relief without any desire to harm herself. She denies any thoughts of self-harm or suicidal ideation beyond the picking. Patient notes the behavior worsened during exam preparation period and has continued since. She has tried wearing band-aids and keeping hands busy but relapses when stressed. Academic performance is strong and she maintains active social life, though she feels self-conscious about facial marks. Currently seeing dermatologist for resulting scarring. (ED Physician Dr. Brian Collins, DO)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, visible excoriations on face and forearms",
+      "Behavior": "Cooperative, occasional scratching movements",
+      "Speech": "Clear, normal pace",
+      "Mood": "Okay",
+      "Affect": "Appropriate",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation; skin-picking for anxiety relief without self-harm intent",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good - recognizes behavior as problematic",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Excoriation (skin-picking) disorder, moderate.",
+    "Psychosocial_Context": "Lives with both parents and younger brother; academically high-achieving; socially active; perfectionistic tendencies; under dermatological care for scarring; no suicidal ideation.",
+    "Assessment_and_Plan": [
+      "Skin-picking disorder as maladaptive anxiety regulation; not self-harm with suicidal intent.",
+      "Protective factors: good insight, supportive family, high functioning, engaged in treatment, explicitly denies suicidal intent.",
+      "Referral for cognitive behavioral therapy with habit reversal training.",
+      "Consider trial of SSRI if behavioral interventions insufficient.",
+      "Continued dermatology follow-up for wound care and scarring.",
+      "Teach alternative stress management techniques including fidget tools.",
+      "Address underlying anxiety that precipitates picking.",
+      "Outpatient mental health follow-up within 2 weeks."
+    ],
+    "Author": "Dr. Brian Collins, DO (ED Physician)"
+  },
+  "ground_truth": "No"
+}

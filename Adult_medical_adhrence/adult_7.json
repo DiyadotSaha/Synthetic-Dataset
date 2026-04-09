@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Robert Thompson",
+    "Patient_MRN": "007",
+    "Date_of_Birth": "1981-04-15",
+    "Date_of_Service": "2024-02-26",
+    "Identifying_Data_Chief_Complaint": "43-year-old Caucasian male with schizoaffective disorder presenting for routine psychiatric assessment.",
+    "Collateral_Contact_Information": "Emergency Contact: Ex-wife (Jennifer Thompson) at 555-234-9876",
+    "Subjective": "Patient arrives on time appearing somewhat anxious but cooperative during the interview. He confirms he has been taking his haloperidol 10 mg at bedtime consistently and denies missing any doses over the past month. Reports ongoing challenges with depressive symptoms including low motivation, anhedonia, and feelings of worthlessness that have persisted despite medication adherence. Sleep is excessive, often 10-12 hours per day including frequent daytime napping, which he attributes to feeling constantly fatigued. States he hears occasional whispers when alone but can usually ignore them. More concerning is persistent paranoid thinking that his ex-wife is conspiring with his former employer to damage his reputation, though he admits this could be distorted thinking when challenged gently. Appetite has been variable leading to 5-pound weight gain over six weeks, now at 215 lbs. He continues to live in a group home setting where staff monitor medication administration and provide structure. Denies current substance use though has history of alcohol dependence in remission for 3 years. Reports minimal social interaction and spends most time in his room. No acute safety concerns but acknowledges passive death wishes without any plan or intent. (Evaluated by Karen Lee, RN, Psychiatric Nurse)",
+    "Mental_Status_Examination": {
+      "Appearance": "Heavyset male, fair grooming, appears anxious",
+      "Speech": "Soft, slower pace, adequate content",
+      "Affect": "Blunted, restricted range",
+      "Mood": "Depressed and worried",
+      "Thought_Content": "Paranoid ideation regarding ex-wife and former employer, residual auditory hallucinations",
+      "Thought_Process": "Linear but with perseverative paranoid themes"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 16,
+      "GAD_7": 11,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive death wishes without intent or plan"
+    },
+    "Current_Medications": "Haloperidol 10 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerns.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Metabolic panel shows elevated fasting glucose at 118 mg/dL; liver function normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, with persistent mood and psychotic symptoms.",
+    "Psychosocial_Context": "Resides in supervised group home; socially isolated; maintaining sobriety from alcohol for 3 years; limited contact with ex-wife regarding children.",
+    "Assessment_and_Plan": [
+      "Medication adherence confirmed via group home staff monitoring.",
+      "Depressive symptoms remain significant despite antipsychotic therapy.",
+      "Will add antidepressant trial; discussed options and patient agrees to sertraline.",
+      "Encouraged participation in group home activities to reduce isolation.",
+      "Monitor weight gain and elevated glucose; dietary consultation ordered.",
+      "Close follow-up given passive suicidal thoughts.",
+      "Return in 3 weeks for medication adjustment assessment."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Karen Lee, RN, Psychiatric Nurse \u2014 Community Living Support Services, 1800 Elm Street, Minneapolis, MN 55404, Phone: (555) 678-2345, Fax: (555) 678-2346"
+  },
+  "ground_truth": "Adherent"
+}

@@ -1,0 +1,53 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Carlos Mendoza",
+    "Patient_MRN": "034",
+    "Date_of_Birth": "2012-09-05",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old male brought by ESL teacher after expressing that he 'wishes he had never come here' and 'would be better off not existing.'",
+    "Collateral_Contact_Information": "Uncle: Miguel Mendoza, Phone: (555) 778-3344",
+    "Subjective": "Patient is a 13-year-old male who immigrated from Guatemala six months ago to live with his uncle after his mother sent him north for safety and opportunity. His ESL teacher became concerned when he submitted a writing assignment expressing feelings that he should not exist and wishes he had never left his home country. Upon evaluation with interpreter assistance, patient describes intense homesickness for his mother and younger siblings, guilt about being the only family member who 'escaped,' and feeling like a burden to his uncle who works multiple jobs. He endorses passive thoughts that everyone would be better off if he were not alive but explicitly states he would never act on these thoughts because it would dishonor his mother's sacrifice in sending him here. No plan, no intent, no method considered. He reports difficulty sleeping due to worrying about family back home. Appetite poor, has lost weight. Language barrier makes school very difficult and isolating. He has one classmate from his home region who he considers a friend. He misses playing soccer which he cannot afford here. No prior mental health history. (Social Worker Carmen Ruiz, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Small for age, thin, neatly dressed, downcast eyes",
+      "Behavior": "Cooperative, quiet, defers to authority",
+      "Speech": "Soft, limited English, more forthcoming with interpreter",
+      "Mood": "Sad and homesick",
+      "Affect": "Congruent, subdued, tearful when discussing mother",
+      "Thought_Process": "Organized, slowed by translation and sadness",
+      "Thought_Content": "Passive suicidal ideation without plan or intent; significant guilt",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood related to immigration and acculturation stress; separation from primary attachment figures; passive suicidal ideation.",
+    "Psychosocial_Context": "Recent immigrant from Guatemala; separated from mother and siblings; living with uncle; significant language barrier; cultural adjustment difficulties; limited peer connections; no extracurricular activities due to financial constraints.",
+    "Assessment_and_Plan": [
+      "Low risk: passive SI without plan or intent; strong cultural and familial values against self-harm.",
+      "Protective factors: honor toward mother's sacrifice, uncle's care, peer connection from home region, good insight.",
+      "Normal adjustment reaction to immigration trauma and family separation.",
+      "Referral to bicultural/bilingual therapist specializing in immigrant youth.",
+      "Connect family with community resources: free youth soccer programs, community center.",
+      "School to provide additional ESL support and cultural liaison.",
+      "Facilitate regular phone contact with mother if possible.",
+      "Safety plan created with uncle through interpreter.",
+      "Follow-up with culturally appropriate mental health services within one week.",
+      "Safe for discharge to uncle's care with community support mobilization."
+    ],
+    "Author": "Carmen Ruiz, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

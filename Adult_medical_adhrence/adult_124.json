@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Sharon Parker",
+    "Patient_MRN": "124",
+    "Date_of_Birth": "1968-01-30",
+    "Date_of_Service": "2024-08-19",
+    "Identifying_Data_Chief_Complaint": "56-year-old African American female with chronic psychotic disorder with ongoing symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Daughter (Alicia Parker) at 555-447-8821",
+    "Subjective": "Ms. Parker attended appointment with daughter who assists with treatment. Daughter confirms mother takes paliperidone ER 9 mg each morning via supervision, no missed doses. Despite good adherence, continues experiencing moderate symptoms. Reports persistent auditory hallucinations several times daily of voices criticizing her. Endorses paranoid belief that neighbors monitor her apartment through walls. Sleep disrupted at 5 hours nightly due to hypervigilance. Appetite decreased, weight down 7 lbs to 158 lbs. Not working, receives disability. Lives alone with daughter checking in daily. Limited activities outside home. Mood 'nervous and down' rated 4/10. Denies substance use. Safety: No SI/HI. (Assessed by Dr. Ronald Harris, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged female, adequate grooming, appears anxious",
+      "Speech": "Soft, hesitant, coherent",
+      "Affect": "Anxious, restricted",
+      "Mood": "Nervous and down",
+      "Thought_Content": "Auditory hallucinations, paranoid delusions about surveillance",
+      "Thought_Process": "Coherent, preoccupied"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 17,
+      "GAD_7": 18,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Paliperidone ER 9 mg PO daily",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 99 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder with persistent symptoms and significant anxiety.",
+    "Psychosocial_Context": "Lives alone with daughter's oversight; unemployed, on disability; socially isolated; ongoing symptoms.",
+    "Assessment_and_Plan": [
+      "Good adherence through daughter's supervision.",
+      "Already on maximum dose paliperidone with ongoing symptoms.",
+      "Discussed augmentation strategies.",
+      "Will add antidepressant for mood/anxiety.",
+      "Encouraged daughter to continue support.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Dr. Ronald Harris, MD, Psychiatrist \u2014 Elder Care Psychiatry, 3421 Senior Drive, New Orleans, LA 70112, Phone: (555) 338-7729, Fax: (555) 338-7730"
+  },
+  "ground_truth": "Adherent"
+}

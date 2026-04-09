@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Brandon Lewis",
+    "Patient_MRN": "012",
+    "Date_of_Birth": "1993-06-12",
+    "Date_of_Service": "2024-08-14",
+    "Identifying_Data_Chief_Complaint": "31-year-old African American male with schizophrenia presenting for medication follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Grandmother (Dorothy Lewis) at 555-334-7821",
+    "Subjective": "Patient arrives approximately 20 minutes late to his appointment, stating he forgot about it until his grandmother called to remind him. When asked about his risperidone regimen, he mentions he's been taking it 'most days' but admits he sometimes forgets his evening dose, estimating he's probably missed it 'maybe 8 or 9 times' this past month because his routine has been inconsistent. He's been staying up late playing video games and sleeping through the morning. Reports his thoughts have been 'a little scattered' lately and he's noticed hearing brief snippets of conversation when he's alone, which he didn't experience as much before. Sleep schedule is erratic, ranging from 4-10 hours at irregular times. Appetite is fair, weight stable at 182 lbs. He lost his part-time job at a grocery store two weeks ago due to attendance issues and has been spending most of his time at home. Denies substance use currently though admits to occasional cannabis use in the past. Mood described as 'whatever, I'm fine.' His grandmother reports concern about him becoming more withdrawn. No acute safety concerns, denies suicidal or homicidal ideation. (Seen by Dr. Marcus Johnson, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed young male, adequate grooming, appears somewhat detached",
+      "Speech": "Normal rate, slightly vague in responses",
+      "Affect": "Somewhat flat, limited expressiveness",
+      "Mood": "Indifferent",
+      "Thought_Content": "Reports intermittent auditory perceptual experiences",
+      "Thought_Process": "Loosely organized, occasionally tangential"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 7,
+      "GAD_7": 5,
+      "DAST_10": 1,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 3 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "No recent labs performed.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with emerging symptom recurrence.",
+    "Psychosocial_Context": "Lives with grandmother; recently unemployed; irregular daily routine; limited social engagement.",
+    "Assessment_and_Plan": [
+      "Discussed importance of consistent medication adherence and symptom correlation.",
+      "Explored barriers including forgetfulness and irregular schedule.",
+      "Recommended phone alarm reminders and pillbox organization.",
+      "Encouraged re-establishment of structured daily routine.",
+      "Referral to vocational rehabilitation services.",
+      "Follow-up in 3 weeks to reassess adherence and symptoms."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Dr. Marcus Johnson, MD, Psychiatrist \u2014 Central City Mental Health, 1250 Liberty Street, Atlanta, GA 30303, Phone: (555) 445-6789, Fax: (555) 445-6790"
+  },
+  "ground_truth": "Non-Adherent"
+}

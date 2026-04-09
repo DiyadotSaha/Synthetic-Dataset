@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Aisha Patel",
+    "Patient_MRN": "009",
+    "Date_of_Birth": "2010-11-08",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female presents with depressed mood and withdrawal after parents' separation.",
+    "Collateral_Contact_Information": "Mother: Priya Patel, Phone: (555) 892-4561",
+    "Subjective": "Patient is a 14-year-old female presenting with her mother for evaluation of worsening mood symptoms over the past six weeks. Patient reports that her parents announced their separation two months ago, and her father moved out of the family home shortly thereafter. She describes feeling sad most days, with frequent crying episodes, particularly at night. She notes decreased motivation for schoolwork and has withdrawn from her usual social activities, including debate club. Appetite has decreased somewhat, and she reports occasional difficulty falling asleep. She explicitly denies any thoughts of self-harm or suicide. Patient states she misses the way things used to be but understands the separation was necessary due to ongoing parental conflict. She has been attending therapy for three weeks and finds it somewhat helpful. She maintains regular contact with both parents and reports her relationship with her younger brother has actually strengthened during this difficult time. (Social Worker Patricia Chen, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Neatly groomed, tearful at times",
+      "Behavior": "Cooperative, emotionally expressive",
+      "Speech": "Soft-spoken, normal rate",
+      "Mood": "Sad",
+      "Affect": "Constricted but appropriate",
+      "Thought_Process": "Linear, coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Intact"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood, moderate.",
+    "Psychosocial_Context": "Lives with mother and younger brother following recent parental separation; maintains contact with both parents; previously active in debate club; currently engaged in outpatient therapy.",
+    "Assessment_and_Plan": [
+      "Adjustment disorder secondary to family disruption with no suicidality.",
+      "Protective factors: engaged in therapy, supportive relationship with both parents, close bond with sibling.",
+      "Continue individual therapy with current provider.",
+      "Consider trial of SSRI if symptoms persist beyond 8-12 weeks; follow-up with outpatient psychiatry in 2 weeks."
+    ],
+    "Author": "Patricia Chen, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Terrence Jackson",
+    "Patient_MRN": "175",
+    "Date_of_Birth": "1984-09-07",
+    "Date_of_Service": "2024-09-22",
+    "Identifying_Data_Chief_Complaint": "40-year-old African American male with schizophrenia presenting with increased symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Brother (Calvin Jackson) at 555-229-7743",
+    "Subjective": "Mr. Jackson arrives appearing somewhat unkempt and guarded. Brother called ahead with concerns. Patient admits he's been taking his paliperidone ER 'maybe every other day' for past two months because the medication makes him feel 'flat' emotionally and he wants to feel more like himself. Estimates missing approximately 30 doses during this period. Since cutting back, reports marked increase in paranoid thoughts - now believes coworkers at construction site are plotting to get him fired and talking about him behind his back. Started hearing occasional muffled voices through walls at night discussing him. Sleep disrupted at 4-6 hours with hypervigilance. Appetite decreased, weight down 8 lbs to 172 lbs. Work performance declining, supervisor expressed concerns about concentration and suspiciousness toward crew. Lives with brother who reports increasing isolation and checking locks repeatedly. Mood 'on edge' rated 4/10. Stopped attending basketball league he enjoyed. Denies substance use. Safety: denies SI/HI currently. (Evaluated by Dr. Kenneth Brown, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled clothing, fair grooming, appears hypervigilant and suspicious",
+      "Speech": "Guarded, somewhat circumstantial",
+      "Affect": "Restricted, anxious, paranoid",
+      "Mood": "On edge",
+      "Thought_Content": "Prominent paranoid delusions about workplace conspiracy, auditory hallucinations",
+      "Thought_Process": "Circumstantial, preoccupied with paranoid themes"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 11,
+      "GAD_7": 16,
+      "DAST_10": 0,
+      "AUDIT_C": 2,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Paliperidone ER 9 mg PO daily",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "No recent labs available.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with moderate exacerbation secondary to intentional medication reduction.",
+    "Psychosocial_Context": "Lives with brother; employed but performance declining; socially withdrawn; paranoid concerns affecting work relationships.",
+    "Assessment_and_Plan": [
+      "Significant symptom worsening related to taking medication every other day due to emotional blunting concerns.",
+      "Discussed correlation between medication reduction and paranoia/hallucinations.",
+      "Explored long-acting injectable option to improve adherence and avoid daily oral dosing.",
+      "Patient receptive to monthly injection alternative.",
+      "Will transition to paliperidone palmitate LAI.",
+      "Brother supportive and will monitor symptoms.",
+      "Workplace concerns may require accommodations discussion.",
+      "Follow-up in 2 weeks for first injection."
+    ],
+    "RTC": "2 weeks",
+    "Author": "Note written by Dr. Kenneth Brown, MD, Psychiatrist \u2014 Construction Workers Mental Health, 4500 Industrial Boulevard, Atlanta, GA 30303, Phone: (555) 447-9908, Fax: (555) 447-9909"
+  },
+  "ground_truth": "Non-Adherent"
+}

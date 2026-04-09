@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Ryan Cooper",
+    "Patient_MRN": "163",
+    "Date_of_Birth": "1998-05-30",
+    "Date_of_Service": "2024-08-19",
+    "Identifying_Data_Chief_Complaint": "26-year-old White male with schizophrenia presenting for quarterly visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Patricia Cooper) at 555-661-4482",
+    "Subjective": "Patient arrives appearing upbeat and talkative. Reports he's been feeling great and is excited about his new apartment. When discussing medication adherence, he somewhat sheepishly admits that during his move three weeks ago, he misplaced his risperidone bottle for about a week and missed approximately 6-7 doses before finding it behind the bathroom sink in his new place. He didn't think to call for a replacement because he felt fine and was preoccupied with unpacking. Since resuming medication, he's back to his normal routine. During the missed week, he noticed feeling slightly more 'on edge' and had trouble concentrating at work, but no major symptoms emerged. Sleep back to normal at 7-8 hours nightly. Appetite good, weight stable at 165 lbs. Working full-time as IT help desk technician, recently moved into own apartment. Mood 'excited about independence' rated 8/10. Lives alone for first time, proud of managing daily tasks. Enjoys gaming and recently joined recreational volleyball league. No substance use, maintains 8 months sobriety. No safety concerns, denies SI/HI. (Documented by Steven Clark, LCSW, Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, good grooming, enthusiastic presentation",
+      "Speech": "Clear, somewhat rapid when discussing new apartment, coherent",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Excited about independence",
+      "Thought_Content": "No current psychotic symptoms",
+      "Thought_Process": "Organized, logical, somewhat tangential when enthusiastic"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 2,
+      "GAD_7": 3,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 2 mg PO qHS",
+    "CURES_Report": "Reviewed; no issues.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable with recent brief medication interruption.",
+    "Psychosocial_Context": "Recently moved to independent living; employed full-time; developing new social connections; 8 months sober.",
+    "Assessment_and_Plan": [
+      "Addressed recent week-long medication lapse during move.",
+      "Discussed importance of calling for replacement rather than going without medication.",
+      "Provided guidance on managing medications during future life transitions.",
+      "Set up auto-refill to prevent future lapses.",
+      "Fortunately symptoms remained controlled during brief interruption.",
+      "Continue risperidone 2 mg qHS.",
+      "Praised independent living achievement.",
+      "Follow-up in 12 weeks."
+    ],
+    "RTC": "12 weeks",
+    "Author": "Note written by Steven Clark, LCSW, Social Worker \u2014 Young Adult Transition Services, 1890 Independence Street, Denver, CO 80203, Phone: (555) 883-6654, Fax: (555) 883-6655"
+  },
+  "ground_truth": "Non-Adherent"
+}

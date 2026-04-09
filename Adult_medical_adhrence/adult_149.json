@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Sandra Lewis",
+    "Patient_MRN": "149",
+    "Date_of_Birth": "1974-04-19",
+    "Date_of_Service": "2024-06-30",
+    "Identifying_Data_Chief_Complaint": "50-year-old African American female with schizophrenia with moderate persistent symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Son (Kevin Lewis) at 555-338-4421",
+    "Subjective": "Ms. Lewis attended appointment with son who assists with treatment. Son confirms she takes quetiapine 600 mg nightly via his supervision, no missed doses. Despite high-dose medication and good adherence, continues experiencing moderate symptoms. Reports daily auditory hallucinations of voice commenting negatively on her actions. Endorses paranoid beliefs that neighbors monitor her apartment and report on her to authorities. Sleep fair at 5-6 hours nightly. Appetite decreased, weight stable at 162 lbs. Not working, on disability for past eight years. Lives alone with son visiting three times weekly. Attends community mental health day program twice weekly. Limited social contacts. Mood 'nervous' rated 4/10. Denies substance use. Son reports her symptoms are stable but persistent. Safety: No SI/HI. (Assessed by LaShawn Williams, LCSW, Licensed Clinical Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged female, simple clothing, adequate grooming, appears guarded",
+      "Speech": "Soft, hesitant, coherent",
+      "Affect": "Anxious, restricted range",
+      "Mood": "Nervous",
+      "Thought_Content": "Daily auditory hallucinations, paranoid delusions about surveillance",
+      "Thought_Process": "Coherent, preoccupied with paranoid themes"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 14,
+      "GAD_7": 16,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Quetiapine 600 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 122 mg/dL; lipids elevated.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with moderate persistent symptoms.",
+    "Psychosocial_Context": "Lives alone with family support; unable to work, on disability; limited social engagement; regular day program attendance.",
+    "Assessment_and_Plan": [
+      "Good adherence through son's supervision.",
+      "Moderate symptoms persistent on maximum quetiapine dose.",
+      "Discussed medication change options.",
+      "Will transition to different antipsychotic - starting paliperidone ER.",
+      "Will cross-taper medications.",
+      "Son to monitor during transition.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by LaShawn Williams, LCSW, Licensed Clinical Social Worker \u2014 Community Mental Health Day Program, 5521 Wellness Center Drive, Philadelphia, PA 19102, Phone: (555) 992-6643, Fax: (555) 992-6644"
+  },
+  "ground_truth": "Adherent"
+}

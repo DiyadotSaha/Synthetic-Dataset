@@ -1,0 +1,53 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Melody Wong",
+    "Patient_MRN": "141",
+    "Date_of_Birth": "2010-09-06",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female brought by mother for depressed mood and anhedonia.",
+    "Collateral_Contact_Information": "Mother: Linda Wong, Phone: (555) 345-6805",
+    "Subjective": "Patient is a 15-year-old female presenting with persistent low mood for four months characterized by anhedonia, fatigue, and social withdrawal. She reports no longer enjoying piano which she previously loved, declining social invitations, and feeling empty most days. She denies any thoughts of self-harm or suicidal ideation. Patient states nothing brings her joy anymore and she feels numb emotionally. Sleep is increased with difficulty waking, and appetite is decreased with 6-pound weight loss. Concentration is impaired affecting academic performance which has declined from A's to C's. Mother reports patient spends most time in her room and has dropped out of school orchestra. Started escitalopram 10mg three weeks ago but no improvement yet. Patient has been in therapy for six weeks with limited progress. She describes feeling hopeless about future but states she would never hurt herself because of family. (Psychiatrist Dr. Sophia Chen, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Dressed in dark clothing, minimal grooming effort",
+      "Behavior": "Cooperative, psychomotor slowing",
+      "Speech": "Low volume, slow",
+      "Mood": "Depressed",
+      "Affect": "Blunted, restricted",
+      "Thought_Process": "Linear, slowed",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Escitalopram 10mg daily",
+    "CURES_Report": "Escitalopram on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, single episode, severe without psychotic features.",
+    "Psychosocial_Context": "Lives with both parents and younger sister; severe depression with significant functional impairment; lost interest in previously enjoyed activities; social isolation; academic decline; recently started medication too early for full effect; engaged in therapy.",
+    "Assessment_and_Plan": [
+      "Severe major depression with significant anhedonia and functional decline but no suicidal ideation.",
+      "Protective factors: engaged in treatment, supportive family, explicitly denies suicidal thoughts despite severity, protective factor of not wanting to hurt family.",
+      "Continue escitalopram; too early to assess full response (typically 4-6 weeks).",
+      "Coordinate with prescribing psychiatrist for close monitoring and possible dose increase at 4-week mark.",
+      "Behavioral activation strategies to counteract withdrawal and anhedonia.",
+      "Increase therapy frequency or consider intensive outpatient program.",
+      "School consultation for accommodations during acute phase.",
+      "Mother educated on monitoring and supporting during medication titration.",
+      "Safety planning despite absence of suicidal ideation given severity.",
+      "Close follow-up in 1 week; consider hospitalization or IOP if worsening or no improvement in 4 weeks."
+    ],
+    "Author": "Dr. Sophia Chen, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

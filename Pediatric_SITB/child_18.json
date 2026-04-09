@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Ethan Brooks",
+    "Patient_MRN": "018",
+    "Date_of_Birth": "2011-07-08",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male evaluated after disclosing to soccer coach that he has been thinking about hanging himself.",
+    "Collateral_Contact_Information": "Mother: Jennifer Brooks, Phone: (555) 478-2164",
+    "Subjective": "This is a 14-year-old male referred from his soccer practice after confiding in his coach that he's been having thoughts about hanging himself. Patient reports experiencing significant distress over the past month related to ongoing bullying by several classmates who mock his stutter, which has become more pronounced under stress. He describes feeling humiliated and worthless, particularly after a recent incident where classmates recorded him struggling to speak and shared the video on social media. He acknowledges having thoughts about ending his life by hanging and has looked up methods online, but reports he hasn't decided whether he would actually follow through, describing himself as 'scared but also tired of feeling this way.' Mother was unaware of the severity of his distress. Patient has a history of speech therapy for his stutter and has been doing well academically despite the bullying. He currently takes escitalopram 10mg for anxiety initiated three months ago by his pediatrician. He identifies his soccer team and coach as positive supports, though notes the bullying has made him want to isolate more. (Social Worker Patricia Nguyen, MSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Athletic build, soccer uniform, appears anxious",
+      "Behavior": "Cooperative but tearful at times",
+      "Speech": "Stuttering noted, particularly with emotional content",
+      "Mood": "Sad and scared",
+      "Affect": "Anxious, tearful",
+      "Thought_Process": "Coherent",
+      "Thought_Content": "Active SI with plan (hanging) but ambivalent about intent",
+      "Cognition": "Intact",
+      "Insight": "Fair",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Escitalopram 10mg daily",
+    "CURES_Report": "Escitalopram prescription on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder secondary to bullying; anxiety disorder; suicidal ideation with plan.",
+    "Psychosocial_Context": "Lives with both parents and older sister; victim of ongoing school bullying related to speech impediment; engaged in soccer; currently on SSRI; has speech therapy history.",
+    "Assessment_and_Plan": [
+      "Moderate risk: active SI with specific plan, researched methods, ambivalent intent.",
+      "Protective factors include soccer involvement and supportive coach, though limited in context of severity.",
+      "Recommend crisis intervention and close monitoring; consider brief psychiatric hold for stabilization.",
+      "School intervention needed urgently regarding bullying and social media incident.",
+      "Coordinate with outpatient provider regarding medication adequacy.",
+      "Family to maintain close supervision and restrict access to potential means."
+    ],
+    "Author": "Patricia Nguyen, MSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

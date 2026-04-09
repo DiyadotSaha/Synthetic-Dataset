@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Elijah Brown",
+    "Patient_MRN": "061",
+    "Date_of_Birth": "2011-07-09",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male brought by father for concentration difficulties and academic struggles.",
+    "Collateral_Contact_Information": "Father: Marcus Brown, Phone: (555) 789-0235",
+    "Subjective": "Patient is a 14-year-old male presenting with longstanding difficulties with focus and organization that have significantly impacted academic performance this year. He reports feeling unable to concentrate during lectures, frequently losing assignments, and difficulty completing multi-step projects. He denies any thoughts of self-harm or suicidal ideation. Patient states he tries hard but cannot seem to get organized or remember instructions. Recently received D's in three classes despite spending hours on homework. Teachers report he seems distracted and does not turn in completed work. Father notes similar difficulties since elementary school but they have worsened with increased academic demands. Patient is frustrated and describes feeling stupid, though testing shows average to above-average intelligence. He enjoys playing drums and has good focus during band practice. (Psychiatrist Dr. Nicole Freeman, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, somewhat disheveled",
+      "Behavior": "Cooperative, fidgety",
+      "Speech": "Rapid, tangential at times",
+      "Mood": "Frustrated",
+      "Affect": "Appropriate but restless",
+      "Thought_Process": "Somewhat disorganized, tangential",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4, attention difficulties noted",
+      "Insight": "Fair",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Attention-deficit/hyperactivity disorder, combined presentation, moderate.",
+    "Psychosocial_Context": "Lives with father and stepmother; longstanding attention difficulties now impacting academics; experiencing frustration and reduced self-esteem; above-average intelligence; able to focus on preferred activities like music.",
+    "Assessment_and_Plan": [
+      "ADHD with significant academic impairment and emerging impact on self-esteem.",
+      "Protective factors: supportive father, average to above-average intelligence, passion for music, no suicidal ideation.",
+      "Recommend comprehensive ADHD evaluation including rating scales from parents and teachers.",
+      "Consider stimulant medication trial if diagnosis confirmed.",
+      "School consultation for 504 plan or IEP evaluation - accommodations needed.",
+      "Organizational skills coaching and study strategies.",
+      "Monitor for secondary mood symptoms as academic struggles may impact self-esteem.",
+      "Outpatient psychiatry follow-up in 2 weeks for evaluation and possible medication initiation.",
+      "Encourage continued engagement in music as area of success."
+    ],
+    "Author": "Dr. Nicole Freeman, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

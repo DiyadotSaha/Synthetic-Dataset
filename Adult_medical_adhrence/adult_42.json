@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Kevin O'Connor",
+    "Patient_MRN": "042",
+    "Date_of_Birth": "1966-05-03",
+    "Date_of_Service": "2024-04-19",
+    "Identifying_Data_Chief_Complaint": "57-year-old White male with schizoaffective disorder presenting with severe exacerbation.",
+    "Collateral_Contact_Information": "Emergency Contact: Daughter (Erin O'Connor) at 555-912-3387",
+    "Subjective": "Mr. O'Connor brought to urgent appointment by daughter who is deeply concerned about recent deterioration. Confirms father receives clozapine 400 mg nightly which she supervises and watches him take without fail. Recent blood work confirms therapeutic clozapine levels, documenting adherence. Despite this, he has decompensated significantly over past three weeks. Reports constant auditory hallucinations of deceased wife screaming at him to join her in death, which terrifies and torments him continuously. Also experiencing visual hallucinations of dark figures standing in corners of rooms. Maintains delusion that pharmaceutical companies poisoned his medication to harm him, though daughter convinces him to take it by saying she tested it. Sleep virtually absent at 1-2 hours nightly due to fear and hallucinations. Has stopped eating solid food, only drinking water and juice, losing 16 lbs in three weeks to 141 lbs. Daughter reports severe functional decline - not bathing, wearing same clothes for days, urinating in bottles in room rather than using bathroom. Talking constantly to hallucinations, becoming agitated and shouting at unseen entities. Mood severely depressed and terrified. Risk assessment critical: Command hallucinations telling him to kill himself to be reunited with wife, states he has been considering complying. Has looked at medications and ropes in garage. Denies current intent but states urges are 'getting too strong.' No homicidal ideation. (Crisis evaluation by Dr. Margaret Flynn, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, unkempt, malodorous, appears malnourished and frightened",
+      "Speech": "Rapid, pressured, interrupted by responses to hallucinations",
+      "Affect": "Terrified, tearful, labile",
+      "Mood": "Severely depressed and terrified",
+      "Thought_Content": "Command auditory hallucinations for suicide, visual hallucinations, persecutory delusions about poisoned medication",
+      "Thought_Process": "Disorganized, preoccupied with psychotic content, poor reality testing"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 25,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Active suicidal ideation with plan (rope/pills), increasing intent, command hallucinations"
+    },
+    "Current_Medications": "Clozapine 400 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Recent clozapine level 425 ng/mL therapeutic; ANC 4.2 K/uL adequate; CBC otherwise normal; CMP shows mild dehydration.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, severe exacerbation despite therapeutic clozapine levels, acute suicidal crisis.",
+    "Psychosocial_Context": "Widowed two years ago; lives alone; daughter visits daily; unemployed, on disability; socially isolated; history of multiple hospitalizations.",
+    "Assessment_and_Plan": [
+      "Perfect adherence to clozapine documented by daughter supervision and therapeutic blood levels.",
+      "Severe treatment failure despite maximum medication compliance.",
+      "Imminent suicide risk with command hallucinations, plan, and increasing intent.",
+      "5150 hold initiated for immediate involuntary psychiatric hospitalization.",
+      "Recommend inpatient ECT trial given treatment resistance and acute danger.",
+      "Daughter agrees with hospitalization plan, very concerned.",
+      "Coordinating immediate transfer to psychiatric unit.",
+      "Will consider clozapine augmentation vs. ECT series as inpatient."
+    ],
+    "RTC": "Post-hospitalization",
+    "Author": "Note written by Dr. Margaret Flynn, MD, Psychiatrist \u2014 Emergency Psychiatric Services, 5623 Hospital Drive, Boston, MA 02115, Phone: (555) 881-2247, Fax: (555) 881-2248"
+  },
+  "ground_truth": "Adherent"
+}

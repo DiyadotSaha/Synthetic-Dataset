@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Vincent Patel",
+    "Patient_MRN": "009",
+    "Date_of_Birth": "1990-10-19",
+    "Date_of_Service": "2024-06-05",
+    "Identifying_Data_Chief_Complaint": "34-year-old Indian American male with schizophrenia presenting for medication management visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Priya Patel) at 555-456-8234",
+    "Subjective": "Vincent presents for his scheduled appointment appearing cooperative and engaged. He reports taking his perphenazine 16 mg daily in divided doses (8 mg twice daily) as prescribed without missing doses, using his smartphone medication tracking app consistently. He describes his symptoms as relatively stable compared to three months ago with notable improvement. Sleep has normalized to 7 hours per night with good sleep hygiene habits. Reports only occasional brief auditory experiences, maybe once per week, consisting of hearing his name called when no one is present, which he handles by reality testing and doesn't find bothersome. Mood is stable and positive, rating it 6/10. His concentration has improved significantly allowing him to complete an online certification program in web development. Appetite good with weight stable at 178 lbs. He continues to live with his parents and they report he's more engaged with family activities and helpful around the house. Denies substance use and maintains good insight into his illness. Currently seeking employment in his field and has had two promising interviews recently. No safety concerns identified, denies suicidal or homicidal ideation. (Assessment by Dr. Laura Simmons, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed young male, casually dressed, appropriate for age",
+      "Speech": "Clear, normal rate and volume, coherent",
+      "Affect": "Appropriate range, engaged",
+      "Mood": "Stable and optimistic",
+      "Thought_Content": "Rare benign auditory hallucinations with good reality testing",
+      "Thought_Process": "Organized, logical, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 5,
+      "GAD_7": 6,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Perphenazine 8 mg PO BID",
+    "CURES_Report": "Reviewed; no issues.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Complete metabolic panel within normal limits; CBC normal.",
+      "Recent_Imaging_Results": "No imaging performed."
+    },
+    "Diagnostic_Impression": "Schizophrenia, currently stable with minimal residual symptoms.",
+    "Psychosocial_Context": "Lives with parents; completed web development certification; actively job searching; family supportive; good medication insight.",
+    "Assessment_and_Plan": [
+      "Continue perphenazine 8 mg PO BID, excellent adherence documented via medication app.",
+      "Encouraged continued pursuit of employment opportunities.",
+      "Supported use of reality testing for residual symptoms.",
+      "Monitor for any extrapyramidal symptoms at next visit.",
+      "Follow-up in 8 weeks unless concerns arise sooner."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Dr. Laura Simmons, MD, Psychiatrist \u2014 Highland Psychiatric Associates, 2100 Oak Ridge Road, Boston, MA 02115, Phone: (555) 234-5677, Fax: (555) 234-5678"
+  },
+  "ground_truth": "Adherent"
+}

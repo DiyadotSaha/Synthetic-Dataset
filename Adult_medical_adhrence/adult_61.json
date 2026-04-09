@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Mei Wang",
+    "Patient_MRN": "061",
+    "Date_of_Birth": "1996-12-11",
+    "Date_of_Service": "2024-09-19",
+    "Identifying_Data_Chief_Complaint": "27-year-old Asian American female with schizophrenia for medication check.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Li Wang) at 555-221-8903",
+    "Subjective": "Patient presented appearing well-groomed and engaged. Reports consistent medication adherence, taking risperidone 6 mg nightly using phone alarm. States doing quite well. Experiences occasional brief whispers once or twice weekly which she easily dismisses. No other hallucinations or paranoid thoughts. Sleep good at 7 hours nightly. Appetite healthy, weight stable at 128 lbs. Working part-time as customer service representative at call center, managing well. Mood 'good' rated 7/10. Lives with parents which provides support and cultural connection. Attends Asian American young adult support group monthly. Pursuing online college courses toward business degree. Enjoys K-pop music and watching Korean dramas. One year clean from methamphetamine. Good relationship with family. No safety concerns, denies SI/HI. (Seen by Dr. Amy Zhang, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, good grooming, calm presentation",
+      "Speech": "Clear, normal pace, coherent",
+      "Affect": "Appropriate, somewhat reserved",
+      "Mood": "Good",
+      "Thought_Content": "Minimal residual hallucinations with insight",
+      "Thought_Process": "Organized, logical"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 5,
+      "GAD_7": 6,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 6 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC and CMP within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable.",
+    "Psychosocial_Context": "Lives with parents; working part-time; pursuing degree; one year clean; attending support group.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and symptom control.",
+      "Continue risperidone 6 mg qHS.",
+      "Encouraged continued education.",
+      "Commended on sobriety.",
+      "Follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Dr. Amy Zhang, MD, Psychiatrist \u2014 Pacific Mental Health Services, 2890 Pacific Drive, Los Angeles, CA 90012, Phone: (555) 338-7621, Fax: (555) 338-7622"
+  },
+  "ground_truth": "Adherent"
+}

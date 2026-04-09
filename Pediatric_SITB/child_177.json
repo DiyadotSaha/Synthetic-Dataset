@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Maya Patel",
+    "Patient_MRN": "177",
+    "Date_of_Birth": "2011-12-01",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female presents with insomnia and academic pressure.",
+    "Collateral_Contact_Information": "Father: Rajesh Patel, Phone: (555) 890-1235",
+    "Subjective": "Patient is a 14-year-old female presenting with severe insomnia over the past month characterized by difficulty falling asleep and waking multiple times nightly. She reports averaging 4-5 hours of sleep per night and feeling exhausted during the day. She attributes the sleep difficulty to stress about maintaining her 4.0 GPA and preparing for advanced placement courses next year. She denies any thoughts of self-harm or suicidal ideation. Patient reports she spends hours studying each night and frequently reviews material repeatedly to ensure mastery. Father notes patient has always been high-achieving but the intensity has increased significantly this year. She continues to participate in debate club and volunteer work but reports feeling constantly tired. Appetite is normal and mood is primarily anxious rather than depressed. (ED Physician Dr. Kevin Nguyen, DO)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears fatigued",
+      "Behavior": "Cooperative, somewhat tense",
+      "Speech": "Clear, normal rate",
+      "Mood": "Stressed",
+      "Affect": "Anxious, congruent",
+      "Thought_Process": "Linear, focused on academic performance",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Insomnia disorder with anxiety features, moderate.",
+    "Psychosocial_Context": "Lives with both parents and younger brother; high parental expectations for academic success; excels academically; involved in multiple activities; supportive family.",
+    "Assessment_and_Plan": [
+      "Insomnia secondary to performance anxiety and academic stress.",
+      "Protective factors: strong family support, high level of function, engaged in activities, no suicidal ideation.",
+      "Sleep hygiene education provided including limiting study time before bed.",
+      "Recommend cognitive behavioral therapy for insomnia (CBT-I).",
+      "Short-term trial of melatonin 3mg at bedtime discussed.",
+      "Family meeting recommended to discuss realistic expectations and balance.",
+      "Outpatient mental health referral for anxiety management.",
+      "Follow-up in 2 weeks to reassess sleep patterns."
+    ],
+    "Author": "Dr. Kevin Nguyen, DO (ED Physician)"
+  },
+  "ground_truth": "No"
+}

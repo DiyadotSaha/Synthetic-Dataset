@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Derek Sanders",
+    "Patient_MRN": "123",
+    "Date_of_Birth": "1999-10-06",
+    "Date_of_Service": "2024-10-22",
+    "Identifying_Data_Chief_Complaint": "25-year-old White male with schizophrenia for medication check.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Susan Sanders) at 555-229-7643",
+    "Subjective": "Patient arrived appearing casual and engaged. Reports excellent adherence to aripiprazole 10 mg every morning using phone app reminder. States doing well. Experiences very occasional whispers once every few weeks which he dismisses. No other hallucinations or paranoid thoughts. Sleep good at 7-8 hours nightly. Appetite healthy, weight stable at 165 lbs. Working full-time at retail electronics store, enjoys helping customers with tech. Mood 'good' rated 7/10. Lives independently in studio apartment. Enjoys gaming and building computers. Attending young adult support group monthly. Six months sober from marijuana. Saving for better apartment. No safety concerns, denies SI/HI. (Seen by Timothy Brooks, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, good grooming, relaxed demeanor",
+      "Speech": "Clear, normal pace, coherent",
+      "Affect": "Appropriate, somewhat bright",
+      "Mood": "Good",
+      "Thought_Content": "Minimal residual symptoms with insight",
+      "Thought_Process": "Organized, logical"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 4,
+      "GAD_7": 5,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Aripiprazole 10 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable.",
+    "Psychosocial_Context": "Living independently; employed full-time; six months sober; engaged in hobbies and support group.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and symptom control.",
+      "Continue aripiprazole 10 mg daily.",
+      "Commended on employment and independence.",
+      "Routine follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Timothy Brooks, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Tech Retail Workers Health, 4521 Electronics Way, Denver, CO 80202, Phone: (555) 772-4498, Fax: (555) 772-4499"
+  },
+  "ground_truth": "Adherent"
+}

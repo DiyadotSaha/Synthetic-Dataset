@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Destiny Johnson",
+    "Patient_MRN": "087",
+    "Date_of_Birth": "2010-11-22",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female brought by grandmother for anger following racial discrimination incident.",
+    "Collateral_Contact_Information": "Grandmother: Joyce Johnson, Phone: (555) 901-2468",
+    "Subjective": "Patient is a 15-year-old African American female presenting with anger and distress following racial profiling incident at store three days ago where she was followed by security and accused of stealing. She reports feeling furious, humiliated, and unsafe. She denies any thoughts of self-harm or suicidal ideation. Patient states this is not the first time she has experienced discrimination but this incident felt particularly violating. She has been having difficulty sleeping, replaying the incident in her mind. She expresses anger at the injustice and worries about future encounters. Grandmother reports patient has always been strong and resilient but this incident has visibly impacted her. Patient continues to attend school and recently started a social justice club. She has supportive friends who have validated her experience. (Psychiatrist Dr. Jamal Washington, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears stated age",
+      "Behavior": "Cooperative, appropriately angry when describing incident",
+      "Speech": "Clear, elevated volume when discussing discrimination",
+      "Mood": "Angry and hurt",
+      "Affect": "Angry, congruent and appropriate to situation",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Excellent",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Acute stress reaction to racial discrimination, mild.",
+    "Psychosocial_Context": "Lives with grandmother; experienced racial profiling and discrimination; active in social justice advocacy; supportive peer network; strong sense of identity and resilience; family history of navigating discrimination.",
+    "Assessment_and_Plan": [
+      "Appropriate distress response to racial discrimination and trauma.",
+      "Protective factors: strong support system, engaged in advocacy which provides sense of agency, excellent insight, resilient, no suicidal ideation.",
+      "Validation of experience and emotional response provided.",
+      "Referral for culturally responsive therapy to process incident and previous discrimination experiences.",
+      "Connection with community resources and support groups for youth experiencing racism.",
+      "Encouragement of continued activism and social justice work as empowering activity.",
+      "Grandmother provided education on supporting patient and addressing racial trauma.",
+      "Follow-up in 2-3 weeks to monitor for development of more significant trauma symptoms.",
+      "Most symptoms expected to improve with validation, processing, and supportive environment."
+    ],
+    "Author": "Dr. Jamal Washington, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

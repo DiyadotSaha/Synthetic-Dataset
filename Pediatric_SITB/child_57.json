@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Ryan O'Connor",
+    "Patient_MRN": "057",
+    "Date_of_Birth": "2010-10-21",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by mother for anxiety after being bullied at school.",
+    "Collateral_Contact_Information": "Mother: Kathleen O'Connor, Phone: (555) 567-8013",
+    "Subjective": "Patient is a 15-year-old male presenting with two weeks of increased anxiety following bullying incident at school. He reports that several classmates have been teasing him about his stutter and imitating his speech pattern. One incident last week involved public humiliation in the cafeteria. He denies any thoughts of self-harm or suicidal ideation. Patient states he has been avoiding the cafeteria and feels nervous walking in hallways. Sleep is disrupted with difficulty falling asleep and he has lost 2 pounds due to decreased appetite. He has been receiving speech therapy for stuttering since age 7 with good progress. Mother has contacted school administration who are addressing the bullying. Patient reports feeling supported by a few close friends and his speech therapist. He continues to attend gaming club where peers are accepting. (Nurse Practitioner Christopher Adams, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears anxious",
+      "Behavior": "Cooperative, exhibits mild stutter",
+      "Speech": "Mild stutter present, understandable",
+      "Mood": "Nervous",
+      "Affect": "Anxious, appropriate",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with anxiety secondary to bullying, moderate.",
+    "Psychosocial_Context": "Lives with both parents; has mild stutter managed with speech therapy; victim of recent bullying about speech impediment; school actively addressing bullying; has supportive close friends; engaged in gaming club.",
+    "Assessment_and_Plan": [
+      "Anxiety reaction to bullying targeting speech impediment.",
+      "Protective factors: supportive family and friends, school intervention occurring, ongoing speech therapy, engaged in accepting peer group through gaming club, no suicidal ideation.",
+      "Recommend short-term counseling to process bullying experience and develop coping strategies.",
+      "Coordination with school to ensure bullying intervention is adequate.",
+      "Continued speech therapy with focus on confidence building.",
+      "Consider short-term anxiolytic if sleep and appetite do not improve within 2 weeks.",
+      "Peer support group for teens with speech differences may be beneficial.",
+      "Follow-up in 2 weeks to reassess symptoms and ensure school intervention is effective."
+    ],
+    "Author": "Christopher Adams, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,53 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "David Chen",
+    "Patient_MRN": "120",
+    "Date_of_Birth": "2009-02-14",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old male brought by EMS after intentional overdose on acetaminophen and energy drinks following college rejection.",
+    "Collateral_Contact_Information": "Mother: Lily Chen, Phone: (555) 993-5577",
+    "Subjective": "Patient is a 16-year-old male brought via EMS after intentionally ingesting 25-30 extra-strength acetaminophen tablets along with multiple energy drinks in suicide attempt two hours ago. He received rejection letter from early decision application to MIT yesterday and felt he had destroyed his future. He reports full intent to die and carefully researched lethal dose. Mother found him vomiting and called 911. Currently regrets attempt and is frightened about liver damage. He describes months of stress about college applications and belief that only top-tier school acceptance would validate his worth. Currently on escitalopram 15mg for anxiety. No prior attempts but chronic worry and perfectionism. High-achieving student, president of robotics club. Parents are both engineers with high expectations. Two friends, both also applying to elite schools. (ED Physician Dr. Lisa Wong, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Appears ill, hospital gown, IV in place, anxious",
+      "Behavior": "Cooperative, frightened",
+      "Speech": "Normal rate, anxious quality",
+      "Mood": "Regretful and scared",
+      "Affect": "Anxious",
+      "Thought_Process": "Linear, self-critical",
+      "Thought_Content": "Recent attempt; current regret; no ongoing SI",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Emerging",
+      "Judgment": "Severely impaired during attempt"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Escitalopram 15mg daily",
+    "CURES_Report": "Escitalopram on file",
+    "Laboratory_Data": {
+      "CBC": "WNL",
+      "Urine_Tox": "Negative for drugs; high caffeine",
+      "Acetaminophen_level": "210 mcg/mL at 4 hours post-ingestion; N-acetylcysteine protocol initiated",
+      "Comprehensive_Metabolic_Panel": "AST/ALT normal currently; will monitor"
+    },
+    "Diagnostic_Impression": "Suicide attempt by acetaminophen overdose; generalized anxiety disorder; perfectionism; acute liver toxicity risk.",
+    "Psychosocial_Context": "High achiever with perfectionistic parents; MIT rejection perceived as catastrophic failure; chronic anxiety; robotics involvement; peer group also high-achieving; current SSRI.",
+    "Assessment_and_Plan": [
+      "High risk for attempt but lower ongoing risk given regret; impulsive response to perceived failure.",
+      "Medical management: N-acetylcysteine protocol for acetaminophen toxicity; serial liver function tests; admit to medical floor.",
+      "5150 hold placed.",
+      "Psychiatric consultation once medically stable; likely need inpatient psychiatric admission.",
+      "Address perfectionism, catastrophic thinking, and worth beyond achievement.",
+      "Family therapy essential to address parental expectations.",
+      "Help explore other college options and pathways to success.",
+      "Medication review; current SSRI may need optimization.",
+      "Long-term: therapy for anxiety, perfectionism, and identity beyond achievement."
+    ],
+    "Author": "Dr. Lisa Wong, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

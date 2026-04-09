@@ -1,0 +1,55 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Chloe Anderson",
+    "Patient_MRN": "032",
+    "Date_of_Birth": "2009-03-17",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old female brought by residential treatment staff after suicide attempt by ligature strangulation.",
+    "Collateral_Contact_Information": "Residential Counselor: Mark Stevens, Phone: (555) 234-5566",
+    "Subjective": "Patient is a 16-year-old female currently in residential eating disorder treatment who attempted suicide early this morning by using her bedsheet to create a ligature around her neck. Staff discovered her within minutes after she did not respond to morning check-in and intervened before loss of consciousness. Patient reports she was weighed yesterday and had gained two pounds, which triggered intense feelings of failure, self-hatred, and determination to die. She describes planning this throughout the night, waiting for the shift change when staff were occupied. She states she fully intended to die and is angry the attempt was interrupted. She continues to express active suicidal ideation with plan and intent, stating she will try again at first opportunity. She has been in residential treatment for four months for anorexia nervosa, restricting type, and this is her third suicide attempt, with previous attempts by overdose at ages 14 and 15. Currently on escitalopram 20mg and olanzapine 5mg. She reports the eating disorder voice is louder than any other thoughts and death feels like the only escape from gaining weight. She denies any protective factors, stating she has 'already lost herself to this disease.' (Psychiatrist Dr. Jennifer Walsh, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Extremely thin, BMI 15.2, ligature marks visible on neck, wearing treatment center clothing",
+      "Behavior": "Withdrawn, hostile when discussing weight, resistant",
+      "Speech": "Minimal, monotone",
+      "Mood": "Hopeless and furious",
+      "Affect": "Flat, occasionally breaks through with anger",
+      "Thought_Process": "Rigid, eating disorder preoccupations prominent",
+      "Thought_Content": "Active SI with plan and ongoing intent; attempt within past 12 hours; eating disorder obsessions",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Absent regarding severity",
+      "Judgment": "Severely impaired"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Escitalopram 20mg daily, Olanzapine 5mg qHS, Multivitamin",
+    "CURES_Report": "Psychiatric medications on file",
+    "Laboratory_Data": {
+      "CBC": "Mild anemia, leukopenia",
+      "Urine_Tox": "Negative",
+      "Head_CT": "",
+      "Comprehensive_Metabolic_Panel": "Electrolyte abnormalities consistent with malnutrition",
+      "ECG": "Prolonged QTc at 478ms"
+    },
+    "Diagnostic_Impression": "Anorexia nervosa, restricting type, severe; major depressive disorder, severe; suicide attempt by ligature with ongoing suicidal intent.",
+    "Psychosocial_Context": "Currently in residential eating disorder treatment; three previous suicide attempts; severe eating disorder with medical complications; treatment resistance; extremely low BMI.",
+    "Assessment_and_Plan": [
+      "Imminent high risk: suicide attempt within past 12 hours with ongoing active SI, plan, and intent; states will reattempt.",
+      "No protective factors identified; eating disorder psychopathology driving suicidality.",
+      "Medical assessment: ligature marks without serious injury; malnutrition with electrolyte abnormalities and prolonged QTc requires monitoring.",
+      "Current residential setting inadequate for safety given acute suicidal crisis.",
+      "5150 hold placed.",
+      "Transfer to inpatient psychiatric unit with eating disorder expertise and 1:1 observation.",
+      "Medical stabilization concurrent with psychiatric treatment; cardiology consultation for QTc.",
+      "Medication review; consider augmentation strategies.",
+      "Family meeting required; assess appropriateness of current treatment level versus higher acuity specialized ED/psychiatric program.",
+      "Trauma-informed assessment given treatment resistance and severity."
+    ],
+    "Author": "Dr. Jennifer Walsh, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

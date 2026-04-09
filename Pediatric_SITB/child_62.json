@@ -1,0 +1,55 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Destiny Jackson",
+    "Patient_MRN": "062",
+    "Date_of_Birth": "2010-03-28",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female brought by foster mother after discovering detailed suicide plan written in notebook.",
+    "Collateral_Contact_Information": "Foster Mother: Patricia Williams, Phone: (555) 447-8899",
+    "Subjective": "Patient is a 15-year-old female in foster care presenting after her foster mother discovered a detailed entry in her journal describing a plan to run away from the foster home and overdose on pills in a park near her old neighborhood. The entry, dated two days ago, specified she would use money from her part-time babysitting job to buy over-the-counter medications and included research about which combinations would be lethal. Patient confirms she wrote this and developed the plan following notification last week that her parental rights termination hearing has been scheduled, meaning she will likely never return to her biological mother. This is her fourth foster placement in two years. When asked about intent, patient becomes tearful and states she wrote the plan but has not acted because her foster mother has been kind to her and she does not want to hurt her. However, she expresses feeling like she belongs nowhere and has no real family. Sleep has been poor with frequent nightmares about her mother. She is in weekly therapy through her foster care agency. She has one friend at school. Currently on sertraline 25mg started one month ago. History of neglect by biological mother who has active substance use disorder. (Social Worker DeShawn Harris, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casual dress, appears guarded initially",
+      "Behavior": "Cooperative but emotionally distant, gradually warms",
+      "Speech": "Soft, hesitant",
+      "Mood": "Lost and unwanted",
+      "Affect": "Sad, constricted, tearful",
+      "Thought_Process": "Linear, preoccupied with loss and belonging",
+      "Thought_Content": "Active SI with detailed plan but denies current intent",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair, recognizes foster mother's care",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Sertraline 25mg daily (started 1 month ago)",
+    "CURES_Report": "Sertraline on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder; complicated grief related to impending parental rights termination; suicidal ideation with plan; attachment trauma; history of neglect.",
+    "Psychosocial_Context": "Fourth foster placement in two years; impending parental rights termination; biological mother has substance use disorder; history of neglect; engaged in therapy; current foster mother supportive; low-dose SSRI recently initiated.",
+    "Assessment_and_Plan": [
+      "Moderate risk: active SI with researched, detailed plan including means and location but denies current intent; planning behavior concerning.",
+      "Limited protective factors: relationship with foster mother providing hesitation, peer connection, engaged in therapy.",
+      "Crisis related to anticipated permanent loss of biological family; grief and trauma response.",
+      "Foster mother to secure all medications and monitor money/purchases.",
+      "Coordinate with foster care agency regarding placement stability and support.",
+      "Increase therapy frequency; trauma-focused modalities essential.",
+      "Current sertraline dose low and recently started; psychiatric consultation for medication optimization.",
+      "Explore sibling connections if applicable; maintain biological family contact as appropriate.",
+      "Consider brief crisis stabilization versus intensive outpatient if safety can be ensured.",
+      "Foster care worker to expedite support services and ensure placement permanency.",
+      "Safety plan with foster mother and therapist.",
+      "Close follow-up within 48 hours; discharge contingent on enhanced monitoring and treatment intensification."
+    ],
+    "Author": "DeShawn Harris, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

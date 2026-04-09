@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Raymond Lee",
+    "Patient_MRN": "027",
+    "Date_of_Birth": "1958-09-14",
+    "Date_of_Service": "2024-04-11",
+    "Identifying_Data_Chief_Complaint": "65-year-old Asian American male with schizophrenia presenting with treatment-resistant symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Niece (Susan Lee) at 555-443-7621",
+    "Subjective": "Mr. Lee presented to appointment transported by residential facility van. Facility nursing staff verify he receives perphenazine 16 mg daily administered directly by medical staff at morning medication pass without any refusals or missed doses over past six months. Despite this perfect adherence, he remains profoundly symptomatic and functionally impaired. During interview he repeatedly responds to internal stimuli, appearing to listen to voices and occasionally speaking aloud to unseen entities. When redirected, he reports hearing 'hundreds of voices all talking at once' continuously throughout day and night, which he finds overwhelming and exhausting. He also maintains fixed delusional belief that he is secretly Jesus Christ reincarnated and must prepare for second coming, spending hours writing incomprehensible religious manifestos. Sleep is severely fragmented at 3-4 hours total nightly. Appetite is extremely poor, staff report he believes food contains demons and must be blessed before consuming, resulting in 22-pound weight loss over three months to 127 lbs. Hygiene is minimal despite staff prompting - refuses showers believing water will wash away his divinity. Spends days pacing facility talking loudly to voices. Unable to participate in any activities or engage socially with other residents. Mood difficult to assess given severity of psychosis. Risk assessment: No suicidal ideation expressed, states he is immortal so cannot die. No homicidal ideation but believes he has special powers. (Crisis evaluation documented by Dr. Helen Goldberg, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Elderly male, severely unkempt, malodorous, malnourished, actively responding to internal stimuli",
+      "Speech": "Disorganized, tangential, speaking to unseen entities",
+      "Affect": "Incongruent, occasionally smiling inappropriately",
+      "Mood": "Elevated and grandiose",
+      "Thought_Content": "Severe auditory hallucinations, grandiose religious delusions with messianic themes",
+      "Thought_Process": "Severely disorganized, loose associations, thought blocking"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 21,
+      "GAD_7": 18,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Unable to assess due to severity of psychosis"
+    },
+    "Current_Medications": "Perphenazine 16 mg PO daily",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC shows moderate anemia Hgb 10.8 g/dL; CMP reveals hypoalbuminemia 2.9 g/dL concerning for malnutrition; vitamin B12 low at 180 pg/mL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, chronic, severe and treatment-refractory with profound functional impairment.",
+    "Psychosocial_Context": "Resides in locked psychiatric residential facility; never married; no children; estranged from most family; receives SSI; requires 24-hour supervision.",
+    "Assessment_and_Plan": [
+      "Patient adherent to perphenazine via facility-administered medication.",
+      "Severe treatment resistance with dangerous weight loss and self-neglect.",
+      "Current medication regimen clearly inadequate despite adherence.",
+      "Recommend immediate psychiatric hospitalization for clozapine initiation and medical stabilization.",
+      "Significant concern regarding nutritional status - medical evaluation urgent.",
+      "Discussed plan with facility medical director who agrees with hospitalization.",
+      "Will coordinate transfer to inpatient unit today.",
+      "Long-term guardianship may need consideration given chronic severity."
+    ],
+    "RTC": "Post-hospitalization",
+    "Author": "Note written by Dr. Helen Goldberg, MD, Psychiatrist \u2014 Mountain View Psychiatric Hospital, 8823 Highland Road, Denver, CO 80202, Phone: (555) 776-2341, Fax: (555) 776-2342"
+  },
+  "ground_truth": "Adherent"
+}

@@ -1,0 +1,50 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Ava Johnson",
+    "Patient_MRN": "026",
+    "Date_of_Birth": "2010-10-11",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female presents after disclosure to therapist of specific plan to cut wrists with razor blade from father's toolbox.",
+    "Collateral_Contact_Information": "Mother: Michelle Johnson, Phone: (555) 614-3897",
+    "Subjective": "Pt is a 15 y/o female presenting from her outpatient therapist's office following disclosure of a specific suicide plan. During her therapy session earlier today, patient revealed she has been thinking about killing herself by cutting her wrists with a razor blade she identified in her father's toolbox in the garage. She reports being triggered by an Instagram post from her ex-best friend who wrote disparaging comments about her following a conflict last week. Patient describes feeling overwhelmed by social isolation, stating that she's lost her entire friend group and now eats lunch alone daily. She reports having active thoughts about ending her life and describes the specific plan but when pressed about intent states 'I think about it all the time but I don't know if I could actually do it because of the pain.' She has history of NSSI via cutting, with most recent episode approximately one month ago. She's been in weekly therapy for six months and takes sertraline 75mg daily for depression and anxiety, recently increased from 50mg. She identifies her mother and younger brother as people who care about her and acknowledges she would feel guilty leaving them, though states this hasn't been enough to keep the thoughts away. Denies substance use. Reports poor sleep with middle-of-night awakening and describes herself as constantly exhausted. (Psychiatrist Dr. Michael Torres, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, long sleeves despite warm weather, tired appearance",
+      "Behavior": "Cooperative, makes brief eye contact",
+      "Speech": "Soft spoken, coherent",
+      "Mood": "Depressed and lonely",
+      "Affect": "Restricted, mood-congruent",
+      "Thought_Process": "Linear with some ruminative content",
+      "Thought_Content": "Active SI with specific plan, ambivalent about intent",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Partial - recognizes need for help",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Sertraline 75mg daily",
+    "CURES_Report": "Sertraline prescription on file, recently increased dosage",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, moderate; history of non-suicidal self-injury; current suicidal ideation with plan.",
+    "Psychosocial_Context": "Lives with both parents and younger brother; experiencing significant peer conflict and social isolation; history of NSSI; currently engaged in weekly therapy; recent medication adjustment.",
+    "Assessment_and_Plan": [
+      "Moderate risk: active SI with specific, detailed plan but ambivalent intent; some protective factors present.",
+      "Limited protective factors: family relationships, guilt about impact on family, currently in treatment.",
+      "Recent SSRI dose increase may take several weeks for full effect.",
+      "Recommend crisis stabilization - brief hold for observation and safety planning.",
+      "Coordinate with outpatient therapist for close follow-up post-discharge.",
+      "Family to secure all sharps including identified razor blades in toolbox.",
+      "Consider partial hospitalization program if stabilized for discharge."
+    ],
+    "Author": "Dr. Michael Torres, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

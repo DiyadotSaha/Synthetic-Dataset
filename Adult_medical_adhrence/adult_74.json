@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Xavier Thompson",
+    "Patient_MRN": "074",
+    "Date_of_Birth": "1995-06-03",
+    "Date_of_Service": "2024-09-28",
+    "Identifying_Data_Chief_Complaint": "29-year-old African American male with schizophrenia for medication review.",
+    "Collateral_Contact_Information": "Emergency Contact: Aunt (LaTonya Thompson) at 555-661-3487",
+    "Subjective": "Patient arrived appearing casual and cooperative. Reports taking olanzapine 10 mg nightly consistently using bedtime routine. States doing okay overall. Experiences very rare whispers once or twice monthly which he dismisses. No other hallucinations or paranoid thoughts. Sleep good at 7-8 hours nightly. Appetite healthy, weight stable at 175 lbs. Working part-time as parking lot attendant, steady job for nine months. Mood 'decent' rated 7/10. Lives in supported housing with weekly case manager visits. Enjoys playing basketball at local gym. Attending vocational program exploring career options. Six months sober from marijuana. Aunt visits biweekly. Building independence skills. No safety concerns, denies SI/HI. (Evaluated by James Wilson, LMSW, Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed in athletic wear, good grooming",
+      "Speech": "Clear, normal pace, coherent",
+      "Affect": "Appropriate, somewhat flat",
+      "Mood": "Decent",
+      "Thought_Content": "Minimal residual symptoms",
+      "Thought_Process": "Organized, concrete"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 6,
+      "GAD_7": 7,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Olanzapine 10 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC and CMP within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable.",
+    "Psychosocial_Context": "Lives in supported housing; working part-time; six months sober; in vocational program; building independence.",
+    "Assessment_and_Plan": [
+      "Good medication adherence and symptom control.",
+      "Continue olanzapine 10 mg qHS.",
+      "Encouraged continued vocational training.",
+      "Commended on sobriety.",
+      "Follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by James Wilson, LMSW, Social Worker \u2014 Independence Housing Services, 2341 Recovery Plaza, Cleveland, OH 44102, Phone: (555) 338-7729, Fax: (555) 338-7730"
+  },
+  "ground_truth": "Adherent"
+}

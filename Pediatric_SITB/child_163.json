@@ -1,0 +1,53 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Mason Clark",
+    "Patient_MRN": "163",
+    "Date_of_Birth": "2010-06-07",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by mother for depression and social withdrawal.",
+    "Collateral_Contact_Information": "Mother: Jennifer Clark, Phone: (555) 345-6806",
+    "Subjective": "Patient is a 15-year-old male presenting with five months of persistent low mood, anhedonia, and progressive social isolation. He reports no longer enjoying activities including gaming which he previously loved. He denies any thoughts of self-harm or suicidal ideation, stating he would never hurt himself even though he feels hopeless about things improving. Sleep is excessive with 12-14 hours daily on weekends, and appetite is increased with 10-pound weight gain. Academic performance has declined from B's to D's. He describes feeling worthless and like a burden to family. Started fluoxetine 20mg eight weeks ago with minimal improvement. Currently in therapy for two months. Mother reports patient rarely leaves room and has declined all social invitations for months. Previously social and athletic student. Patient expresses doubt treatment will help but willing to continue trying. (Psychiatrist Dr. Elizabeth Turner, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Sweatpants and hoodie, minimal grooming",
+      "Behavior": "Cooperative, psychomotor retardation",
+      "Speech": "Low volume, slow",
+      "Mood": "Depressed",
+      "Affect": "Blunted, constricted",
+      "Thought_Process": "Linear, markedly slowed",
+      "Thought_Content": "No suicidal or homicidal ideation; hopelessness present",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Limited",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Fluoxetine 20mg daily",
+    "CURES_Report": "Fluoxetine on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, single episode, severe without psychotic features.",
+    "Psychosocial_Context": "Lives with mother and younger brother; severe depression with profound functional impairment; complete social withdrawal; academic failure; atypical features (hypersomnia, hyperphagia); inadequate response to current SSRI dose; engaged in treatment but pessimistic.",
+    "Assessment_and_Plan": [
+      "Severe depression with atypical features and inadequate medication response; no suicidal ideation despite severity.",
+      "Protective factors: engaged in treatment, supportive mother, explicitly denies suicidal thoughts despite hopelessness, willing to continue trying.",
+      "Current SSRI dose likely insufficient; coordinate with prescriber for dose increase to 40mg.",
+      "Consider augmentation strategies or medication switch if no response at 12-week mark.",
+      "Increase therapy frequency; consider group therapy or intensive outpatient program.",
+      "Behavioral activation critical to counteract withdrawal and anhedonia.",
+      "School consultation for homebound instruction if functional impairment continues.",
+      "Thyroid function and vitamin D levels to rule out medical contributions.",
+      "Close monitoring given severity; follow-up in 1 week.",
+      "Consider hospitalization or partial hospitalization if further decline or emergence of suicidal ideation."
+    ],
+    "Author": "Dr. Elizabeth Turner, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

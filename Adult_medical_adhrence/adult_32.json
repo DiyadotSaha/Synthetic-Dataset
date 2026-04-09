@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Sarah Cohen",
+    "Patient_MRN": "032",
+    "Date_of_Birth": "1987-11-03",
+    "Date_of_Service": "2024-08-30",
+    "Identifying_Data_Chief_Complaint": "36-year-old White female with schizophrenia presenting for routine medication management.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Rebecca Cohen) at 555-772-3389",
+    "Subjective": "Patient presented appearing upbeat and communicative. States she remains fully adherent to clozapine 300 mg at bedtime, attending the clinic every other week for required blood draws without missing any appointments. Reports feeling better than she has in the past decade. Completely free of hallucinations for the past four months, which she describes as 'life-changing.' No paranoid thoughts or delusional beliefs. Sleep is excellent at 8-9 hours nightly. Appetite robust though notes increased salivation at night which can be bothersome but manageable with towel on pillow. Weight increased by 18 lbs since starting clozapine six months ago, now at 172 lbs, which concerns her but she acknowledges the trade-off is worth it for symptom relief. Recently started volunteer work at animal shelter twice weekly which she finds rewarding. Lives independently in her own apartment managing all ADLs and finances. Working with vocational rehab on return to paid employment. Mood is 'really good' rated 8/10. Abstinent from alcohol and marijuana for eight months. Building new friendships through volunteer work. No safety issues, firmly denies SI/HI. (Evaluated by Dr. Nathan Brooks, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, good hygiene, overweight, pleasant affect",
+      "Speech": "Fluent, clear, engaged in conversation",
+      "Affect": "Bright, reactive, full range",
+      "Mood": "Really good",
+      "Thought_Content": "No psychotic symptoms, reality-based thinking",
+      "Thought_Process": "Logical, organized, coherent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 3,
+      "GAD_7": 4,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Clozapine 300 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "WBC 8.2 K/uL, ANC 4.8 K/uL - normal for clozapine monitoring; metabolic panel normal; fasting glucose 102 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, in remission on clozapine.",
+    "Psychosocial_Context": "Lives independently; volunteering at animal shelter; working toward employment; good social recovery; sustained sobriety.",
+    "Assessment_and_Plan": [
+      "Excellent adherence to clozapine with regular blood monitoring.",
+      "Outstanding symptom response with complete remission of psychotic symptoms.",
+      "Weight gain noted - referred to nutritionist for dietary counseling.",
+      "Encouraged continued volunteer work and vocational rehabilitation.",
+      "Continue clozapine 300 mg qHS.",
+      "Routine labs in 2 weeks per protocol.",
+      "Follow-up in 4 weeks."
+    ],
+    "RTC": "4 weeks",
+    "Author": "Note written by Dr. Nathan Brooks, MD, Psychiatrist \u2014 Clozapine Specialty Clinic, 2190 Medical Center Way, Portland, OR 97201, Phone: (555) 558-9921, Fax: (555) 558-9922"
+  },
+  "ground_truth": "Adherent"
+}

@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Nicole Washington",
+    "Patient_MRN": "200",
+    "Date_of_Birth": "1988-08-29",
+    "Date_of_Service": "2024-10-22",
+    "Identifying_Data_Chief_Complaint": "36-year-old African American female with schizoaffective disorder after serious suicide attempt.",
+    "Collateral_Contact_Information": "Emergency Contact: Aunt (Patricia Davis) at 555-447-9943",
+    "Subjective": "Ms. Washington in ICU after attempting suicide by carbon monoxide poisoning - found unconscious in car with engine running in closed garage. Neighbor heard engine and called 911. After medical stabilization, psychiatry consulted. Aunt provides collateral that patient stopped brexpiprazole completely 10 weeks ago claiming it made her 'zombie-like' and unable to paint, her only source of income. Since discontinuation, catastrophic deterioration. Severe depression with complete loss of will to live, couldn't create art, lost all income. Constant auditory hallucinations telling her she's failure and should die. Paranoid beliefs that art community blacklisted her deliberately. Planned suicide methodically over 2 weeks - wrote detailed goodbye letters, updated will, gave away belongings. Stopped eating week before attempt, weight down 16 lbs. Lost apartment 2 weeks ago, living in car before attempt. Patient now awake, tearful, states she's devastated attempt failed and will try again as soon as possible. Mood 'I can't do this anymore' rated 0/10. Denies substance use. Safety: active persistent SI, detailed planning, strong intent, will attempt again. (Documented by Dr. Robert Chen, Intensivist/ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Post-carbon monoxide poisoning, appearing malnourished, disheveled, profoundly hopeless",
+      "Speech": "Whispered, tearful, expresses regret at survival",
+      "Affect": "Profoundly depressed, hopeless, tearful",
+      "Mood": "I can't do this anymore",
+      "Thought_Content": "Active persistent SI with ongoing planning, command hallucinations to die, paranoid ideation about art community",
+      "Thought_Process": "Severely slowed, ruminative, perseverative on death and hopelessness"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 27,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Active suicidal ideation with recent near-lethal attempt, ongoing intent, planning next attempt"
+    },
+    "Current_Medications": "Brexpiprazole 4 mg PO daily (stopped 10 weeks ago)",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Elevated carboxyhemoglobin level post-CO exposure; troponin mildly elevated; malnutrition markers; anemia.",
+      "Recent_Imaging_Results": "Head CT negative; EKG shows mild abnormalities."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, with life-threatening suicidal crisis after medication discontinuation; recent near-fatal suicide attempt; homelessness.",
+    "Psychosocial_Context": "Recently homeless; living in car; unemployed artist; recent near-fatal suicide attempt; extreme ongoing suicide risk.",
+    "Assessment_and_Plan": [
+      "Life-threatening crisis after stopping brexpiprazole 10 weeks ago.",
+      "Recent near-fatal CO poisoning suicide attempt, regrets surviving, planning next attempt.",
+      "Extreme ongoing suicide risk with methodical planning.",
+      "Requires immediate involuntary psychiatric hospitalization after medical clearance.",
+      "5150 hold initiated.",
+      "Transfer to locked psychiatric unit with one-to-one constant observation.",
+      "Will restart antipsychotic, may need different medication without emotional blunting.",
+      "Consider ECT given severity and treatment resistance.",
+      "Address homelessness - intensive case management for housing.",
+      "Extended hospitalization essential, may need residential treatment.",
+      "Aunt involved in safety planning but cannot provide housing."
+    ],
+    "RTC": "Post-hospital discharge with intensive case management",
+    "Author": "Note written by Dr. Robert Chen, Intensivist/ED Physician \u2014 City Medical Center ICU, 500 Critical Care Boulevard, Los Angeles, CA 90015, Phone: (555) 661-9954, Fax: (555) 661-9955"
+  },
+  "ground_truth": "Non-Adherent"
+}

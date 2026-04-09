@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Melissa Richardson",
+    "Patient_MRN": "109",
+    "Date_of_Birth": "1993-07-05",
+    "Date_of_Service": "2024-09-20",
+    "Identifying_Data_Chief_Complaint": "31-year-old White female with schizoaffective disorder for routine visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Father (George Richardson) at 555-229-7643",
+    "Subjective": "Patient presented appearing well-groomed and upbeat. Reports perfect adherence to cariprazine 6 mg daily taken each morning using routine. States feeling wonderful. No hallucinations for seven months. No delusional thinking. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 149 lbs. Working full-time as veterinary technician, loves career with animals. Mood 'excellent' rated 9/10. Lives independently with dog and cat. Active in animal rescue volunteering. Enjoying outdoor activities like hiking. Attending therapy monthly for wellness. Three years sober from methamphetamine. Building fulfilling life. No safety concerns, denies SI/HI. (Evaluated by Dr. James Carter, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, excellent grooming, bright affect",
+      "Speech": "Clear, animated, coherent",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Excellent",
+      "Thought_Content": "Future-oriented, positive, no psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Cariprazine 6 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Living independently; employed as vet tech; three years sober; animal rescue volunteer; active outdoor lifestyle.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and sustained remission.",
+      "Continue cariprazine 6 mg daily.",
+      "Commended on career and volunteer work.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. James Carter, MD, Psychiatrist \u2014 Animal Care Workers Wellness, 2341 Paw Print Way, Denver, CO 80202, Phone: (555) 661-3487, Fax: (555) 661-3488"
+  },
+  "ground_truth": "Adherent"
+}

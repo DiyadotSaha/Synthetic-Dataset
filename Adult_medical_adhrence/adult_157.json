@@ -1,0 +1,50 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Kevin Tanaka",
+    "Patient_MRN": "157",
+    "Date_of_Birth": "1987-12-03",
+    "Date_of_Service": "2024-08-30",
+    "Identifying_Data_Chief_Complaint": "36-year-old Asian American male with schizophrenia for urgent follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Brother (James Tanaka) at 555-661-4429",
+    "Subjective": "Mr. Tanaka presents for urgent appointment scheduled after his roommate called our clinic expressing concerns. Patient appears somewhat unkempt and avoids eye contact. When asked about medication adherence, he initially minimizes but eventually discloses that he's been taking his risperidone 'maybe half the time' over the past 5-6 weeks - estimating he's missed approximately 20-25 doses during this period. He states the medication was making him feel 'like a zombie' with difficulty concentrating at his IT support job, and he wanted to see if he could function without it. Since reducing intake, he reports progressive worsening of paranoid ideation - now believes his computer may be hacked and colleagues are accessing his personal files to gather information about him. He's started taking excessive security measures, changing passwords multiple times daily. Auditory hallucinations have increased to several times daily, hearing muffled conversations through walls that he suspects are about him. Sleep disrupted at 4-6 hours with hypervigilance about security. Appetite fair, weight down 5 lbs to 158 lbs. Work performance declining with difficulty focusing and increased suspiciousness toward coworkers. Roommate reports patient spends hours checking locks and windows. Mood 'on edge all the time' rated 3/10. Lives with roommate, increasingly withdrawing socially. Previously enjoyed gaming but now fears online surveillance. Denies substance use. Safety concerns: denies suicidal ideation but admits to thoughts of confronting coworkers about alleged spying, denies homicidal intent. (Evaluated by Dr. Andrew Kim, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, poor hygiene, appears tired and hypervigilant",
+      "Speech": "Guarded, whispered at times, coherent but suspicious",
+      "Affect": "Anxious, paranoid, restricted",
+      "Mood": "On edge all the time",
+      "Thought_Content": "Prominent paranoid delusions about surveillance and hacking, increased auditory hallucinations",
+      "Thought_Process": "Circumstantial, preoccupied with paranoid themes, some loose associations"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 12,
+      "GAD_7": 17,
+      "DAST_10": 0,
+      "AUDIT_C": 1,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 4 mg PO BID",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "No labs in past 6 months.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with significant symptom exacerbation related to intentional medication reduction.",
+    "Psychosocial_Context": "Lives with roommate; employed in IT but performance declining; socially withdrawn; paranoid concerns affecting functioning.",
+    "Assessment_and_Plan": [
+      "Clear correlation between stopping risperidone and return of paranoid delusions and hallucinations.",
+      "Discussed patient's concerns about cognitive side effects.",
+      "Explored medication alternatives with potentially better cognitive tolerability.",
+      "Patient receptive to trying long-acting injectable to improve adherence and avoid twice-daily dosing.",
+      "Will transition to paliperidone palmitate monthly injection.",
+      "Addressed workplace paranoia - encouraged not to act on confrontation impulses.",
+      "Roommate supportive and willing to monitor symptoms.",
+      "Discussed potential short-term disability if symptoms interfere with work safety.",
+      "Follow-up in 2 weeks for first injection administration.",
+      "Will reassess after stabilization on LAI."
+    ],
+    "RTC": "2 weeks",
+    "Author": "Note written by Dr. Andrew Kim, MD, Psychiatrist \u2014 TechCare Mental Health Services, 3300 Innovation Parkway, San Francisco, CA 94105, Phone: (555) 882-3341, Fax: (555) 882-3342"
+  },
+  "ground_truth": "Non-Adherent"
+}

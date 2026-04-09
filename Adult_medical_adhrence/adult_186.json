@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Samantha Powell",
+    "Patient_MRN": "186",
+    "Date_of_Birth": "1991-03-27",
+    "Date_of_Service": "2024-10-19",
+    "Identifying_Data_Chief_Complaint": "33-year-old White female with schizoaffective disorder with mood worsening.",
+    "Collateral_Contact_Information": "Emergency Contact: Husband (Ryan Powell) at 555-992-7721",
+    "Subjective": "Ms. Powell presents tearful and anxious. Husband accompanies reporting she's been taking cariprazine only when 'symptoms feel bad,' approximately 2-3 times weekly for past 6 weeks after experiencing nausea and deciding she could manage symptoms on her own. Since irregular dosing, marked depression with daily crying, loss of interest in teaching kindergarten job she loves, and paranoid thoughts that parents complaining about her to principal. Hearing critical voice saying she's incompetent teacher 5-6 times daily. Sleep 4 hours. Appetite poor, weight down 7 lbs. Called out 6 times last month, principal concerned. Lives with husband and two children. Withdrawn from family time. Mood 'sad and anxious' rated 3/10. Denies substance use. Safety: passive SI without plan. (Assessed by Dr. Elizabeth Moore, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professional attire, poor grooming for her, tearful",
+      "Speech": "Soft, slow, tearful",
+      "Affect": "Depressed, anxious, tearful",
+      "Mood": "Sad and anxious",
+      "Thought_Content": "Paranoid ideation about work, auditory hallucinations with critical content, passive SI",
+      "Thought_Process": "Slowed, ruminative"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 17,
+      "GAD_7": 16,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive suicidal ideation without plan"
+    },
+    "Current_Medications": "Cariprazine 3 mg PO daily",
+    "CURES_Report": "Reviewed; no issues.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, with severe exacerbation due to irregular medication use.",
+    "Psychosocial_Context": "Married with children; employed teacher but job at risk; functional decline; passive SI.",
+    "Assessment_and_Plan": [
+      "Severe mood and psychotic symptom worsening after taking medication only 2-3 times weekly.",
+      "Addressed nausea side effect - can be managed with food or timing adjustment.",
+      "Discussed resuming daily medication with food to reduce nausea.",
+      "Passive SI concerning - husband to monitor, crisis resources provided.",
+      "Work note provided, discussed FMLA if needed.",
+      "Resume cariprazine 3 mg daily with food.",
+      "Follow-up in 1 week."
+    ],
+    "RTC": "1 week",
+    "Author": "Note written by Dr. Elizabeth Moore, MD, Psychiatrist \u2014 Educator Support Services, 3100 School Health Way, Boston, MA 02115, Phone: (555) 883-4487, Fax: (555) 883-4488"
+  },
+  "ground_truth": "Non-Adherent"
+}

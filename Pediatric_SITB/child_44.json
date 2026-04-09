@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Sophia Bennett",
+    "Patient_MRN": "044",
+    "Date_of_Birth": "2011-10-31",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by neighbor after disclosing plan to swallow cleaning products due to overwhelm from caring for mother with schizophrenia.",
+    "Collateral_Contact_Information": "Neighbor: Mrs. Carol Stevens, Phone: (555) 776-5544",
+    "Subjective": "Patient is a 14-year-old female who serves as primary caretaker for her mother who has chronic schizophrenia. Patient confided in her neighbor today that she has been thinking about drinking bleach or other cleaning products under the kitchen sink to end her life because she feels trapped and exhausted. She describes her plan in detail, including which products she has researched as most lethal and when she would do it (when mother is asleep). However, she denies current intent, stating she has not acted because she knows her mother would be hospitalized or placed in a group home without her care, and patient feels responsible for preventing this outcome. She reports increasing depression over past six months as her mother's illness has worsened, requiring more intensive caregiving. She manages her mother's medications, prepares meals, ensures mother attends appointments, and handles most household tasks. She has no relationship with her father. School attendance is sporadic and grades have dropped. She has isolated from friends who 'don't understand.' Sleep is frequently interrupted by mother's nighttime agitation. She has one supportive teacher who is aware of home situation. No prior mental health treatment. (ED Physician Dr. Nicole Harper, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Mature beyond years, appears exhausted, wearing same clothes as yesterday per neighbor",
+      "Behavior": "Cooperative but emotionally exhausted, relief at telling someone",
+      "Speech": "Articulate, adult-like quality",
+      "Mood": "Overwhelmed and trapped",
+      "Affect": "Congruent, depleted",
+      "Thought_Process": "Logical but burdened",
+      "Thought_Content": "Active SI with specific researched plan but denies intent due to sense of obligation",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Good but overridden by parentification",
+      "Judgment": "Limited by role reversal"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder secondary to severe parentification and caregiver burden; active suicidal ideation with plan; child neglect situation.",
+    "Psychosocial_Context": "Primary caregiver for mother with chronic schizophrenia; severe parentification; father absent; academic decline; social isolation; sporadic school attendance; supportive teacher; neighbor provides some oversight.",
+    "Assessment_and_Plan": [
+      "Moderate-to-high risk: active SI with detailed researched plan; only barrier to attempt is misplaced sense of responsibility for mother.",
+      "Protective factors limited: sense of obligation to mother (unhealthy protective factor), one supportive teacher, caring neighbor.",
+      "This represents child neglect and inappropriate caregiver burden requiring immediate intervention.",
+      "Mandatory child protective services report filed.",
+      "Social work consultation to assess mother's care needs and patient's need for out-of-home placement or intensive supports.",
+      "Patient requires mental health treatment for parentification trauma and depression.",
+      "Immediate means restriction: neighbor to secure all cleaning products.",
+      "Consider brief psychiatric admission versus intensive home-based services if mother's care can be assumed by adult services.",
+      "School re-engagement plan with counselor support.",
+      "Respite care and ongoing support essential; patient cannot continue as primary caregiver.",
+      "Follow-up contingent on CPS and adult protective services coordination within 24 hours."
+    ],
+    "Author": "Dr. Nicole Harper, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

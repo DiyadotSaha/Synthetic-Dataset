@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Jayden Williams",
+    "Patient_MRN": "046",
+    "Date_of_Birth": "2011-09-22",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male brought by father after revealing plan to overdose on household medications following heated family argument.",
+    "Collateral_Contact_Information": "Father: Michael Williams, Phone: (555) 789-0123",
+    "Subjective": "Patient is a 14-year-old male presenting after disclosing to his father during a calm moment that he has been thinking about taking all the pills in the medicine cabinet to end his life. This disclosure came hours after an intense argument with both parents about his recent suspension from school for fighting. He reports feeling like a constant disappointment to his family and states he has identified the specific medications in the bathroom cabinet as his method. However, he denies current intent to carry out this plan, stating he told his father because 'I got scared of my own thoughts.' He describes two weeks of increasing sadness, irritability, and feeling worthless. Sleep is disrupted with middle-of-night insomnia. He reports one supportive friend who 'gets me' and still expresses interest in returning to his gaming group once suspension ends. This is his first experience with suicidal thoughts. (ED Physician Dr. Amanda Foster, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casual dress, somewhat disheveled",
+      "Behavior": "Initially guarded, becomes more forthcoming",
+      "Speech": "Clear, occasionally pressured when discussing family",
+      "Mood": "Frustrated and sad",
+      "Affect": "Restricted range, irritable undertone",
+      "Thought_Process": "Linear",
+      "Thought_Content": "Active SI with specific plan but denies intent",
+      "Cognition": "Oriented to person, place, time, and situation",
+      "Insight": "Emerging",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with mixed anxiety and depressed mood; suicidal ideation with plan but no intent.",
+    "Psychosocial_Context": "Lives with both parents; recent school suspension for fighting; strained family relationships; maintains one close friendship; interest in gaming community.",
+    "Assessment_and_Plan": [
+      "Moderate risk: active SI with identified method (household medications) but denies current intent.",
+      "Some protective factors: peer support, interest in activities, voluntary disclosure to parent.",
+      "Crisis intervention evaluation completed; patient contracts for safety.",
+      "Strict means restriction: all medications secured and removed from patient access.",
+      "Recommend close outpatient follow-up within 48 hours; family therapy indicated.",
+      "Father agrees to close supervision; discharge to parental care with crisis resources."
+    ],
+    "Author": "Dr. Amanda Foster, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

@@ -1,0 +1,55 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Aaron Sullivan",
+    "Patient_MRN": "040",
+    "Date_of_Birth": "2009-01-08",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old male brought by police after threatening to jump from school roof, stating voices commanded him to end his life.",
+    "Collateral_Contact_Information": "Father: Patrick Sullivan, Phone: (555) 223-6677",
+    "Subjective": "Patient is a 16-year-old male brought via police emergency detention after he climbed onto the roof of his high school during lunch period and told school security he needed to jump because 'they are telling me I have to.' Police crisis intervention team talked him down after 45 minutes. Upon evaluation, patient reports hearing voices for the past three months that have recently become more commanding and insistent. The voices, which he describes as multiple male voices he does not recognize, tell him he is 'corrupt' and 'contaminating others' and must die to save his classmates from infection. He has developed a belief that he carries an invisible contagion despite medical reassurance. He states the voices instructed him specifically to jump from a high place and that he fully intended to comply today, only hesitating when he saw his best friend in the crowd below. He continues to hear the voices now and describes ongoing intent to kill himself to protect others, though he can acknowledge uncertainty about whether the voices are real. He has stopped attending most classes over past month due to fear of contaminating peers. Parents report personality changes, social withdrawal, and bizarre statements over past four months. No prior psychiatric history. No substance use per patient and tox screen. Currently not on any medications. (Psychiatrist Dr. Sarah Blackwell, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, poor hygiene, appears frightened and internally preoccupied",
+      "Behavior": "Guarded, distracted, responding to internal stimuli",
+      "Speech": "Tangential at times, occasionally stops mid-sentence as if listening",
+      "Mood": "Terrified",
+      "Affect": "Anxious, constricted, inappropriate fear",
+      "Thought_Process": "Disorganized with loose associations",
+      "Thought_Content": "Command auditory hallucinations; delusion of contamination; active SI with plan and intent",
+      "Perception": "Auditory hallucinations, ongoing",
+      "Cognition": "Alert, oriented x4 but impaired by psychosis",
+      "Insight": "Very limited; partial awareness voices may not be real",
+      "Judgment": "Severely impaired by psychotic symptoms"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "WNL",
+      "Urine_Tox": "Negative",
+      "Head_CT": "Ordered, pending",
+      "Comprehensive_Metabolic_Panel": "WNL"
+    },
+    "Diagnostic_Impression": "First-episode psychosis, likely schizophrenia or schizoaffective disorder; command auditory hallucinations with delusional content; high suicide risk secondary to psychotic symptoms.",
+    "Psychosocial_Context": "No prior psychiatric history; symptom onset approximately 4 months ago with progressive deterioration; social withdrawal and academic decline; supportive family unaware of severity; one protective relationship with best friend.",
+    "Assessment_and_Plan": [
+      "Imminent high risk: active command hallucinations instructing suicide; specific plan to jump from height; clear intent driven by delusional contamination belief.",
+      "Minimal protective factors: relationship with friend provided momentary hesitation; some insight preserved.",
+      "First-episode psychosis with high lethality suicide risk requires immediate psychiatric hospitalization.",
+      "5150 criteria clearly met.",
+      "Head CT to rule out organic etiology.",
+      "Initiate antipsychotic medication once medical clearance obtained.",
+      "1:1 constant observation; unit with expertise in first-episode psychosis preferred.",
+      "Family psychoeducation regarding psychotic illness essential.",
+      "Long-term coordinated specialty care program for first-episode psychosis.",
+      "Assess for prodromal symptoms and duration of untreated psychosis."
+    ],
+    "Author": "Dr. Sarah Blackwell, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

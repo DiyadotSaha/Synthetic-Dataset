@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Nicole Chang",
+    "Patient_MRN": "135",
+    "Date_of_Birth": "1997-06-21",
+    "Date_of_Service": "2024-10-18",
+    "Identifying_Data_Chief_Complaint": "27-year-old Asian American female with schizoaffective disorder for medication follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Roommate (Sarah Kim) at 555-992-7741",
+    "Subjective": "Ms. Chang arrived to visit appearing upbeat and well-presented. Reports perfect adherence to lurasidone 80 mg taken nightly with dinner as instructed, never forgets due to evening routine. States feeling wonderful on current medication. Denies any hallucinations or paranoid thoughts for past five months. Sleep excellent at 8 hours nightly. Appetite good, weight healthy at 128 lbs. Working full-time as graphic designer for advertising agency, recently completed major successful campaign. Mood 'great' rated 9/10. Lives with roommate in apartment. Active yoga practice and hiking on weekends. Dating someone new for three months. Attending therapy biweekly for wellness. One year clean from all substances. Planning vacation to Japan. No safety concerns, denies SI/HI. (Seen by Dr. Lisa Nakamura, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Young adult, stylish casual wear, excellent grooming, bright affect",
+      "Speech": "Clear, animated, well-organized",
+      "Affect": "Bright, full range, enthusiastic",
+      "Mood": "Great",
+      "Thought_Content": "Future-oriented, creative, no psychotic symptoms",
+      "Thought_Process": "Organized, logical, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Lurasidone 80 mg PO qHS with food",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Living with roommate; employed full-time in creative field; one year sober; active social and romantic life; excellent functioning.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and sustained remission.",
+      "Continue lurasidone 80 mg qHS with food.",
+      "Commended on career success and lifestyle.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Lisa Nakamura, MD, Psychiatrist \u2014 Creative Industry Mental Health, 7721 Design District, San Francisco, CA 94103, Phone: (555) 661-9982, Fax: (555) 661-9983"
+  },
+  "ground_truth": "Adherent"
+}

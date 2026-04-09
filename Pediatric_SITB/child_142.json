@@ -1,0 +1,53 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Zara Ahmed",
+    "Patient_MRN": "142",
+    "Date_of_Birth": "2012-07-03",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by school nurse after expressing wish to 'not exist' due to cultural identity confusion.",
+    "Collateral_Contact_Information": "Mother: Fatima Ahmed, Phone: (555) 992-3377",
+    "Subjective": "Patient is a 13-year-old female from Pakistani-American family presenting after telling school nurse she wishes she did not exist because she does not fit in anywhere. She describes feeling too American for her family and community but too Pakistani for school peers. She reports passive thoughts of not wanting to be alive but denies plan, method, or intent. She clarifies she would never act because it would dishonor her family. Reports stress from balancing traditional expectations at home with peer culture at school. Wears hijab which she feels makes her stand out. Sleep and appetite normal. Enjoys reading and writing poetry. Close with cousins. Supportive parents. No prior mental health concerns. (Social Worker Aisha Patel, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Wears hijab, neat, age-appropriate",
+      "Behavior": "Polite, cooperative, respectful",
+      "Speech": "Clear, articulate",
+      "Mood": "Confused about identity",
+      "Affect": "Sad, appropriate",
+      "Thought_Process": "Organized, thoughtful",
+      "Thought_Content": "Passive suicidal ideation without plan or intent; identity confusion",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Excellent for age",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood related to bicultural identity development; passive suicidal ideation.",
+    "Psychosocial_Context": "Pakistani-American bicultural identity struggles; wears hijab; caught between two cultures; supportive family; close cousins; enjoys poetry.",
+    "Assessment_and_Plan": [
+      "Low risk: passive SI without plan or intent in context of identity development; strong cultural prohibition against suicide.",
+      "Strong protective factors: family support, cultural/religious values, cousins, poetry outlet, excellent insight.",
+      "Normal developmental challenge of bicultural identity integration.",
+      "Culturally-sensitive counseling for bicultural identity development.",
+      "Connect with Muslim youth groups where she can find peers navigating similar experiences.",
+      "School support for cultural inclusivity and combating potential discrimination.",
+      "Encourage poetry as creative outlet for identity exploration.",
+      "Safety plan with mother and nurse.",
+      "Follow-up with culturally-competent therapist within one week.",
+      "Safe for discharge with appropriate cultural support resources."
+    ],
+    "Author": "Aisha Patel, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

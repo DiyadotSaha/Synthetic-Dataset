@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Sophia Rossi",
+    "Patient_MRN": "047",
+    "Date_of_Birth": "1996-06-27",
+    "Date_of_Service": "2024-09-30",
+    "Identifying_Data_Chief_Complaint": "28-year-old White female with schizophrenia for medication management visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Father (Antonio Rossi) at 555-229-7643",
+    "Subjective": "Patient presented appearing upbeat and talkative. Reports meticulous adherence to asenapine 5 mg sublingual twice daily, which she takes religiously. States this medication works very well for her. No hallucinations for past four months. No paranoid or delusional thoughts currently. Sleep excellent at 7-9 hours nightly, sometimes oversleeping on weekends. Appetite robust, enjoys cooking, weight increased by 8 lbs to 161 lbs which concerns her slightly. Started new job as barista at coffee shop three weeks ago, enjoys customer interaction. Mood 'really good, happy' rated 8/10. Lives in shared apartment with two roommates who are friends from college. Active on social media and enjoys photography hobby. Attending online support group for young adults with mental illness which she finds validating. Two years sober from cannabis. Planning trip to visit family in Italy next month. No safety concerns, explicitly denies SI/HI. (Seen by Emily Watson, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Trendy dressed young female, good grooming, bright affect",
+      "Speech": "Clear, animated, enthusiastic",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Happy",
+      "Thought_Content": "Future-oriented, no psychotic symptoms",
+      "Thought_Process": "Organized, coherent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 2,
+      "GAD_7": 4,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Asenapine 5 mg SL BID",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, in remission.",
+    "Psychosocial_Context": "Lives with roommates; recently employed as barista; two years sober; socially active; planning international travel.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and symptom control.",
+      "Continue asenapine 5 mg SL BID.",
+      "Discussed weight management and healthy eating.",
+      "Congratulated on new employment.",
+      "Routine follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Emily Watson, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Young Adult Mental Health Center, 891 University Avenue, Boston, MA 02215, Phone: (555) 338-7729, Fax: (555) 338-7730"
+  },
+  "ground_truth": "Adherent"
+}

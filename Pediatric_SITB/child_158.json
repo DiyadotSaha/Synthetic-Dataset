@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Jordan Hayes",
+    "Patient_MRN": "158",
+    "Date_of_Birth": "2012-01-30",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old brought by grandmother after expressing wish to 'go to sleep and not wake up' due to grief over mother's death.",
+    "Collateral_Contact_Information": "Grandmother: Ruth Hayes, Phone: (555) 774-3355",
+    "Subjective": "Patient is a 13-year-old whose mother died in car accident six months ago, now living with grandmother. Patient told grandmother this morning wishes to 'go to sleep and not wake up' to be with mother. Endorses passive thoughts of not wanting to be alive without mother but denies plan, method, or intent. Clarifies would never do anything because grandmother needs them and mother would not want that. Describes profound sadness, frequent crying, difficulty at school. Sleep disrupted with nightmares about accident. Appetite poor. Withdrew from friends initially but recently reconnecting. Sees school counselor weekly. Enjoys art which reminds them of time with mother. Father minimally involved. Supportive grandmother doing her best. No prior mental health concerns. (Social Worker Keisha Washington, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Neat, sad, carrying mother's photo",
+      "Behavior": "Cooperative, tearful",
+      "Speech": "Soft, tearful quality",
+      "Mood": "Grieving deeply",
+      "Affect": "Depressed, tearful, appropriate to loss",
+      "Thought_Process": "Organized",
+      "Thought_Content": "Passive wishes to reunite with deceased mother; no active suicidal ideation",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Complicated grief related to mother's traumatic death; passive death wishes to reunite with deceased; adjustment disorder with depressed mood.",
+    "Psychosocial_Context": "Mother died in car accident 6 months ago; living with grandmother; father minimally involved; seeing school counselor; reconnecting with friends; uses art to connect with mother's memory.",
+    "Assessment_and_Plan": [
+      "Low risk: passive wishes to reunite with deceased mother; no active SI, plan, or intent.",
+      "Protective factors: grandmother's care and patient's awareness grandmother needs them, reconnecting with friends, art outlet, school counselor, insight.",
+      "Normal complicated grief reaction to traumatic loss of primary caregiver.",
+      "Grief therapy specializing in childhood traumatic loss.",
+      "Bereavement support group for children who lost parents.",
+      "Continue school counseling.",
+      "Encourage art as connection to mother and emotional outlet.",
+      "Support grandmother in her grief and caregiving role.",
+      "Safety plan with grandmother.",
+      "Follow-up with grief therapist within one week.",
+      "Safe for discharge with appropriate bereavement support."
+    ],
+    "Author": "Keisha Washington, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

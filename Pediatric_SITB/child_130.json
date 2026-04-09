@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Natalie Price",
+    "Patient_MRN": "130",
+    "Date_of_Birth": "2012-09-08",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by father after scratching arms with paperclip until bleeding.",
+    "Collateral_Contact_Information": "Father: Robert Price, Phone: (555) 226-7799",
+    "Subjective": "Patient is a 13-year-old female presenting after father discovered her scratching her arms with a paperclip until they bled. Patient explains she scratches when feeling overwhelmed by schoolwork and social stress to 'release the pressure inside.' She reports doing this 5-6 times over past month. She is clear she is not trying to kill herself or cause serious injury. She denies suicidal ideation, plan, or intent. She describes difficulty managing stress from advanced classes and feeling left out by peer group. Sleep normal, appetite good. Currently in accelerated academic program. Parents divorced, shares custody. Enjoys art. Two friends. No prior mental health treatment. (Social Worker Megan Sullivan, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Multiple superficial scratches on both forearms",
+      "Behavior": "Cooperative, somewhat embarrassed",
+      "Speech": "Clear, normal pace",
+      "Mood": "Stressed",
+      "Affect": "Appropriate, anxious undertone",
+      "Thought_Process": "Organized",
+      "Thought_Content": "Denies SI; NSSI for stress relief",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with anxiety; non-suicidal self-injury; academic stress.",
+    "Psychosocial_Context": "Advanced academic program; social stress; divorced parents with shared custody; artistic interests; limited peer connections; no prior treatment.",
+    "Assessment_and_Plan": [
+      "Low risk: NSSI without suicidal ideation.",
+      "Protective factors: both parents involved, art interest, academic strengths.",
+      "Scratches superficial; cleaned and bandaged.",
+      "Remove sharp objects; provide alternative stress relief tools.",
+      "Therapy for stress management and healthy coping skills.",
+      "Consider reducing academic pressure; may be over-scheduled.",
+      "Develop peer connections and social support.",
+      "Encourage art as healthy emotional outlet.",
+      "Safety plan emphasizing alternatives to scratching.",
+      "Follow-up with therapist within one week.",
+      "Safe for discharge with father supervision."
+    ],
+    "Author": "Megan Sullivan, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

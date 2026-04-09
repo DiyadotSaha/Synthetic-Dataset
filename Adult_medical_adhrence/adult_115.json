@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Victor Ramirez",
+    "Patient_MRN": "115",
+    "Date_of_Birth": "1979-08-30",
+    "Date_of_Service": "2024-06-20",
+    "Identifying_Data_Chief_Complaint": "45-year-old Hispanic male with chronic psychotic disorder with moderate symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Brother (Luis Ramirez) at 555-338-7729",
+    "Subjective": "Mr. Ramirez attended appointment with brother who supervises medications. Brother confirms patient takes ziprasidone 80 mg twice daily with meals via supervision, no missed doses. Despite good adherence, continues experiencing moderate symptom burden. Reports daily auditory hallucinations of voices arguing. Endorses paranoid thoughts that neighbors watch his activities. Sleep disrupted at 5-6 hours nightly. Appetite decreased, weight down 5 lbs to 161 lbs. Not working, receives disability. Lives with brother who provides support. Limited activities. Brother concerned about ongoing symptoms. Mood 'nervous' rated 4/10. Denies substance use. Safety: No SI/HI. (Assessed by Dr. Fernando Chavez, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged male, fair grooming, appears anxious",
+      "Speech": "Soft, accented, hesitant",
+      "Affect": "Anxious, restricted",
+      "Mood": "Nervous",
+      "Thought_Content": "Auditory hallucinations, paranoid ideation",
+      "Thought_Process": "Coherent, preoccupied"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 15,
+      "GAD_7": 16,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Ziprasidone 80 mg PO BID with food",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 97 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder with persistent symptoms and anxiety.",
+    "Psychosocial_Context": "Lives with brother; unemployed, on disability; limited activities; ongoing symptoms.",
+    "Assessment_and_Plan": [
+      "Good adherence through brother's supervision.",
+      "Already on maximum ziprasidone with ongoing symptoms.",
+      "Discussed augmentation with antidepressant.",
+      "Will add SSRI for anxiety and mood.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Dr. Fernando Chavez, MD, Psychiatrist \u2014 Hermanos Mental Health, 3421 Brotherhood Way, El Paso, TX 79901, Phone: (555) 447-8821, Fax: (555) 447-8822"
+  },
+  "ground_truth": "Adherent"
+}

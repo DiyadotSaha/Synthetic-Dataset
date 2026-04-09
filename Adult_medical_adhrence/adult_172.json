@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Lauren Davis",
+    "Patient_MRN": "172",
+    "Date_of_Birth": "1990-07-30",
+    "Date_of_Service": "2024-10-24",
+    "Identifying_Data_Chief_Complaint": "34-year-old White female with schizoaffective disorder for follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Husband (Michael Davis) at 555-883-7721",
+    "Subjective": "Ms. Davis presents well-groomed and positive. Reports doing well but acknowledges forgetting to refill her prescription on time last month, resulting in a 5-day gap without risperidone. During that period felt slightly more irritable and had one brief episode of thinking her neighbors might be watching her windows, though she quickly dismissed it. Now back on medication regularly. Sleep 7 hours. Appetite good, weight 142 lbs. Works as paralegal. Mood 'good now' rated 7/10. Lives with husband and infant. Busy with new motherhood. No substance use. Denies SI/HI. (Documented by Dr. Sarah Bennett, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professional attire, well-groomed",
+      "Speech": "Clear, coherent",
+      "Affect": "Appropriate, engaged",
+      "Mood": "Good now",
+      "Thought_Content": "Brief paranoid thought during medication lapse, resolved",
+      "Thought_Process": "Organized"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 4,
+      "GAD_7": 6,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 1 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerns.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, stable with recent brief medication interruption.",
+    "Psychosocial_Context": "Married with infant; employed as paralegal; managing new parenthood demands.",
+    "Assessment_and_Plan": [
+      "Addressed 5-day medication gap due to refill delay.",
+      "Set up automatic refills and delivery service given childcare demands.",
+      "Mild symptoms during gap, now resolved.",
+      "Continue risperidone 1 mg qHS.",
+      "Follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Dr. Sarah Bennett, MD, Psychiatrist \u2014 Family Wellness Psychiatry, 3450 Parent Services Drive, Boston, MA 02108, Phone: (555) 661-4487, Fax: (555) 661-4488"
+  },
+  "ground_truth": "Non-Adherent"
+}

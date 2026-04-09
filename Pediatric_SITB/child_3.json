@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Olivia Brooks",
+    "Patient_MRN": "003",
+    "Date_of_Birth": "2012-10-30",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by mother for low mood and social withdrawal.",
+    "Collateral_Contact_Information": "Mother: Elizabeth Brooks, Phone: (555) 012-3457",
+    "Subjective": "Patient is a 13-year-old female presenting with three months of gradual onset depressed mood, anhedonia, and social withdrawal. She reports no longer enjoying activities she previously loved including painting and spending time with friends. She has been declining social invitations and spending most time in her room on her phone. Sleep is increased with difficulty waking in mornings. Appetite is increased with weight gain of 8 pounds. She denies any thoughts of self-harm, suicidal ideation, or intent. Patient has been in therapy for six weeks with minimal improvement. Started fluoxetine 10mg daily two weeks ago. She reports feeling hopeless about her future but states she would never hurt herself. Mother notes patient's depression began around the time of best friend moving to another state. School performance has declined from A's to C's. (Social Worker Diana Flores, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Dressed in sweatpants, minimal effort in grooming",
+      "Behavior": "Cooperative, minimal spontaneity",
+      "Speech": "Low volume, monotone",
+      "Mood": "Depressed",
+      "Affect": "Blunted, congruent",
+      "Thought_Process": "Linear, slowed",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Fluoxetine 10mg daily",
+    "CURES_Report": "Fluoxetine on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, single episode, severe.",
+    "Psychosocial_Context": "Lives with mother and stepfather; biological father has limited involvement; recent loss of best friend to relocation; previously high-functioning student now struggling academically; socially isolated; engaged in treatment but limited response so far.",
+    "Assessment_and_Plan": [
+      "Severe depression with significant functional impairment but no suicidal ideation.",
+      "Protective factors: engaged in therapy, recently started medication, supportive mother, denies suicidal ideation despite severity.",
+      "Early in medication trial; too soon to assess full response to fluoxetine.",
+      "Continue current medication; coordinate with prescribing psychiatrist regarding possible dose increase at appropriate interval.",
+      "Increase frequency of therapy to twice weekly.",
+      "Activity scheduling and behavioral activation strategies to be implemented.",
+      "Mother educated on monitoring for worsening symptoms and medication side effects.",
+      "Close outpatient follow-up within 1 week.",
+      "Consider intensive outpatient program if no improvement in 4 weeks."
+    ],
+    "Author": "Diana Flores, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

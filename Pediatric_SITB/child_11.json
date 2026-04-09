@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Dylan Reyes",
+    "Patient_MRN": "011",
+    "Date_of_Birth": "2009-04-19",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old male brought by mother after being suspended from school for fighting.",
+    "Collateral_Contact_Information": "Mother: Teresa Reyes, Phone: (555) 341-7892",
+    "Subjective": "Patient is a 16-year-old male presenting with mother following his third school suspension this semester for physical altercations with peers. Patient reports feeling constantly irritable and describes quick escalation to anger when he perceives disrespect. He was involved in a fight yesterday after another student made a comment about his family. Patient acknowledges difficulty managing his temper but denies any intention to seriously injure anyone. He denies suicidal or homicidal ideation. Sleep has been poor with difficulty falling asleep, and he reports low energy during the day. Academic performance has declined, though he continues to attend auto shop classes which he enjoys. Mother notes patient has become increasingly withdrawn at home since his older brother was deployed overseas with the military six months ago. Patient expresses missing his brother and feeling pressure to 'be the man of the house.' He remains motivated to complete high school and pursue trade school for automotive repair. (Psychiatrist Dr. Alan Kim, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, bruising on knuckles",
+      "Behavior": "Guarded initially, becomes more open",
+      "Speech": "Normal rate, defensive tone",
+      "Mood": "Irritable",
+      "Affect": "Reactive, appropriate range",
+      "Thought_Process": "Linear, goal-directed",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Limited",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with disturbance of conduct, moderate; rule out intermittent explosive disorder.",
+    "Psychosocial_Context": "Lives with mother and younger siblings; older brother deployed overseas; interested in automotive repair; repeated school suspensions for fighting.",
+    "Assessment_and_Plan": [
+      "Behavioral dysregulation and anger management issues in context of family stressor.",
+      "Protective factors: close bond with deployed brother, career interests, mother's engagement.",
+      "Refer to anger management therapy and individual counseling.",
+      "Consider short-term SSRI trial if depressive symptoms persist; psychiatric follow-up in 2-3 weeks.",
+      "Coordinate with school counselor regarding behavioral intervention plan."
+    ],
+    "Author": "Dr. Alan Kim, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

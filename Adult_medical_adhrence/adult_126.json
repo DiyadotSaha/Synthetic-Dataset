@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Jerome Williams",
+    "Patient_MRN": "126",
+    "Date_of_Birth": "1975-04-12",
+    "Date_of_Service": "2024-07-23",
+    "Identifying_Data_Chief_Complaint": "49-year-old African American male with schizophrenia with residual symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Brother (Marcus Williams) at 555-661-3487",
+    "Subjective": "Mr. Williams attended appointment with case manager. Case manager confirms he takes olanzapine 10 mg nightly via supervised administration at program, no missed doses. Despite reliable adherence, continues experiencing moderate symptoms. Reports daily auditory hallucinations of voices discussing him. Endorses vague paranoid ideas. Sleep disrupted at 5-6 hours nightly. Appetite fair, weight stable at 182 lbs. Attends day program three days weekly. Not working, receives disability. Lives in group home. Limited social interaction. Mood 'okay' rated 5/10. Denies substance use. Flat during interview. Safety: No SI/HI. (Assessed by Patricia Johnson, LMSW, Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged male, adequate grooming, appears withdrawn",
+      "Speech": "Monotone, sparse, coherent",
+      "Affect": "Flat, minimal reactivity",
+      "Mood": "Neutral",
+      "Thought_Content": "Auditory hallucinations, vague paranoid ideation",
+      "Thought_Process": "Concrete, impoverished"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 12,
+      "GAD_7": 10,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Olanzapine 10 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Glucose 104 mg/dL; CBC normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with persistent symptoms.",
+    "Psychosocial_Context": "Lives in group home; unemployed, on disability; minimal engagement; case management services.",
+    "Assessment_and_Plan": [
+      "Good adherence through program supervision.",
+      "Persistent symptoms despite treatment.",
+      "Discussed medication adjustment.",
+      "Will increase olanzapine to 15 mg qHS.",
+      "Encouraged program participation.",
+      "Follow-up in 4 weeks."
+    ],
+    "RTC": "4 weeks",
+    "Author": "Note written by Patricia Johnson, LMSW, Social Worker \u2014 Community Care Homes, 5623 Group Living Way, Cleveland, OH 44102, Phone: (555) 447-8821, Fax: (555) 447-8822"
+  },
+  "ground_truth": "Adherent"
+}

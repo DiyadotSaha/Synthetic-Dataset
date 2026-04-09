@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "James Mitchell",
+    "Patient_MRN": "003",
+    "Date_of_Birth": "1995-09-21",
+    "Date_of_Service": "2024-07-10",
+    "Identifying_Data_Chief_Complaint": "29-year-old Caucasian male with schizophrenia presenting for routine check.",
+    "Collateral_Contact_Information": "Emergency Contact: Father (Robert Mitchell) at 555-234-8765",
+    "Subjective": "James comes in today looking well and reports he's been doing great. He's been taking his quetiapine 200 mg twice daily as prescribed without any issues. Says he uses a phone alarm to remind him and hasn't missed doses. He's excited to share that he recently started volunteering at an animal shelter three times per week, which he finds very rewarding. Sleep pattern is good, averaging 8-9 hours per night. Appetite is strong and he's gained 2 pounds, now at 195 lbs, which he attributes to better meal planning. Denies any hallucinations, paranoid thoughts, or unusual experiences. Mood is upbeat, rates it 8/10. His father reports noticing significant improvement in James's social engagement and overall functioning. James denies alcohol or drug use and is maintaining sobriety for over 6 months. He continues living at home with parents but is starting to discuss plans for transitional independent living in the next year. No safety concerns identified. (Assessment by Thomas Rivera, NP, Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Neat, well-groomed, casually dressed young male",
+      "Speech": "Fluent, normal rate and rhythm, engaged",
+      "Affect": "Full, appropriate",
+      "Mood": "Happy",
+      "Thought_Content": "No delusions, hallucinations, or paranoia",
+      "Thought_Process": "Well-organized, logical, coherent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Quetiapine 200 mg PO BID",
+    "CURES_Report": "Reviewed; no concerns.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Metabolic panel within normal limits; A1C 5.4%.",
+      "Recent_Imaging_Results": "No imaging performed."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable and well-controlled.",
+    "Psychosocial_Context": "Lives with parents; volunteers regularly at animal shelter; maintains sobriety; considering independent living transition.",
+    "Assessment_and_Plan": [
+      "Continue quetiapine 200 mg PO BID, excellent adherence noted.",
+      "Encourage continued volunteer work and social engagement.",
+      "Support exploration of independent living options with family.",
+      "Monitor weight and metabolic parameters at next visit.",
+      "Return in 8 weeks unless concerns arise."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Thomas Rivera, NP, Nurse Practitioner \u2014 Northside Mental Health Clinic, 800 Pine Avenue, Portland, OR 97204, Phone: (555) 345-6789, Fax: (555) 345-6790"
+  },
+  "ground_truth": "Adherent"
+}

@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Riley Martinez",
+    "Patient_MRN": "168",
+    "Date_of_Birth": "2011-10-16",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old brought by mother after expressing wish to 'disappear' due to chronic migraine pain.",
+    "Collateral_Contact_Information": "Mother: Ana Martinez, Phone: (555) 229-5544",
+    "Subjective": "Patient is a 14-year-old with chronic daily migraines presenting after telling mother wishes to disappear because cannot tolerate constant pain anymore. Endorses passive thoughts of not wanting to be alive but denies plan, method, or intent. Reports migraines daily for past 8 months despite multiple medication trials. Pain level 7-8/10 daily, affecting school attendance and all activities. Has missed 40+ school days this year. Stopped all extracurriculars. Few friends due to isolation. Currently on topiramate 100mg BID and sumatriptan PRN with minimal relief. Seeing neurologist monthly. Sleep disrupted by pain. Appetite affected. Supportive mother exhausted by care demands. No prior mental health concerns. (Pediatric Neurologist Dr. Elena Rodriguez, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "In visible pain, sunglasses indoors, requests dim lights",
+      "Behavior": "Cooperative, suffering",
+      "Speech": "Soft due to pain",
+      "Mood": "Suffering and desperate for relief",
+      "Affect": "Pained, depressed",
+      "Thought_Process": "Organized, pain-dominated",
+      "Thought_Content": "Passive suicidal ideation without plan or intent; pain-driven",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Topiramate 100mg BID, Sumatriptan 100mg PRN",
+    "CURES_Report": "Medications on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Chronic migraine, refractory; adjustment disorder with depressed mood secondary to chronic pain; passive suicidal ideation.",
+    "Psychosocial_Context": "Chronic daily migraines for 8 months; multiple failed treatments; significant school absence; social isolation; lost all activities; supportive mother; ongoing neurology care.",
+    "Assessment_and_Plan": [
+      "Low risk: passive SI without plan or intent driven by chronic uncontrolled pain.",
+      "Protective factors: mother support, hope for pain relief with new treatments.",
+      "Pain crisis requiring urgent intervention beyond current regimen.",
+      "Expedite neurology follow-up; consider referral to headache specialist or pain clinic.",
+      "Trial different medication classes or interventional approaches (nerve blocks, Botox).",
+      "Chronic pain psychology for coping strategies.",
+      "Address depression secondary to chronic pain; consider antidepressant with pain benefits.",
+      "School accommodations for chronic illness; homebound instruction if needed.",
+      "Support groups for teens with chronic pain.",
+      "Safety plan with mother.",
+      "Close follow-up; discharge contingent on pain management plan intensification."
+    ],
+    "Author": "Dr. Elena Rodriguez, MD (Pediatric Neurologist)"
+  },
+  "ground_truth": "yes"
+}

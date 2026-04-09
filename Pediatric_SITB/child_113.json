@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Riley Chen",
+    "Patient_MRN": "113",
+    "Date_of_Birth": "2013-03-14",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "12-year-old female brought by father for selective eating and nutrition concerns.",
+    "Collateral_Contact_Information": "Father: James Chen, Phone: (555) 012-3580",
+    "Subjective": "Patient is a 12-year-old female presenting with extremely limited food repertoire of approximately 8 foods, primarily carbohydrates. She reports anxiety about trying new foods due to concerns about texture and taste. She denies any thoughts of self-harm or suicidal ideation or concerns about weight or body image. Patient states she wishes she could eat more variety but feels unable to tolerate other foods. Eating pattern has been present since early childhood with minimal expansion. Recent pediatric visit showed normal growth and development though nutritionist expressed concern about nutritional balance. She denies any purging or excessive exercise. Socially and academically well-adjusted. Participates in swim team and has good friendships. Father reports mealtime has always been challenging but patient is otherwise healthy. (ED Physician Dr. Catherine Brown, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears healthy weight",
+      "Behavior": "Cooperative",
+      "Speech": "Clear, normal pace",
+      "Mood": "Fine",
+      "Affect": "Appropriate, reactive",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good - recognizes problem",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "Within normal limits",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Avoidant/restrictive food intake disorder, mild.",
+    "Psychosocial_Context": "Lives with father and older brother; longstanding selective eating without body image concerns; normal growth and development; socially and academically successful; engaged in athletics; motivated to expand food variety.",
+    "Assessment_and_Plan": [
+      "ARFID with sensory-based food avoidance; nutritionally concerning but growth adequate.",
+      "Protective factors: normal weight and growth, motivated for change, supportive father, otherwise well-adjusted, no suicidal ideation.",
+      "Referral to feeding disorders program for gradual food exposure therapy.",
+      "Continued nutritionist involvement to ensure nutritional adequacy.",
+      "Occupational therapy evaluation for sensory processing assessment.",
+      "Behavioral approach with systematic desensitization to new foods.",
+      "Father education on avoiding pressure while encouraging exploration.",
+      "Vitamin supplementation to address potential deficiencies.",
+      "Monitor growth parameters closely; follow-up in 4 weeks."
+    ],
+    "Author": "Dr. Catherine Brown, MD (ED Physician)"
+  },
+  "ground_truth": "No"
+}

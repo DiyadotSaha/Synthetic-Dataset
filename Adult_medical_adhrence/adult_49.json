@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Hannah Levy",
+    "Patient_MRN": "049",
+    "Date_of_Birth": "1991-11-08",
+    "Date_of_Service": "2024-10-16",
+    "Identifying_Data_Chief_Complaint": "32-year-old White female with schizoaffective disorder for follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Husband (David Levy) at 555-338-7712",
+    "Subjective": "Patient presented punctually appearing well and engaged. Reports excellent adherence to aripiprazole 20 mg each morning using automated pill dispenser that alerts her. States medication works very well. No hallucinations for past six months. No delusional thinking. Sleep quality excellent at 7-8 hours nightly. Appetite healthy, weight stable at 149 lbs. Working full-time as graphic designer from home office, recently landed major client contract. Mood 'excellent, very stable' rated 8/10. Married for two years, relationship strong and supportive. She and husband are trying to conceive and discussing medication safety with OB/GYN. Enjoys painting as hobby, recently had artwork displayed in local gallery. Attends therapy biweekly for wellness maintenance. Five years sober from alcohol. Socially engaged with friends and family. No safety concerns, denies SI/HI. (Interview by Dr. James Morrison, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-dressed professional, excellent grooming, bright affect",
+      "Speech": "Clear, articulate, organized",
+      "Affect": "Full range, appropriate, warm",
+      "Mood": "Excellent",
+      "Thought_Content": "Future-oriented, no psychotic symptoms",
+      "Thought_Process": "Logical, organized, insightful"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Aripiprazole 20 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All routine labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Married; working full-time from home; five years sober; artistically engaged; planning family; excellent functional recovery.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and sustained remission.",
+      "Discussed pregnancy planning and medication considerations.",
+      "Will coordinate with OB/GYN regarding aripiprazole safety in pregnancy.",
+      "Continue current regimen for now.",
+      "Close monitoring if becomes pregnant.",
+      "Follow-up in 6 weeks."
+    ],
+    "RTC": "6 weeks",
+    "Author": "Note written by Dr. James Morrison, MD, Psychiatrist \u2014 Women's Mental Health Center, 2341 Wellness Drive, Seattle, WA 98102, Phone: (555) 229-6643, Fax: (555) 229-6644"
+  },
+  "ground_truth": "Adherent"
+}

@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Jasmine Washington",
+    "Patient_MRN": "097",
+    "Date_of_Birth": "2010-09-12",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female brought by aunt for depression after romantic relationship breakup.",
+    "Collateral_Contact_Information": "Aunt: Denise Washington, Phone: (555) 345-6803",
+    "Subjective": "Patient is a 15-year-old female presenting with depressed mood for three weeks following breakup of six-month romantic relationship. She reports crying frequently, decreased interest in activities, and feelings of rejection. She denies any thoughts of self-harm or suicidal ideation. Patient states this was her first significant relationship and breakup is very painful. Sleep is increased and she stays in bed more than usual on weekends. Appetite is decreased but weight stable. She continues to attend school and maintains grades though concentration is reduced. Friends have been supportive and trying to engage her in activities. Lives with aunt after mother's death two years ago from cancer. Aunt reports patient has shown resilience through previous challenges. Patient expresses hope that pain will lessen with time. (Psychiatrist Dr. Michelle Cooper, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, minimal makeup",
+      "Behavior": "Cooperative, tearful at times",
+      "Speech": "Soft-spoken, normal pace",
+      "Mood": "Sad",
+      "Affect": "Depressed, congruent",
+      "Thought_Process": "Linear, somewhat ruminative about relationship",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good - recognizes pain is temporary",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood, moderate.",
+    "Psychosocial_Context": "Lives with aunt after mother's death; first romantic relationship recently ended; history of resilience through mother's loss; supportive peer network; maintaining academic function.",
+    "Assessment_and_Plan": [
+      "Depressive symptoms following first romantic breakup; layered on previous loss of mother.",
+      "Protective factors: history of resilience, supportive aunt and friends, maintains school function, good insight, no suicidal ideation.",
+      "Brief counseling to process grief of relationship loss and connection to prior losses.",
+      "Support group or individual therapy focusing on healthy relationships and coping with loss.",
+      "Encourage continued social engagement with friends.",
+      "Monitor for symptom progression; most breakup-related symptoms improve within 4-6 weeks.",
+      "Consider medication if symptoms persist beyond 8 weeks or worsen significantly.",
+      "Follow-up in 3 weeks to reassess."
+    ],
+    "Author": "Dr. Michelle Cooper, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

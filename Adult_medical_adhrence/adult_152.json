@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Jasmine Harper",
+    "Patient_MRN": "152",
+    "Date_of_Birth": "1992-03-08",
+    "Date_of_Service": "2024-09-19",
+    "Identifying_Data_Chief_Complaint": "32-year-old African American female with schizoaffective disorder presenting for follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Trina Harper) at 555-448-9921",
+    "Subjective": "Ms. Harper presents appearing upbeat and well-groomed for her quarterly check-in. When reviewing her medication routine, she mentions that her quetiapine bottle still has quite a few pills left and upon reflection admits she probably skips her bedtime dose around 3-4 times each week, usually when she stays up late working on her graphic design projects and doesn't want to feel groggy the next morning. She notes that while she hasn't had any major symptoms return, she has noticed feeling slightly more irritable on mornings after skipped doses and occasionally has fleeting suspicious thoughts about client feedback on her work, wondering if there's hidden criticism in their comments. These thoughts usually pass quickly. Sleep averages 6-7 hours on nights she takes medication, slightly less when she skips. Appetite is good, weight unchanged at 148 lbs. She continues her freelance graphic design work with steady clients and recently picked up two new projects. Mood described as 'pretty positive' rated 8/10. Lives alone, maintains regular contact with family, and attends a weekly art class. Denies substance use aside from occasional glass of wine. No safety concerns present, denies suicidal or homicidal ideation. (Seen by Monica Richards, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-dressed young woman, creative style, good hygiene, bright affect",
+      "Speech": "Clear, somewhat rapid when excited about projects, coherent",
+      "Affect": "Bright, full range, appropriate",
+      "Mood": "Pretty positive",
+      "Thought_Content": "Fleeting ideas of reference regarding work feedback, quickly dismissed",
+      "Thought_Process": "Organized, creative, occasionally tangential when discussing projects"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 5,
+      "GAD_7": 6,
+      "DAST_10": 0,
+      "AUDIT_C": 2,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Quetiapine 150 mg PO qHS",
+    "CURES_Report": "Reviewed; no issues identified.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 94 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, currently stable but with suboptimal adherence.",
+    "Psychosocial_Context": "Lives independently; self-employed as freelance graphic designer; active creative and social life.",
+    "Assessment_and_Plan": [
+      "Explored pattern of skipping evening medication to avoid morning drowsiness.",
+      "Discussed how even mild nonadherence may contribute to irritability and subtle symptom emergence.",
+      "Considered earlier dosing time (8 PM instead of bedtime) to reduce morning sedation.",
+      "Patient agreeable to trial of earlier administration.",
+      "Emphasized importance of consistent daily dosing for mood and psychotic symptom stability.",
+      "Continue quetiapine 150 mg daily, adjusted timing.",
+      "Follow-up in 6 weeks to assess adherence and symptom pattern."
+    ],
+    "RTC": "6 weeks",
+    "Author": "Note written by Monica Richards, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Creative Minds Behavioral Health, 2210 Arts District Ave, Austin, TX 78702, Phone: (555) 661-8874, Fax: (555) 661-8875"
+  },
+  "ground_truth": "Non-Adherent"
+}

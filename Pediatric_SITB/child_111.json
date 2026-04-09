@@ -1,0 +1,50 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Ethan Williams",
+    "Patient_MRN": "111",
+    "Date_of_Birth": "2012-06-14",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old male brought by father for panic attacks during school.",
+    "Collateral_Contact_Information": "Father: James Williams, Phone: (555) 567-8902",
+    "Subjective": "Patient is a 13-year-old male presenting with three episodes of sudden onset chest tightness, shortness of breath, and feeling like he might faint, all occurring at school over the past week. Episodes last approximately 10-15 minutes and resolve spontaneously. He reports intense fear during the episodes and worries about having another one. He denies any thoughts of self-harm or suicidal ideation. Patient has been avoiding crowded areas of school and asks to leave class frequently. Father reports patient has always been somewhat anxious but these physical symptoms are new. Medical workup by pediatrician last week including EKG was normal. Patient continues to play soccer and enjoys time with friends outside of school. (Psychiatrist Dr. Olivia Marshall, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears anxious",
+      "Behavior": "Cooperative, fidgety",
+      "Speech": "Rapid at times",
+      "Mood": "Nervous",
+      "Affect": "Anxious, appropriate",
+      "Thought_Process": "Coherent, preoccupied with physical symptoms",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Panic disorder, mild.",
+    "Psychosocial_Context": "Lives with both parents; strong family support; active in athletics; good peer relationships; no significant stressors identified.",
+    "Assessment_and_Plan": [
+      "New onset panic symptoms without clear trigger.",
+      "Protective factors: supportive family, engaged socially and athletically, good insight.",
+      "Psychoeducation regarding panic attacks and anxiety physiology provided to patient and father.",
+      "Recommend cognitive behavioral therapy with exposure component.",
+      "Relaxation and breathing techniques taught.",
+      "No medication indicated at this time given mild presentation.",
+      "Outpatient psychiatry referral provided; follow-up in 2 weeks."
+    ],
+    "Author": "Dr. Olivia Marshall, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

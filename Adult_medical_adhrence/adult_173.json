@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Isaiah Thomas",
+    "Patient_MRN": "173",
+    "Date_of_Birth": "1997-01-19",
+    "Date_of_Service": "2024-09-14",
+    "Identifying_Data_Chief_Complaint": "27-year-old African American male with schizophrenia for check-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Diane Thomas) at 555-447-3309",
+    "Subjective": "Patient arrives appearing casual and reports feeling well. When discussing medication routine, mentions he sometimes skips his quetiapine on nights when he goes out with friends because he doesn't want to feel drowsy - estimates this happens about 4 times monthly. During those nights he stays out late and sleeps in next day. Hasn't noticed major symptoms but did have one night where he felt people at a club were staring at him more than usual, though he attributed it to his outfit. Sleep 7-8 hours when takes medication, less organized sleep on nights he skips. Appetite good, weight 175 lbs. Works full-time as delivery driver. Mood 'good' rated 7/10. Lives with roommates. Active social life. No substance use, 6 months clean. Denies SI/HI. (Seen by Marcus Williams, LCSW, Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Trendy casual wear, good grooming",
+      "Speech": "Clear, coherent",
+      "Affect": "Appropriate, engaged",
+      "Mood": "Good",
+      "Thought_Content": "One brief idea of reference",
+      "Thought_Process": "Organized"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 3,
+      "GAD_7": 4,
+      "DAST_10": 0,
+      "AUDIT_C": 3,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Quetiapine 200 mg PO qHS",
+    "CURES_Report": "Reviewed; no issues.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable with intentional weekend dose skipping.",
+    "Psychosocial_Context": "Living with roommates; employed full-time; active social life; 6 months clean.",
+    "Assessment_and_Plan": [
+      "Discussed pattern of skipping doses on social nights due to sedation concerns.",
+      "Explored taking medication earlier in evening or switching to less sedating option.",
+      "Patient willing to try earlier dosing first.",
+      "Continue quetiapine 200 mg daily, adjusted timing to 8 PM.",
+      "Follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Marcus Williams, LCSW, Social Worker \u2014 Urban Young Men's Mental Health, 1890 Community Services Road, Baltimore, MD 21202, Phone: (555) 992-6632, Fax: (555) 992-6633"
+  },
+  "ground_truth": "Non-Adherent"
+}

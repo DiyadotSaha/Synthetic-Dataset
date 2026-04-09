@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Ryan McCarthy",
+    "Patient_MRN": "051",
+    "Date_of_Birth": "1993-03-25",
+    "Date_of_Service": "2024-09-11",
+    "Identifying_Data_Chief_Complaint": "31-year-old White male with schizophrenia for medication review.",
+    "Collateral_Contact_Information": "Emergency Contact: Father (Patrick McCarthy) at 555-772-9081",
+    "Subjective": "Patient arrived appearing casual and cooperative. States he takes his quetiapine 300 mg at bedtime consistently without missing doses, tracked in phone app. Reports feeling stable overall. Denies current hallucinations. No paranoid ideation. Sleep good at 7-8 hours nightly. Appetite normal, weight steady at 178 lbs. Working part-time at grocery store stocking shelves overnight, job going well for past eight months. Mood 'doing okay' rated 6/10. Lives in apartment with supportive roommate. Enjoys video gaming and watching sports. Attends young adult mental health group twice monthly. Three years sober from marijuana. Father visits weekly for dinner which patient enjoys. Mild social anxiety in crowds but manageable. No safety concerns, denies SI/HI. (Evaluated by Karen Sullivan, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, good hygiene, calm demeanor",
+      "Speech": "Clear, normal pace, coherent",
+      "Affect": "Appropriate, somewhat flat",
+      "Mood": "Okay",
+      "Thought_Content": "No psychotic symptoms currently",
+      "Thought_Process": "Organized, concrete"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 6,
+      "GAD_7": 8,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Quetiapine 300 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC and CMP within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable.",
+    "Psychosocial_Context": "Lives with roommate; employed part-time; three years sober; attending support group; family involvement.",
+    "Assessment_and_Plan": [
+      "Good medication adherence using app tracking.",
+      "Symptoms controlled, functioning well.",
+      "Continue quetiapine 300 mg qHS.",
+      "Encouraged continued group participation.",
+      "Follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Karen Sullivan, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Northside Behavioral Care, 3421 Main Street, Milwaukee, WI 53202, Phone: (555) 884-2217, Fax: (555) 884-2218"
+  },
+  "ground_truth": "Adherent"
+}

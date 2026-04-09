@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Andre Johnson",
+    "Patient_MRN": "050",
+    "Date_of_Birth": "1984-08-16",
+    "Date_of_Service": "2024-07-12",
+    "Identifying_Data_Chief_Complaint": "39-year-old African American male with chronic psychotic disorder with residual symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Gloria Johnson) at 555-992-4478",
+    "Subjective": "Mr. Johnson attended appointment with mother who supervises his medications. Confirms he takes olanzapine 20 mg every night at bedtime without missing doses. Despite reliable adherence, continues to experience ongoing symptoms at moderate level. Reports daily auditory hallucinations of two voices having conversations about him, usually saying negative things about his worth and abilities. These occur most frequently in afternoon and evening. Also describes occasional visual disturbances where shadows seem to move. Sleep affected, averaging 5-6 hours with middle insomnia. Appetite variable, weight increased by 14 lbs to 207 lbs over six months which concerns both patient and mother. Attends day program irregularly, mother reports he often doesn't want to go. Lives with mother who manages household. Not employed, receives disability. Social contact limited to mother and occasional visits from brother. Mood 'down, tired all the time' rated 3/10. Denies substance use. Mother appears frustrated with lack of improvement. Safety: Denies SI/HI. (Assessed by Dr. Victoria Brown, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Overweight male, adequate grooming, appears fatigued",
+      "Speech": "Soft, somewhat slow, coherent",
+      "Affect": "Blunted, minimal reactivity",
+      "Mood": "Down",
+      "Thought_Content": "Auditory hallucinations, visual disturbances",
+      "Thought_Process": "Concrete, impoverished thought"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 16,
+      "GAD_7": 12,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Olanzapine 20 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Fasting glucose 124 mg/dL concerning for prediabetes; lipids elevated with triglycerides 234 mg/dL; CBC normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder with partial response and metabolic concerns.",
+    "Psychosocial_Context": "Lives with mother; unemployed, on disability; minimal social engagement; limited functioning.",
+    "Assessment_and_Plan": [
+      "Good adherence with maternal supervision.",
+      "Persistent symptoms and metabolic side effects from olanzapine.",
+      "Significant weight gain and abnormal metabolic labs concerning.",
+      "Discussed medication change to address both symptoms and metabolic issues.",
+      "Will cross-taper to ziprasidone which has better metabolic profile.",
+      "Referred to nutritionist and exercise program.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Dr. Victoria Brown, MD, Psychiatrist \u2014 Metro Psychiatric Associates, 4567 Health Plaza, St. Louis, MO 63101, Phone: (555) 667-3329, Fax: (555) 667-3330"
+  },
+  "ground_truth": "Adherent"
+}

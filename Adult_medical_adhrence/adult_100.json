@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Alexis Turner",
+    "Patient_MRN": "100",
+    "Date_of_Birth": "1987-04-11",
+    "Date_of_Service": "2024-10-24",
+    "Identifying_Data_Chief_Complaint": "37-year-old African American female with schizoaffective disorder for medication check.",
+    "Collateral_Contact_Information": "Emergency Contact: Aunt (Patricia Turner) at 555-661-3487",
+    "Subjective": "Patient presented appearing well-groomed and upbeat. Reports perfect adherence to brexpiprazole 4 mg daily taken each morning using pill timer. States feeling wonderful. No hallucinations for eight months. No delusional thoughts. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 156 lbs. Working full-time as administrative assistant at law firm, performing excellently. Mood 'really happy' rated 9/10. Lives independently in condo she recently purchased. Active in professional women's networking group. Enjoys salsa dancing classes twice weekly. Attending therapy biweekly for wellness. Five years sober from alcohol. Dating and building social network. Feels accomplished. No safety concerns, denies SI/HI. (Evaluated by Dr. Denise Howard, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professionally dressed, excellent grooming, bright affect",
+      "Speech": "Clear, animated, articulate",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Really happy",
+      "Thought_Content": "Future-oriented, positive, no psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Brexpiprazole 4 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Homeowner; employed full-time at law firm; five years sober; active socially and professionally; excellent recovery.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and sustained remission.",
+      "Continue brexpiprazole 4 mg daily.",
+      "Congratulated on home purchase and career success.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Denise Howard, MD, Psychiatrist \u2014 Professional Women's Mental Wellness, 2341 Corporate Plaza, Washington, DC 20001, Phone: (555) 772-4498, Fax: (555) 772-4499"
+  },
+  "ground_truth": "Adherent"
+}

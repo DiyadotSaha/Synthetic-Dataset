@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Leah Anderson",
+    "Patient_MRN": "071",
+    "Date_of_Birth": "2012-12-11",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by father for reassurance after minor friendship conflict.",
+    "Collateral_Contact_Information": "Father: Andrew Anderson, Phone: (555) 123-4680",
+    "Subjective": "Patient is a 13-year-old female brought by father after having disagreement with friend yesterday about group project at school. She reports feeling upset that her friend dismissed her ideas but acknowledges they resolved the conflict by compromising. She denies any thoughts of self-harm or suicidal ideation. Patient states she felt hurt initially but is no longer angry and plans to work on the project together tomorrow. Sleep and appetite are normal. She is looking forward to weekend sleepover with different friend group. Father admits he may be overreacting due to his own anxiety but wanted professional reassurance that daughter is coping appropriately. Patient appears well-adjusted with good problem-solving skills and healthy peer relationships. (Social Worker Michael Rodriguez, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, relaxed demeanor",
+      "Behavior": "Cooperative, engaged appropriately",
+      "Speech": "Clear, animated",
+      "Mood": "Fine",
+      "Affect": "Euthymic, appropriate range",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Excellent for age",
+      "Judgment": "Excellent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "No mental health disorder; normal peer conflict resolution, mild.",
+    "Psychosocial_Context": "Lives with both parents; strong peer relationships; demonstrates age-appropriate conflict resolution skills; engaged in social activities; father anxious due to own mental health concerns.",
+    "Assessment_and_Plan": [
+      "Normal adolescent peer conflict with appropriate resolution; no pathology identified.",
+      "Protective factors: excellent insight and judgment, healthy problem-solving, strong peer network, supportive family.",
+      "Reassurance provided to father and patient that response is age-appropriate and healthy.",
+      "Praised patient's conflict resolution skills and emotional maturity.",
+      "Encouraged father to trust patient's coping abilities and avoid over-involvement.",
+      "Father may benefit from addressing his own anxiety separately.",
+      "No intervention needed; situation resolved appropriately by patient.",
+      "Open door for future concerns if needed."
+    ],
+    "Author": "Michael Rodriguez, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

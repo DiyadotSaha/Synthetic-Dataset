@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Caleb Martinez",
+    "Patient_MRN": "115",
+    "Date_of_Birth": "2010-12-25",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by mother for oppositional behavior and cannabis use concerns.",
+    "Collateral_Contact_Information": "Mother: Rosa Martinez, Phone: (555) 123-4682",
+    "Subjective": "Patient is a 15-year-old male presenting due to mother's concerns about increasing defiance and suspected marijuana use. He reports occasional cannabis use on weekends with friends but denies daily use or other substances. He denies any thoughts of self-harm or suicidal ideation. Patient admits to arguments with mother about curfew, chores, and academic effort. Reports feeling mother is too strict compared to peers' parents. Grades have declined from B's to C's this semester due to missing assignments. Denies substance dependence but acknowledges use was poor judgment. Maintains employment at local restaurant and has long-term girlfriend. Mother reports patient is respectful to other adults but argumentative with her. Recently violated curfew twice. Patient expresses willingness to follow rules if they are more reasonable. (Psychiatrist Dr. Alan Foster, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, good hygiene",
+      "Behavior": "Cooperative, somewhat defensive",
+      "Speech": "Normal rate and volume",
+      "Mood": "Frustrated",
+      "Affect": "Irritable at times, appropriate range",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Fair to impaired"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "Positive for THC",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Oppositional defiant disorder; cannabis use, mild.",
+    "Psychosocial_Context": "Lives with mother; conflicting expectations between mother and patient; declining academics; employed part-time; in relationship; occasional cannabis use; generally respectful to others outside home.",
+    "Assessment_and_Plan": [
+      "Oppositional behavior and cannabis experimentation in context of parent-teen conflict.",
+      "Protective factors: employed, maintaining relationship, respectful to non-family adults, no suicidal ideation.",
+      "Family therapy to improve communication and establish mutually agreed-upon expectations.",
+      "Substance use education and brief intervention; monitor for escalation.",
+      "Individual therapy for patient to develop coping and decision-making skills.",
+      "Behavioral contract with clear consequences and rewards.",
+      "School consultation if academic decline continues.",
+      "Random drug screening as accountability measure.",
+      "Follow-up in 3 weeks to assess compliance and family dynamics."
+    ],
+    "Author": "Dr. Alan Foster, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

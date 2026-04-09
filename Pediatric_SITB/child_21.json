@@ -1,0 +1,50 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Ethan Cooper",
+    "Patient_MRN": "021",
+    "Date_of_Birth": "2008-08-11",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "17-year-old male presents with severe depression and social isolation following chronic illness diagnosis.",
+    "Collateral_Contact_Information": "Father: Robert Cooper, Phone: (555) 381-6729",
+    "Subjective": "Patient is a 17-year-old male brought by his father for psychiatric evaluation due to severe depressive symptoms that have worsened significantly over the past three months following his diagnosis of Crohn's disease. He describes feeling overwhelmed by the chronic nature of his condition and reports that managing his symptoms has led to him missing substantial school time and withdrawing from his track team, which was previously central to his identity. He expresses profound sadness about losing his athletic pursuits and worries about his future limitations. Sleep is poor with early morning awakening, appetite is decreased, and he reports significant fatigue beyond what is attributable to his medical condition alone. He has lost interest in spending time with friends and describes feeling like a burden to his family due to medical expenses and care needs. Patient explicitly and repeatedly denies any suicidal ideation, intent, or plan, stating 'I'm not going to hurt myself, I just feel really stuck and hopeless about how different my life is now.' He is currently on mesalamine for his Crohn's disease and was started on sertraline 50mg three weeks ago. Father reports patient has always been goal-oriented and is concerned about his son's profound personality change. (ED Physician Dr. Samuel Green, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Thin, appears fatigued",
+      "Behavior": "Withdrawn, minimal engagement",
+      "Speech": "Monotone, decreased volume",
+      "Mood": "Hopeless",
+      "Affect": "Flat, constricted",
+      "Thought_Process": "Linear but markedly slowed",
+      "Thought_Content": "No suicidal or homicidal ideation; preoccupied with illness burden",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Sertraline 50mg daily, Mesalamine 800mg TID",
+    "CURES_Report": "Sertraline and mesalamine prescriptions on file",
+    "Laboratory_Data": {
+      "CBC": "Ordered - mild anemia consistent with chronic disease",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, severe, without psychotic features; adjustment disorder with depressed mood related to chronic medical illness.",
+    "Psychosocial_Context": "Lives with both parents; formerly competitive track athlete; recently diagnosed with Crohn's disease; experiencing significant life role changes; currently on antidepressant therapy.",
+    "Assessment_and_Plan": [
+      "Severe depression secondary to adjustment to chronic illness without suicidality.",
+      "Protective factors: supportive family, explicit denial of self-harm, engaged with medical treatment.",
+      "Increase sertraline to 100mg daily given inadequate response at current dose.",
+      "Refer to therapist specializing in chronic illness adjustment and adolescent development.",
+      "Coordinate care with gastroenterology to optimize Crohn's management as medical symptoms may be contributing to mood.",
+      "Consider peer support groups for young adults with chronic illness.",
+      "Close psychiatric follow-up in 5-7 days to reassess medication response and safety."
+    ],
+    "Author": "Dr. Samuel Green, MD (ED Physician)"
+  },
+  "ground_truth": "No"
+}

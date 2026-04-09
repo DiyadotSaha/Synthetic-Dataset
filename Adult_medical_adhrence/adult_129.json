@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Emily Foster",
+    "Patient_MRN": "129",
+    "Date_of_Birth": "1972-09-02",
+    "Date_of_Service": "2024-07-08",
+    "Identifying_Data_Chief_Complaint": "52-year-old White female with chronic psychotic disorder with ongoing moderate symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Laura Foster) at 555-221-6654",
+    "Subjective": "Ms. Foster attended visit with case manager who assists with treatment coordination. Case manager confirms patient takes risperidone long-acting injection 37.5 mg every two weeks at clinic without any missed appointments. Despite consistent medication delivery via injection, continues experiencing moderate symptoms. Reports intermittent auditory hallucinations several times weekly of indistinct whispers. Endorses vague paranoid concerns about people watching her at grocery store. Sleep adequate at 6-7 hours nightly. Appetite fair, weight stable at 148 lbs. Not working, receives disability benefits. Lives alone in subsidized apartment with weekly case management check-ins. Attends day program two days per week. Limited social contacts. Mood 'so-so' rated 5/10. Denies substance use. Cooperative with assessment. Safety: No SI/HI. (Evaluated by Rebecca Stone, LCSW, Licensed Clinical Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged female, simple clothing, adequate hygiene, somewhat guarded",
+      "Speech": "Quiet, brief responses, coherent",
+      "Affect": "Constricted, guarded",
+      "Mood": "So-so",
+      "Thought_Content": "Intermittent auditory hallucinations, mild paranoid ideation",
+      "Thought_Process": "Concrete, logical with some guardedness"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 11,
+      "GAD_7": 9,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone long-acting injection 37.5 mg IM every 2 weeks",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 98 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder with persistent moderate symptoms.",
+    "Psychosocial_Context": "Lives alone with case management support; unemployed on disability; limited social engagement; regular day program attendance.",
+    "Assessment_and_Plan": [
+      "Perfect adherence via long-acting injection.",
+      "Moderate residual symptoms despite regular medication.",
+      "Discussed option to increase injection dose.",
+      "Will increase to 50 mg every 2 weeks.",
+      "Continue case management and day program.",
+      "Follow-up in 4 weeks to assess response."
+    ],
+    "RTC": "4 weeks",
+    "Author": "Note written by Rebecca Stone, LCSW, Licensed Clinical Social Worker \u2014 County Mental Health Services, 9921 Public Health Plaza, Portland, OR 97201, Phone: (555) 776-4432, Fax: (555) 776-4433"
+  },
+  "ground_truth": "Adherent"
+}

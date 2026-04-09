@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Blake Peterson",
+    "Patient_MRN": "144",
+    "Date_of_Birth": "2010-11-03",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by father after cutting thighs with kitchen knife.",
+    "Collateral_Contact_Information": "Father: Greg Peterson, Phone: (555) 774-5599",
+    "Subjective": "Patient is a 15-year-old male presenting after father discovered him cutting his thighs with kitchen knife, creating deep lacerations. Patient explains he cut himself to punish himself for being 'a disappointment.' He reports this is third episode of cutting over past two months. He states clearly he is not trying to kill himself but to atone for failing everyone. He denies suicidal ideation, plan, or intent. Describes intense self-hatred related to poor academic performance, quitting football team, and feeling he has let down father who is coach. Sleep disrupted, appetite poor. Previously outgoing, now isolated. Used to have many friends. Father recently separated from mother. No prior mental health treatment. (ED Physician Dr. James Miller, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Multiple bandages on thighs, head down",
+      "Behavior": "Withdrawn, self-critical",
+      "Speech": "Quiet, self-deprecating",
+      "Mood": "Worthless",
+      "Affect": "Depressed, constricted",
+      "Thought_Process": "Organized but rigidly self-critical",
+      "Thought_Content": "Denies SI; NSSI as self-punishment; severe self-hatred",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Limited, harsh self-judgment",
+      "Judgment": "Poor"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder; non-suicidal self-injury; severe self-loathing; possible adjustment to parental separation.",
+    "Psychosocial_Context": "Academic decline; quit football; father is coach creating pressure; parents recently separated; social isolation; severe self-hatred; escalating NSSI.",
+    "Assessment_and_Plan": [
+      "Low risk for suicide but high concern for escalating NSSI; deep lacerations indicate severity.",
+      "Wounds required 15 sutures; wound care instructions provided.",
+      "Remove sharp objects from home environment.",
+      "Urgent psychiatric evaluation for depression and self-harm.",
+      "Individual therapy for depression, self-esteem, and father-son dynamics.",
+      "Family therapy to address father's expectations and parental separation impact.",
+      "Address academic pressure and athletic identity loss.",
+      "Consider antidepressant medication.",
+      "Safety plan with alternatives to self-harm.",
+      "Close follow-up within 24-48 hours.",
+      "Consider brief psychiatric admission if outpatient safety cannot be ensured."
+    ],
+    "Author": "Dr. James Miller, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

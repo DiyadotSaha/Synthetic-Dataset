@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Jessica Ramirez",
+    "Patient_MRN": "079",
+    "Date_of_Birth": "1993-11-14",
+    "Date_of_Service": "2024-09-06",
+    "Identifying_Data_Chief_Complaint": "30-year-old Hispanic female with schizoaffective disorder for medication check.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Carmen Ramirez) at 555-334-9921",
+    "Subjective": "Patient arrived appearing well and engaged. Reports excellent adherence to brexpiprazole 4 mg daily taken each morning using pill organizer. States feeling wonderful. No hallucinations for eight months. No paranoid thoughts. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 151 lbs. Working full-time as kindergarten teacher assistant, loves working with children. Mood 'really happy' rated 9/10. Lives with mother and younger siblings. Active volunteer at local food bank. Enjoys crafting and sells items on Etsy. Attending therapy monthly for wellness. Four years sober from alcohol. Considering returning to school for teaching degree. Strong family support. Feels life has purpose. No safety concerns, denies SI/HI. (Evaluated by Dr. Miguel Santos, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professionally dressed, excellent grooming, cheerful demeanor",
+      "Speech": "Clear, animated, coherent",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Really happy",
+      "Thought_Content": "Future-oriented, positive, no psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 3,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Brexpiprazole 4 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Lives with family; working full-time with children; four years sober; volunteer work; considering further education; excellent recovery.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and sustained remission.",
+      "Continue brexpiprazole 4 mg daily.",
+      "Encouraged educational aspirations.",
+      "Commended on career and volunteer work.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Miguel Santos, MD, Psychiatrist \u2014 Children's Health Psychiatry, 2341 Education Drive, San Antonio, TX 78205, Phone: (555) 667-3329, Fax: (555) 667-3330"
+  },
+  "ground_truth": "Adherent"
+}

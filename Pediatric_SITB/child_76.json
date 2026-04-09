@@ -1,0 +1,57 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Melissa Torres",
+    "Patient_MRN": "076",
+    "Date_of_Birth": "2009-12-21",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old female brought by best friend after ingesting unknown quantity of pills following pregnancy termination.",
+    "Collateral_Contact_Information": "Best friend: Samantha Lee, Phone: (555) 664-7788; Aunt: Rosa Torres, Phone: (555) 664-7789",
+    "Subjective": "Patient is a 16-year-old female brought by her best friend who found her lethargic with empty pill bottles after an intentional overdose. Patient underwent a medication abortion two days ago after discovering she was eight weeks pregnant. She did not tell her parents (strict Catholic family) and was assisted by her aunt. Per patient and friend, she ingested approximately 20 tablets of ibuprofen and 15 tablets of her aunt's trazodone three hours ago with intent to die because she feels overwhelming guilt, shame, and believes she has committed a mortal sin. She states she could not live with what she had done and saw death as both punishment and escape. She expresses ongoing wish to die and states she is only upset the attempt did not succeed. She continues to have cramping and bleeding from the abortion. No prior suicide attempts but has history of anxiety treated with escitalopram 10mg which she stopped taking one month ago when she suspected pregnancy. She has not told her boyfriend about the pregnancy or abortion. Lives with parents and younger siblings; aunt is only family member aware of pregnancy. Close relationship with friend who brought her in. (ED Physician Dr. Maria Sanchez, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Pale, appears ill, hospital gown, crying intermittently",
+      "Behavior": "Withdrawn, guilt-ridden, tearful",
+      "Speech": "Soft, breaking with sobs",
+      "Mood": "Guilty and devastated",
+      "Affect": "Depressed, anguished",
+      "Thought_Process": "Coherent but dominated by guilt and religious themes",
+      "Thought_Content": "Recent suicide attempt with intent; ongoing SI; pathological guilt; religious preoccupation",
+      "Cognition": "Lethargic but oriented x4",
+      "Insight": "Minimal, overwhelmed by guilt",
+      "Judgment": "Severely impaired"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Escitalopram 10mg (discontinued 1 month ago)",
+    "CURES_Report": "Escitalopram on file",
+    "Laboratory_Data": {
+      "CBC": "Mild anemia (consistent with abortion)",
+      "Urine_Tox": "Positive for trazodone",
+      "Pregnancy_test": "Positive (recent abortion)",
+      "Comprehensive_Metabolic_Panel": "WNL",
+      "Acetaminophen_level": "Negative"
+    },
+    "Diagnostic_Impression": "Suicide attempt by polypharmacy overdose; major depressive disorder, severe; complicated grief and pathological guilt related to pregnancy termination; religious/moral distress.",
+    "Psychosocial_Context": "Recent medication abortion; strict Catholic family unaware; discontinued psychiatric medication; history of anxiety; supportive aunt and friend; boyfriend unaware; religious guilt.",
+    "Assessment_and_Plan": [
+      "High risk: recent suicide attempt with clear intent; ongoing SI and regret attempt was not lethal.",
+      "Limited protective factors: friend and aunt support, though patient struggling to accept.",
+      "Medical management: overdose with trazodone and ibuprofen; supportive care; monitor sedation.",
+      "OB/GYN consultation for post-abortion bleeding and cramping.",
+      "Complex ethical/religious crisis requiring culturally sensitive intervention.",
+      "5150 hold placed.",
+      "Inpatient psychiatric admission required; specialized perinatal mental health preferred if available.",
+      "Restart escitalopram; consider dose increase.",
+      "Trauma therapy for abortion grief and religious/moral injury.",
+      "Carefully consider family notification given religious context; patient's autonomy and safety paramount.",
+      "Chaplain or spiritual counselor (patient's choice) for religious distress.",
+      "Longer-term: supportive therapy for complex decision-making and grief integration."
+    ],
+    "Author": "Dr. Maria Sanchez, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Christina Lopez",
+    "Patient_MRN": "198",
+    "Date_of_Birth": "1992-10-08",
+    "Date_of_Service": "2024-10-16",
+    "Identifying_Data_Chief_Complaint": "32-year-old Hispanic female with schizoaffective disorder in suicidal crisis.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Maria Lopez) at 555-992-6654",
+    "Subjective": "Ms. Lopez brought by crisis team after sister found her with noose prepared in closet. Sister reports patient stopped lurasidone completely 8 weeks ago due to nausea, saying she'd rather be sick mentally than physically. Since then, complete breakdown. Profound depression with complete inability to function, hasn't left bed except for suicide preparations. Constant auditory hallucinations telling her she's worthless burden and family hates her. Paranoid beliefs that coworkers spread rumors causing job loss and ruining her reputation. No sleep for days before today. Refusing food, weight down 18 lbs. Lost teaching job 6 weeks ago after extended absence. Evicted last week, living with sister temporarily. Sister found detailed suicide plan and goodbye letters to family members. Patient states she planned to hang herself tonight after sister left for work. Admits ongoing plan to complete suicide. Mood 'there's no point anymore' rated 0/10. Denies substance use. Safety: active SI with detailed plan, prepared means, strong intent, imminent danger. (Assessed by Dr. Sandra Martinez, Crisis Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, malnourished, poor eye contact, appears profoundly hopeless",
+      "Speech": "Whispered, minimal, monotone",
+      "Affect": "Profoundly depressed, flat, hopeless",
+      "Mood": "There's no point anymore",
+      "Thought_Content": "Active SI with detailed plan and prepared means, command hallucinations to die, paranoid ideation",
+      "Thought_Process": "Severely slowed, ruminative, perseverative on death"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 27,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Active suicidal ideation with specific plan, prepared means, and imminent intent"
+    },
+    "Current_Medications": "Lurasidone 80 mg PO qHS with food (stopped 8 weeks ago)",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "No recent labs available.",
+      "Recent_Imaging_Results": "No imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, with life-threatening imminent suicidal crisis after medication discontinuation.",
+    "Psychosocial_Context": "Recently evicted; recently unemployed; living temporarily with sister; imminent suicide plan with prepared means.",
+    "Assessment_and_Plan": [
+      "Life-threatening imminent crisis after stopping lurasidone 8 weeks ago.",
+      "Active SI with detailed plan, prepared noose, imminent intent for tonight.",
+      "Command hallucinations reinforcing suicide.",
+      "Extreme imminent danger requires immediate intervention.",
+      "Meets criteria for involuntary hospitalization - imminent danger to self.",
+      "5150 hold initiated.",
+      "Emergency ambulance transport to locked inpatient psychiatric unit.",
+      "One-to-one suicide precautions essential.",
+      "Will restart lurasidone with anti-nausea medication.",
+      "Consider ECT given severity and resistance.",
+      "Sister to remove all potential means from home.",
+      "Extended hospitalization anticipated."
+    ],
+    "RTC": "Post-hospital discharge",
+    "Author": "Note written by Dr. Sandra Martinez, Crisis Psychiatrist \u2014 Mobile Crisis Response Team, 1500 Crisis Services Road, Miami, FL 33101, Phone: (555) 334-8874, Fax: (555) 334-8875"
+  },
+  "ground_truth": "Non-Adherent"
+}

@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Brandon Taylor",
+    "Patient_MRN": "199",
+    "Date_of_Birth": "1986-03-15",
+    "Date_of_Service": "2024-10-19",
+    "Identifying_Data_Chief_Complaint": "38-year-old African American male with schizophrenia in crisis with severe self-neglect.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Joyce Taylor) at 555-661-8874",
+    "Subjective": "Patient brought by Adult Protective Services after wellness check revealed severe self-neglect and unsafe living conditions. Mother reports he completely stopped paliperidone ER 14 weeks ago refusing medications, claiming they 'blocked his connection to God.' Since discontinuation, complete deterioration into psychotic state. Believes God communicating directly with him through television, must follow divine commands. Hearing constant voices of angels and demons battling over his soul. Stopped all self-care - no bathing, changing clothes, or cleaning apartment for months. APS found apartment with no working utilities, covered in feces and garbage, infested with vermin. Patient found sitting in feces, severely malnourished and dehydrated, appearing near death. Estimated 45-lb weight loss, skin infections visible. Lost job 12 weeks ago. Not eating because voices tell him fasting brings him closer to God. No sleep observed, constant praying and talking to himself. Mother unable to reach him for 2 months, door barricaded. Patient disorganized, responding to hallucinations, no insight into condition. Mood 'I must obey God's will' unable to assess reality. Safety: grave disability, near death from self-neglect. (Evaluated by Dr. Patricia Williams, ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Severely malnourished to point of emaciation, covered in feces, skin infections, appears near death, disorganized",
+      "Speech": "Disorganized, religious preoccupation, responding to internal stimuli",
+      "Affect": "Detached, internally preoccupied, blunted",
+      "Mood": "I must obey God's will",
+      "Thought_Content": "Grandiose religious delusions, command auditory hallucinations from religious figures, no insight",
+      "Thought_Process": "Severely disorganized, illogical, dominated by religious psychotic themes"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 24,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Unable to adequately assess; grave disability"
+    },
+    "Current_Medications": "Paliperidone ER 12 mg PO daily (stopped 14 weeks ago)",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Life-threatening starvation and dehydration; AKI with creatinine 3.5; severe electrolyte abnormalities; albumin 1.8; severe anemia; multiple infections.",
+      "Recent_Imaging_Results": "Chest X-ray shows possible aspiration pneumonia."
+    },
+    "Diagnostic_Impression": "Schizophrenia with severe psychotic crisis and life-threatening medical complications from self-neglect after medication discontinuation; grave disability.",
+    "Psychosocial_Context": "Recently unemployed; living in uninhabitable conditions; APS involved; near death from starvation and infections; requires guardian.",
+    "Assessment_and_Plan": [
+      "Life-threatening crisis 14 weeks after stopping paliperidone.",
+      "Near death from starvation, dehydration, infections, self-neglect.",
+      "Grave disability - completely unable to care for self.",
+      "Meets criteria for involuntary hospitalization.",
+      "5150 hold and conservatorship evaluation initiated.",
+      "Immediate transfer to medical ICU for stabilization.",
+      "Treat infections, starvation, dehydration as medical emergencies.",
+      "Will restart antipsychotic once medically stable.",
+      "APS and conservatorship proceedings for long-term care.",
+      "Board and care or conservatorship placement essential.",
+      "Extended hospitalization required."
+    ],
+    "RTC": "Post-hospital discharge with conservatorship",
+    "Author": "Note written by Dr. Patricia Williams, ED Physician \u2014 County Hospital Emergency Department, 1100 Hospital Road, Oakland, CA 94601, Phone: (555) 773-6621, Fax: (555) 773-6622"
+  },
+  "ground_truth": "Non-Adherent"
+}

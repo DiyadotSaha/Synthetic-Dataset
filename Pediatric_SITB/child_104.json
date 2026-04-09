@@ -1,0 +1,55 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Lucas Anderson",
+    "Patient_MRN": "104",
+    "Date_of_Birth": "2011-09-14",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male brought by stepmother after cutting arms with razor blade to 'feel pain instead of numbness.'",
+    "Collateral_Contact_Information": "Stepmother: Marie Anderson, Phone: (555) 447-9988",
+    "Subjective": "Patient is a 14-year-old male presenting after stepmother discovered fresh cuts on both forearms made with a razor blade. Patient explains he has been feeling emotionally numb for the past month and cut himself to 'feel something real.' He describes the cutting as a way to confirm he is alive and to create physical pain that distracts from emotional emptiness. He is clear he was not trying to kill himself, explaining the cuts are superficial and horizontal. He denies suicidal ideation, plan, or intent. He reports the numbness started after his best friend moved to another state one month ago. He describes going through motions at school and home but feeling disconnected. Sleep and appetite normal. He continues playing video games but without enjoyment. Stepmother is concerned and supportive. Father travels frequently for work. No prior mental health treatment. (Psychiatric Nurse Practitioner Rachel Kim, PMHNP)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casual dress, multiple superficial cuts visible on forearms",
+      "Behavior": "Cooperative, emotionally flat",
+      "Speech": "Monotone, normal rate",
+      "Mood": "Numb and empty",
+      "Affect": "Markedly blunted",
+      "Thought_Process": "Organized",
+      "Thought_Content": "Denies SI; non-suicidal self-injury; emotional numbing",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair, recognizes concerning behavior",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder with anhedonia and emotional numbing; non-suicidal self-injury; adjustment to loss of primary friendship.",
+    "Psychosocial_Context": "Best friend moved away one month ago; father frequently absent for work; supportive stepmother; emotional numbing and anhedonia; no prior mental health treatment.",
+    "Assessment_and_Plan": [
+      "Low risk for suicide: non-suicidal self-injury without suicidal ideation.",
+      "Protective factors: stepmother support, still engaged in activities (even if without pleasure).",
+      "Cuts superficial; cleaned and bandaged; no sutures needed.",
+      "NSSI as maladaptive coping for depression and grief over friendship loss.",
+      "Remove access to sharp objects including razors.",
+      "Urgent psychiatric evaluation for depression; consider antidepressant medication.",
+      "Individual therapy; DBT skills for emotion regulation and alternative coping.",
+      "Facilitate continued contact with friend who moved (video calls, visits).",
+      "Help develop local peer connections to replace lost friendship.",
+      "Safety plan emphasizing alternatives to cutting when feeling numb.",
+      "Follow-up with psychiatrist within one week for medication evaluation.",
+      "Safe for discharge with stepmother supervision and sharp object removal."
+    ],
+    "Author": "Rachel Kim, PMHNP (Psychiatric Nurse Practitioner)"
+  },
+  "ground_truth": "yes"
+}

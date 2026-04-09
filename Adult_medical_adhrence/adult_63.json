@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Aisha Mohammed",
+    "Patient_MRN": "063",
+    "Date_of_Birth": "1992-08-07",
+    "Date_of_Service": "2024-10-09",
+    "Identifying_Data_Chief_Complaint": "32-year-old female with schizophrenia for routine follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Fatima Mohammed) at 555-443-9921",
+    "Subjective": "Patient arrived wearing hijab, appearing calm and cooperative. Reports excellent adherence to ziprasidone 80 mg twice daily with meals using timer reminders. States medication works well for her. No hallucinations for past three months. No paranoid thoughts. Sleep good at 7-8 hours nightly. Appetite healthy, weight stable at 143 lbs. Working part-time as library assistant, enjoying the quiet environment and helping patrons. Mood 'content' rated 7/10. Lives with sister's family which provides cultural and religious support. Attends mosque regularly for prayers and community connection. Enjoys reading and calligraphy. Engaged in online mental health support group for Muslim women. No substance use, adheres to religious practices. Family very supportive of treatment. No safety concerns, denies SI/HI. (Evaluated by Dr. Sarah Ibrahim, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Modestly dressed in hijab, good grooming, calm demeanor",
+      "Speech": "Soft-spoken, clear, coherent",
+      "Affect": "Appropriate, calm",
+      "Mood": "Content",
+      "Thought_Content": "No psychotic symptoms",
+      "Thought_Process": "Organized, logical"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 3,
+      "GAD_7": 4,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Ziprasidone 80 mg PO BID with food",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, in remission.",
+    "Psychosocial_Context": "Lives with sister's family; working part-time; active in mosque community; strong cultural and family support.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and symptom control.",
+      "Continue ziprasidone 80 mg BID with meals.",
+      "Encouraged continued religious and family engagement.",
+      "Routine follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Dr. Sarah Ibrahim, MD, Psychiatrist \u2014 Multicultural Mental Health Center, 3421 Diversity Plaza, Dearborn, MI 48126, Phone: (555) 229-8847, Fax: (555) 229-8848"
+  },
+  "ground_truth": "Adherent"
+}

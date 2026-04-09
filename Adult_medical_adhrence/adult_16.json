@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Tyler Bennett",
+    "Patient_MRN": "016",
+    "Date_of_Birth": "1996-04-07",
+    "Date_of_Service": "2024-07-18",
+    "Identifying_Data_Chief_Complaint": "28-year-old Caucasian male with schizophrenia presenting for routine follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Linda Bennett) at 555-223-8954",
+    "Subjective": "Mr. Bennett arrives on time appearing relatively well. Reports he's been doing okay overall but mentions his prescription ran out about 10 days ago and he hasn't been able to get it refilled yet because he's been short on money after his car repairs. States he was taking his quetiapine 300 mg regularly before that but has now been without it for the past week and a half. He notes feeling slightly more 'on edge' and having some trouble falling asleep the past few nights. Denies any significant hallucinations but mentions occasionally seeing things move in his peripheral vision, which he brushes off. Mood is described as 'alright, just stressed about money.' He's maintained his job at a fast-food restaurant and continues living in his own apartment. Appetite normal, weight stable at 175 lbs. Denies substance use including alcohol. His mother has offered to help with medication costs but he hasn't followed up yet due to pride. No current safety concerns, denies suicidal or homicidal ideation. (Assessment by Carlos Mendez, NP, Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed young male, appropriate grooming",
+      "Speech": "Clear, normal rate and volume",
+      "Affect": "Appropriate, mildly anxious",
+      "Mood": "Slightly stressed",
+      "Thought_Content": "Mild perceptual disturbances, financial worries",
+      "Thought_Process": "Organized and coherent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 6,
+      "GAD_7": 7,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Quetiapine 300 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerns.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "No recent labs available.",
+      "Recent_Imaging_Results": "No imaging performed."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable but at risk for decompensation due to medication lapse.",
+    "Psychosocial_Context": "Lives independently; employed in food service; financial constraints affecting medication access; mother willing to provide support.",
+    "Assessment_and_Plan": [
+      "Discussed impact of medication gap on symptom stability.",
+      "Provided information about patient assistance programs and pharmacy discount cards.",
+      "Encouraged acceptance of family support for medication costs.",
+      "Wrote new prescription with refills and discussed pharmacy options.",
+      "Emphasized importance of continuous medication to prevent relapse.",
+      "Follow-up in 4 weeks to ensure medication access sustained."
+    ],
+    "RTC": "4 weeks",
+    "Author": "Note written by Carlos Mendez, NP, Nurse Practitioner \u2014 Southwest Community Health, 2500 Desert Road, Phoenix, AZ 85004, Phone: (555) 889-1234, Fax: (555) 889-1235"
+  },
+  "ground_truth": "Non-Adherent"
+}

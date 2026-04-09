@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Tamika Brown",
+    "Patient_MRN": "034",
+    "Date_of_Birth": "1983-03-29",
+    "Date_of_Service": "2024-09-22",
+    "Identifying_Data_Chief_Complaint": "41-year-old African American female with schizoaffective disorder for scheduled visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Aunt (Dorothy Brown) at 555-991-2234",
+    "Subjective": "Ms. Brown attended appointment punctually appearing well-groomed and animated. Reports perfect adherence to aripiprazole 15 mg taken each morning, which she describes as essential to her wellness. States she is thriving overall. Denies any hallucinations or paranoid thoughts currently. Sleep is good at 7-8 hours per night, waking refreshed. Appetite excellent, enjoys cooking, weight stable at 168 lbs. She has been working as a certified peer specialist at the community mental health center for past year and recently received employee of the month recognition. Mood is 'fantastic' rated 9/10, feels energized and purposeful. Continues attending NAMI support group monthly which she finds validating. Recently reconnected with her teenage daughter after years of estrangement, slowly rebuilding that relationship through supervised visits. Maintains sobriety - three years clean from cocaine. Engaged in regular exercise including Zumba classes twice weekly. Very active in her church community. No safety concerns, explicitly denies SI/HI. Expresses gratitude for current stability. (Seen by Dr. Evelyn Harris, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-dressed, excellent grooming, animated and engaging",
+      "Speech": "Fluent, rapid at times reflecting enthusiasm, clear",
+      "Affect": "Bright, full range, congruent",
+      "Mood": "Fantastic",
+      "Thought_Content": "Future-oriented, positive, no psychotic features",
+      "Thought_Process": "Organized, coherent, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Aripiprazole 15 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Complete blood count and comprehensive metabolic panel all within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Working as certified peer specialist; three years sober; reconnecting with daughter; active in church and support groups; strong recovery.",
+    "Assessment_and_Plan": [
+      "Exceptional medication adherence and illness self-management.",
+      "Continue aripiprazole 15 mg daily given sustained remission.",
+      "Commended patient on professional success and family reconciliation efforts.",
+      "Encouraged continued peer support and recovery activities.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Evelyn Harris, MD, Psychiatrist \u2014 Hope Community Mental Health, 891 Peachtree Street, Atlanta, GA 30308, Phone: (555) 667-3421, Fax: (555) 667-3422"
+  },
+  "ground_truth": "Adherent"
+}

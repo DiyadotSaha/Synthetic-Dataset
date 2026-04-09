@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Brian Davis",
+    "Patient_MRN": "148",
+    "Date_of_Birth": "1998-10-12",
+    "Date_of_Service": "2024-09-30",
+    "Identifying_Data_Chief_Complaint": "26-year-old White male with schizoaffective disorder for routine check.",
+    "Collateral_Contact_Information": "Emergency Contact: Father (Robert Davis) at 555-883-9921",
+    "Subjective": "Patient arrived appearing relaxed and engaged. Reports excellent adherence to ziprasidone 120 mg twice daily with meals as instructed, sets phone reminders and tracks in app. States doing great. Experiences very rare brief suspicious thoughts maybe once every few months which he dismisses. No hallucinations. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 168 lbs. Working full-time as IT support specialist, enjoys problem-solving aspects of job. Mood 'great' rated 8/10. Lives with roommate in apartment. Plays in recreational soccer league. Active gaming and coding hobbies. Eleven months sober from marijuana. Building good social circle through work and soccer. Planning to get own apartment soon. No safety concerns, denies SI/HI. (Seen by Dr. Andrew Chen, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casual tech company attire, good grooming, relaxed demeanor",
+      "Speech": "Clear, articulate, organized",
+      "Affect": "Appropriate, euthymic, engaged",
+      "Mood": "Great",
+      "Thought_Content": "Future-oriented, minimal residual symptoms with insight",
+      "Thought_Process": "Organized, logical, coherent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 3,
+      "GAD_7": 4,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Ziprasidone 120 mg PO BID with food",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits; recent EKG normal QTc.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, stable with excellent functioning.",
+    "Psychosocial_Context": "Living with roommate; employed full-time in IT; eleven months sober; active recreational and social life.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and stability.",
+      "Continue ziprasidone 120 mg BID with meals.",
+      "Commended on employment and recovery.",
+      "Supportive of independence goals.",
+      "Routine follow-up in 10 weeks."
+    ],
+    "RTC": "10 weeks",
+    "Author": "Note written by Dr. Andrew Chen, MD, Psychiatrist \u2014 Tech Industry Mental Health, 7821 Silicon Valley Way, San Jose, CA 95113, Phone: (555) 661-5532, Fax: (555) 661-5533"
+  },
+  "ground_truth": "Adherent"
+}

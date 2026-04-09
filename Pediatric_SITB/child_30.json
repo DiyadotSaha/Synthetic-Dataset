@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Madison Taylor",
+    "Patient_MRN": "030",
+    "Date_of_Birth": "2011-06-28",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by mother after journaling detailed plan to overdose on mother's prescription medications.",
+    "Collateral_Contact_Information": "Mother: Jennifer Taylor, Phone: (555) 667-8822",
+    "Subjective": "Patient is a 14-year-old female presenting after her mother discovered her private journal containing detailed entries about planning to overdose on mother's benzodiazepines and sleeping pills stored in the master bathroom. The journal entries, written over the past five days, describe counting the pills, researching lethal doses online, and planning to take them when her mother goes to her night shift as a nurse. Patient confirms the accuracy of these journal entries and states she developed this plan because she feels responsible for her parents' divorce finalized last month and believes both parents would be better off without the conflict she causes. However, she denies current intent to follow through, explaining that writing about it helped her 'get it out' and she has not actually accessed the medications. She reports her father moved out three months ago, and she now splits time between homes which she finds exhausting and destabilizing. Sleep fragmented, particularly on transition nights. One close friend at school who is supportive. Started seeing school counselor bi-weekly. (ED Physician Dr. Rachel Stone, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Appears tired, appropriate dress for age",
+      "Behavior": "Anxious, wringing hands, maintains eye contact",
+      "Speech": "Rapid when anxious, normal volume",
+      "Mood": "Guilty and overwhelmed",
+      "Affect": "Anxious, tearful at times",
+      "Thought_Process": "Organized but preoccupied",
+      "Thought_Content": "Active SI with researched plan but denies intent",
+      "Cognition": "Alert, fully oriented",
+      "Insight": "Emerging, recognizes excessive self-blame",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood related to parental divorce; suicidal ideation with plan but no intent; pathological guilt.",
+    "Psychosocial_Context": "Recent parental divorce with joint custody arrangement; struggles with transitions between homes; inappropriate self-blame for divorce; supportive peer; engaged with school counselor.",
+    "Assessment_and_Plan": [
+      "Moderate risk: active SI with specific researched plan involving identified medications but denies intent; planning behavior concerning.",
+      "Some protective factors: supportive friend, engagement with school counselor, mother's attentiveness.",
+      "Immediate means restriction: mother to secure all medications in locked container, remove from home if possible.",
+      "Crisis evaluation indicates need for intensive intervention but not necessarily inpatient.",
+      "Strong recommendation for immediate outpatient therapy escalation; DBT or CBT for adolescents.",
+      "Both parents need education on daughter's misplaced guilt and coordination of care across households.",
+      "Consider partial hospitalization program versus close outpatient follow-up within 24 hours.",
+      "Mother agrees to enhanced supervision and medication security; father to be contacted for coordination.",
+      "Discharge contingent on outpatient appointment confirmation and parental safety plan."
+    ],
+    "Author": "Dr. Rachel Stone, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

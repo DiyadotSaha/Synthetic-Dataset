@@ -1,0 +1,50 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Jasmine Carter",
+    "Patient_MRN": "190",
+    "Date_of_Birth": "1993-07-18",
+    "Date_of_Service": "2024-09-30",
+    "Identifying_Data_Chief_Complaint": "31-year-old African American female with schizoaffective disorder in suicidal crisis.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Michelle Carter) at 555-447-9908",
+    "Subjective": "Ms. Carter brought to ED by ambulance after suicide attempt - overdosed on 40 acetaminophen tablets. Sister found her unconscious and called 911. After medical stabilization, psychiatry consulted. Sister reports patient stopped ziprasidone completely 8 weeks ago due to cost and weight gain concerns. Since then, severe depression with daily suicidal thoughts, complete loss of function. Reports constant auditory hallucinations of voice telling her to kill herself and that she's burden on family. Paranoid beliefs that sister secretly wants her dead. Hasn't left bed in 2 weeks except for attempt. Sleep minimal. Refusing food, weight down 18 lbs. Lost job 6 weeks ago, stopped answering calls. Lives alone but sister checking daily - missed yesterday which allowed attempt. Mood 'I should be dead' rated 0/10. Denies substance use. Safety: active SI with ongoing intent, states she'll try again, command hallucinations reinforcing suicide. (Assessed by Dr. Lisa Johnson, ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Post-overdose, disheveled, poor hygiene, flat affect, appears hopeless",
+      "Speech": "Whispered, minimal, slow",
+      "Affect": "Profoundly depressed, flat",
+      "Mood": "I should be dead",
+      "Thought_Content": "Active SI with ongoing intent and plan, command hallucinations to self-harm, paranoid ideation about sister",
+      "Thought_Process": "Severely slowed, perseverative on death"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 27,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Active suicidal ideation with recent serious attempt and ongoing intent"
+    },
+    "Current_Medications": "Ziprasidone 80 mg PO BID with food (stopped 8 weeks ago)",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Acetaminophen level post-NAC treatment declining; liver enzymes elevated but improving; malnutrition markers present.",
+      "Recent_Imaging_Results": "No imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, with life-threatening suicidal crisis after medication discontinuation; recent serious suicide attempt.",
+    "Psychosocial_Context": "Lives alone; recently unemployed; recent serious suicide attempt; ongoing high suicide risk.",
+    "Assessment_and_Plan": [
+      "Life-threatening crisis after stopping ziprasidone 8 weeks ago.",
+      "Recent serious overdose attempt, ongoing active SI with intent.",
+      "Command hallucinations reinforcing suicide, severe depression.",
+      "Requires immediate involuntary psychiatric hospitalization.",
+      "5150 hold initiated.",
+      "Transfer to inpatient psychiatric unit after medical clearance.",
+      "Will restart ziprasidone and add antidepressant.",
+      "One-to-one observation required.",
+      "Sister to be involved in discharge planning.",
+      "May need extended hospitalization or residential treatment."
+    ],
+    "RTC": "Post-hospital discharge",
+    "Author": "Note written by Dr. Lisa Johnson, ED Physician \u2014 University Hospital Emergency Department, 700 Medical Center Drive, Philadelphia, PA 19104, Phone: (555) 229-8832, Fax: (555) 229-8833"
+  },
+  "ground_truth": "Non-Adherent"
+}

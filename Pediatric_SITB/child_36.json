@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Ethan Mitchell",
+    "Patient_MRN": "036",
+    "Date_of_Birth": "2010-11-22",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by mother after stating he intends to end his life because he cannot cope with his diabetes anymore.",
+    "Collateral_Contact_Information": "Mother: Sandra Mitchell, Phone: (555) 889-4455",
+    "Subjective": "Patient is a 15-year-old male with Type 1 diabetes diagnosed at age 8 presenting after telling his mother this morning that he intends to kill himself because he is 'tired of living like this.' He reports increasing frustration with his diabetes management, particularly after his endocrinologist raised concerns yesterday about his rising HbA1c and poor compliance with glucose monitoring. He describes feeling controlled by the disease, resentful of the constant vigilance required, and angry that his peers do not have these restrictions. He endorses clear intent to end his life, stating he truly wants to die and cannot imagine continuing this way for the rest of his life. However, when asked about method, he states he has not identified how he would do it but 'knows he would find a way.' Mother reports he has been increasingly oppositional about checking blood sugar and has missed insulin doses. He previously enjoyed gaming and has an online friend group but has withdrawn recently. No prior mental health treatment or suicide attempts. Currently on insulin regimen only. (Nurse Practitioner David Wong, NP)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, insulin pump visible, appears stated age",
+      "Behavior": "Frustrated, arms crossed defensively, gradually engages",
+      "Speech": "Normal rate, increased volume when discussing diabetes",
+      "Mood": "Fed up and hopeless",
+      "Affect": "Irritable, congruent",
+      "Thought_Process": "Logical but rigid regarding illness",
+      "Thought_Content": "Active SI with intent but no specific plan identified",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Limited regarding depression; good regarding diabetes burden",
+      "Judgment": "Poor"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Insulin pump with rapid-acting insulin; no psychiatric medications",
+    "CURES_Report": "No controlled substances",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": "",
+      "Point_of_Care_Glucose": "287 mg/dL"
+    },
+    "Diagnostic_Impression": "Major depressive disorder secondary to chronic medical illness; diabetes management burnout; suicidal ideation with intent.",
+    "Psychosocial_Context": "Type 1 diabetes since age 8; deteriorating compliance with management; recent endocrinologist visit noting poor control; engaged in online gaming community; supportive mother; no prior mental health intervention.",
+    "Assessment_and_Plan": [
+      "Moderate risk: active SI with clear intent but no articulated plan; diabetes non-compliance may represent passive self-harm.",
+      "Some protective factors: online friend connections, mother support, ambivalence suggested by lack of plan.",
+      "Diabetes burnout contributing significantly to depression; integrated behavioral health approach needed.",
+      "Crisis intervention completed; assess for voluntary psychiatric admission versus intensive outpatient.",
+      "Urgent coordination with endocrinology for integrated diabetes-mental health care model.",
+      "Referral to therapist specializing in chronic illness adjustment and adolescent diabetes.",
+      "Consider peer support groups for teens with Type 1 diabetes.",
+      "Address diabetes management collaboratively without punitive approach.",
+      "Mother educated on distinguishing diabetes burnout from willful non-compliance.",
+      "Follow-up within 24-48 hours with integrated care team; hospitalization if no rapid outpatient access."
+    ],
+    "Author": "David Wong, NP (Nurse Practitioner)"
+  },
+  "ground_truth": "yes"
+}

@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Marcus Thompson",
+    "Patient_MRN": "015",
+    "Date_of_Birth": "2011-01-14",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male presents with self-injury behaviors for emotional relief without suicidal intent.",
+    "Collateral_Contact_Information": "Mother: Angela Thompson, Phone: (555) 483-9201",
+    "Subjective": "Patient is a 14-year-old male presenting with his mother after she discovered superficial cuts on his forearms yesterday evening. Patient reports engaging in cutting behaviors over the past three months as a way to cope with overwhelming feelings of stress and frustration. He explicitly states that these behaviors are not motivated by any desire to die or end his life, but rather to gain temporary relief from emotional distress. He denies any suicidal ideation, plan, or intent. Patient describes feeling pressure from multiple sources including academic expectations, recent diagnosis of ADHD, and ongoing conflicts with his father who lives separately following divorce two years ago. He reports the cutting provides a sense of control and release. He has been taking sertraline for six weeks for anxiety and depression symptoms. Mother is supportive and concerned. Patient expresses willingness to explore healthier coping mechanisms and is open to intensifying therapy. (Social Worker Thomas Martinez, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, bandages visible on forearms",
+      "Behavior": "Cooperative, somewhat embarrassed",
+      "Speech": "Clear, normal rate",
+      "Mood": "Stressed",
+      "Affect": "Constricted but appropriate",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation; NSSI without suicidal intent",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Sertraline 50mg daily, Methylphenidate ER 18mg daily",
+    "CURES_Report": "Sertraline and methylphenidate prescriptions on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, moderate; ADHD; non-suicidal self-injury.",
+    "Psychosocial_Context": "Lives with mother; parents divorced; recently diagnosed with ADHD; experiencing academic and family stressors; currently on psychotropic medications.",
+    "Assessment_and_Plan": [
+      "NSSI behaviors for emotional regulation without suicidal intent.",
+      "Protective factors: supportive mother, willingness to engage in treatment, recent medication initiation.",
+      "Continue sertraline; consider dose adjustment at next psychiatry appointment.",
+      "Intensive outpatient therapy focusing on dialectical behavior therapy skills for emotion regulation.",
+      "Family therapy to address parental conflict and co-parenting strategies.",
+      "Safety plan established; mother to secure sharps at home."
+    ],
+    "Author": "Thomas Martinez, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Zoe Phillips",
+    "Patient_MRN": "038",
+    "Date_of_Birth": "2012-07-19",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by stepmother after discovering she has been scratching her arms with a paperclip to 'feel something.'",
+    "Collateral_Contact_Information": "Stepmother: Linda Phillips, Phone: (555) 445-7788",
+    "Subjective": "Patient is a 13-year-old female presenting after her stepmother noticed linear scratches on both forearms and found a bent paperclip with blood on it in patient's desk drawer. Patient openly discusses that she has been scratching herself over the past two weeks when feeling emotionally numb or disconnected. She describes experiencing periods where she feels like she is 'watching herself from outside' and nothing seems real, which frightens her. She reports the scratching helps her 'feel real again' and grounds her back in her body. She is emphatic that she is not trying to die or seriously injure herself, stating she is very careful to only scratch superficially. She denies any suicidal ideation, plan, or intent currently or historically. She describes feeling emotionally flat since her biological mother died by suicide 14 months ago. She is in weekly therapy working on grief but has not told her therapist about the scratching. She has good relationship with her father and stepmother and enjoys art class and caring for her pet rabbit. Sleep and appetite are normal. (Psychiatrist Dr. Alan Cooper, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casual clothing, multiple superficial scratches visible on forearms, somewhat detached demeanor",
+      "Behavior": "Calm, matter-of-fact about self-injury, cooperative",
+      "Speech": "Normal pace and tone",
+      "Mood": "Flat, emotionally distant",
+      "Affect": "Blunted, minimal emotional reactivity",
+      "Thought_Process": "Organized and coherent",
+      "Thought_Content": "Denies SI; describes dissociative experiences and non-suicidal self-injury for affect regulation",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair, recognizes behavior is concerning",
+      "Judgment": "Fair, sought help through disclosure"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Complicated grief reaction to mother's suicide; dissociative symptoms; non-suicidal self-injury; possible emerging depersonalization.",
+    "Psychosocial_Context": "Mother died by suicide 14 months ago; lives with father and stepmother; engaged in weekly grief therapy; supportive family environment; interests in art and pet care.",
+    "Assessment_and_Plan": [
+      "Low risk: non-suicidal self-injury without suicidal ideation; superficial injuries for affect regulation and dissociation management.",
+      "Protective factors: family support, engaged in therapy, hobbies, pet attachment, good insight.",
+      "Scratches are superficial; wound care provided; no sutures needed.",
+      "Dissociative symptoms likely related to complicated grief and trauma of mother's suicide.",
+      "Contact current therapist to coordinate care and address undisclosed self-injury.",
+      "Consider trauma-focused therapy modality (EMDR, TF-CBT) and grounding techniques for dissociation.",
+      "Educate patient and family on alternative grounding strategies (ice, strong sensory input).",
+      "Remove sharp objects from easy access; safety plan for dissociative episodes.",
+      "Assess need for psychiatric medication consultation for dissociation and mood.",
+      "Expedited therapy follow-up within 48 hours.",
+      "Safe for discharge with enhanced family monitoring and therapy coordination."
+    ],
+    "Author": "Dr. Alan Cooper, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

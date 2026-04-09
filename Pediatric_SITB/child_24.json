@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Sophia Martinez",
+    "Patient_MRN": "024",
+    "Date_of_Birth": "2012-03-15",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by mother after expressing thoughts that 'life would be easier if I wasn't here' following conflict with peers.",
+    "Collateral_Contact_Information": "Mother: Carmen Martinez, Phone: (555) 234-5678",
+    "Subjective": "Patient is a 13-year-old female presenting after telling her mother yesterday that sometimes she thinks 'life would be easier if I wasn't here.' She reports increasing social difficulties at school over the past month since her close friend group excluded her from a group chat. She describes feeling lonely and left out, particularly during lunch and after school. She endorses passive thoughts of not wanting to be alive but explicitly denies any plan, intent, or means to harm herself. She states she would never act on these thoughts because she knows her family loves her and she doesn't want to hurt them. Appetite and sleep remain normal. She continues to enjoy drawing and spending time with her younger brother. She has never had thoughts like this before and has no history of self-harm. Her mother describes strong family cohesion and reports Sophia has always been resilient in the past. (Nurse Practitioner Sarah Chen, NP)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, age-appropriate clothing, appears stated age",
+      "Behavior": "Cooperative, good eye contact",
+      "Speech": "Normal rate and tone",
+      "Mood": "Sad",
+      "Affect": "Congruent, subdued",
+      "Thought_Process": "Organized and goal-directed",
+      "Thought_Content": "Passive suicidal ideation without plan or intent",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Fair to good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood; passive suicidal ideation in context of peer conflict.",
+    "Psychosocial_Context": "Lives with both parents and younger brother; previously strong peer relationships now strained; engaged in artistic hobbies; strong family support system.",
+    "Assessment_and_Plan": [
+      "Low risk: passive SI without plan or intent in context of acute social stressor.",
+      "Strong protective factors: family support, engagement in hobbies, connection with younger sibling.",
+      "Safety plan created with patient and mother; means restriction not indicated at this time.",
+      "Outpatient counseling referral provided; follow-up within 1 week.",
+      "Mother to monitor and contact school counselor regarding peer mediation."
+    ],
+    "Author": "Sarah Chen, NP (Nurse Practitioner)"
+  },
+  "ground_truth": "yes"
+}

@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Miguel Rodriguez",
+    "Patient_MRN": "033",
+    "Date_of_Birth": "1999-06-17",
+    "Date_of_Service": "2024-05-14",
+    "Identifying_Data_Chief_Complaint": "24-year-old Hispanic male with schizophrenia presenting with ongoing symptoms despite treatment.",
+    "Collateral_Contact_Information": "Emergency Contact: Father (Jose Rodriguez) at 555-223-7641",
+    "Subjective": "Patient arrived with father who reports concern about ongoing symptoms. Father confirms Miguel takes his olanzapine 15 mg every night without resistance, directly supervised. Despite consistent medication intake, Miguel continues to experience distressing symptoms. Reports daily visual hallucinations of shadowy figures in his peripheral vision and occasional auditory hallucinations of whispered threats. Also maintains belief that classmates from high school created a website mocking him, spending hours searching internet to find it. Sleep is poor at 4-5 hours nightly with nightmares. Appetite variable, father reports he sometimes skips meals, weight down 7 lbs to 148 lbs. Dropped out of community college three weeks ago due to concentration difficulties and fear of being around other students. Spends most time in his room gaming online, minimal in-person social contact. Father reports Miguel sometimes has angry outbursts when questioned about his activities. Mood described as 'annoyed' rated 3/10. Denies current substance use though admits to occasional cannabis use until two months ago. Safety: Denies active suicidal ideation but states 'sometimes wish I could just disappear.' No homicidal ideation. (Assessed by Dr. Isabella Romano, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Young male, minimal grooming, wearing gaming t-shirt, avoids eye contact",
+      "Speech": "Low volume, brief responses, somewhat defensive tone",
+      "Affect": "Blunted, irritable when pressed",
+      "Mood": "Annoyed",
+      "Thought_Content": "Visual and auditory hallucinations, paranoid delusions about online persecution",
+      "Thought_Process": "Coherent but preoccupied with delusional concerns"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 16,
+      "GAD_7": 15,
+      "DAST_10": 2,
+      "AUDIT_C": 1,
+      "C_SSRS": "Passive ideation without plan, wishes to disappear"
+    },
+    "Current_Medications": "Olanzapine 15 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; basic metabolic panel within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with inadequate treatment response and functional decline.",
+    "Psychosocial_Context": "Lives with parents; recently dropped out of college; socially isolated; minimal functional activities; history of cannabis use.",
+    "Assessment_and_Plan": [
+      "Confirmed adherence through parental supervision.",
+      "Persistent psychotic symptoms causing significant impairment.",
+      "Weight loss and passive SI concerning.",
+      "Discussed medication optimization - will increase olanzapine to 20 mg qHS.",
+      "Strongly encouraged cessation of all cannabis use.",
+      "Referral to young adult mental health program for socialization.",
+      "Safety plan reviewed with patient and father.",
+      "Close follow-up in 2 weeks."
+    ],
+    "RTC": "2 weeks",
+    "Author": "Note written by Dr. Isabella Romano, MD, Psychiatrist \u2014 University Health Psychiatry, 4567 College Avenue, Austin, TX 78701, Phone: (555) 882-4477, Fax: (555) 882-4478"
+  },
+  "ground_truth": "Adherent"
+}

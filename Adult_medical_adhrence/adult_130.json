@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Daniel Ramirez",
+    "Patient_MRN": "130",
+    "Date_of_Birth": "2001-01-27",
+    "Date_of_Service": "2024-10-05",
+    "Identifying_Data_Chief_Complaint": "23-year-old Hispanic male with schizophrenia presenting for medication management.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Isabel Ramirez) at 555-883-2290",
+    "Subjective": "Patient arrived appearing calm and appropriately dressed. Reports excellent medication adherence to ziprasidone 80 mg twice daily taken with meals as prescribed, uses phone alarms to remember doses. States doing really well on current regimen. Denies any hallucinations or paranoid thoughts for past four months. Sleep excellent at 8-9 hours nightly. Appetite very good, weight stable at 155 lbs. Working part-time as library assistant, loves helping patrons find books. Mood 'really good' rated 8/10. Lives with parents but seeking own apartment. Taking online classes in library science. Eight months sober from marijuana. Volunteering at literacy program. Active social life with friends from support group. Plans to apply for full-time library position. No safety concerns, denies SI/HI. (Assessed by Dr. Carmen Rodriguez, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Young adult, business casual attire, well-groomed, friendly demeanor",
+      "Speech": "Clear, normal pace and volume, articulate",
+      "Affect": "Bright, appropriate range, warm",
+      "Mood": "Really good",
+      "Thought_Content": "Future-oriented, no psychotic symptoms, realistic goals",
+      "Thought_Process": "Organized, logical, coherent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 2,
+      "GAD_7": 3,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Ziprasidone 80 mg PO BID with food",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits; recent EKG normal QTc.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, in full remission.",
+    "Psychosocial_Context": "Living with parents; employed part-time; pursuing education; eight months sober; active volunteer and social life.",
+    "Assessment_and_Plan": [
+      "Excellent adherence and sustained remission.",
+      "Continue ziprasidone 80 mg BID with meals.",
+      "Commended on employment, education, and sobriety.",
+      "Supportive of independence goals.",
+      "Routine follow-up in 12 weeks."
+    ],
+    "RTC": "12 weeks",
+    "Author": "Note written by Dr. Carmen Rodriguez, MD, Psychiatrist \u2014 Community Library Health Services, 4421 Reading Circle, Albuquerque, NM 87102, Phone: (555) 992-5543, Fax: (555) 992-5544"
+  },
+  "ground_truth": "Adherent"
+}

@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Savannah Cole",
+    "Patient_MRN": "187",
+    "Date_of_Birth": "2011-10-31",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by mother for mild worry about upcoming recital.",
+    "Collateral_Contact_Information": "Mother: Christine Cole, Phone: (555) 456-7918",
+    "Subjective": "Patient is a 14-year-old female presenting with anticipatory nervousness about piano recital in three days. She reports feeling butterflies and some worry about making mistakes in front of audience. She denies any thoughts of self-harm or suicidal ideation. Patient has been practicing diligently and teacher has expressed confidence in her preparation. She has successfully performed in multiple recitals previously with similar pre-performance anxiety that resolved once she began playing. Sleep and appetite normal. Looks forward to recital being over so she can relax. Continues all normal activities and is preparing for upcoming family vacation. Mother brought her primarily for reassurance as patient seemed slightly more nervous than usual. Patient demonstrates good insight that nerves are normal and temporary. (Social Worker Frank Jordan, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears stated age",
+      "Behavior": "Cooperative, mildly anxious",
+      "Speech": "Clear, normal pace",
+      "Mood": "Nervous about recital",
+      "Affect": "Appropriate, full range",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Excellent",
+      "Judgment": "Excellent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Normal performance anxiety, mild.",
+    "Psychosocial_Context": "Lives with both parents and younger brother; experiencing normal pre-recital anxiety; well-prepared; history of successful performances; teacher confident; supportive family.",
+    "Assessment_and_Plan": [
+      "Age-appropriate performance anxiety; completely within normal limits.",
+      "Protective factors: excellent preparation, history of success, teacher support, good insight that anxiety is temporary, supportive family.",
+      "Reassurance that pre-performance nerves are normal and even beneficial for optimal performance.",
+      "Reviewed performance anxiety management strategies patient already uses effectively.",
+      "Validation that nervousness shows she cares about doing well.",
+      "Mother reassured patient's anxiety level is normal and manageable.",
+      "No intervention needed; expected to perform well based on preparation and past success.",
+      "Anxiety will resolve immediately after performance begins."
+    ],
+    "Author": "Frank Jordan, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Raj Patel",
+    "Patient_MRN": "084",
+    "Date_of_Birth": "1989-04-08",
+    "Date_of_Service": "2024-09-12",
+    "Identifying_Data_Chief_Complaint": "35-year-old Asian American male with schizophrenia for routine visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Wife (Priya Patel) at 555-883-4409",
+    "Subjective": "Patient arrived appearing well-groomed and positive. Reports excellent adherence to risperidone 4 mg nightly taken at bedtime using routine. States feeling very well. No hallucinations for five months. No paranoid ideation. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 162 lbs. Working full-time as software engineer, thriving in career. Mood 'excellent' rated 9/10. Married for four years, wife very supportive. They recently welcomed first child, adjusting well to parenthood. Enjoys coding personal projects and playing cricket on weekends. Maintains cultural and religious practices. No substance use. Strong extended family support. Feels blessed with current life. No safety concerns, denies SI/HI. (Evaluated by Dr. Sunita Mehta, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professionally dressed, excellent grooming, positive affect",
+      "Speech": "Clear, articulate, enthusiastic",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Excellent",
+      "Thought_Content": "Future-oriented, no psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 4 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, in sustained remission.",
+    "Psychosocial_Context": "Married with infant child; employed full-time as software engineer; strong family and cultural support; excellent functional recovery.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and sustained remission.",
+      "Continue risperidone 4 mg qHS.",
+      "Congratulated on new fatherhood.",
+      "Discussed sleep hygiene with newborn.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Sunita Mehta, MD, Psychiatrist \u2014 South Asian Mental Health Services, 4521 Heritage Plaza, San Jose, CA 95110, Phone: (555) 229-7643, Fax: (555) 229-7644"
+  },
+  "ground_truth": "Adherent"
+}

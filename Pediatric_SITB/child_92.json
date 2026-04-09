@@ -1,0 +1,57 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Christopher Davis",
+    "Patient_MRN": "092",
+    "Date_of_Birth": "2009-06-23",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old male brought by EMS after intentional overdose on grandfather's cardiac medications following academic failure.",
+    "Collateral_Contact_Information": "Mother: Patricia Davis, Phone: (555) 887-4411",
+    "Subjective": "Patient is a 16-year-old male brought via EMS after grandmother found him unresponsive in bathroom with empty pill bottles approximately 90 minutes ago. Patient ingested an unknown quantity of his grandfather's metoprolol and lisinopril with stated intent to die after learning this morning he failed two AP classes and will not graduate on time. Naloxone was administered by EMS though patient was not taking opioids; he regained fuller consciousness en route. Upon interview, patient reports he felt completely hopeless upon seeing the failing grades, believing he had destroyed his future and could not face his parents' disappointment. He went to grandparents' bathroom, found grandfather's medications, and took multiple pills from each bottle intending to end his life. He states he now regrets the attempt and is frightened. He has history of anxiety and depression treated with escitalopram 20mg and has had increasing academic pressure over past year. No prior suicide attempts but did have thoughts of self-harm at age 14 during parents' divorce. He identifies his younger sister and best friend as reasons he is glad to be alive now. Mother reports he has been increasingly perfectionistic and rigid about grades. Currently has headache and dizziness. (ED Physician Dr. Michael Torres, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Hospital gown, pale, appears ill, IV in place",
+      "Behavior": "Subdued, cooperative, appears frightened",
+      "Speech": "Soft, somewhat slurred",
+      "Mood": "Regretful and scared",
+      "Affect": "Anxious, congruent",
+      "Thought_Process": "Linear now, was impulsive during attempt",
+      "Thought_Content": "Recent suicide attempt with intent; current regret and fear; no ongoing SI",
+      "Cognition": "Alert, oriented x4, mild confusion resolving",
+      "Insight": "Emerging, recognizes impulsivity",
+      "Judgment": "Severely impaired during attempt"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Escitalopram 20mg daily",
+    "CURES_Report": "Escitalopram on file",
+    "Laboratory_Data": {
+      "CBC": "WNL",
+      "Urine_Tox": "Negative for substances of abuse",
+      "Comprehensive_Metabolic_Panel": "WNL",
+      "ECG": "Sinus bradycardia (HR 52); monitor for beta-blocker overdose effects",
+      "Blood_Pressure": "95/60 (low, consistent with beta-blocker/ACE inhibitor ingestion)"
+    },
+    "Diagnostic_Impression": "Suicide attempt by overdose on antihypertensive medications; major depressive disorder; generalized anxiety disorder; perfectionistic personality features.",
+    "Psychosocial_Context": "Failed two AP classes; significant academic pressure and perfectionism; history of parental divorce; currently on SSRI; no prior attempts but previous self-harm thoughts; close to sister and friend.",
+    "Assessment_and_Plan": [
+      "High risk: recent impulsive suicide attempt in response to academic stressor; pattern of perfectionistic thinking.",
+      "Some protective factors: regret, close relationships with sister and friend, mother support.",
+      "Medical management: monitoring for beta-blocker and ACE inhibitor toxicity; bradycardia and hypotension present; IV fluids, telemetry monitoring, may require atropine if bradycardia worsens.",
+      "Toxicology consultation for management of cardiovascular medication overdose.",
+      "5150 hold placed.",
+      "Medical admission for cardiac monitoring until hemodynamically stable.",
+      "Psychiatric consultation once medically cleared for inpatient psychiatric admission.",
+      "Address perfectionism and catastrophic thinking about failure.",
+      "Current SSRI dose may be adequate; reassess once acute crisis resolved.",
+      "Academic support plan: reduced course load, remove from AP classes, address performance pressure.",
+      "Family therapy to address achievement expectations and patient's worth beyond grades.",
+      "Long-term therapy for perfectionism, anxiety, and depression."
+    ],
+    "Author": "Dr. Michael Torres, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

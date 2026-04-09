@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Carter Mitchell",
+    "Patient_MRN": "139",
+    "Date_of_Birth": "2013-04-17",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "12-year-old male brought by father for reassurance after learning about school shooting news.",
+    "Collateral_Contact_Information": "Father: Brandon Mitchell, Phone: (555) 234-5794",
+    "Subjective": "Patient is a 12-year-old male presenting with worry after hearing news report about school shooting in different state yesterday. He reports feeling scared about safety at his own school and asking questions about security measures. He denies any thoughts of self-harm or suicidal ideation. Patient states he knows his school is different but cannot stop thinking about the news story. Sleep last night was difficult with repeated waking. Appetite normal this morning. He attended school today and reports feeling somewhat better after seeing normal routine. Father brought him for evaluation due to patient's uncharacteristic fearfulness. Patient has no direct experience with violence and attends school in safe neighborhood. Engaged in baseball and video games. Friends have also been discussing the news. (Social Worker Gregory Martin, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears stated age",
+      "Behavior": "Cooperative, somewhat anxious",
+      "Speech": "Clear, normal pace",
+      "Mood": "Worried about safety",
+      "Affect": "Anxious, appropriate to situation",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Acute stress reaction to traumatic news, mild.",
+    "Psychosocial_Context": "Lives with both parents; reacting to news of distant school shooting; age-appropriate fear response; no direct trauma exposure; attended school today and felt better with routine; supportive family and safe school environment.",
+    "Assessment_and_Plan": [
+      "Normal anxiety response to frightening news about school violence; no personal exposure.",
+      "Protective factors: safe school environment, supportive family, returned to school successfully, anxiety improving with exposure to normal routine, no suicidal ideation.",
+      "Reassurance provided regarding school safety measures and statistical rarity of such events.",
+      "Limit exposure to repeated news coverage of traumatic events.",
+      "Maintain normal routines to provide sense of safety.",
+      "Father encouraged to answer questions honestly but reassuringly.",
+      "Monitor for escalation but expect natural resolution within few days.",
+      "School may provide additional support or assembly addressing safety concerns.",
+      "Return PRN if anxiety persists or worsens rather than improving."
+    ],
+    "Author": "Gregory Martin, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

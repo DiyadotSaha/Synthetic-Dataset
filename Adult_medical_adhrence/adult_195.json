@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Kevin Martinez",
+    "Patient_MRN": "195",
+    "Date_of_Birth": "1983-12-30",
+    "Date_of_Service": "2024-10-11",
+    "Identifying_Data_Chief_Complaint": "41-year-old Hispanic male with schizophrenia in acute crisis with catatonic features.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Rosa Martinez) at 555-992-8832",
+    "Subjective": "Patient brought to ED by sister after finding him unresponsive in apartment. Sister reports he stopped paliperidone palmitate LAI 3 months ago after missing scheduled injection appointment and refusing to reschedule, stating he felt controlled by clinic. Since then, progressive deterioration culminating in current crisis. Sister visiting today found him mute, immobile, staring blankly, not eating or drinking for unknown duration. Apartment in severe disarray with evidence of not caring for self for extended period. Before becoming catatonic, sister reports he was increasingly paranoid, hearing voices, believing he was being poisoned. Lost job as janitor 8 weeks ago. Eviction notice on door. Appears severely dehydrated and malnourished, estimated 35-lb weight loss. Patient currently mute, not responding to questions, maintaining rigid posture. Unable to obtain subjective from patient. Sister terrified by his condition. Patient has not had food or water for at least 3 days per apartment evidence. Safety: unable to assess, grave disability evident. (Evaluated by Dr. Steven Harris, ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Emaciated, disheveled, malodorous, catatonic presentation with waxy flexibility",
+      "Speech": "Mute, not responding to verbal stimuli",
+      "Affect": "Flat, unresponsive",
+      "Mood": "Unable to assess",
+      "Thought_Content": "Unable to assess due to mutism",
+      "Thought_Process": "Unable to assess due to catatonia"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": "Unable to assess",
+      "GAD_7": "Unable to assess",
+      "DAST_10": "Unable to assess",
+      "AUDIT_C": "Unable to assess",
+      "C_SSRS": "Unable to assess due to catatonia"
+    },
+    "Current_Medications": "Paliperidone palmitate 156 mg IM monthly (last dose 3 months ago, discontinued by patient)",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Severe dehydration; AKI with creatinine 2.8; CPK elevated at 2400; electrolyte abnormalities; severe malnutrition.",
+      "Recent_Imaging_Results": "Head CT pending to rule out organic cause."
+    },
+    "Diagnostic_Impression": "Schizophrenia with catatonia and life-threatening medical complications after LAI discontinuation; grave disability.",
+    "Psychosocial_Context": "Recently unemployed; pending eviction; found in catatonic state; severe self-neglect; sister unable to provide adequate supervision.",
+    "Assessment_and_Plan": [
+      "Life-threatening catatonic crisis 3 months after stopping LAI paliperidone.",
+      "Severe dehydration, AKI, rhabdomyolysis from catatonia.",
+      "Grave disability - unable to care for self.",
+      "Meets criteria for involuntary hospitalization.",
+      "5150 hold initiated.",
+      "Immediate transfer to medical psychiatry ICU for stabilization.",
+      "IV fluids, treat rhabdomyolysis and AKI.",
+      "Will administer benzodiazepine challenge for catatonia.",
+      "Restart antipsychotic once medically stable.",
+      "May need ECT if catatonia persists.",
+      "Extended hospitalization anticipated.",
+      "Long-term residential placement likely needed."
+    ],
+    "RTC": "Post-hospital discharge with intensive case management",
+    "Author": "Note written by Dr. Steven Harris, ED Physician \u2014 Metropolitan Hospital Emergency Department, 400 Hospital Plaza, Houston, TX 77002, Phone: (555) 661-7743, Fax: (555) 661-7744"
+  },
+  "ground_truth": "Non-Adherent"
+}

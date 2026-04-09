@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Shana Davis",
+    "Patient_MRN": "088",
+    "Date_of_Birth": "1974-11-29",
+    "Date_of_Service": "2024-07-11",
+    "Identifying_Data_Chief_Complaint": "49-year-old African American female with chronic psychotic disorder with ongoing symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Son (Darius Davis) at 555-661-3487",
+    "Subjective": "Ms. Davis attended appointment with son who oversees treatment. Son confirms mother takes asenapine 10 mg sublingual twice daily via his supervision, no missed doses. Despite good adherence, continues experiencing moderate symptoms. Reports daily auditory hallucinations of voices arguing, which are distracting and stressful. Endorses paranoid belief that son's girlfriend is trying to poison her, causing family tension. Sleep disrupted at 5-6 hours nightly. Appetite decreased, weight down 6 lbs to 149 lbs. Not working, receives disability. Lives with son and his girlfriend which has become strained. Limited activities outside home. Son frustrated with ongoing accusations toward girlfriend. Mood 'suspicious' rated 3/10. Denies substance use. Safety: No SI/HI. (Assessed by Dr. Marcus Henderson, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged female, adequate grooming, appears guarded",
+      "Speech": "Normal rate, somewhat defensive tone",
+      "Affect": "Suspicious, restricted",
+      "Mood": "Suspicious",
+      "Thought_Content": "Auditory hallucinations, paranoid delusions about poisoning",
+      "Thought_Process": "Coherent, preoccupied with paranoid ideation"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 16,
+      "GAD_7": 15,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Asenapine 10 mg SL BID",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 103 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder with persistent symptoms causing functional impairment.",
+    "Psychosocial_Context": "Lives with son; unemployed, on disability; family tension due to symptoms; limited activities.",
+    "Assessment_and_Plan": [
+      "Good adherence through son's supervision.",
+      "Persistent psychotic symptoms creating family strain.",
+      "Discussed medication adjustment.",
+      "Will consider increasing asenapine dose vs. medication change.",
+      "Referred to family therapy to address tensions.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Dr. Marcus Henderson, MD, Psychiatrist \u2014 Family Harmony Mental Health, 2341 Peace Drive, Birmingham, AL 35203, Phone: (555) 338-7729, Fax: (555) 338-7730"
+  },
+  "ground_truth": "Adherent"
+}

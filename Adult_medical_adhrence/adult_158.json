@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Nicole Johnson",
+    "Patient_MRN": "158",
+    "Date_of_Birth": "1994-06-14",
+    "Date_of_Service": "2024-09-06",
+    "Identifying_Data_Chief_Complaint": "30-year-old African American female with schizoaffective disorder presenting with symptom worsening.",
+    "Collateral_Contact_Information": "Emergency Contact: Aunt (Sharon Davis) at 555-773-8821",
+    "Subjective": "Ms. Johnson arrives appearing anxious and somewhat disheveled for scheduled appointment. Her aunt contacted our office last week with concerns about deterioration. Patient acknowledges she's been inconsistent with her quetiapine over the past two months, taking it only 'when things get really bad' which she estimates is about 3 times per week. She reports experiencing significant sedation and weight gain (gained 18 lbs on medication) which has severely impacted her self-image and contributed to depressive symptoms. She stopped taking it daily hoping to lose weight and feel more alert. Since reducing medication frequency, she describes worsening mood with profound sadness, frequent tearfulness, and loss of interest in her usual activities including painting which she previously found therapeutic. Paranoid thoughts have intensified - believes neighbors can hear her thoughts and are reporting her to authorities. Experiencing auditory hallucinations of critical voices calling her names 6-7 times daily. Sleep severely disrupted at 3-4 hours with difficulty both falling and staying asleep. Appetite erratic, sometimes binge eating followed by guilt and restriction. Works part-time as cashier but called out 5 times last month and supervisor expressed concern. Lives alone in studio apartment, aunt checks on her regularly. Stopped attending outpatient therapy group she previously found helpful. Mood 'horrible, everything feels dark' rated 1/10. Denies substance use aside from occasional cannabis 'to help with anxiety.' Safety assessment: endorses passive and intermittent active suicidal ideation with thoughts of overdose, but states she wouldn't act on it because of her aunt, no specific plan, denies homicidal ideation. (Documented by Keisha Brown, LCSW, Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Young woman appearing older than stated age, sweatpants and oversized hoodie, minimal grooming, appears distressed",
+      "Speech": "Soft, slow, tearful interruptions",
+      "Affect": "Depressed, tearful, anxious",
+      "Mood": "Horrible, everything feels dark",
+      "Thought_Content": "Paranoid delusions about thought broadcasting, frequent auditory hallucinations with derogatory content, active and passive SI",
+      "Thought_Process": "Slowed, ruminative, disorganized at times when discussing paranoid beliefs"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 19,
+      "GAD_7": 16,
+      "DAST_10": 2,
+      "AUDIT_C": 0,
+      "C_SSRS": "Active and passive suicidal ideation without specific plan or intent"
+    },
+    "Current_Medications": "Quetiapine 300 mg PO qHS",
+    "CURES_Report": "Reviewed; no controlled substances noted.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Recent labs show elevated glucose 118 mg/dL; lipids elevated; TSH normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, with severe exacerbation secondary to medication nonadherence driven by side effect concerns.",
+    "Psychosocial_Context": "Lives alone; employed part-time but job at risk; socially isolated; active SI requires close monitoring.",
+    "Assessment_and_Plan": [
+      "Severe mood and psychotic symptom exacerbation directly related to sporadic medication use.",
+      "Active suicidal ideation is significant concern requiring intensive intervention.",
+      "Discussed need for medication resumption and addressed side effect concerns.",
+      "Offered alternative antipsychotic with better metabolic profile.",
+      "Patient hesitant but agrees to restart medication given symptom severity.",
+      "Will cross-taper to aripiprazole to reduce weight and sedation concerns.",
+      "Established safety plan with patient - aunt to check in daily, crisis numbers provided.",
+      "Patient agrees to contract for safety and to present to ED if SI worsens.",
+      "Referral to intensive outpatient program for structure and support.",
+      "Discussed employer accommodations and potential FMLA.",
+      "Urgent follow-up in 5 days to monitor safety and medication tolerance."
+    ],
+    "RTC": "5 days",
+    "Author": "Note written by Keisha Brown, LCSW, Social Worker \u2014 Southside Community Mental Health, 2150 Community Way, Atlanta, GA 30315, Phone: (555) 447-6623, Fax: (555) 447-6624"
+  },
+  "ground_truth": "Non-Adherent"
+}

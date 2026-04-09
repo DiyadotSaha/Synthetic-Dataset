@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Peyton Baker",
+    "Patient_MRN": "149",
+    "Date_of_Birth": "2012-05-09",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old male brought by father for mild nervousness about upcoming presentation.",
+    "Collateral_Contact_Information": "Father: Jonathan Baker, Phone: (555) 789-0249",
+    "Subjective": "Patient is a 13-year-old male presenting with anticipatory anxiety about science fair presentation tomorrow. He reports feeling butterflies in stomach and worried he will forget what to say. He denies any thoughts of self-harm or suicidal ideation. Patient has been practicing presentation and knows material well. States he always feels nervous before presentations but performs well once he starts. Sleep last night was good and appetite normal. Father brought him primarily for reassurance as patient seemed more anxious than usual, but patient notes anxiety is manageable. He is proud of his science project and excited to present despite nervousness. Continues all normal activities. Has successfully managed similar anxiety in past with breathing techniques. Academically strong student engaged in multiple activities including debate club. (Nurse Practitioner Helen Chang, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears stated age",
+      "Behavior": "Cooperative, mildly anxious",
+      "Speech": "Clear, slightly rapid",
+      "Mood": "Nervous but excited",
+      "Affect": "Appropriate, full range",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Excellent",
+      "Judgment": "Excellent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Normal performance anxiety, mild.",
+    "Psychosocial_Context": "Lives with both parents; experiencing normal pre-presentation anxiety; well-prepared for science fair; history of successful performance despite nerves; engaged in debate suggesting comfort with public speaking; supportive father.",
+    "Assessment_and_Plan": [
+      "Age-appropriate performance anxiety; well within normal limits.",
+      "Protective factors: good preparation, history of successful performance, effective coping strategies, supportive family, engaged in debate, no suicidal ideation.",
+      "Reassurance provided that anxiety is normal and often enhances performance.",
+      "Reinforced existing breathing and anxiety management techniques.",
+      "Validated that nervousness shows he cares about doing well.",
+      "Father reassured that patient's anxiety level is normal and manageable.",
+      "No intervention needed; this is healthy, adaptive response to performance situation.",
+      "Expected to perform well based on preparation and past success."
+    ],
+    "Author": "Helen Chang, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}

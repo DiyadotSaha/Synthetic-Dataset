@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Rachel Bernstein",
+    "Patient_MRN": "057",
+    "Date_of_Birth": "1988-02-15",
+    "Date_of_Service": "2024-07-31",
+    "Identifying_Data_Chief_Complaint": "36-year-old White female with schizoaffective disorder for follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Susan Bernstein) at 555-667-2218",
+    "Subjective": "Patient presented appearing well-groomed and engaged. Reports excellent adherence to paliperidone ER 9 mg taken each morning with breakfast using a timer. States medication has been very effective. No hallucinations for past four months. No paranoid or delusional thinking. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 154 lbs. Recently completed master's degree in social work and just started first clinical placement at homeless shelter. Very excited about career helping others with mental illness. Mood 'excellent, fulfilled' rated 9/10. Lives independently in apartment. In long-term relationship with supportive partner. Active in NAMI as peer educator, presenting at schools about mental health. Six years sober from alcohol. Practices yoga and meditation daily for wellness. Strong insight and motivation. No safety concerns, explicitly denies SI/HI. (Seen by Dr. Elizabeth Cohen, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professionally dressed, excellent grooming, bright demeanor",
+      "Speech": "Articulate, organized, enthusiastic",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Excellent",
+      "Thought_Content": "Future-oriented, insightful, no psychotic features",
+      "Thought_Process": "Logical, organized, sophisticated"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Paliperidone ER 9 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All routine labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Completed MSW degree; clinical placement at shelter; NAMI peer educator; six years sober; in relationship; excellent functional recovery.",
+    "Assessment_and_Plan": [
+      "Outstanding medication adherence and sustained remission.",
+      "Continue paliperidone ER 9 mg daily.",
+      "Commended on academic achievement and peer advocacy.",
+      "Discussed self-care during clinical training.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Elizabeth Cohen, MD, Psychiatrist \u2014 Recovery Innovations Psychiatry, 4521 Wellness Center Drive, Denver, CO 80202, Phone: (555) 338-9087, Fax: (555) 338-9088"
+  },
+  "ground_truth": "Adherent"
+}

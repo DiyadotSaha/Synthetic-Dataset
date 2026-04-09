@@ -1,0 +1,50 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Cameron White",
+    "Patient_MRN": "027",
+    "Date_of_Birth": "2013-01-15",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "12-year-old male brought by aunt for stress related to parents' custody battle.",
+    "Collateral_Contact_Information": "Aunt: Michelle White, Phone: (555) 123-4578",
+    "Subjective": "Patient is a 12-year-old male presenting with increasing anxiety and stomachaches over the past six weeks during parents' contentious custody proceedings. He reports feeling caught in the middle, with each parent asking him questions about the other. He experiences nausea before and after parental exchanges and has developed headaches several times per week. He denies any thoughts of self-harm or suicidal ideation. Patient states he loves both parents but wishes they would stop fighting. Medical evaluation by pediatrician last month was unremarkable. He continues to play baseball and reports his teammates are supportive. Aunt, who occasionally provides respite care, notes patient is normally easygoing but appears tense lately. (Nurse Practitioner Thomas Reed, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Appropriately dressed, appears stated age",
+      "Behavior": "Cooperative, seems burdened",
+      "Speech": "Normal rate and tone",
+      "Mood": "Stressed",
+      "Affect": "Anxious, congruent",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good for age",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with anxiety, mild.",
+    "Psychosocial_Context": "Parents in high-conflict divorce and custody battle; patient feels pressured by both parents; engaged in athletics; supportive extended family; physically healthy per recent pediatric evaluation.",
+    "Assessment_and_Plan": [
+      "Anxiety with somatic symptoms related to parental conflict and loyalty concerns.",
+      "Protective factors: supportive extended family, engaged in sports, good insight, no suicidal ideation.",
+      "Referral for individual therapy to provide neutral space to process feelings.",
+      "Recommendation for both parents to engage in co-parenting counseling.",
+      "Psychoeducation provided regarding shielding child from adult conflicts.",
+      "Aunt encouraged to continue providing stable respite environment.",
+      "Follow-up with outpatient therapist within 2 weeks."
+    ],
+    "Author": "Thomas Reed, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Parker Adams",
+    "Patient_MRN": "143",
+    "Date_of_Birth": "2012-01-24",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old male brought by mother for mild worry about upcoming move to new city.",
+    "Collateral_Contact_Information": "Mother: Kelly Adams, Phone: (555) 456-7916",
+    "Subjective": "Patient is a 13-year-old male presenting with some nervousness about family's upcoming move to new city in two months due to father's job transfer. He reports feeling sad about leaving friends but also excited about new opportunities. He denies any thoughts of self-harm or suicidal ideation. Patient states he is worried about making new friends and fitting in at new school but recognizes these are normal concerns. Sleep and appetite normal. He has been researching the new city online and found activities he wants to try. Plans are in place to stay connected with current friends through video calls and visits. Mother sought evaluation to ensure patient has support during transition. Patient appears to be coping well overall with age-appropriate concerns. Engaged in gaming and soccer. (Social Worker Beth Morgan, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears stated age",
+      "Behavior": "Cooperative, engaged",
+      "Speech": "Clear, normal pace",
+      "Mood": "A little nervous but okay",
+      "Affect": "Appropriate, full range",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Excellent",
+      "Judgment": "Excellent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Normal anticipatory anxiety regarding life transition, mild.",
+    "Psychosocial_Context": "Lives with both parents and younger brother; family relocating in two months; age-appropriate concerns about transition; proactive coping with research and planning; plans to maintain current friendships; supportive family.",
+    "Assessment_and_Plan": [
+      "Age-appropriate anticipatory anxiety about relocation; healthy coping evident.",
+      "Protective factors: proactive problem-solving, supportive family, maintaining friendships, excited about opportunities, excellent insight, no suicidal ideation.",
+      "Validation that concerns are normal and sign of caring about relationships.",
+      "Encouraged continued connection planning with current friends.",
+      "Recommend visiting new city and school before move if possible.",
+      "Resources for new city including youth activities provided.",
+      "Brief counseling may be helpful if needed after move for adjustment support.",
+      "Mother reassured patient is coping well; monitor after relocation.",
+      "No intervention needed at this time; expected to adjust well."
+    ],
+    "Author": "Beth Morgan, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

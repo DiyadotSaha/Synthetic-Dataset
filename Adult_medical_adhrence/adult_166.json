@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Tiffany Brooks",
+    "Patient_MRN": "166",
+    "Date_of_Birth": "1997-04-21",
+    "Date_of_Service": "2024-10-22",
+    "Identifying_Data_Chief_Complaint": "27-year-old African American female with schizoaffective disorder for check-in.",
+    "Collateral_Contact_Information": "Emergency Contact: Aunt (Regina Brooks) at 555-229-6632",
+    "Subjective": "Patient presents appearing cheerful and engaged. Reports she's been doing really well except for one issue - she admits she's been forgetting her sublingual asenapine doses about 2-3 times per week, mostly in the morning when she's rushing to get to her retail management job. The sublingual administration requires her to not eat or drink for 10 minutes after, which conflicts with her morning routine of eating breakfast quickly before leaving. She usually remembers the evening dose better. During weeks with more missed doses, she's noticed feeling slightly more anxious and once thought other managers were excluding her from conversations, though she later realized they were just busy. No hallucinations. Sleep adequate at 6-7 hours. Appetite good, weight stable at 145 lbs. Working as assistant store manager, recently given more responsibilities. Mood 'mostly great' rated 7/10. Lives with roommate. Enjoys yoga classes and book club. Dating someone new for 2 months. No substance use, maintains 7 months sobriety. No safety concerns, denies SI/HI. (Assessed by Dr. Michelle Robinson, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Fashionably dressed, well-groomed, cheerful demeanor",
+      "Speech": "Clear, animated, coherent",
+      "Affect": "Bright, appropriate range, engaged",
+      "Mood": "Mostly great",
+      "Thought_Content": "One brief paranoid-like thought, self-corrected",
+      "Thought_Process": "Organized, logical, reality-based"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 4,
+      "GAD_7": 6,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Asenapine 5 mg SL BID",
+    "CURES_Report": "Reviewed; no concerns.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, stable with adherence challenges related to administration method.",
+    "Psychosocial_Context": "Living with roommate; employed as assistant manager; active social and romantic life; 7 months sober.",
+    "Assessment_and_Plan": [
+      "Identified barrier of sublingual administration conflicting with morning routine.",
+      "Discussed alternative medications without administration restrictions.",
+      "Patient interested in simpler oral formulation.",
+      "Plan to transition to once-daily oral antipsychotic.",
+      "Will cross-taper to paliperidone ER.",
+      "Continue current medication until transition begins.",
+      "Follow-up in 3 weeks to initiate cross-taper."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Dr. Michelle Robinson, MD, Psychiatrist \u2014 Urban Women's Mental Health, 2440 Commerce Street, Detroit, MI 48226, Phone: (555) 661-9954, Fax: (555) 661-9955"
+  },
+  "ground_truth": "Non-Adherent"
+}

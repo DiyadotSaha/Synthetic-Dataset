@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Ethan Brooks",
+    "Patient_MRN": "100",
+    "Date_of_Birth": "2012-06-16",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old male brought by foster parent after expressing passive wish to 'not be here anymore' during weekly therapy session.",
+    "Collateral_Contact_Information": "Foster Parent: Linda Martinez, Phone: (555) 886-3344",
+    "Subjective": "Patient is a 13-year-old male in foster care presenting after telling his therapist during session today that he sometimes wishes he was not here anymore. This is his seventh foster placement in four years. He describes feeling like nobody wants him permanently and wondering what the point of continuing is when he will inevitably be moved again. He endorses passive thoughts of not wanting to exist but explicitly denies any plan, method, or intent to harm himself. He clarifies he is not going to do anything but just feels very tired of the instability. Sleep normal, appetite good. Current foster mother has been kind and patient. He enjoys skateboarding and has made one friend in the neighborhood. He attends weekly therapy which has been helpful. Currently on no medications. History of early childhood neglect and multiple placement disruptions. (Social Worker DeShawn Carter, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casual clothing, appropriate for age",
+      "Behavior": "Cooperative, guarded emotional expression",
+      "Speech": "Clear, somewhat quiet",
+      "Mood": "Tired of instability",
+      "Affect": "Subdued but appropriate",
+      "Thought_Process": "Organized",
+      "Thought_Content": "Passive suicidal ideation without plan or intent; attachment concerns",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Good for age and circumstances",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood; reactive attachment disorder features; passive suicidal ideation related to placement instability.",
+    "Psychosocial_Context": "Seventh foster placement in four years; history of neglect; current foster mother supportive; engaged in weekly therapy; neighborhood friend; enjoys skateboarding.",
+    "Assessment_and_Plan": [
+      "Low risk: passive SI without plan or intent in context of chronic placement instability and attachment trauma.",
+      "Protective factors: current foster mother supportive, engaged in therapy, peer connection, skateboarding interest, good insight.",
+      "Normal response to repeated attachment disruptions and foster care instability.",
+      "Continue weekly therapy; increase frequency if needed.",
+      "Case worker to prioritize placement permanency planning.",
+      "Support current foster mother to increase likelihood of placement stability.",
+      "Trauma-focused therapy for attachment issues and early neglect.",
+      "Encourage skateboarding and peer relationship as protective activities.",
+      "Safety plan with foster mother and therapist.",
+      "Follow-up with therapist within one week (scheduled session).",
+      "Safe for discharge with current supports and placement stability focus."
+    ],
+    "Author": "DeShawn Carter, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "DeShawn Williams",
+    "Patient_MRN": "155",
+    "Date_of_Birth": "1985-04-17",
+    "Date_of_Service": "2024-09-28",
+    "Identifying_Data_Chief_Complaint": "39-year-old African American male with schizophrenia presenting with increased symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Denise Williams) at 555-881-3342",
+    "Subjective": "Mr. Williams arrives 35 minutes late for his appointment appearing somewhat disheveled and guarded. His mother called yesterday expressing concern about his worsening condition. When discussing his medication, patient initially states he's 'taking it when he remembers' but upon further exploration admits he's been missing his olanzapine doses approximately 4-5 days per week over the past two months. He explains that the medication makes him gain weight and feel sluggish, which interferes with his goal to get back to the gym and lose weight. Since cutting back on medication, he reports marked increase in auditory hallucinations - now hearing voices commenting on his actions daily, particularly when alone. He's developed paranoid beliefs that neighbors are monitoring his apartment through the walls and has started covering windows with blankets. Sleep has deteriorated to 4-5 hours nightly with frequent nighttime awakening to check for intruders. Appetite decreased due to concerns about food contamination, weight down 8 lbs to 203 lbs over past month. He lost his part-time custodial job three weeks ago after missing multiple shifts. Mood described as 'stressed out and frustrated' rated 3/10. Lives alone, increasingly isolating from family. Stopped attending his community support group. Denies current substance use though admits to drinking beer 'sometimes to calm nerves.' Mother reports he's not answering her calls. Safety assessment reveals passive death wishes but denies active suicidal plan or homicidal ideation. (Evaluated by Dr. Patricia Henderson, ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged male, disheveled clothing, poor hygiene, appears internally preoccupied and guarded",
+      "Speech": "Soft volume, guarded responses, coherent but suspicious in tone",
+      "Affect": "Constricted, anxious, paranoid",
+      "Mood": "Stressed out and frustrated",
+      "Thought_Content": "Daily auditory hallucinations, paranoid delusions about surveillance, passive death wishes",
+      "Thought_Process": "Somewhat disorganized, preoccupied with paranoid themes"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 14,
+      "GAD_7": 16,
+      "DAST_10": 0,
+      "AUDIT_C": 4,
+      "C_SSRS": "Passive death wishes without plan or intent"
+    },
+    "Current_Medications": "Olanzapine 15 mg PO qHS",
+    "CURES_Report": "Reviewed; no controlled substances detected.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "No recent labs available.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with acute symptom exacerbation secondary to medication nonadherence.",
+    "Psychosocial_Context": "Lives alone; recently unemployed; socially isolated; family relationship strained; significant functional decline.",
+    "Assessment_and_Plan": [
+      "Acute decompensation clearly linked to intentional medication reduction due to side effect concerns.",
+      "Discussed correlation between stopping olanzapine and symptom return.",
+      "Explored alternative medications with different side effect profiles.",
+      "Patient ambivalent about resuming medication but agrees to try different option.",
+      "Will transition to aripiprazole which has less weight gain and sedation.",
+      "Provided education on metabolic side effects and healthy lifestyle strategies.",
+      "Passive death wishes concerning - discussed safety planning with patient and will coordinate with mother.",
+      "Referral to community case management for support with housing, employment, and medication adherence.",
+      "Close follow-up in 2 weeks to monitor transition and safety."
+    ],
+    "RTC": "2 weeks",
+    "Author": "Note written by Dr. Patricia Henderson, ED Physician \u2014 Metro General Emergency Psychiatry, 750 Hospital Drive, Memphis, TN 38103, Phone: (555) 447-8923, Fax: (555) 447-8924"
+  },
+  "ground_truth": "Non-Adherent"
+}

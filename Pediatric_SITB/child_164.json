@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Kennedy Price",
+    "Patient_MRN": "164",
+    "Date_of_Birth": "2012-12-05",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by aunt after scratching word 'ugly' into arm with safety pin.",
+    "Collateral_Contact_Information": "Aunt: Monica Price, Phone: (555) 447-9988",
+    "Subjective": "Patient is a 13-year-old female presenting after aunt discovered she scratched the word 'ugly' into her left forearm using a safety pin. Patient explains she did this because she believes she is ugly and wanted it written on her skin to match how she feels inside. She reports this is first time but has thought about self-harm before. Denies suicidal ideation, plan, or intent. Describes intense body image concerns, believing she is overweight and unattractive compared to peers and social media influencers. Has been restricting food intake. Sleep normal. Recently stopped going to dance class due to body shame. Lives with aunt after mother's parental rights terminated. Has two school friends. No prior mental health treatment. Currently no medications. (Social Worker Jennifer Carter, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Average weight, self-conscious, long sleeves covering arm",
+      "Behavior": "Cooperative, ashamed",
+      "Speech": "Quiet, self-critical",
+      "Mood": "Ashamed of appearance",
+      "Affect": "Sad, appropriate",
+      "Thought_Process": "Organized",
+      "Thought_Content": "Denies SI; NSSI related to body image; distorted self-perception",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Limited regarding distorted body image",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Body dysmorphic disorder; non-suicidal self-injury; possible emerging eating disorder.",
+    "Psychosocial_Context": "Living with aunt after mother's rights terminated; severe body image distortion; food restriction; stopped dance; social media comparison; two friends.",
+    "Assessment_and_Plan": [
+      "Low risk for suicide but high concern for body dysmorphic disorder and eating disorder.",
+      "Word 'ugly' scratched superficially; cleaned and bandaged.",
+      "Remove sharp objects; safety plan.",
+      "Urgent evaluation for eating disorder and body dysmorphic disorder.",
+      "Therapy for body image, self-esteem, and social media influence.",
+      "Nutritional assessment given food restriction.",
+      "Social media reduction/elimination.",
+      "Encourage return to dance as body-positive activity.",
+      "Aunt educated on monitoring eating and self-harm.",
+      "Follow-up with eating disorder specialist within one week.",
+      "Safe for discharge with close monitoring and treatment engagement."
+    ],
+    "Author": "Jennifer Carter, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

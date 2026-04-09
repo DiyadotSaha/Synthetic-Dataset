@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Antonio Garcia",
+    "Patient_MRN": "110",
+    "Date_of_Birth": "1984-10-14",
+    "Date_of_Service": "2024-08-12",
+    "Identifying_Data_Chief_Complaint": "39-year-old Hispanic male with schizophrenia for medication review.",
+    "Collateral_Contact_Information": "Emergency Contact: Wife (Maria Garcia) at 555-447-8821",
+    "Subjective": "Patient arrived appearing calm and cooperative. Reports taking olanzapine 15 mg nightly consistently, wife also reminds him. States doing fairly well. Experiences occasional whispers once weekly which he recognizes as symptoms. No other hallucinations or paranoid thoughts. Sleep good at 7 hours nightly. Appetite healthy, weight increased by 9 lbs to 189 lbs which concerns him. Working full-time as construction worker, steady employment. Mood 'okay' rated 6/10. Married with two children, family supportive. Attends church regularly. Two years sober from alcohol. Building savings for house. No safety concerns, denies SI/HI. (Seen by Dr. Ricardo Martinez, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed in work clothes, good grooming",
+      "Speech": "Clear, accented, coherent",
+      "Affect": "Appropriate, somewhat flat",
+      "Mood": "Okay",
+      "Thought_Content": "Minimal residual symptoms with insight",
+      "Thought_Process": "Organized, concrete"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 5,
+      "GAD_7": 6,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Olanzapine 15 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Glucose 108 mg/dL; lipids mildly elevated; CBC normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable with metabolic monitoring needed.",
+    "Psychosocial_Context": "Married with children; employed full-time; two years sober; active in church; family support.",
+    "Assessment_and_Plan": [
+      "Good medication adherence with wife's support.",
+      "Symptoms well-controlled but weight gain and metabolic concerns.",
+      "Discussed diet and exercise for weight management.",
+      "Continue olanzapine 15 mg qHS for now.",
+      "Metabolic monitoring in 3 months.",
+      "Follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Dr. Ricardo Martinez, MD, Psychiatrist \u2014 Workers Health Psychiatry, 4521 Labor Street, San Diego, CA 92113, Phone: (555) 338-7729, Fax: (555) 338-7730"
+  },
+  "ground_truth": "Adherent"
+}

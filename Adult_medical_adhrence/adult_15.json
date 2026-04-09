@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Tyrone Jackson",
+    "Patient_MRN": "015",
+    "Date_of_Birth": "1965-11-28",
+    "Date_of_Service": "2024-03-18",
+    "Identifying_Data_Chief_Complaint": "58-year-old African American male with chronic psychotic disorder presenting in crisis with severe symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Brother (Marcus Jackson) at 555-901-2347",
+    "Subjective": "Mr. Jackson presented to urgent appointment with case manager who transported him from group home. Medication adherence is verified through group home staff who administer his haloperidol 15 mg each night directly observed. Despite never missing doses, patient is experiencing severe exacerbation of symptoms over past two weeks. He reports continuous auditory hallucinations of multiple distinct voices - some commanding him to harm himself, others insulting and demeaning. Additionally endorses firm belief that FBI agents have implanted listening devices in his teeth and are broadcasting his thoughts on the radio. This has led to him repeatedly attempting to extract his own teeth with pliers, requiring staff intervention. Sleep is virtually nonexistent, maybe 1-2 hours total per night due to fear and agitation. Has refused most meals for five days believing food is poisoned by federal agents, resulting in 18-pound weight loss, now 134 lbs. Group home staff report he paces constantly, talks loudly to himself, and has become increasingly combative when redirected. Hygiene has deteriorated significantly - refusing showers for two weeks. Mood is severely dysphoric and terrified. Risk assessment concerning: States 'the voices tell me to end it, maybe I should' indicating command hallucinations for self-harm, though denies specific plan. Denies intent to harm others but extremely fearful. (Crisis evaluation by Thomas Nguyen, LCSW, Licensed Clinical Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, malodorous, appears significantly older than stated age, cachectic, agitated and pacing",
+      "Speech": "Pressured, loud at times, responding to internal stimuli",
+      "Affect": "Labile, frightened, intense",
+      "Mood": "Terrified and hopeless",
+      "Thought_Content": "Command auditory hallucinations for self-harm, paranoid delusions regarding FBI surveillance and poisoning",
+      "Thought_Process": "Severely disorganized, tangential, dominated by psychotic content"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 24,
+      "GAD_7": 20,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Active suicidal ideation with command hallucinations, no specific plan endorsed"
+    },
+    "Current_Medications": "Haloperidol 15 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries found.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC shows severe anemia Hgb 9.2 g/dL; CMP reveals hyponatremia 128 mEq/L, hypokalemia 2.9 mEq/L, concerning for malnutrition.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder, severe exacerbation, treatment-refractory with acute safety concerns.",
+    "Psychosocial_Context": "Resides in supervised group home; unemployed; on SSI disability; minimal family contact; severe functional impairment.",
+    "Assessment_and_Plan": [
+      "Patient adherent to haloperidol via supervised administration but experiencing severe treatment failure.",
+      "Immediate safety concerns with command hallucinations and self-injurious behavior.",
+      "Discussed voluntary psychiatric hospitalization; patient refuses currently.",
+      "Completed 5150 evaluation - meets criteria for involuntary hold due to grave disability and danger to self.",
+      "Arranged emergency psychiatric hospitalization for stabilization and medication management.",
+      "Recommend inpatient trial of clozapine given treatment resistance.",
+      "Group home notified of hospitalization plan.",
+      "Medical evaluation urgently needed for electrolyte abnormalities and severe weight loss."
+    ],
+    "RTC": "Post-hospitalization",
+    "Author": "Note written by Thomas Nguyen, LCSW, Licensed Clinical Social Worker \u2014 East Side Mental Health Center, 1567 Industrial Boulevard, Detroit, MI 48210, Phone: (555) 334-8821, Fax: (555) 334-8822"
+  },
+  "ground_truth": "Adherent"
+}

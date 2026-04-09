@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Harold Phillips",
+    "Patient_MRN": "072",
+    "Date_of_Birth": "1955-12-08",
+    "Date_of_Service": "2024-04-16",
+    "Identifying_Data_Chief_Complaint": "68-year-old White male with schizophrenia presenting with severe treatment-resistant symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Son (Mark Phillips) at 555-334-9921",
+    "Subjective": "Mr. Phillips brought to emergency psychiatric consultation by son who reports grave concerns. Nursing facility where patient resides documents 100% adherence to clozapine 500 mg nightly administered by nursing staff for past 18 months with recent blood levels confirming therapeutic range. Despite maximum clozapine and perfect compliance, patient is profoundly ill. Son reports father experiencing continuous auditory hallucinations commanding him to stop breathing and end his life. Staff confirm patient found repeatedly holding breath until losing consciousness. Also maintains fixed delusion that aliens have stolen his soul and he is empty shell. Over past two weeks refused all food believing eating will feed the aliens inside him, resulting in 26-pound weight loss to 117 lbs. Sleep nearly absent, maybe 1 hour nightly. Hygiene severely neglected - requires full assistance which patient resists violently. Spends days curled in fetal position or screaming at hallucinations. Completely unable to care for self. Staff report increasing violence requiring chemical restraints twice this week. Son tearful and overwhelmed. Risk assessment critical: Command hallucinations for self-harm, deliberately stopping breathing, starvation, dangerous weight loss, violent toward staff. Unable to assess intent given psychosis severity. (Emergency evaluation by Dr. Stephen Walsh, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Elderly male, severely malnourished, disheveled, responding to internal stimuli, hostile when approached",
+      "Speech": "Disorganized, screaming at times, incomprehensible",
+      "Affect": "Terrified, hostile, labile",
+      "Mood": "Unable to assess",
+      "Thought_Content": "Command auditory hallucinations for self-harm, bizarre somatic delusions",
+      "Thought_Process": "Severely disorganized, thought blocking"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 26,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Active danger - following commands to stop breathing, self-starvation"
+    },
+    "Current_Medications": "Clozapine 500 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Recent clozapine level 612 ng/mL therapeutic; ANC 3.9 K/uL adequate; severe malnutrition with albumin 2.2 g/dL; BUN 52 mg/dL, Cr 2.0 mg/dL; electrolyte abnormalities.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, severe and treatment-refractory despite therapeutic clozapine, imminent danger with life-threatening complications.",
+    "Psychosocial_Context": "Resides in skilled nursing facility; widowed; son involved; on Medicare; requires 24-hour care; history of multiple hospitalizations.",
+    "Assessment_and_Plan": [
+      "Perfect adherence to maximum dose clozapine with therapeutic levels documented.",
+      "Complete treatment failure despite optimal clozapine trial.",
+      "Life-threatening situation with command hallucinations and self-starvation.",
+      "5150 hold for immediate involuntary hospitalization.",
+      "Medical admission needed first for severe malnutrition and renal impairment.",
+      "After medical stabilization, psychiatric admission for ECT trial.",
+      "May require NG tube for nutritional support.",
+      "Long-term conservatorship evaluation indicated.",
+      "Coordinating emergency medical transfer now."
+    ],
+    "RTC": "Post-hospitalization",
+    "Author": "Note written by Dr. Stephen Walsh, MD, Psychiatrist \u2014 County Geriatric Psychiatry, 7821 Elder Care Way, Sacramento, CA 95823, Phone: (555) 992-4487, Fax: (555) 992-4488"
+  },
+  "ground_truth": "Adherent"
+}

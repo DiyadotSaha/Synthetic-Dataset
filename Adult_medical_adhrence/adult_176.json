@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Patricia Lee",
+    "Patient_MRN": "176",
+    "Date_of_Birth": "1986-12-14",
+    "Date_of_Service": "2024-10-05",
+    "Identifying_Data_Chief_Complaint": "38-year-old Asian American female with schizoaffective disorder with symptom worsening.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Grace Lee) at 555-661-8832",
+    "Subjective": "Ms. Lee presents appearing anxious with husband providing collateral. Reports that medication costs doubled when insurance changed and she's been rationing her quetiapine, taking it only 3-4 times weekly instead of daily for past 5 weeks to make supply last. Since reducing frequency, experiencing significant worsening. Reports increased depression with anhedonia and difficulty getting out of bed most mornings. Paranoid thoughts intensified - believes neighbors can hear her thoughts and are reporting her to building management. Hearing whispers calling her name 4-5 times daily. Sleep severely disrupted at 3-5 hours. Appetite poor, weight down 7 lbs. Called out from nursing job 4 times this month, supervisor warning given. Lives with husband and children. Withdrawn from family activities. Mood 'anxious and hopeless' rated 3/10. Denies substance use. Safety: passive death wishes, denies plan, denies HI. (Documented by Lisa Chen, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Appears tired, poor eye contact, tearful",
+      "Speech": "Soft, slow",
+      "Affect": "Depressed, anxious, tearful",
+      "Mood": "Anxious and hopeless",
+      "Thought_Content": "Paranoid delusions about thought broadcasting, auditory hallucinations, passive death wishes",
+      "Thought_Process": "Slowed, preoccupied with paranoid and depressive themes"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 18,
+      "GAD_7": 17,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive death wishes without plan or intent"
+    },
+    "Current_Medications": "Quetiapine 300 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Recent glucose 108 mg/dL, other labs normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, with significant exacerbation due to cost-related medication rationing.",
+    "Psychosocial_Context": "Married with children; employed as nurse but job at risk; financial barriers to medication; passive death wishes.",
+    "Assessment_and_Plan": [
+      "Severe symptom worsening due to medication rationing because of cost barriers.",
+      "Enrolled in pharmaceutical patient assistance program immediately.",
+      "Provided 30-day sample supply today to bridge gap.",
+      "Passive death wishes concerning - husband to monitor, crisis resources provided.",
+      "Referred to social work for financial counseling.",
+      "Work excuse provided, discussed FMLA if needed.",
+      "Urgent follow-up in 1 week to monitor safety and symptoms."
+    ],
+    "RTC": "1 week",
+    "Author": "Note written by Lisa Chen, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Healthcare Workers Assistance Program, 3300 Hospital Drive, San Francisco, CA 94110, Phone: (555) 883-7721, Fax: (555) 883-7722"
+  },
+  "ground_truth": "Non-Adherent"
+}

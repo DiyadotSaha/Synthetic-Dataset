@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Hudson Price",
+    "Patient_MRN": "175",
+    "Date_of_Birth": "2012-02-14",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old male brought by stepfather for sadness after biological father missed visits.",
+    "Collateral_Contact_Information": "Stepfather: Michael Price, Phone: (555) 901-2472",
+    "Subjective": "Patient is a 13-year-old male presenting with disappointment and sadness after biological father cancelled last three scheduled visits without explanation. He reports feeling hurt and rejected. He denies any thoughts of self-harm or suicidal ideation. Patient states this is pattern of father's unreliability but he keeps hoping father will follow through. He has good relationship with stepfather who has raised him since age 7 but still desires connection with biological father. Sleep normal but has been withdrawing to room more recently. Continues to attend school and maintain grades. Plays baseball and has close friends. Stepfather reports patient seems more withdrawn after cancelled visits and worries about patient's wellbeing. Patient expresses mixed feelings of anger, sadness, and continued hope regarding father. Currently not in therapy but previously had counseling after parents' divorce. (Social Worker Craig Nelson, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, appears dejected",
+      "Behavior": "Cooperative, somewhat withdrawn",
+      "Speech": "Clear, soft-spoken",
+      "Mood": "Sad and disappointed",
+      "Affect": "Congruent, subdued",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood related to parental rejection, moderate.",
+    "Psychosocial_Context": "Lives with mother and stepfather; biological father unreliable with visitation; experiencing grief and disappointment; strong relationship with stepfather; maintains function in school and activities; supportive home environment.",
+    "Assessment_and_Plan": [
+      "Depressed mood related to biological father's unreliability and perceived rejection.",
+      "Protective factors: strong stepfather relationship, supportive home, maintains function, engaged in activities and friendships, no suicidal ideation.",
+      "Individual therapy to process complicated feelings about biological father.",
+      "Validation that disappointment and mixed feelings are normal.",
+      "Help patient develop realistic expectations regarding father's reliability.",
+      "Strengthen relationship with stepfather and other positive male role models.",
+      "Consider family therapy to support mother and stepfather in helping patient.",
+      "Connection with groups for children of divorced or absent parents may be helpful.",
+      "Follow-up with therapist within 2 weeks; ongoing support likely beneficial."
+    ],
+    "Author": "Craig Nelson, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

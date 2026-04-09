@@ -1,0 +1,55 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Trevor Scott",
+    "Patient_MRN": "116",
+    "Date_of_Birth": "2012-10-19",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old male brought by father after expressing that life feels 'pointless' following diagnosis with Type 1 diabetes.",
+    "Collateral_Contact_Information": "Father: Brian Scott, Phone: (555) 882-5566",
+    "Subjective": "Patient is a 13-year-old male diagnosed with Type 1 diabetes two weeks ago presenting after telling his father that life feels pointless and he sometimes wishes he had never woken up from his DKA hospitalization. He endorses passive thoughts of not wanting to be alive but denies any plan, method, or intent to harm himself. He describes feeling overwhelmed by the daily management requirements, finger sticks, insulin injections, and dietary restrictions. He reports fear of hypoglycemia after experiencing a severe low at school. He has not told friends about diagnosis due to embarrassment. Sleep and appetite affected by diabetes management. Still plays soccer but anxious about glucose during games. Supportive father learning alongside him. Starting to see endocrinologist and diabetes educator. No prior mental health concerns. (Pediatric Endocrinologist Dr. Sarah Thompson, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Bandages on fingers from testing, insulin pump visible",
+      "Behavior": "Cooperative, appears burdened",
+      "Speech": "Clear, subdued",
+      "Mood": "Overwhelmed",
+      "Affect": "Sad, appropriate",
+      "Thought_Process": "Organized",
+      "Thought_Content": "Passive suicidal ideation without plan or intent; diabetes-related distress",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Insulin pump; no psychiatric medications",
+    "CURES_Report": "No controlled substances",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": "",
+      "Point_of_Care_Glucose": "156 mg/dL"
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood related to new Type 1 diabetes diagnosis; passive suicidal ideation.",
+    "Psychosocial_Context": "Recently diagnosed Type 1 diabetes (2 weeks); learning management; fear after hypoglycemic episode; has not disclosed to friends; continues soccer; supportive father.",
+    "Assessment_and_Plan": [
+      "Low risk: passive SI without plan or intent in context of adjustment to new chronic illness diagnosis.",
+      "Protective factors: father support, continuing soccer, engaged with diabetes team.",
+      "Normal adjustment reaction to life-altering diagnosis.",
+      "Referral to therapist specializing in pediatric chronic illness and diabetes.",
+      "Connect with teen Type 1 diabetes support group for peer understanding.",
+      "Diabetes educator to provide additional psychosocial support and coping strategies.",
+      "Address hypoglycemia fear through education and management planning.",
+      "Encourage disclosure to close friends for safety and support.",
+      "Safety plan with father.",
+      "Follow-up with diabetes team and therapist within one week.",
+      "Safe for discharge with appropriate chronic illness support."
+    ],
+    "Author": "Dr. Sarah Thompson, MD (Pediatric Endocrinologist)"
+  },
+  "ground_truth": "yes"
+}

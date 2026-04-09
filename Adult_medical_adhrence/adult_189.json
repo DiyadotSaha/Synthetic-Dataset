@@ -1,0 +1,50 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Derek Patterson",
+    "Patient_MRN": "189",
+    "Date_of_Birth": "1982-09-23",
+    "Date_of_Service": "2024-10-06",
+    "Identifying_Data_Chief_Complaint": "42-year-old White male with schizophrenia brought by police after violent outburst.",
+    "Collateral_Contact_Information": "Emergency Contact: Ex-wife (Karen Patterson) at 555-661-4421",
+    "Subjective": "Patient brought to ED in handcuffs by police after attacking neighbor he believed was 'part of government conspiracy.' Ex-wife contacted provides collateral that he stopped clozapine completely 10 weeks ago after weekly blood draws became 'too suspicious.' Since discontinuation, complete psychotic decompensation. Believes elaborate network of government agents following him, apartment bugged, neighbors are operatives. Hearing constant command voices telling him to 'eliminate threats' and 'protect yourself.' Barricaded in apartment for 2 weeks before today's incident. Hasn't showered in weeks. Sleep essentially nonexistent per neighbor reports - seen pacing all hours. Not eating due to poisoning fears, appears emaciated, estimated 40-lb weight loss. Lost job 8 weeks ago. Eviction pending. Patient highly agitated, responding to internal stimuli, paranoid about everyone including staff. Mood 'you're all part of it' unable to assess. Denies substance use, urine screen pending. Safety: command hallucinations to harm others, attacked neighbor, significant violence risk. Denies SI but states 'I'll fight to the death.' (Documented by Dr. Michael Rodriguez, ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Emaciated, malodorous, disheveled, handcuffed, highly agitated",
+      "Speech": "Loud, disorganized, threatening at times",
+      "Affect": "Hostile, paranoid, labile",
+      "Mood": "You're all part of it",
+      "Thought_Content": "Elaborate paranoid delusions, command hallucinations to harm others, ideas that staff are conspirators",
+      "Thought_Process": "Severely disorganized, illogical, loose associations"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 22,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Denies SI; significant violence risk to others"
+    },
+    "Current_Medications": "Clozapine 400 mg PO qHS (stopped 10 weeks ago)",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "ANC critically low at 800; severe malnutrition; dehydration; urine drug screen pending.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with severe psychotic crisis and violence after stopping clozapine; danger to others; grave disability.",
+    "Psychosocial_Context": "Recently unemployed; pending eviction; complete functional collapse; assaulted neighbor; law enforcement involved.",
+    "Assessment_and_Plan": [
+      "Severe psychotic crisis with violence after stopping clozapine 10 weeks ago.",
+      "Command hallucinations to harm others, recent assault, ongoing danger.",
+      "Low ANC from clozapine discontinuation, malnutrition critical.",
+      "Meets criteria for involuntary hospitalization - danger to others and grave disability.",
+      "5150 hold with law enforcement involvement.",
+      "Immediate transfer to locked inpatient psychiatric unit.",
+      "Will restart clozapine with intensive ANC monitoring.",
+      "Medical stabilization for malnutrition and dehydration.",
+      "Legal charges pending - will coordinate with court system.",
+      "Long-term residential placement likely needed post-discharge."
+    ],
+    "RTC": "Post-hospital discharge with forensic coordination",
+    "Author": "Note written by Dr. Michael Rodriguez, ED Physician \u2014 Metro Hospital Emergency Department, 500 Trauma Center Way, Denver, CO 80202, Phone: (555) 773-9921, Fax: (555) 773-9922"
+  },
+  "ground_truth": "Non-Adherent"
+}

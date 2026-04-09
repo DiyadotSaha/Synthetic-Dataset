@@ -1,0 +1,56 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Jasmine Cooper",
+    "Patient_MRN": "066",
+    "Date_of_Birth": "2011-01-19",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by aunt after stating she intends to kill herself following father's sentencing to 15 years in prison.",
+    "Collateral_Contact_Information": "Aunt: Monique Cooper, Phone: (555) 229-8877",
+    "Subjective": "Patient is a 14-year-old female presenting after her father was sentenced yesterday to 15 years in federal prison for drug trafficking. Patient told her aunt this morning that she intends to kill herself because she cannot cope with the shame and loss. She describes her father as her best friend and primary source of support, particularly since her mother is not involved in her life. She reports intense intent to end her life, stating she truly wants to die and sees no point in living without her father. However, when asked about method, she states she has not figured out how yet but 'will find a way when she is ready.' She describes pervasive hopelessness, belief that classmates will judge her for her father's crimes, and anticipation of ongoing absence from the person she loves most. Sleep has been severely disrupted since father's arrest three months ago. Weight loss of 12 pounds over that period. She has been skipping school frequently. Her aunt, who has taken her in, reports patient has been increasingly isolated and irritable. Patient previously had good peer relationships but has withdrawn. No prior mental health treatment or suicide attempts. (Psychiatrist Dr. Victoria James, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Thin, appears fatigued, minimal effort in grooming",
+      "Behavior": "Withdrawn initially, tearful when discussing father",
+      "Speech": "Soft, slow rate",
+      "Mood": "Hopeless and ashamed",
+      "Affect": "Depressed, constricted, tearful",
+      "Thought_Process": "Linear but slowed",
+      "Thought_Content": "Active SI with clear intent but no articulated plan yet",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Limited",
+      "Judgment": "Poor"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "Mild anemia",
+      "Urine_Tox": "Negative",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder; complicated grief/traumatic loss related to incarceration of primary attachment figure; active suicidal ideation with intent; significant weight loss.",
+    "Psychosocial_Context": "Father sentenced to 15 years; father was primary caregiver and attachment; mother not involved; now living with aunt; social withdrawal; school avoidance; previous good functioning; weight loss; no prior mental health history.",
+    "Assessment_and_Plan": [
+      "Moderate-to-high risk: active SI with clear intent though no specific plan articulated; may develop plan.",
+      "Limited protective factors: aunt's care and willingness to support; previous peer relationships if re-engaged.",
+      "Traumatic loss of primary attachment figure through incarceration; anticipatory grief for 15-year absence.",
+      "Significant weight loss and depression symptoms require intervention.",
+      "Recommend brief psychiatric hospitalization versus intensive outpatient with very close monitoring.",
+      "If discharged, aunt must provide constant supervision; all potential means secured.",
+      "Urgent psychiatric medication evaluation; antidepressant indicated.",
+      "Therapy specializing in trauma, grief, and children of incarcerated parents essential.",
+      "Support groups for children with incarcerated parents.",
+      "Facilitate father contact through prison visit/phone if therapeutically appropriate and safe.",
+      "Nutritional assessment and monitoring for weight restoration.",
+      "School re-engagement plan with counselor support and academic accommodations.",
+      "Not safe for discharge without clear crisis intervention structure; pursue voluntary admission or brief hold."
+    ],
+    "Author": "Dr. Victoria James, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

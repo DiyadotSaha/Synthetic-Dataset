@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Amber Russell",
+    "Patient_MRN": "125",
+    "Date_of_Birth": "2012-10-05",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by mother for anxiety about parents' marital problems.",
+    "Collateral_Contact_Information": "Mother: Jennifer Russell, Phone: (555) 678-9137",
+    "Subjective": "Patient is a 13-year-old female presenting with increased anxiety over past two months related to parents' frequent arguments and potential separation. She reports overhearing discussions about divorce and feeling worried about where she will live and if family will stay together. She denies any thoughts of self-harm or suicidal ideation. Patient states she tries to be perfect to prevent adding stress and sometimes mediates between parents. Sleep is disrupted with difficulty falling asleep due to worry. Stomach aches have increased, particularly before parents arrive home. Academic performance remains strong and she maintains friendships. Mother acknowledges marital difficulties and guilt about impact on patient. Parents have not yet made decisions about separation. Patient close to both parents and fears losing contact with either. (Psychiatrist Dr. Helen Martinez, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears anxious",
+      "Behavior": "Cooperative, burdened affect",
+      "Speech": "Clear, hesitant when discussing family",
+      "Mood": "Worried",
+      "Affect": "Anxious, congruent",
+      "Thought_Process": "Linear, preoccupied with family stability",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with anxiety, moderate.",
+    "Psychosocial_Context": "Lives with both parents currently; parents experiencing significant marital conflict; patient anxious about family stability; taking on inappropriate mediator role; otherwise functioning well; close to both parents.",
+    "Assessment_and_Plan": [
+      "Anxiety related to parental conflict and family instability; inappropriate parentification.",
+      "Protective factors: close relationships with both parents, maintains academic and social function, no suicidal ideation.",
+      "Individual therapy to process family changes and develop coping strategies.",
+      "Psychoeducation that parents' relationship is not patient's responsibility.",
+      "Parents strongly encouraged to shield patient from marital conflict and reassure regarding continued parental involvement.",
+      "Family therapy if parents willing to address communication and impact on patient.",
+      "Relaxation techniques for anxiety and sleep.",
+      "Close monitoring as family situation evolves; symptoms may worsen if separation occurs.",
+      "Follow-up in 2 weeks or sooner if family circumstances change."
+    ],
+    "Author": "Dr. Helen Martinez, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

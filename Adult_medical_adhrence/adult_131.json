@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Margaret O'Brien",
+    "Patient_MRN": "131",
+    "Date_of_Birth": "1958-11-14",
+    "Date_of_Service": "2024-06-25",
+    "Identifying_Data_Chief_Complaint": "65-year-old White female with schizoaffective disorder with severe persistent symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Son (Patrick O'Brien) at 555-447-9988",
+    "Subjective": "Ms. O'Brien presented to appointment with son who provides daily care and medication supervision. Son confirms she takes haloperidol 20 mg nightly via his administration, perfect adherence with no missed doses. Despite reliable medication delivery at high dose, continues experiencing severe symptoms with minimal improvement over past year. Reports constant auditory and visual hallucinations throughout entire day - hears voices of deceased relatives telling her she's dying, sees shadowy figures in home. Endorses fixed somatic delusions that internal organs are rotting away. Sleep extremely poor at 2-3 hours nightly due to hallucinations and severe anxiety. Appetite very poor, refuses many meals due to belief food is contaminated, weight dangerously low at 96 lbs (down 28 lbs over six months). Unable to complete any ADLs independently. Unable to work, on disability for 15 years. Lives with son who provides total care. Refuses to leave bedroom most days due to fear. Mood 'hopeless and frightened' rated 1/10. Denies substance use. Son reports her condition is deteriorating despite medication compliance. Safety: Passive SI without plan, denies HI. (Evaluated by Dr. William McCarthy, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Elderly, emaciated, disheveled despite son's care attempts, appears terrified and internally preoccupied",
+      "Speech": "Whispered, tangential, frequently stops to respond to internal stimuli",
+      "Affect": "Fearful, severely constricted, profoundly distressed",
+      "Mood": "Hopeless and frightened",
+      "Thought_Content": "Severe persistent auditory and visual hallucinations, fixed somatic and persecutory delusions",
+      "Thought_Process": "Severely disorganized, tangential, dominated by psychotic content"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 24,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive suicidal ideation without plan"
+    },
+    "Current_Medications": "Haloperidol 20 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Severe malnutrition markers; albumin 2.8 g/dL; CBC shows mild anemia; glucose 88 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, severe treatment-resistant with dangerous weight loss and functional decline.",
+    "Psychosocial_Context": "Lives with son as full-time caregiver; unable to work, on long-term disability; bedbound most days; severe functional impairment; medical complications from malnutrition.",
+    "Assessment_and_Plan": [
+      "Perfect medication adherence through son's supervision.",
+      "Severe treatment-resistant psychotic symptoms with no response to haloperidol.",
+      "Dangerous weight loss and malnutrition require immediate attention.",
+      "Passive suicidal ideation concerning in context of severity.",
+      "Recommend inpatient psychiatric hospitalization for medication change and nutritional stabilization.",
+      "Will initiate clozapine trial in hospital setting.",
+      "Discussed hospitalization with son who agrees.",
+      "Arranging voluntary admission today.",
+      "Will follow after discharge."
+    ],
+    "RTC": "Post-discharge",
+    "Author": "Note written by Dr. William McCarthy, MD, Psychiatrist \u2014 Geriatric Psychiatry Associates, 7821 Elder Care Way, Boston, MA 02101, Phone: (555) 334-7765, Fax: (555) 334-7766"
+  },
+  "ground_truth": "Adherent"
+}

@@ -1,0 +1,53 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Tristan Parker",
+    "Patient_MRN": "185",
+    "Date_of_Birth": "2012-05-03",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old male brought by father for excessive video gaming and declining hygiene.",
+    "Collateral_Contact_Information": "Father: Philip Parker, Phone: (555) 345- 6807 ",
+    "Subjective": "Patient is a 13-year-old male presenting with pattern of excessive gaming (8-10 hours daily) and declining self-care over past five months. He reports gaming provides escape and social connection through online friends. He denies any thoughts of self-harm or suicidal ideation. Patient acknowledges he has been showering less frequently and wearing same clothes multiple days. Grades have dropped from A's to C's and D's. He becomes irritable when asked to stop gaming and has missed family events to play. Denies substance use. States in-person friendships have diminished as online gaming relationships intensified. Father reports multiple unsuccessful attempts to limit gaming resulting in arguments. Patient admits he prefers online world to real life where he feels more successful and accepted. Sleep schedule shifted to late nights. (ED Physician Dr. George Hansen, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Poor hygiene, disheveled, appears tired",
+      "Behavior": "Cooperative but minimizes concerns",
+      "Speech": "Normal rate and volume",
+      "Mood": "Fine",
+      "Affect": "Somewhat flat, more animated discussing gaming",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Poor regarding extent of problem",
+      "Judgment": "Impaired"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Internet gaming disorder; depression with social withdrawal, moderate.",
+    "Psychosocial_Context": "Lives with father and older brother; excessive gaming interfering with self-care, academics, and relationships; social isolation; disrupted sleep; preferring virtual to real-world interactions; underlying social difficulties or depression possible.",
+    "Assessment_and_Plan": [
+      "Internet gaming disorder with significant functional impairment; possible underlying depression or social anxiety.",
+      "Protective factors: acknowledges some problem exists, supportive father, no suicidal ideation.",
+      "Comprehensive psychiatric evaluation to assess for underlying mood or anxiety disorder.",
+      "Specialized treatment for problematic gaming behavior.",
+      "Structured schedule with limits on gaming time using parental controls.",
+      "Screen for social anxiety or depression driving escapism.",
+      "Encourage re-engagement with in-person activities and peer relationships.",
+      "Family therapy to address conflict and establish consistent boundaries.",
+      "Academic support and school consultation.",
+      "Follow-up in 1 week; may need intensive intervention depending on motivation and cooperation."
+    ],
+    "Author": "Dr. George Hansen, MD (ED Physician)"
+  },
+  "ground_truth": "No"
+}

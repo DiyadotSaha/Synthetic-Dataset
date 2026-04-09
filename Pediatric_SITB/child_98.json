@@ -1,0 +1,56 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Victoria Huang",
+    "Patient_MRN": "098",
+    "Date_of_Birth": "2009-03-09",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old female brought by EMS after jumping from second-story window in suicide attempt.",
+    "Collateral_Contact_Information": "Father: Thomas Huang, Phone: (555) 773-4488",
+    "Subjective": "Patient is a 16-year-old female brought via EMS after jumping from her second-story bedroom window with intent to die. She sustained bilateral ankle fractures and possible spinal injury. Per EMS report and brief interview, patient reports she jumped because she has been hearing a voice telling her for two weeks that she is evil and must die to protect her family from her 'dark energy.' The voice has become increasingly insistent and threatening. This morning the voice told her if she did not jump, her family would die instead. She reports she fully intended to die and is disappointed to have survived. She continues to hear the voice criticizing her. Parents report gradual personality changes over past 3-4 months including social withdrawal, bizarre statements about having special powers, and deteriorating hygiene. No prior psychiatric history. No substance use per parents and initial tox screen pending. Requiring orthopedic surgery. (ED Physician Dr. Andrew Liu, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "In significant pain, cervical collar, leg splints",
+      "Behavior": "Internally preoccupied, responding to internal stimuli",
+      "Speech": "Disorganized, stops mid-sentence",
+      "Mood": "Terrified of voice",
+      "Affect": "Inappropriate, flat then fearful",
+      "Thought_Process": "Grossly disorganized",
+      "Thought_Content": "Recent attempt; ongoing SI; command auditory hallucinations; delusions",
+      "Perception": "Command auditory hallucinations ongoing",
+      "Cognition": "Alert, oriented x3 (not to situation)",
+      "Insight": "Absent",
+      "Judgment": "Severely impaired by psychosis"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "WNL",
+      "Urine_Tox": "Pending",
+      "Head_CT": "Negative for intracranial injury",
+      "Spine_imaging": "Pending; patient in collar pending clearance"
+    },
+    "Diagnostic_Impression": "First-episode psychosis; suicide attempt secondary to command hallucinations; bilateral ankle fractures; possible spinal injury.",
+    "Psychosocial_Context": "First psychotic episode; gradual onset over 3-4 months; no prior psychiatric history; significant functional decline; supportive family; acute medical injuries requiring surgery.",
+    "Assessment_and_Plan": [
+      "Imminent high risk: recent suicide attempt driven by command hallucinations; ongoing hallucinations with suicidal content.",
+      "Minimal protective factors given psychotic state.",
+      "Orthopedic consultation for bilateral ankle fractures; surgery likely needed.",
+      "Spine clearance pending imaging.",
+      "5150 hold; patient requires inpatient psychiatric care once medically/surgically stable.",
+      "Initiate antipsychotic medication urgently.",
+      "First-episode psychosis workup: MRI brain, metabolic panel, autoimmune encephalitis panel.",
+      "1:1 observation; high risk for repeat attempt if hallucinations persist.",
+      "Admit to medical/surgical floor with psychiatric consultation.",
+      "Transfer to psychiatric unit with medical support after surgical stabilization.",
+      "Family psychoeducation regarding psychotic illness."
+    ],
+    "Author": "Dr. Andrew Liu, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

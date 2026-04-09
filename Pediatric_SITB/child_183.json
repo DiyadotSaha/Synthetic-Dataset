@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Kennedy Morris",
+    "Patient_MRN": "183",
+    "Date_of_Birth": "2010-09-25",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female brought by mother for low mood and fatigue.",
+    "Collateral_Contact_Information": "Mother: Deborah Morris, Phone: (555) 234-5796",
+    "Subjective": "Patient is a 15-year-old female presenting with two months of low energy, decreased motivation, and mild sadness. She reports difficulty getting out of bed in mornings and feeling tired throughout day despite adequate sleep. She denies any thoughts of self-harm or suicidal ideation. Patient states she still enjoys activities once she engages but has trouble initiating. Academic performance maintained with effort though concentration somewhat reduced. Appetite slightly decreased. She continues cheerleading and maintains friendships though less social than usual. Recently started menstruating with irregular cycles. Mother concerned about possible depression. Patient notes mood tends to be lower week before period. No significant stressors identified. Previously outgoing and energetic. Laboratory workup by pediatrician last week showed low vitamin D and borderline low iron. (Nurse Practitioner Laura Simmons, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears tired",
+      "Behavior": "Cooperative",
+      "Speech": "Normal rate and volume",
+      "Mood": "Kind of blah",
+      "Affect": "Slightly blunted but reactive",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "Borderline low iron",
+      "Urine_Tox": "",
+      "Head_CT": "",
+      "Other": "Vitamin D 18 ng/mL (low)"
+    },
+    "Diagnostic_Impression": "Depressive symptoms, rule out medical causes; vitamin D deficiency; possible premenstrual dysphoric features, moderate.",
+    "Psychosocial_Context": "Lives with both parents and younger brother; recent onset fatigue and mood changes; vitamin D deficiency and low iron identified; irregular menstrual cycles; maintains function but with more effort; no clear psychosocial stressors.",
+    "Assessment_and_Plan": [
+      "Depressive symptoms in context of nutritional deficiencies and possible hormonal factors.",
+      "Protective factors: maintains function, engaged in activities, supportive family, no suicidal ideation.",
+      "Address medical contributors first: vitamin D supplementation 2000 IU daily, iron supplementation.",
+      "Track mood in relation to menstrual cycle to identify premenstrual pattern.",
+      "Re-evaluate in 6-8 weeks after vitamin D and iron repletion.",
+      "If symptoms persist despite correcting deficiencies, consider primary mood disorder and treatment.",
+      "Behavioral activation strategies to counter low motivation.",
+      "Sleep hygiene optimization.",
+      "Follow-up in 6 weeks; expect improvement with nutritional intervention.",
+      "Consider antidepressant only if no improvement after addressing medical factors."
+    ],
+    "Author": "Laura Simmons, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}

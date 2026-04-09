@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Jamal Robinson",
+    "Patient_MRN": "060",
+    "Date_of_Birth": "1977-05-21",
+    "Date_of_Service": "2024-06-15",
+    "Identifying_Data_Chief_Complaint": "47-year-old African American male with chronic psychotic disorder with ongoing symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Ex-wife (Tamara Robinson) at 555-992-3487",
+    "Subjective": "Mr. Robinson attended appointment appearing somewhat withdrawn. Group home staff confirm he takes olanzapine 15 mg nightly via supervised medication administration without refusals. Despite reliable adherence, he continues experiencing moderate symptom burden. Reports daily auditory hallucinations of voices arguing about him, which he finds distracting and annoying. Also endorses belief that government is tracking him through his phone, leading him to leave it off most of the time. Sleep irregular at 5-6 hours with frequent awakenings. Appetite fair, weight stable at 192 lbs. Attends group home day program sporadically, often stays in room watching TV. Not working, on disability benefits. Ex-wife visits occasionally with their adult daughter. Minimal social interaction otherwise. Mood 'same as always, nothing special' rated 4/10. Denies current substance use though history of cocaine use in past. Flat affect throughout interview. Safety: Denies SI/HI. (Documented by Steven Garcia, LMSW, Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, adequate hygiene, appears withdrawn",
+      "Speech": "Monotone, sparse, brief responses",
+      "Affect": "Flat, minimal engagement",
+      "Mood": "Apathetic",
+      "Thought_Content": "Auditory hallucinations, paranoid delusions about surveillance",
+      "Thought_Process": "Concrete, impoverished thought"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 15,
+      "GAD_7": 11,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Olanzapine 15 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Glucose 108 mg/dL; lipids mildly elevated; CBC normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder with persistent symptoms and negative symptoms.",
+    "Psychosocial_Context": "Lives in group home; unemployed, on disability; limited family contact; minimal social engagement.",
+    "Assessment_and_Plan": [
+      "Good adherence via group home administration.",
+      "Persistent positive and negative symptoms.",
+      "Discussed medication adjustment.",
+      "Will increase olanzapine to 20 mg qHS.",
+      "Encouraged day program participation.",
+      "Follow-up in 4 weeks."
+    ],
+    "RTC": "4 weeks",
+    "Author": "Note written by Steven Garcia, LMSW, Social Worker \u2014 Southside Group Homes, 6721 Residential Way, Chicago, IL 60620, Phone: (555) 884-7709, Fax: (555) 884-7710"
+  },
+  "ground_truth": "Adherent"
+}

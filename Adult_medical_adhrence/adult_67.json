@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Vanessa Martinez",
+    "Patient_MRN": "067",
+    "Date_of_Birth": "1994-02-28",
+    "Date_of_Service": "2024-10-29",
+    "Identifying_Data_Chief_Complaint": "30-year-old Hispanic female with schizoaffective disorder for routine visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Boyfriend (David Lopez) at 555-334-7729",
+    "Subjective": "Patient presented appearing vibrant and well-groomed. Reports perfect adherence to lurasidone 80 mg with dinner nightly using routine. States feeling wonderful. No hallucinations for six months. No delusional thinking. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 138 lbs. Working full-time as veterinary assistant, loves working with animals. Mood 'great' rated 9/10. Lives with boyfriend in healthy relationship. Recently adopted rescue dog together. Enjoys hiking and nature photography on weekends. Attending therapy biweekly for wellness. Two years sober from all substances. Planning to apply to vet tech school next year. Strong support system. No safety concerns, denies SI/HI. (Evaluated by Dr. Carlos Diaz, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, excellent grooming, bright affect",
+      "Speech": "Clear, animated, coherent",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Great",
+      "Thought_Content": "Future-oriented, no psychotic symptoms",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 2,
+      "GAD_7": 3,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Lurasidone 80 mg PO daily with food",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained remission.",
+    "Psychosocial_Context": "Lives with boyfriend; employed full-time; two years sober; planning further education; active lifestyle.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and sustained remission.",
+      "Continue lurasidone 80 mg daily with food.",
+      "Encouraged educational pursuits.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Carlos Diaz, MD, Psychiatrist \u2014 Animal Lovers Mental Wellness, 2341 Pet Plaza, Austin, TX 78701, Phone: (555) 447-8821, Fax: (555) 447-8822"
+  },
+  "ground_truth": "Adherent"
+}

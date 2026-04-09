@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Sofia Ramirez",
+    "Patient_MRN": "089",
+    "Date_of_Birth": "2011-02-28",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by school counselor for superficial cutting behavior.",
+    "Collateral_Contact_Information": "Mother: Maria Ramirez, Phone: (555) 456-7891",
+    "Subjective": "Patient is a 14-year-old female referred from school after counselor noticed fresh superficial cuts on her left forearm. Patient reports she has been cutting herself with scissors over the past three weeks as a way to cope with overwhelming emotions related to conflicts with her mother. She states the cutting provides temporary relief and helps her feel in control. She explicitly denies any suicidal intent and states the behavior is not meant to end her life, only to manage her emotional distress. She denies any thoughts of wanting to die or any suicidal ideation. Patient describes frequent arguments at home regarding curfew and academic expectations. She is currently in outpatient therapy but has not disclosed the cutting to her therapist. Mother was unaware of the behavior until contacted by school today. (ED Physician Dr. Amanda Torres, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Dressed in long sleeves, multiple superficial linear cuts visible on left forearm",
+      "Behavior": "Guarded initially, cooperative once rapport established",
+      "Speech": "Normal rate and tone",
+      "Mood": "Frustrated",
+      "Affect": "Constricted",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation; non-suicidal self-injury present",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Limited",
+      "Judgment": "Impaired"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Non-suicidal self-injury disorder; adjustment disorder with mixed disturbance of emotions and conduct, moderate.",
+    "Psychosocial_Context": "Lives with mother and two younger siblings; father uninvolved; family conflict regarding rules and expectations; currently engaged in outpatient therapy but non-disclosing of self-harm.",
+    "Assessment_and_Plan": [
+      "Non-suicidal self-injury as maladaptive coping strategy; no suicidal ideation or intent present.",
+      "Protective factors: engaged in therapy, academically functional, no desire to die.",
+      "Wounds are superficial, no sutures required; cleaned and bandaged.",
+      "Safety planning completed with patient and mother; removal of sharps from home environment.",
+      "Contact made with outpatient therapist to discuss NSSI and enhance treatment plan.",
+      "Family therapy recommended to address communication patterns.",
+      "Psychoeducation provided regarding healthier coping strategies.",
+      "Follow-up with outpatient therapist within 3 days arranged."
+    ],
+    "Author": "Dr. Amanda Torres, MD (ED Physician)"
+  },
+  "ground_truth": "No"
+}

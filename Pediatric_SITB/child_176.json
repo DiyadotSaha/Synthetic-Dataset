@@ -1,0 +1,53 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Quinn Foster",
+    "Patient_MRN": "176",
+    "Date_of_Birth": "2011-02-21",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old brought by foster parent after revealing plan to run into traffic due to upcoming adoption disruption.",
+    "Collateral_Contact_Information": "Foster Parent: Sarah Mitchell, Phone: (555) 447-2288",
+    "Subjective": "Patient is a 14-year-old in foster care presenting after disclosing to foster parent a plan to run into traffic because their adoption is being disrupted after 18 months with prospective adoptive family due to family's financial crisis. Patient describes specific plan to run in front of bus on route near home. Reports intent to die because 'cannot go through another placement' and feels utterly abandoned. This would be eighth placement in five years. States disclosed plan because foster parent (current temporary placement) has been kind. Reports chronic feelings of worthlessness and not belonging anywhere. Sleep disrupted with nightmares. Appetite poor. Currently on fluoxetine 30mg. Seeing therapist biweekly. No close friends due to frequent moves. Enjoys drawing. History of early childhood neglect and multiple placement disruptions. One prior gesture (superficial cutting) at age 12. (Social Worker Marcus Johnson, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Withdrawn, guarded",
+      "Behavior": "Initially resistant, gradually opens up",
+      "Speech": "Quiet, defeated tone",
+      "Mood": "Hopeless and abandoned",
+      "Affect": "Depressed, numbed",
+      "Thought_Process": "Linear",
+      "Thought_Content": "Active SI with specific lethal plan and intent; attachment trauma",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair, sought help by disclosing",
+      "Judgment": "Severely impaired by repeated trauma"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Fluoxetine 30mg daily",
+    "CURES_Report": "Fluoxetine on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder; reactive attachment disorder; suicidal ideation with plan and intent; complex developmental trauma from multiple placement disruptions.",
+    "Psychosocial_Context": "Eighth foster placement in five years; adoption disruption after 18 months; history of neglect; biweekly therapy; on SSRI; no peer connections; drawing interest; prior self-harm.",
+    "Assessment_and_Plan": [
+      "High risk: active SI with lethal plan and intent driven by impending placement disruption and attachment trauma.",
+      "Minimal protective factors: current foster parent's kindness, therapy engagement, drawing interest.",
+      "Close monitoring; patient not to be alone near traffic.",
+      "5150 hold; psychiatric admission required.",
+      "Urgent foster care meeting to explore placement stability options.",
+      "Trauma-informed care essential; attachment-focused therapy.",
+      "Current medication likely insufficient; psychiatric consultation.",
+      "Explore relative placement or long-term foster-to-adopt families.",
+      "Address cumulative trauma of repeated placements and disruptions.",
+      "Discharge only to stable, committed placement with intensive services."
+    ],
+    "Author": "Marcus Johnson, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

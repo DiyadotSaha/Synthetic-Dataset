@@ -1,0 +1,55 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Avery Wallace",
+    "Patient_MRN": "180",
+    "Date_of_Birth": "2012-08-08",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old brought by mother after picking at skin on arms until bleeding, stating wanted to 'peel off my skin.'",
+    "Collateral_Contact_Information": "Mother: Lisa Wallace, Phone: (555) 663-4477",
+    "Subjective": "Patient is a 13-year-old presenting after mother found them picking at arms with tweezers and safety pin, creating multiple bleeding wounds. Patient states wanted to 'peel off skin' because it 'doesn't feel right' and causes distress. Reports picking behavior for past 4 months, escalating in severity. Denies suicidal ideation, plan, or intent. Describes sensory discomfort with own skin and compulsive urges to pick. Also reports other repetitive behaviors (hand washing, counting, checking). Sleep disrupted by need to check locks. Appetite normal. Academic performance declining due to time spent on rituals. Has two friends. Supportive mother. Possible autism spectrum per school evaluation pending. Currently no medications. No prior mental health treatment. (Psychiatrist Dr. Jennifer Brown, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Multiple excoriations and scabs on both arms, appears anxious",
+      "Behavior": "Cooperative, repetitive hand movements noted",
+      "Speech": "Precise, somewhat formal",
+      "Mood": "Distressed by compulsions",
+      "Affect": "Anxious, restricted",
+      "Thought_Process": "Organized, some obsessive quality",
+      "Thought_Content": "Denies SI; skin-picking compulsion; obsessive thoughts; sensory distress",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Limited regarding compulsive nature",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No prescriptions",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Excoriation (skin-picking) disorder; obsessive-compulsive disorder; possible autism spectrum disorder; sensory processing issues.",
+    "Psychosocial_Context": "Escalating skin-picking behavior; other OCD symptoms present; autism evaluation pending; academic decline due to rituals; supportive mother; peer relationships maintained.",
+    "Assessment_and_Plan": [
+      "Low risk for suicide but high concern for severe skin-picking disorder and OCD.",
+      "Wounds cleaned and dressed; infection risk with continued picking.",
+      "Remove picking tools (tweezers, pins); keep nails short.",
+      "Urgent psychiatric evaluation for OCD and possible autism spectrum.",
+      "Consider SSRI for OCD; exposure and response prevention therapy.",
+      "Complete autism evaluation to inform treatment approach.",
+      "Occupational therapy for sensory processing.",
+      "Habit reversal training for skin-picking.",
+      "Protective covering for arms to prevent access.",
+      "Mother educated on OCD and reducing accommodation of rituals.",
+      "Follow-up with psychiatrist within one week.",
+      "Safe for discharge with urgent OCD treatment engagement."
+    ],
+    "Author": "Dr. Jennifer Brown, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

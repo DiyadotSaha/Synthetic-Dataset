@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Austin Baker",
+    "Patient_MRN": "128",
+    "Date_of_Birth": "2010-07-30",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by coach after disclosing plan to take entire bottle of pills following concussion ending football career.",
+    "Collateral_Contact_Information": "Father: Tom Baker, Phone: (555) 992-5588",
+    "Subjective": "Patient is a 15-year-old male varsity football player presenting after telling his coach he has a plan to take an entire bottle of pills because his football career is over due to third concussion. Physician advised no contact sports indefinitely. Patient describes specific plan to overdose on any available medication but denies having identified specific pills. States he has intent to die because football was his path to college scholarship and future. When questioned, demonstrates some ambivalence, noting he knows coach and father care. Sleep disrupted since injury. Currently experiencing post-concussion headaches. Had been taking ibuprofen PRN. Strong student-athlete identity. Father very supportive. Three close teammates. Academic performance good. No prior mental health concerns. (ED Physician Dr. Thomas Jackson, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Athletic build, appears frustrated",
+      "Behavior": "Cooperative, agitated when discussing football",
+      "Speech": "Normal rate",
+      "Mood": "Angry and lost",
+      "Affect": "Frustrated, appropriate",
+      "Thought_Process": "Linear",
+      "Thought_Content": "Active SI with general plan but no specific means; ambivalent intent",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Ibuprofen PRN for headaches",
+    "CURES_Report": "No controlled substances",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood related to sports career-ending injury; suicidal ideation with plan; post-concussion syndrome.",
+    "Psychosocial_Context": "Third concussion ending football career; athletic scholarship aspirations lost; strong athlete identity; supportive father and coach; close teammates; good academics.",
+    "Assessment_and_Plan": [
+      "Moderate risk: active SI with plan but ambivalent intent; no specific means identified; some protective factors.",
+      "Protective factors: father and coach support, teammates, ambivalence, good academics provide alternative path.",
+      "Father to secure all medications.",
+      "Crisis counseling for career-ending injury and identity transition.",
+      "Sports psychology for athlete identity loss and transition.",
+      "Explore coaching, sports medicine, other football involvement, or new interests.",
+      "Emphasize academic strengths as path to college without athletic scholarship.",
+      "Monitor for post-concussion mood symptoms.",
+      "Safety plan with father and coach.",
+      "Follow-up within 48 hours with sports psychologist.",
+      "Discharge contingent on means restriction and rapid outpatient access."
+    ],
+    "Author": "Dr. Thomas Jackson, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

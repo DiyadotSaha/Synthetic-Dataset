@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Tyler Bennett",
+    "Patient_MRN": "151",
+    "Date_of_Birth": "1996-09-15",
+    "Date_of_Service": "2024-10-28",
+    "Identifying_Data_Chief_Complaint": "28-year-old White male with schizophrenia for routine medication check.",
+    "Collateral_Contact_Information": "Emergency Contact: Father (Steven Bennett) at 555-773-2219",
+    "Subjective": "Mr. Bennett arrives for his scheduled appointment appearing relaxed and casually dressed. He mentions he's been doing pretty well overall but acknowledges that he's forgotten to take his aripiprazole on a handful of occasions this past month - he estimates maybe 5 or 6 times when his morning routine got disrupted because he had to leave early for work or slept at a friend's place on weekends. He reports that on those days, he doesn't notice much difference in how he feels, though he did experience one brief episode last week where he thought he heard someone call his name when no one was around. Sleep has been good at 7-8 hours nightly when he maintains his schedule. Appetite is normal, weight stable at 162 lbs. He continues working full-time as a warehouse associate and recently got a positive performance review. Mood is described as 'good, no complaints' rated 7/10. Lives alone in an apartment and manages his daily activities independently. Enjoys cycling on weekends with friends. Denies substance use. No acute safety concerns, denies any suicidal or homicidal thoughts. (Evaluated by Dr. Karen Martinez, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Young adult male, casual attire, good grooming, relaxed demeanor",
+      "Speech": "Clear, normal rate and volume, coherent",
+      "Affect": "Appropriate, slightly bright, engaged",
+      "Mood": "Good",
+      "Thought_Content": "One isolated brief auditory perceptual experience, no current paranoia",
+      "Thought_Process": "Organized, logical, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 4,
+      "GAD_7": 3,
+      "DAST_10": 0,
+      "AUDIT_C": 1,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Aripiprazole 10 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, currently stable with mild adherence concerns.",
+    "Psychosocial_Context": "Living independently; employed full-time; active social life; overall good functioning.",
+    "Assessment_and_Plan": [
+      "Discussed pattern of occasional missed doses related to routine disruption.",
+      "Recommended setting phone alarm for consistent timing even on weekends.",
+      "Suggested keeping backup dose in wallet or work locker.",
+      "Reviewed importance of daily adherence even when feeling well.",
+      "Symptoms remain well-controlled despite occasional missed doses.",
+      "Continue aripiprazole 10 mg daily.",
+      "Follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Dr. Karen Martinez, MD, Psychiatrist \u2014 Riverside Community Mental Health, 4520 River Road, Portland, OR 97213, Phone: (555) 892-3341, Fax: (555) 892-3342"
+  },
+  "ground_truth": "Non-Adherent"
+}

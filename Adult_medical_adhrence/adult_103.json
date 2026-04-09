@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Gregory Wilson",
+    "Patient_MRN": "103",
+    "Date_of_Birth": "1971-02-08",
+    "Date_of_Service": "2024-06-13",
+    "Identifying_Data_Chief_Complaint": "53-year-old White male with chronic psychotic disorder with ongoing symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Nancy Wilson) at 555-772-4498",
+    "Subjective": "Mr. Wilson attended appointment with sister who oversees treatment. Sister confirms he takes olanzapine 20 mg nightly via her supervision, no missed doses. Despite good adherence, continues experiencing moderate symptom burden. Reports daily auditory hallucinations of multiple voices arguing, which are bothersome. Endorses paranoid belief that technology companies spy on him through devices, leading to avoidance behaviors. Sleep disrupted at 5-6 hours nightly. Appetite decreased, weight down 7 lbs to 172 lbs. Not working, receives disability. Lives with sister who provides support. Limited activities. Sister frustrated with ongoing symptoms. Mood 'worried' rated 4/10. Denies substance use. Safety: No SI/HI. (Assessed by Dr. Brian Foster, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged male, fair grooming, appears anxious",
+      "Speech": "Soft, hesitant, coherent",
+      "Affect": "Anxious, restricted",
+      "Mood": "Worried",
+      "Thought_Content": "Auditory hallucinations, paranoid delusions about surveillance",
+      "Thought_Process": "Coherent, preoccupied"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 15,
+      "GAD_7": 16,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Olanzapine 20 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Glucose 121 mg/dL concerning; lipids elevated; CBC normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder with persistent symptoms and metabolic concerns.",
+    "Psychosocial_Context": "Lives with sister; unemployed, on disability; limited engagement; ongoing symptoms.",
+    "Assessment_and_Plan": [
+      "Good adherence through sister's supervision.",
+      "Already on maximum olanzapine with ongoing symptoms and metabolic issues.",
+      "Discussed medication change given both symptom persistence and metabolic concerns.",
+      "Will cross-taper to ziprasidone for better metabolic profile.",
+      "Metabolic monitoring.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Dr. Brian Foster, MD, Psychiatrist \u2014 Metabolic Psychiatry Clinic, 3421 Health Plaza, Minneapolis, MN 55455, Phone: (555) 661-3487, Fax: (555) 661-3488"
+  },
+  "ground_truth": "Adherent"
+}

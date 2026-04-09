@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Mackenzie Ford",
+    "Patient_MRN": "140",
+    "Date_of_Birth": "2009-10-21",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old female brought by friend's parent after disclosing plan to suffocate herself with plastic bag.",
+    "Collateral_Contact_Information": "Friend's parent: Carol Peterson, Phone: (555) 663-8844; Mother: Diane Ford, Phone: (555) 663-8845",
+    "Subjective": "Patient is a 16-year-old female presenting after disclosing to friend's mother a specific plan to suffocate herself with a plastic bag. She describes researching method online and identifies specific location (her bedroom closet) and timing (when mother works night shift). Reports clear intent, stating she cannot continue living with depression that has not responded to two medication trials. However, has not acted because friend convinced her to tell an adult. Currently on venlafaxine 150mg, third medication trial in 18 months. Previous trials: fluoxetine, sertraline. In weekly therapy for two years. Describes persistent low mood, anhedonia, and hopelessness despite treatment. Still attending school, grades declining. Few friends. No prior attempts. (Psychiatrist Dr. Caroline White, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Appears exhausted, flat demeanor",
+      "Behavior": "Cooperative, emotionally numb",
+      "Speech": "Monotone, slow",
+      "Mood": "Hopeless",
+      "Affect": "Markedly blunted",
+      "Thought_Process": "Linear but slowed",
+      "Thought_Content": "Active SI with specific plan and intent; treatment-resistant depression",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Severely impaired"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Venlafaxine 150mg daily",
+    "CURES_Report": "Psychiatric medications on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, treatment-resistant; suicidal ideation with specific plan and intent.",
+    "Psychosocial_Context": "Treatment-resistant depression; three medication trials over 18 months; two years of therapy; declining academics; limited social support; supportive mother and friend.",
+    "Assessment_and_Plan": [
+      "High risk: active SI with specific, lethal plan and clear intent; disclosed due to friend intervention.",
+      "Limited protective factors: friend intervention, mother support, engaged in treatment.",
+      "Mother to remove all plastic bags and means; enhanced supervision during night shifts.",
+      "Treatment-resistant depression requires specialized intervention.",
+      "5150 hold recommended; inpatient psychiatric admission.",
+      "Consider TMS, ketamine, ECT consultation, or intensive outpatient program.",
+      "Current medication regimen needs overhaul; psychiatric consultation for novel approaches.",
+      "Rule out bipolar disorder or other complicating diagnoses.",
+      "Not safe for discharge without major treatment plan change and close monitoring."
+    ],
+    "Author": "Dr. Caroline White, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

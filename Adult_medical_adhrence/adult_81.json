@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Hui Lin",
+    "Patient_MRN": "081",
+    "Date_of_Birth": "1976-09-30",
+    "Date_of_Service": "2024-05-22",
+    "Identifying_Data_Chief_Complaint": "47-year-old Asian American female with chronic psychotic disorder with moderate symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Husband (Ming Lin) at 555-229-7643",
+    "Subjective": "Ms. Lin attended appointment with husband who assists with treatment coordination. Husband confirms she takes olanzapine 15 mg nightly via his supervision, no missed doses. Despite reliable adherence, continues experiencing moderate symptom burden. Reports daily auditory hallucinations in Mandarin of voices criticizing her parenting and homemaking. Also endorses paranoid belief that neighbors judge her family negatively, causing social avoidance. Sleep disrupted at 5-6 hours with middle insomnia. Appetite variable, weight stable at 158 lbs. Not working outside home, cares for two teenage children. Limited activities outside home due to anxiety and paranoia. Husband reports she has good days and difficult days. Mood 'worried' rated 4/10. Denies substance use. Safety: No SI/HI. (Assessed by Dr. Jennifer Huang, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged female, adequate grooming, appears anxious",
+      "Speech": "Soft, accented English, hesitant",
+      "Affect": "Anxious, restricted",
+      "Mood": "Worried",
+      "Thought_Content": "Auditory hallucinations in native language, paranoid ideation about neighbors",
+      "Thought_Process": "Coherent, preoccupied"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 16,
+      "GAD_7": 17,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Olanzapine 15 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Glucose 114 mg/dL; lipids mildly elevated; CBC normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder with persistent symptoms and anxiety.",
+    "Psychosocial_Context": "Married; stay-at-home mother of two; limited English; culturally isolated; husband provides support.",
+    "Assessment_and_Plan": [
+      "Good adherence through husband's supervision.",
+      "Persistent psychotic and anxiety symptoms.",
+      "Discussed medication adjustment and augmentation.",
+      "Will increase olanzapine to 20 mg qHS.",
+      "Referred to Asian community mental health program.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Dr. Jennifer Huang, MD, Psychiatrist \u2014 Asian American Mental Wellness, 3421 Chinatown Plaza, San Francisco, CA 94108, Phone: (555) 661-3487, Fax: (555) 661-3488"
+  },
+  "ground_truth": "Adherent"
+}

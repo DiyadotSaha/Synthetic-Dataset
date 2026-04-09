@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Isaiah Turner",
+    "Patient_MRN": "172",
+    "Date_of_Birth": "2009-07-28",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old male brought by EMS after intentional overdose on energy drinks and caffeine pills following 72-hour gaming session.",
+    "Collateral_Contact_Information": "Mother: Angela Turner, Phone: (555) 883-5599",
+    "Subjective": "Patient is a 16-year-old male brought by EMS after intentionally ingesting 15+ energy drinks and approximately 20 caffeine pills during 72-hour gaming session with intent to either stay awake indefinitely or die, stating he 'didn't care which.' Became severely tremulous, tachycardic, and confused. Mother found him seizing. Per patient, he was trying to reach top global ranking in online game and felt if he could not achieve this, life was pointless. Reports believing gaming success is only thing he is good at. Has dropped out of school, no in-person friends, estranged from family, plays 16-18 hours daily. Currently experiencing severe anxiety, tremors, palpitations. No prior overdoses but escalating concerning behavior around gaming. Mother describes complete social withdrawal over past year. Currently no psychiatric medications. (ED Physician Dr. Samuel Reed, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, tremulous, appears malnourished",
+      "Behavior": "Agitated, restless",
+      "Speech": "Pressured, rapid",
+      "Mood": "Wired and desperate",
+      "Affect": "Anxious, labile",
+      "Thought_Process": "Disorganized, tangential",
+      "Thought_Content": "Recent attempt with ambiguous intent; gaming preoccupation; social withdrawal",
+      "Cognition": "Confused, disoriented to time",
+      "Insight": "Minimal",
+      "Judgment": "Severely impaired"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No prescriptions",
+    "Laboratory_Data": {
+      "CBC": "WNL",
+      "Urine_Tox": "Extreme caffeine levels",
+      "ECG": "Sinus tachycardia 142 bpm, PVCs noted",
+      "Comprehensive_Metabolic_Panel": "Mild dehydration, otherwise WNL"
+    },
+    "Diagnostic_Impression": "Internet gaming disorder, severe; caffeine toxicity with seizure; suicide attempt vs. reckless endangerment; social isolation; possible depression.",
+    "Psychosocial_Context": "Dropped out of school; complete social isolation; gaming 16-18 hours daily; estranged from family; no in-person relationships; gaming as sole identity.",
+    "Assessment_and_Plan": [
+      "High risk: recent dangerous overdose with ambiguous but concerning intent; severe functional impairment.",
+      "Medical management: cardiac monitoring for arrhythmias; IV fluids; benzodiazepines for agitation and seizure prevention.",
+      "Severe internet gaming disorder requires specialized treatment.",
+      "5150 hold; inpatient psychiatric admission.",
+      "Technology addiction treatment program essential.",
+      "Assess for underlying depression, social anxiety, autism spectrum.",
+      "Gradual reintegration into real-world activities and relationships.",
+      "Family therapy; address disconnection.",
+      "School re-engagement plan.",
+      "Long-term: residential treatment for technology addiction may be needed."
+    ],
+    "Author": "Dr. Samuel Reed, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

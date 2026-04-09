@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Alexa Stone",
+    "Patient_MRN": "094",
+    "Date_of_Birth": "2012-01-11",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by coach after expressing wish to 'disappear' following sports injury ending gymnastics career.",
+    "Collateral_Contact_Information": "Mother: Karen Stone, Phone: (555) 998-7722",
+    "Subjective": "Patient is a 13-year-old competitive gymnast presenting after confiding in her coach that she wishes she could disappear following a severe wrist fracture that will prevent her from competing at elite level. Patient has been training 25 hours per week since age 5 with Olympic aspirations. Orthopedic surgeon informed her yesterday that due to growth plate damage, she should cease gymnastics to avoid permanent disability. Patient describes passive thoughts over the past 24 hours of wishing she did not exist or could just 'fade away' because gymnastics is her entire identity. She explicitly denies any plan, method, or intent to harm herself. She reports feeling lost about who she is without gymnastics and fears disappointing her parents who have invested significantly in her training. Sleep disrupted since injury. Appetite normal. She has limited peer relationships outside of gymnastics due to training schedule. Her mother is supportive but also processing the loss of the Olympic dream. Patient expresses some interest in possibly coaching younger gymnasts when pressed. No prior mental health concerns. (Social Worker Amanda Foster, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Wearing gymnastics warm-up suit, wrist cast, appears deflated",
+      "Behavior": "Cooperative, subdued compared to usually energetic per coach",
+      "Speech": "Soft, slow",
+      "Mood": "Lost and empty",
+      "Affect": "Sad, appropriate",
+      "Thought_Process": "Organized but preoccupied with loss of identity",
+      "Thought_Content": "Passive suicidal ideation without plan or intent; identity crisis",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Ibuprofen 400mg TID for wrist pain",
+    "CURES_Report": "No controlled substances",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood; identity crisis related to loss of athletic career; passive suicidal ideation.",
+    "Psychosocial_Context": "Elite gymnast with career-ending injury; gymnastics as sole identity since early childhood; limited peer relationships outside sport; supportive mother and coach; some interest in coaching.",
+    "Assessment_and_Plan": [
+      "Low risk: passive SI without plan or intent in reaction to devastating career loss.",
+      "Protective factors: coach and mother support, emerging interest in coaching, good insight.",
+      "Normal grief reaction to loss of athletic identity and future plans.",
+      "Referral to sports psychologist specializing in career-ending injuries and athlete transitions.",
+      "Explore coaching, judging, or other gymnastics involvement roles.",
+      "Develop identity beyond gymnastics; explore other interests and peer relationships.",
+      "Safety plan created with coach and mother.",
+      "Mother educated on supporting identity exploration beyond sport.",
+      "Gradual reintegration into gymnastics community in new role.",
+      "Follow-up with sports psychologist within one week.",
+      "Safe for discharge with appropriate athletic transition support."
+    ],
+    "Author": "Amanda Foster, LCSW (Social Worker)"
+  },
+  "ground_truth": "yes"
+}

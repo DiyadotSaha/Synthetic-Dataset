@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Christina Morales",
+    "Patient_MRN": "168",
+    "Date_of_Birth": "1989-08-17",
+    "Date_of_Service": "2024-10-29",
+    "Identifying_Data_Chief_Complaint": "35-year-old Hispanic female with schizoaffective disorder for routine appointment.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Rosa Morales) at 555-447-9908",
+    "Subjective": "Ms. Morales presents looking well and reports feeling good. Acknowledges that her brexpiprazole bottle has more pills than expected and upon discussion admits she sometimes takes 'medication holidays' on weekends, skipping Saturday doses about 2-3 times monthly when she wants to feel less tired and more energetic for social activities with friends. Hasn't noticed major problems though did feel briefly more sensitive to criticism from her supervisor last month. No hallucinations. Sleep good at 7-8 hours. Appetite normal, weight 138 lbs. Working full-time as medical records specialist. Mood 'good' rated 7/10. Lives alone. Active in church choir and volunteers at food bank. No substance use. No safety concerns, denies SI/HI. (Documented by Sandra Kim, LCSW, Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, good grooming, friendly",
+      "Speech": "Clear, normal pace, coherent",
+      "Affect": "Appropriate, engaged",
+      "Mood": "Good",
+      "Thought_Content": "One episode of increased sensitivity, no current symptoms",
+      "Thought_Process": "Organized, logical"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 3,
+      "GAD_7": 4,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Brexpiprazole 2 mg PO daily",
+    "CURES_Report": "Reviewed; no concerns.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, stable with intentional weekend dose skipping.",
+    "Psychosocial_Context": "Living independently; employed full-time; active in community and religious activities.",
+    "Assessment_and_Plan": [
+      "Discussed pattern of intentionally skipping weekend doses to reduce fatigue.",
+      "Explained importance of daily dosing for consistent medication levels.",
+      "Patient agrees to take medication daily.",
+      "Continue brexpiprazole 2 mg daily.",
+      "Follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Sandra Kim, LCSW, Social Worker \u2014 Community Wellness Center, 1250 Health Plaza, San Antonio, TX 78205, Phone: (555) 334-6698, Fax: (555) 334-6699"
+  },
+  "ground_truth": "Non-Adherent"
+}

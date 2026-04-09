@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Isaiah Brown",
+    "Patient_MRN": "068",
+    "Date_of_Birth": "1986-07-19",
+    "Date_of_Service": "2024-06-11",
+    "Identifying_Data_Chief_Complaint": "38-year-old African American male with chronic psychotic disorder with residual symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Uncle (Marcus Brown) at 555-772-4409",
+    "Subjective": "Mr. Brown attended appointment with case manager. Case manager confirms he takes asenapine 10 mg sublingual twice daily via supervised administration at day program without missed doses. Despite consistent adherence, continues experiencing bothersome symptoms. Reports daily auditory hallucinations of voices discussing him, which are distracting. Endorses vague paranoid ideas that people are watching him. Sleep disrupted at 5 hours nightly. Appetite fair, weight stable at 174 lbs. Attends day program four days weekly, participates minimally. Not working, receives disability. Lives in supervised apartment with weekly case manager visits. Limited social contacts. Mood 'alright' rated 5/10. Denies substance use, history of marijuana dependence. Flat throughout interview. Safety: Denies SI/HI. (Assessed by Diana Martinez, LCSW, Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, adequate grooming, appears withdrawn",
+      "Speech": "Monotone, sparse, coherent",
+      "Affect": "Flat, minimal reactivity",
+      "Mood": "Neutral",
+      "Thought_Content": "Auditory hallucinations, mild paranoid ideation",
+      "Thought_Process": "Concrete, impoverished"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 12,
+      "GAD_7": 10,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Asenapine 10 mg SL BID",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC and CMP within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder with persistent symptoms.",
+    "Psychosocial_Context": "Lives in supervised housing; unemployed, on disability; attends day program; case management services.",
+    "Assessment_and_Plan": [
+      "Good adherence through program supervision.",
+      "Persistent symptoms despite treatment.",
+      "Discussed medication adjustment.",
+      "Will consider dose increase or augmentation.",
+      "Follow-up in 4 weeks."
+    ],
+    "RTC": "4 weeks",
+    "Author": "Note written by Diana Martinez, LCSW, Social Worker \u2014 Urban Day Program, 5623 City Center, Philadelphia, PA 19102, Phone: (555) 229-7741, Fax: (555) 229-7742"
+  },
+  "ground_truth": "Adherent"
+}

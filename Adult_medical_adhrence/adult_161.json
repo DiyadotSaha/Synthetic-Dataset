@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Jordan Phillips",
+    "Patient_MRN": "161",
+    "Date_of_Birth": "1995-02-14",
+    "Date_of_Service": "2024-10-11",
+    "Identifying_Data_Chief_Complaint": "29-year-old White male with schizoaffective disorder for routine follow-up.",
+    "Collateral_Contact_Information": "Emergency Contact: Girlfriend (Ashley Collins) at 555-992-3387",
+    "Subjective": "Mr. Phillips arrives on time looking casual and relaxed. Reports he's been doing well with work and life in general. When reviewing his medication, he mentions his lurasidone bottle seems to last longer than expected and upon counting, realizes he's likely been missing his evening dose about 4-5 times monthly, usually on weekends when his schedule is different and he's out with friends or staying over at his girlfriend's place. He notes he hasn't experienced major changes, though he did have one episode two weeks ago where he briefly felt suspicious that people at a party were laughing at him, but the feeling passed quickly and he was able to rationalize it. Sleep has been good at 7-8 hours when he remembers his medication, sometimes lighter sleep on nights he forgets. Appetite normal, weight steady at 170 lbs. Working full-time as graphic designer and recently completed a major client project. Mood 'really good' rated 8/10. Lives alone but spends most weekends with girlfriend. Enjoys mountain biking and photography. Maintains active social life. Denies substance use, quit smoking marijuana 5 months ago. No safety concerns, denies SI/HI. (Assessed by Dr. Ellen Montgomery, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, well-groomed, relaxed demeanor",
+      "Speech": "Clear, normal rate, coherent",
+      "Affect": "Appropriate, bright, engaged",
+      "Mood": "Really good",
+      "Thought_Content": "One isolated brief episode of ideas of reference, quickly resolved",
+      "Thought_Process": "Organized, logical, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 3,
+      "GAD_7": 4,
+      "DAST_10": 0,
+      "AUDIT_C": 2,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Lurasidone 40 mg PO qHS with food",
+    "CURES_Report": "Reviewed; no issues.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, stable with mild adherence lapses.",
+    "Psychosocial_Context": "Living independently; employed full-time; active social and romantic relationship; overall excellent functioning.",
+    "Assessment_and_Plan": [
+      "Addressed pattern of weekend dose omissions.",
+      "Discussed keeping backup doses at girlfriend's apartment.",
+      "Recommended phone reminder for consistent timing regardless of location.",
+      "Symptoms well-controlled despite occasional missed doses.",
+      "Continue lurasidone 40 mg qHS with food.",
+      "Follow-up in 10 weeks."
+    ],
+    "RTC": "10 weeks",
+    "Author": "Note written by Dr. Ellen Montgomery, MD, Psychiatrist \u2014 Northwest Behavioral Health, 2710 Cedar Avenue, Portland, OR 97205, Phone: (555) 334-8821, Fax: (555) 334-8822"
+  },
+  "ground_truth": "Non-Adherent"
+}

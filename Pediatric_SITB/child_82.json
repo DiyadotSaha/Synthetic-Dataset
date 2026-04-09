@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Emma Wilson",
+    "Patient_MRN": "082",
+    "Date_of_Birth": "2011-11-30",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by mother after stating she 'wants to be with' her deceased dog following pet's euthanasia.",
+    "Collateral_Contact_Information": "Mother: Jennifer Wilson, Phone: (555) 664-2211",
+    "Subjective": "Patient is a 14-year-old female presenting two days after the euthanasia of her 12-year-old dog who had been her companion since toddlerhood. Patient told her mother this morning that she wishes she could 'be with Bailey' and sometimes thinks about dying so they could be reunited. Mother brought her immediately for evaluation. Upon interview, patient clarifies these are wishes to see her dog again rather than active desire to end her life. She endorses passive thoughts of not wanting to be alive without her dog but explicitly denies any plan, method, or intent to harm herself. She describes feeling empty without her constant companion and reports the house feels wrong without Bailey. Sleep is disrupted as she was used to dog sleeping in her bed. Appetite decreased. She has been crying frequently. She has two close friends who have been supportive and one also recently lost a pet. She continues attending school and soccer practice though reports difficulty concentrating. Supportive parents who are grieving the pet as well. No prior mental health concerns. (Pediatrician Dr. Susan Miller, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Neat, tearful, holding dog's collar",
+      "Behavior": "Cooperative, sad, shows photo of dog",
+      "Speech": "Soft, tearful quality",
+      "Mood": "Grieving and empty",
+      "Affect": "Sad, tearful, appropriate to loss",
+      "Thought_Process": "Organized, preoccupied with loss",
+      "Thought_Content": "Passive wishes to reunite with deceased pet; no active suicidal ideation",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Normal grief reaction to pet loss; passive death wishes without suicidal intent; adjustment disorder with depressed mood.",
+    "Psychosocial_Context": "Recent loss of long-time companion animal; close attachment to pet since early childhood; supportive family also grieving; peer support including friend with similar loss; maintained school and activities.",
+    "Assessment_and_Plan": [
+      "Low risk: passive wishes to reunite with deceased pet; no active suicidal ideation, plan, or intent.",
+      "Strong protective factors: family support, peer connections, friend who understands pet loss, continued functioning, good insight.",
+      "Normal grief reaction to significant loss of attachment figure (pet).",
+      "Validate depth of bond with pet and legitimacy of grief.",
+      "Pet loss support resources and teen grief groups provided.",
+      "Consider memorial activities (photo album, donate to shelter in dog's name, plant tree).",
+      "Encourage peer support, especially friend who experienced pet loss.",
+      "Monitor grief progression; most children adjust within weeks to months.",
+      "Safety plan created focusing on talking to parents when overwhelmed by grief.",
+      "Follow-up with pediatrician in two weeks to assess grief trajectory.",
+      "Safe for discharge; normal grief process with appropriate support."
+    ],
+    "Author": "Dr. Susan Miller, MD (Pediatrician)"
+  },
+  "ground_truth": "yes"
+}

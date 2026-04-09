@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Curtis Washington",
+    "Patient_MRN": "185",
+    "Date_of_Birth": "1986-10-14",
+    "Date_of_Service": "2024-09-28",
+    "Identifying_Data_Chief_Complaint": "38-year-old African American male with schizophrenia with work problems.",
+    "Collateral_Contact_Information": "Emergency Contact: Girlfriend (Keisha Brown) at 555-661-9908",
+    "Subjective": "Patient appears unkempt and irritable. Girlfriend reports he's been skipping clozapine doses 3-4 times weekly for past month because weekly blood draws are 'too much hassle' and he feels fine without it. Since inconsistent dosing, paranoid thoughts increased - believes warehouse supervisors conspiring to fire him and coworkers stealing from his locker. Hearing voices commenting on work performance multiple times daily. Sleep disrupted 4-5 hours. Appetite decreased, weight down 8 lbs. Received final warning at work last week for arguing with supervisor. Lives with girlfriend. Increasingly suspicious and argumentative at home. Mood 'everyone's against me' rated 3/10. Denies substance use but girlfriend suspects marijuana use. Denies SI/HI. (Seen by Dr. Marcus Freeman, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, appears irritable",
+      "Speech": "Loud at times, defensive",
+      "Affect": "Irritable, suspicious",
+      "Mood": "Everyone's against me",
+      "Thought_Content": "Paranoid delusions about workplace conspiracy, auditory hallucinations",
+      "Thought_Process": "Circumstantial, preoccupied with paranoid themes"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 11,
+      "GAD_7": 16,
+      "DAST_10": 2,
+      "AUDIT_C": 3,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Clozapine 300 mg PO qHS",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Clozapine level subtherapeutic at 180 ng/mL; ANC 3200 (acceptable).",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with moderate exacerbation due to irregular clozapine use.",
+    "Psychosocial_Context": "Lives with girlfriend; employed but job in jeopardy; possible substance use; relationship strain.",
+    "Assessment_and_Plan": [
+      "Symptom worsening related to skipping clozapine 3-4 times weekly.",
+      "Low clozapine level confirms nonadherence.",
+      "Discussed importance of daily dosing and weekly monitoring.",
+      "Girlfriend to supervise daily medication and accompany to lab draws.",
+      "Addressed possible marijuana use interfering with treatment.",
+      "Job at risk - may need workplace accommodations or FMLA.",
+      "Follow-up in 1 week with repeat clozapine level."
+    ],
+    "RTC": "1 week",
+    "Author": "Note written by Dr. Marcus Freeman, MD, Psychiatrist \u2014 Industrial Workers Clinic, 2500 Labor Drive, Chicago, IL 60607, Phone: (555) 229-4421, Fax: (555) 229-4422"
+  },
+  "ground_truth": "Non-Adherent"
+}

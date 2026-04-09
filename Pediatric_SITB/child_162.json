@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Devin Scott",
+    "Patient_MRN": "162",
+    "Date_of_Birth": "2010-09-27",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by stepfather after finding detailed plan to hang himself in closet written in journal.",
+    "Collateral_Contact_Information": "Stepfather: Carlos Rodriguez, Phone: (555) 992-6633",
+    "Subjective": "Patient is a 15-year-old male presenting after stepfather found journal entry describing detailed plan to hang himself using belt in closet. Entry written last week describes specific method, timing (when alone), and suicide note content. Patient confirms plan and reports researching hanging methods online. States he sometimes has intent to die and sometimes does not, describing ambivalence. Feels worthless after multiple job application rejections and inability to contribute financially to struggling family. Mother works two jobs. Three younger siblings. Dropped out of extracurriculars to work but cannot find employment. Currently no medications. Sees school counselor occasionally. Limited peer relationships. No prior attempts. (ED Physician Dr. Thomas Hill, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Appears older than age, carries adult responsibilities",
+      "Behavior": "Guarded, gradually opens up",
+      "Speech": "Measured, mature",
+      "Mood": "Burdened",
+      "Affect": "Depressed, constricted",
+      "Thought_Process": "Linear",
+      "Thought_Content": "Active SI with detailed plan and fluctuating intent",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Limited"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder; suicidal ideation with plan; parentification and economic stress.",
+    "Psychosocial_Context": "Family financial stress; parentified role; dropped extracurriculars to work; cannot find employment; mother works two jobs; three younger siblings; limited peer support.",
+    "Assessment_and_Plan": [
+      "Moderate-to-high risk: active SI with detailed, lethal plan and fluctuating intent; planning behavior concerning.",
+      "Limited protective factors: concern for family burden ironically maintaining risk.",
+      "Remove belts and hanging means from home.",
+      "Address inappropriate burden of family finances on adolescent.",
+      "Social work for family financial resources and support.",
+      "Mental health treatment for depression urgent.",
+      "Help family adjust expectations; patient is child, not financial provider.",
+      "Encourage return to age-appropriate activities.",
+      "Consider brief psychiatric admission versus intensive outpatient.",
+      "Close follow-up within 24-48 hours.",
+      "Discharge contingent on means restriction and family support plan."
+    ],
+    "Author": "Dr. Thomas Hill, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

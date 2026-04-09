@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Emily Watson",
+    "Patient_MRN": "154",
+    "Date_of_Birth": "1998-11-30",
+    "Date_of_Service": "2024-10-15",
+    "Identifying_Data_Chief_Complaint": "25-year-old White female with schizoaffective disorder for follow-up visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Linda Watson) at 555-992-4451",
+    "Subjective": "Ms. Watson presents appearing cheerful and engaged during today's visit. She mentions she's been feeling great overall and is excited about her new job at a bookstore. When asked about her medication routine, she admits with some embarrassment that she ran out of risperidone about 10 days ago and has been meaning to get the refill but kept forgetting to call the pharmacy because she's been so busy with her new work schedule. She acknowledges missing approximately 8-10 doses over the past week and a half. Interestingly, she reports not noticing major changes in how she feels, though she did experience a couple of nights with more vivid dreams and one morning where she felt briefly more anxious about meeting new coworkers, wondering if they might judge her. Sleep has been fair at 6-7 hours, slightly lighter than usual. Appetite is good, weight stable at 132 lbs. Just started new part-time position at independent bookstore three weeks ago and loves recommending books to customers. Mood 'really happy' rated 8/10. Lives with roommate in shared apartment. Active reading group member and volunteers at animal shelter on weekends. Denies substance use, maintains one year sobriety from alcohol. No safety concerns reported, denies suicidal or homicidal ideation. (Documented by Thomas Liu, LCSW, Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Young woman, trendy casual clothing, excellent grooming, animated presentation",
+      "Speech": "Clear, somewhat rapid when enthusiastic, coherent and organized",
+      "Affect": "Bright, full range, very engaged",
+      "Mood": "Really happy",
+      "Thought_Content": "Brief anxiety about social judgment, no current paranoia or hallucinations",
+      "Thought_Process": "Organized, tangential when excited about topics of interest"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 2,
+      "GAD_7": 4,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 2 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerns.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All recent labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, stable with recent brief medication lapse.",
+    "Psychosocial_Context": "Living with roommate; newly employed part-time; active social and volunteer activities; one year sober.",
+    "Assessment_and_Plan": [
+      "Addressed recent medication lapse due to prescription refill delay and busy schedule.",
+      "Discussed importance of timely refills and not missing doses even when feeling well.",
+      "Set up automatic refill system with pharmacy to prevent future lapses.",
+      "Added phone reminders for refill pickup.",
+      "Fortunately symptoms remained stable during brief interruption.",
+      "Refilled risperidone 2 mg daily today.",
+      "Praised patient for honesty and for new employment.",
+      "Follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Thomas Liu, LCSW, Social Worker \u2014 Northside Behavioral Services, 3340 Maple Street, Seattle, WA 98102, Phone: (555) 773-5567, Fax: (555) 773-5568"
+  },
+  "ground_truth": "Non-Adherent"
+}

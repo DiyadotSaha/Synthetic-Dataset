@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Gregory Patterson",
+    "Patient_MRN": "142",
+    "Date_of_Birth": "1976-03-25",
+    "Date_of_Service": "2024-07-16",
+    "Identifying_Data_Chief_Complaint": "48-year-old African American male with chronic psychotic disorder with severe treatment-resistant symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Case Manager (Brenda Jackson) at 555-447-5532",
+    "Subjective": "Mr. Patterson presented to appointment with case manager who supervises all medications. Case manager confirms he takes clozapine 600 mg nightly in split doses (400 mg at 8 PM, 200 mg at bedtime) via observed administration at residential facility, perfect adherence with weekly blood draws. Despite maximal clozapine dose and therapeutic levels, continues experiencing severe unremitting symptoms. Reports constant auditory hallucinations all day every day of voices insulting him and commanding him to hurt himself. Endorses complex paranoid delusions that CIA implanted tracking devices in his brain and controls his thoughts. Sleep severely disrupted at 3-4 hours nightly, wakes to voices. Appetite poor, eating minimally, weight declining at 138 lbs (down 25 lbs over past year). Unable to work, on permanent disability for past twelve years. Lives in residential treatment facility with 24-hour staff supervision. No ADL independence. Refuses group activities due to paranoia. Mood 'miserable and tortured' rated 1/10. Denies substance use, confirmed by facility urine screens. Staff reports he is isolating more. Safety: Frequent passive and active SI, denies current plan or intent, denies HI despite command hallucinations. (Evaluated by Dr. James Robinson, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, poor hygiene despite staff assistance, appears emaciated and severely distressed",
+      "Speech": "Mumbled, disorganized, frequent pauses to respond to hallucinations",
+      "Affect": "Flat, profoundly distressed when engaged",
+      "Mood": "Miserable and tortured",
+      "Thought_Content": "Severe constant command auditory hallucinations with self-harm content, complex paranoid delusions about mind control, frequent suicidal ideation",
+      "Thought_Process": "Severely disorganized, thought insertion, dominated by psychotic content"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 25,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Frequent passive and active suicidal ideation without current plan or intent"
+    },
+    "Current_Medications": "Clozapine 600 mg PO daily (400 mg at 8 PM, 200 mg qHS)",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Clozapine level 718 ng/mL (high therapeutic); ANC 3200 (acceptable); glucose 132 mg/dL; severe malnutrition markers present.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Treatment-refractory chronic psychotic disorder with severe persistent symptoms despite maximal clozapine therapy.",
+    "Psychosocial_Context": "Lives in residential facility with 24-hour care; unable to work, on permanent disability; no ADL independence; severe functional impairment; safety requires constant monitoring.",
+    "Assessment_and_Plan": [
+      "Perfect medication adherence with maximal clozapine and high therapeutic levels.",
+      "Severe treatment-refractory psychotic symptoms with no response.",
+      "Weight loss and suicidal ideation very concerning.",
+      "Already tried multiple medication augmentation strategies without success per chart review.",
+      "Discussed ECT consultation for ultra-treatment-resistant case.",
+      "Will refer to ECT program for evaluation.",
+      "Facility to implement enhanced safety monitoring given SI.",
+      "Consider nutritional consultation for weight loss.",
+      "Close follow-up in 2 weeks."
+    ],
+    "RTC": "2 weeks",
+    "Author": "Note written by Dr. James Robinson, MD, Psychiatrist \u2014 State Residential Mental Health Facility, 1121 Long Term Care Road, Richmond, VA 23219, Phone: (555) 992-4421, Fax: (555) 992-4422"
+  },
+  "ground_truth": "Adherent"
+}

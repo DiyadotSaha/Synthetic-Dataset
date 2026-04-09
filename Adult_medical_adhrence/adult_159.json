@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Marcus Thompson",
+    "Patient_MRN": "159",
+    "Date_of_Birth": "1979-03-21",
+    "Date_of_Service": "2024-10-03",
+    "Identifying_Data_Chief_Complaint": "45-year-old African American male with schizophrenia presenting in crisis with severe psychotic symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Ex-wife (Tamara Thompson) at 555-338-9943",
+    "Subjective": "Mr. Thompson brought to emergency psychiatric evaluation by police after neighbors called 911 reporting him yelling and threatening people in hallway of apartment building. Ex-wife contacted by police, arrives to provide collateral. Patient appears acutely psychotic, agitated, disheveled, and malodorous. Ex-wife reports he completely stopped taking his clozapine approximately 8 weeks ago after she could no longer supervise medications following their separation. Patient initially refusing to engage, pacing and responding to internal stimuli. With redirection, he intermittently provides information stating he stopped medication because 'they were using it to control my mind and track me' and he 'doesn't need poison.' He describes constant auditory and visual hallucinations - hearing command voices telling him to 'eliminate the threats' and seeing government agents following him constantly. Endorses elaborate persecutory delusions involving FBI surveillance, neighbors working as agents, and plots to assassinate him. Ex-wife reports he hasn't showered in weeks, apartment in severe disarray with bizarre writings covering walls, has been evicted and eviction scheduled for next week. Lost his job 6 weeks ago after not showing up. Sleep essentially nonexistent per ex-wife who spoke with neighbors - patient seen wandering building at all hours. Appetite minimal, appears emaciated, weight estimated down 35 lbs to approximately 142 lbs. Mood cannot be reliably assessed due to disorganization. Denies substance use though urine drug screen pending. Safety: endorses command hallucinations to harm others (perceived government agents), significant concern for violence, also passive death wishes stating 'they'll kill me eventually.' (Evaluated by Dr. Richard Martinez, ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, malodorous, poor hygiene, appears emaciated and acutely ill, responding to internal stimuli",
+      "Speech": "Disorganized, loud at times, tangential, difficult to follow",
+      "Affect": "Labile, suspicious, hostile when redirected",
+      "Mood": "Unable to reliably assess",
+      "Thought_Content": "Severe paranoid delusions, command auditory hallucinations with violent content, visual hallucinations, passive death wishes",
+      "Thought_Process": "Severely disorganized, loose associations, thought blocking, illogical"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 24,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Unable to fully assess due to disorganization; passive death wishes endorsed, command hallucinations present"
+    },
+    "Current_Medications": "Clozapine 400 mg PO qHS (discontinued by patient 8 weeks ago)",
+    "CURES_Report": "Reviewed; no controlled substances.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Labs drawn in ED: ANC critically low at 900 (clozapine discontinuation effect), glucose 102 mg/dL, severe malnutrition markers, electrolyte abnormalities.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia with severe acute psychotic exacerbation and functional decompensation secondary to complete clozapine discontinuation; grave disability; danger to others.",
+    "Psychosocial_Context": "Recently separated; recently evicted; unemployed; no stable housing; no ADL functioning; severe social and occupational decline; imminent danger.",
+    "Assessment_and_Plan": [
+      "Patient in severe psychotic crisis after stopping clozapine 8 weeks ago.",
+      "Presenting with command hallucinations to harm others, severely disorganized, unable to care for self.",
+      "Meets criteria for involuntary psychiatric hospitalization - grave disability and danger to others.",
+      "5150 hold initiated.",
+      "Patient requires immediate inpatient stabilization.",
+      "Will restart clozapine in hospital with appropriate monitoring given low ANC.",
+      "Severe malnutrition requires medical monitoring.",
+      "Social work consultation for housing assistance post-discharge.",
+      "Ex-wife willing to provide limited collateral but cannot provide housing or supervision.",
+      "Involuntary admission to psychiatric unit arranged.",
+      "Follow-up will be post-hospital discharge with intensive case management."
+    ],
+    "RTC": "Post-hospital discharge",
+    "Author": "Note written by Dr. Richard Martinez, ED Physician \u2014 County General Hospital Emergency Department, 100 Emergency Lane, Oakland, CA 94612, Phone: (555) 992-7754, Fax: (555) 992-7755"
+  },
+  "ground_truth": "Non-Adherent"
+}

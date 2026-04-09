@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Maya Johnson",
+    "Patient_MRN": "106",
+    "Date_of_Birth": "2010-08-22",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female brought by school nurse after expressing intent to overdose due to chronic pain and feeling like a burden.",
+    "Collateral_Contact_Information": "Mother: Sharon Johnson, Phone: (555) 338-5544",
+    "Subjective": "Patient is a 15-year-old female with chronic daily headaches (diagnosis: chronic migraine) presenting after telling school nurse she intends to take all her migraine medication because she cannot tolerate the pain anymore and feels like a burden to her family. She describes six months of worsening daily headaches that have not responded to multiple medications. She reports clear intent to overdose to escape the pain, stating she has researched how many pills would be lethal. However, she has not specified when she would do this. She describes missing substantial school due to pain, losing friends who think she is faking, and watching her mother's distress about medical bills. She reports the pain is making life not worth living. Currently on topiramate 100mg BID and sumatriptan PRN. Sleep disrupted by pain. She has stopped most activities. Mother is very supportive but stressed. One understanding friend remains. Neurology follow-up scheduled next month. (ED Physician Dr. Patricia Nguyen, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Appears in pain, holding head, dim lights requested",
+      "Behavior": "Cooperative, visibly suffering",
+      "Speech": "Soft due to pain",
+      "Mood": "Suffering and hopeless",
+      "Affect": "Depressed, congruent with pain",
+      "Thought_Process": "Linear, pain-dominated",
+      "Thought_Content": "Active SI with intent related to chronic pain; no specific timeline",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Impaired by chronic pain"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Topiramate 100mg BID, Sumatriptan 100mg PRN",
+    "CURES_Report": "Medications on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Chronic migraine; major depressive disorder secondary to chronic pain; suicidal ideation with intent related to pain burden.",
+    "Psychosocial_Context": "Six months of debilitating chronic daily headaches; multiple failed medication trials; social losses; academic impact; financial strain on family; supportive mother; one friend.",
+    "Assessment_and_Plan": [
+      "Moderate risk: active SI with intent driven by chronic pain; researched lethal dose but no timeline set.",
+      "Some protective factors: mother support, one friend, upcoming neurology appointment provides hope.",
+      "Mother to control all medications; dispense daily only.",
+      "Expedite neurology appointment; contact neurologist for earlier evaluation and pain management optimization.",
+      "Psychiatric consultation for depression treatment concurrent with pain management.",
+      "Consider antidepressant that also treats chronic pain (amitriptyline, duloxetine).",
+      "Chronic pain psychology consultation for pain coping strategies.",
+      "School accommodations for chronic illness.",
+      "Address financial burden through social work and insurance navigation.",
+      "Close follow-up within 48 hours; discharge contingent on medication security and expedited neurology care.",
+      "If pain crisis cannot be managed outpatient, consider brief admission for pain control and psychiatric stabilization."
+    ],
+    "Author": "Dr. Patricia Nguyen, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

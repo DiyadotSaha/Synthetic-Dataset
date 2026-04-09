@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Tyler Davis",
+    "Patient_MRN": "073",
+    "Date_of_Birth": "2010-06-25",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old male brought by mother for gaming addiction concerns and social isolation.",
+    "Collateral_Contact_Information": "Mother: Nicole Davis, Phone: (555) 234-5791",
+    "Subjective": "Patient is a 15-year-old male presenting with mother's concerns about excessive gaming and social withdrawal over past four months. He reports playing online games 6-8 hours daily including late into night. He denies any thoughts of self-harm or suicidal ideation. Patient states gaming helps him feel accomplished and connected to online friends. Grades have declined from B's to C's and he has stopped attending guitar lessons he previously enjoyed. Mother reports multiple failed attempts to limit screen time resulting in arguments. Patient admits sleep schedule is disrupted and he sometimes skips meals to continue gaming. He denies substance use. States he has few in-person friends but maintains close relationships with gaming community members. Shows some ambivalence about changing behavior but acknowledges missing guitar and outdoor activities. (Psychiatrist Dr. David Kim, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, appears tired",
+      "Behavior": "Cooperative, somewhat defensive about gaming",
+      "Speech": "Normal rate and volume",
+      "Mood": "Okay",
+      "Affect": "Restricted, becomes animated when discussing games",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Limited regarding extent of problem",
+      "Judgment": "Impaired"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Internet gaming disorder, moderate.",
+    "Psychosocial_Context": "Lives with mother and younger sister; excessive gaming interfering with academics and in-person relationships; disrupted sleep and self-care; previously engaged in music; shows some motivation for change.",
+    "Assessment_and_Plan": [
+      "Problematic gaming with functional impairment in multiple domains.",
+      "Protective factors: shows ambivalence suggesting readiness for change, previously engaged in hobbies, supportive mother, no suicidal ideation.",
+      "Referral for specialized treatment addressing internet gaming disorder.",
+      "Motivational interviewing approach to enhance readiness for change.",
+      "Structured behavioral plan with gradual reduction in gaming time and reinvestment in offline activities.",
+      "Family therapy to address conflict and develop consistent boundaries.",
+      "Screen for underlying depression or social anxiety that gaming may be masking.",
+      "Encourage return to guitar lessons as alternative source of accomplishment.",
+      "Outpatient follow-up in 2 weeks to monitor progress and reassess mood."
+    ],
+    "Author": "Dr. David Kim, MD (Psychiatrist)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Rachel Kim",
+    "Patient_MRN": "118",
+    "Date_of_Birth": "1988-09-12",
+    "Date_of_Service": "2024-09-16",
+    "Identifying_Data_Chief_Complaint": "36-year-old Asian American female with schizophrenia for routine visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Mother (Soo Kim) at 555-447-8821",
+    "Subjective": "Patient arrived appearing well-groomed and positive. Reports excellent adherence to aripiprazole 15 mg every morning using daily routine. States feeling well. No hallucinations for five months. No paranoid ideation. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 125 lbs. Working full-time as accountant, performing well. Mood 'good' rated 7/10. Lives with parents. Enjoys yoga and meditation. Attending support group monthly. One year sober from all substances. Building career stability. No safety concerns, denies SI/HI. (Evaluated by Dr. Lisa Chang, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Professionally dressed, excellent grooming, calm demeanor",
+      "Speech": "Clear, normal pace, coherent",
+      "Affect": "Appropriate, calm",
+      "Mood": "Good",
+      "Thought_Content": "No psychotic symptoms",
+      "Thought_Process": "Organized, logical"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 4,
+      "GAD_7": 5,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Aripiprazole 15 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable.",
+    "Psychosocial_Context": "Lives with parents; employed full-time; one year sober; engaged in wellness activities.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and symptom control.",
+      "Continue aripiprazole 15 mg daily.",
+      "Commended on career and sobriety.",
+      "Routine follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Dr. Lisa Chang, MD, Psychiatrist \u2014 Asian Professionals Wellness, 2341 Business Drive, San Jose, CA 95110, Phone: (555) 338-7729, Fax: (555) 338-7730"
+  },
+  "ground_truth": "Adherent"
+}

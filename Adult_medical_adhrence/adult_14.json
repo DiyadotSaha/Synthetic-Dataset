@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Melissa Chang",
+    "Patient_MRN": "014",
+    "Date_of_Birth": "1984-11-28",
+    "Date_of_Service": "2024-03-22",
+    "Identifying_Data_Chief_Complaint": "40-year-old Asian American female with schizoaffective disorder presenting with worsening mood and psychotic symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Partner (Sarah Martinez) at 555-667-2341",
+    "Subjective": "Ms. Chang presents appearing anxious and tearful during portions of the interview. Her partner attended and provided additional history. Patient reports that over the past 6 weeks she has been skipping doses of her olanzapine several times per week because the medication makes her feel 'too drowsy' and she's gained 12 pounds since starting it, which has significantly impacted her self-esteem. She estimates missing doses about 3-4 times weekly. Since reducing her medication intake, she's noticed a marked increase in paranoid thoughts, particularly believing coworkers are gossiping about her weight gain and plotting to get her fired. She also describes her mood as increasingly depressed, with crying spells most days and difficulty finding pleasure in activities she previously enjoyed. Sleep is poor, with early morning awakening around 4 AM and inability to return to sleep. Appetite remains increased with cravings for carbohydrates. She mentions hearing whispered criticisms about her appearance that she suspects might not be real but finds distressing nonetheless. Her work performance has declined with increased call-outs. Denies substance use. Safety assessment reveals passive suicidal thoughts of 'not wanting to wake up' but no active plan or intent. (Documented by Jennifer Park, LCSW, Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Female appearing stated age, casually dressed, tearful at times",
+      "Speech": "Soft-spoken, occasionally pressured when discussing concerns",
+      "Affect": "Tearful, anxious, constricted",
+      "Mood": "Depressed and worried",
+      "Thought_Content": "Paranoid ideation regarding coworkers, auditory hallucinations with critical content, passive SI",
+      "Thought_Process": "Somewhat circumstantial, preoccupied with weight and paranoid themes"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 15,
+      "GAD_7": 13,
+      "DAST_10": 0,
+      "AUDIT_C": 2,
+      "C_SSRS": "Passive suicidal ideation without plan or intent"
+    },
+    "Current_Medications": "Olanzapine 10 mg PO qHS",
+    "CURES_Report": "Reviewed; no issues.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Fasting glucose elevated at 112 mg/dL; lipids moderately elevated (total cholesterol 220 mg/dL).",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, depressive type, with acute exacerbation related to medication nonadherence.",
+    "Psychosocial_Context": "Lives with partner; employed full-time but attendance declining; struggling with medication side effects and body image concerns.",
+    "Assessment_and_Plan": [
+      "Addressed medication adherence challenges related to side effects.",
+      "Discussed alternative antipsychotic options with different side effect profiles.",
+      "Plan to transition to ziprasidone which may have less weight impact.",
+      "Referral to nutritionist for weight management support.",
+      "Close monitoring of mood symptoms and passive suicidal thoughts.",
+      "Partner educated on warning signs and crisis resources.",
+      "Follow-up in 2 weeks for medication transition and safety check."
+    ],
+    "RTC": "2 weeks",
+    "Author": "Note written by Jennifer Park, LCSW, Social Worker \u2014 Eastside Behavioral Clinic, 890 Highland Avenue, San Jose, CA 95110, Phone: (555) 778-9123, Fax: (555) 778-9124"
+  },
+  "ground_truth": "Non-Adherent"
+}

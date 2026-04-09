@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Latoya Harris",
+    "Patient_MRN": "052",
+    "Date_of_Birth": "1987-12-04",
+    "Date_of_Service": "2024-08-19",
+    "Identifying_Data_Chief_Complaint": "36-year-old African American female with schizoaffective disorder presenting for routine visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Shanice Harris) at 555-447-2309",
+    "Subjective": "Ms. Harris presented appearing well-groomed and engaged. Reports perfect adherence to paliperidone ER 6 mg taken each morning using daily alarm on phone. States she feels great, best she's felt in years. No hallucinations for four months. No paranoid thoughts. Sleep excellent at 8 hours nightly. Appetite good, weight stable at 172 lbs. Recently completed cosmetology certification program and just opened her own small hair salon which she operates three days weekly. Very proud of this accomplishment. Mood 'wonderful, feeling blessed' rated 9/10. Single mother of two teenagers who are doing well in school. Active in church where she sings in choir. Strong support system including sister and church community. Four years sober from cocaine. Feels her life has completely transformed. No safety issues, explicitly denies SI/HI. Very motivated to continue treatment. (Seen by Dr. Phillip Jackson, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Stylishly dressed, excellent grooming, bright affect",
+      "Speech": "Animated, clear, enthusiastic",
+      "Affect": "Bright, full range, engaged",
+      "Mood": "Wonderful",
+      "Thought_Content": "Positive, future-oriented, no psychotic features",
+      "Thought_Process": "Organized, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 3,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Paliperidone ER 6 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All routine labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Single mother; owns small business; four years sober; active in church; strong family and community support.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and sustained recovery.",
+      "Continue paliperidone ER 6 mg daily.",
+      "Commended patient on business ownership and sobriety.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Phillip Jackson, MD, Psychiatrist \u2014 Unity Health Center, 2890 Community Boulevard, Atlanta, GA 30318, Phone: (555) 992-3347, Fax: (555) 992-3348"
+  },
+  "ground_truth": "Adherent"
+}

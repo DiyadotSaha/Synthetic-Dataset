@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Henry Wilson",
+    "Patient_MRN": "138",
+    "Date_of_Birth": "1970-07-03",
+    "Date_of_Service": "2024-08-15",
+    "Identifying_Data_Chief_Complaint": "54-year-old White male with schizoaffective disorder presenting with severe symptoms requiring crisis intervention.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Carol Wilson) at 555-447-3321",
+    "Subjective": "Mr. Wilson presented to emergency psychiatric appointment appearing severely distressed and disorganized. Sister present confirms he takes perphenazine 24 mg daily via her supervision during daily check-ins, no missed doses verified. Despite reliable medication adherence, experiencing severe acute exacerbation of symptoms over past two weeks. Reports constant auditory hallucinations of multiple voices screaming at him all day and night. Endorses acute paranoid delusions that hospital staff are plotting to poison him through medications (despite continuing to take them with sister's support). Sleep absent for past four nights per sister's observation. Appetite absent, refusing most food, weight down 12 lbs to 151 lbs over two weeks. Unable to work for past six months, on disability. Lives alone but sister checks on him daily. Staying in apartment, too paranoid to go outside. Mood 'terrified and hopeless' rated 1/10. Denies substance use, confirmed by sister and urine drug screen. Sister reports this is worst she's ever seen him. Safety: Active SI with vague plan, denies current intent, denies HI. (Evaluated by Dr. Margaret Foster, ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Disheveled, poor hygiene, appears acutely distressed and internally preoccupied",
+      "Speech": "Disorganized, tangential, frequently stops to listen to voices",
+      "Affect": "Fearful, severely constricted, profoundly distressed",
+      "Mood": "Terrified and hopeless",
+      "Thought_Content": "Severe constant auditory hallucinations, acute paranoid delusions, active suicidal ideation",
+      "Thought_Process": "Severely disorganized, tangential, psychotic"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 24,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Active suicidal ideation with vague plan but no current intent"
+    },
+    "Current_Medications": "Perphenazine 24 mg PO daily",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; glucose 94 mg/dL; urine drug screen negative.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder with severe acute exacerbation despite medication adherence; active suicidal ideation.",
+    "Psychosocial_Context": "Lives alone with daily sister support; unable to work, on disability; acute crisis requiring immediate intervention.",
+    "Assessment_and_Plan": [
+      "Medication adherence confirmed despite severe decompensation.",
+      "Acute psychotic exacerbation with suicidal ideation.",
+      "Current medication regimen clearly inadequate.",
+      "Patient requires inpatient psychiatric hospitalization for safety and medication change.",
+      "Initiated 5150 involuntary hold due to grave disability and suicidal ideation.",
+      "Sister agrees with hospitalization plan.",
+      "Admission to inpatient psychiatric unit arranged.",
+      "Will transition to clozapine or other augmentation strategy as inpatient.",
+      "Follow-up post-discharge."
+    ],
+    "RTC": "Post-discharge",
+    "Author": "Note written by Dr. Margaret Foster, ED Physician \u2014 County General Emergency Department, 1021 Emergency Way, Sacramento, CA 95814, Phone: (555) 661-4432, Fax: (555) 661-4433"
+  },
+  "ground_truth": "Adherent"
+}

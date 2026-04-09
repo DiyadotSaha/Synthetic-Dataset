@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Gregory White",
+    "Patient_MRN": "064",
+    "Date_of_Birth": "1960-09-29",
+    "Date_of_Service": "2024-05-17",
+    "Identifying_Data_Chief_Complaint": "63-year-old White male with chronic psychotic disorder presenting in crisis.",
+    "Collateral_Contact_Information": "Emergency Contact: Residential Facility Manager (Tom Wilson) at 555-881-2347",
+    "Subjective": "Mr. White brought to emergency psychiatric evaluation by residential facility staff due to severe decompensation. Facility documents perfect adherence to perphenazine 16 mg daily administered by nursing staff for past three years without any refusals. Despite unwavering medication compliance, patient experiencing catastrophic exacerbation. Presents as severely agitated and psychotic, shouting at hallucinations. Staff report he has been hearing command hallucinations for past week ordering him to 'cleanse the sinners with fire,' leading to two attempts to start fires in facility before intervention. Also maintains grandiose delusion that he is a prophet sent to judge humanity. Sleep absent for five consecutive days per staff observation. Has refused all food for 96 hours believing sustenance will weaken his divine powers, resulting in severe dehydration and 19-pound weight loss to 132 lbs. Hygiene completely neglected - refusing bathing for three weeks, clothes soiled with urine and feces. Violent toward staff when they attempt care, requiring police intervention. Completely unable to care for self or make rational decisions. Staff frightened and requesting immediate removal. Mood appears manic and grandiose. Risk assessment critical: Command hallucinations to set fires, multiple dangerous behaviors, grave disability, violent aggression. States he cannot die as he is immortal prophet. (Emergency evaluation by Dr. William Chen, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Elderly male, severely disheveled, malodorous, malnourished, agitated and hostile",
+      "Speech": "Loud, pressured, religious content, threatening at times",
+      "Affect": "Labile, grandiose, hostile",
+      "Mood": "Euphoric and irritable",
+      "Thought_Content": "Command hallucinations to set fires, grandiose religious delusions with messianic themes",
+      "Thought_Process": "Severely disorganized, flight of ideas, delusional"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 24,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Denies SI stating immortal, imminent danger due to fire-setting and aggression"
+    },
+    "Current_Medications": "Perphenazine 16 mg PO daily",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Stat labs: BUN 48 mg/dL, Cr 2.1 mg/dL acute kidney injury; sodium 149 mEq/L; glucose 71 mg/dL; albumin 2.4 g/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder with acute severe exacerbation, treatment-refractory, grave disability with dangerous behaviors.",
+    "Psychosocial_Context": "Resides in locked psychiatric facility; never married; no family; on SSI; multiple prior hospitalizations; violent behaviors.",
+    "Assessment_and_Plan": [
+      "Perfect medication adherence via facility nursing staff but complete treatment failure.",
+      "Imminent danger to others due to fire-setting and violence.",
+      "Gravely disabled with severe malnutrition and dehydration.",
+      "5150 hold for involuntary hospitalization with police escort.",
+      "Medical clearance needed for dehydration and acute kidney injury.",
+      "Psychiatric admission for clozapine trial after medical stabilization.",
+      "Consider emergency ECT given severity and dangerousness.",
+      "Long-term conservatorship evaluation needed.",
+      "Coordinating emergency medical transport with police assistance."
+    ],
+    "RTC": "Post-hospitalization",
+    "Author": "Note written by Dr. William Chen, MD, Psychiatrist \u2014 County Psychiatric Emergency, 9821 Crisis Center Drive, San Jose, CA 95112, Phone: (555) 447-9921, Fax: (555) 447-9922"
+  },
+  "ground_truth": "Adherent"
+}

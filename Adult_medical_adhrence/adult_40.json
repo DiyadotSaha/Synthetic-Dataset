@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Darius Johnson",
+    "Patient_MRN": "040",
+    "Date_of_Birth": "1978-07-08",
+    "Date_of_Service": "2024-09-17",
+    "Identifying_Data_Chief_Complaint": "46-year-old African American male with chronic psychotic disorder with ongoing symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Sister (Monique Johnson) at 555-338-9921",
+    "Subjective": "Mr. Johnson attended appointment with case manager who transported him from group home. Group home staff document that he takes risperidone 6 mg nightly without any missed doses via direct observation. Despite consistent adherence, he continues to struggle with symptoms affecting function. Reports ongoing auditory hallucinations of multiple voices conversing about him, occurring throughout the day. Content usually negative, saying he is worthless. Also endorses belief that people can read his thoughts, causing him to avoid public places. Sleep disrupted at 5 hours nightly with frequent awakenings. Appetite decreased, weight down 6 lbs to 159 lbs. Attends group home day program sporadically, often preferring to stay in his room. Social interaction minimal even with other residents. Case manager reports he appears withdrawn and unmotivated. Mood 'don't know, nothing really' rated 3/10. Denies substance use. Flat affect throughout interview. Safety: Denies SI/HI when asked. (Assessed by Jennifer Walsh, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged male, basic grooming, appears apathetic",
+      "Speech": "Sparse, monotone, requires prompting",
+      "Affect": "Markedly flat",
+      "Mood": "Apathetic",
+      "Thought_Content": "Auditory hallucinations, thought broadcasting delusion",
+      "Thought_Process": "Poverty of thought, concrete"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 17,
+      "GAD_7": 11,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 6 mg PO qHS",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC within normal limits; CMP normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder with prominent negative symptoms, partial response to treatment.",
+    "Psychosocial_Context": "Resides in group home; unemployed, on disability; minimal social engagement; case management services.",
+    "Assessment_and_Plan": [
+      "Adherent to risperidone via supervised administration.",
+      "Persistent positive and negative symptoms limiting function.",
+      "Weight loss concerning.",
+      "Discussed medication adjustment - will cross-taper to cariprazine which may help negative symptoms.",
+      "Encouraged program participation.",
+      "Nutritional consultation arranged.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Jennifer Walsh, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Community Recovery Services, 2341 Park Avenue, Baltimore, MD 21201, Phone: (555) 448-7632, Fax: (555) 448-7633"
+  },
+  "ground_truth": "Adherent"
+}

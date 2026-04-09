@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Emma Thompson",
+    "Patient_MRN": "117",
+    "Date_of_Birth": "2012-09-08",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by father for reassurance after minor social media conflict.",
+    "Collateral_Contact_Information": "Father: William Thompson, Phone: (555) 234-5793",
+    "Subjective": "Patient is a 13-year-old female brought by father after being excluded from group chat yesterday following minor disagreement about weekend plans. She reports feeling upset initially but spoke with friends today and situation was resolved. She denies any thoughts of self-harm or suicidal ideation. Patient states the conflict was misunderstanding and friends have apologized. She is attending different activity than the group this weekend but plans to see them next week. Sleep and appetite normal. Looking forward to volleyball game this weekend. Father admits he may have overreacted due to concern about cyberbullying but appreciates opportunity for professional assessment. Patient appears resilient and socially skilled with healthy perspective on conflict. (Social Worker Timothy Jackson, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, relaxed",
+      "Behavior": "Cooperative, at ease",
+      "Speech": "Clear, animated",
+      "Mood": "Good now",
+      "Affect": "Euthymic, full range",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Excellent",
+      "Judgment": "Excellent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "No mental health disorder; normal peer conflict with resolution, mild.",
+    "Psychosocial_Context": "Lives with both parents; experienced and resolved typical peer conflict; demonstrates excellent social problem-solving; engaged in athletics; strong friendships; supportive family.",
+    "Assessment_and_Plan": [
+      "Normal adolescent peer conflict appropriately resolved by patient; no pathology.",
+      "Protective factors: excellent conflict resolution skills, strong peer relationships, supportive family, engaged in activities, resilient.",
+      "Reassurance provided to father that patient handled situation appropriately.",
+      "Praised patient's mature approach to conflict resolution.",
+      "Education provided regarding normal peer dynamics and when to be concerned.",
+      "Encouraged father to trust patient's social competence.",
+      "No intervention needed; patient demonstrates healthy social functioning.",
+      "Resources provided if future concerns arise."
+    ],
+    "Author": "Timothy Jackson, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

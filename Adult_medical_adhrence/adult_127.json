@@ -1,0 +1,48 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Catherine Wu",
+    "Patient_MRN": "127",
+    "Date_of_Birth": "1981-12-08",
+    "Date_of_Service": "2024-05-14",
+    "Identifying_Data_Chief_Complaint": "42-year-old Asian American female with schizophrenia with severe residual symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Husband (James Wu) at 555-992-3301",
+    "Subjective": "Ms. Wu presented to appointment with husband who manages medication administration. Husband reports she takes clozapine 550 mg nightly in divided doses (300 mg at 6 PM, 250 mg at bedtime) with perfect adherence through his supervision and weekly blood draws at clinic. Despite maximal clozapine dosing and regular monitoring, she continues experiencing severe persistent symptoms. Reports constant auditory hallucinations throughout day of multiple voices arguing about her and commanding her to perform rituals. Endorses fixed paranoid delusions that government agencies track her movements and poison food supply. Sleep severely disrupted at 3-4 hours nightly, awakens to voices. Appetite very poor, weight continues declining, now 118 lbs (down 22 lbs over past year). Unable to work, on long-term disability from previous job as teacher. Lives at home with husband who provides full care. No ADL independence. Refuses to leave house due to paranoia. Mood 'terrified' rated 2/10. Denies substance use. Husband reports extreme functional decline. Safety: Denies current SI/HI but has passive death wishes. (Assessed by Dr. Alice Chen, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Thin, disheveled, poor hygiene, appears frightened and internally preoccupied",
+      "Speech": "Whispered, disorganized, frequent pauses to listen to voices",
+      "Affect": "Fearful, severely restricted, internally preoccupied",
+      "Mood": "Terrified",
+      "Thought_Content": "Severe persistent auditory hallucinations with command features, fixed paranoid delusions about government surveillance and poisoning",
+      "Thought_Process": "Disorganized, tangential, preoccupied with psychotic themes"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 22,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Passive death wishes without intent or plan"
+    },
+    "Current_Medications": "Clozapine 550 mg PO daily (300 mg at 6 PM, 250 mg qHS)",
+    "CURES_Report": "Reviewed; no entries.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "Clozapine level 627 ng/mL (therapeutic range); ANC 4200 (acceptable); glucose 118 mg/dL; lipids elevated.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Treatment-resistant schizophrenia with severe persistent symptoms despite maximal clozapine therapy.",
+    "Psychosocial_Context": "Married with husband as full-time caregiver; unable to work, on disability; homebound due to severe paranoia; extreme functional impairment.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence with therapeutic clozapine levels.",
+      "Severe treatment-resistant psychotic symptoms despite maximal therapy.",
+      "Already on highest recommended clozapine dose with good levels.",
+      "Discussed ECT consultation for treatment-resistant case.",
+      "Will refer to ECT program for evaluation.",
+      "Husband to continue medication supervision and supportive care.",
+      "Close monitoring for safety given passive death wishes.",
+      "Follow-up in 2 weeks."
+    ],
+    "RTC": "2 weeks",
+    "Author": "Note written by Dr. Alice Chen, MD, Psychiatrist \u2014 Treatment-Resistant Psychosis Clinic, 8821 Specialty Care Blvd, Los Angeles, CA 90024, Phone: (555) 103-8847, Fax: (555) 103-8848"
+  },
+  "ground_truth": "Adherent"
+}

@@ -1,0 +1,45 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Nathan Price",
+    "Patient_MRN": "105",
+    "Date_of_Birth": "1998-12-01",
+    "Date_of_Service": "2024-08-22",
+    "Identifying_Data_Chief_Complaint": "25-year-old White male with schizophrenia for routine visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Father (William Price) at 555-447-8821",
+    "Subjective": "Patient arrived appearing casual and engaged. Reports excellent adherence to risperidone 4 mg nightly using bedtime alarm on phone. States doing well. Experiences very occasional whispers once every few weeks which he dismisses. No other hallucinations or paranoid thoughts. Sleep good at 7-8 hours nightly. Appetite healthy, weight stable at 172 lbs. Working part-time at tech support call center, performing well. Mood 'pretty good' rated 7/10. Lives with parents while saving money. Enjoys computer programming as hobby, building personal projects. Attending young adult support group weekly. Six months sober from marijuana. Considering moving into own apartment soon. No safety concerns, denies SI/HI. (Seen by Patricia Lee, PMHNP-BC, Psychiatric Nurse Practitioner)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, good grooming, calm demeanor",
+      "Speech": "Clear, normal pace, coherent",
+      "Affect": "Appropriate, somewhat flat",
+      "Mood": "Pretty good",
+      "Thought_Content": "Minimal residual symptoms with insight",
+      "Thought_Process": "Organized, logical"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 4,
+      "GAD_7": 5,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Risperidone 4 mg PO qHS",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizophrenia, stable.",
+    "Psychosocial_Context": "Lives with parents; working part-time; six months sober; engaged in hobbies and support group; planning independence.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and symptom control.",
+      "Continue risperidone 4 mg qHS.",
+      "Encouraged planning for independent living.",
+      "Commended on sobriety.",
+      "Routine follow-up in 8 weeks."
+    ],
+    "RTC": "8 weeks",
+    "Author": "Note written by Patricia Lee, PMHNP-BC, Psychiatric Nurse Practitioner \u2014 Tech Workers Wellness, 4521 Innovation Drive, Seattle, WA 98101, Phone: (555) 772-4498, Fax: (555) 772-4499"
+  },
+  "ground_truth": "Adherent"
+}

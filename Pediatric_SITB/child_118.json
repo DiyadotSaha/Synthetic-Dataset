@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Brianna Lewis",
+    "Patient_MRN": "118",
+    "Date_of_Birth": "2010-05-11",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "15-year-old female brought by mother after stockpiling pills and writing goodbye letters to family members.",
+    "Collateral_Contact_Information": "Mother: Tanya Lewis, Phone: (555) 447-3322",
+    "Subjective": "Patient is a 15-year-old female presenting after mother discovered hidden bag containing 30+ pills (ibuprofen, allergy medication, supplements) and three handwritten goodbye letters addressed to family members. Patient confirms she has been collecting pills over past two weeks and wrote letters yesterday. She describes plan to take all pills when family goes to grandmother's house next weekend. She reports feeling like a burden due to her treatment-resistant depression and multiple psychiatric hospitalizations over past two years. However, when directly asked about current intent, she becomes tearful and states she showed mother where pills were hidden this morning because she wanted help and did not truly want to die. Currently on fluoxetine 60mg, aripiprazole 10mg, and lamotrigine 100mg. Has had three prior psychiatric admissions. In weekly therapy and monthly medication management. Attends online school due to anxiety. Has one online friend. No recent suicide attempts. (Psychiatrist Dr. Michael Harris, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Tired, tearful",
+      "Behavior": "Cooperative, relief at telling mother",
+      "Speech": "Soft, tearful",
+      "Mood": "Exhausted and hopeless but wanting help",
+      "Affect": "Depressed, tearful",
+      "Thought_Process": "Linear",
+      "Thought_Content": "Active SI with plan but ambivalent intent; disclosed to seek help",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair to good",
+      "Judgment": "Improving, sought help"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Fluoxetine 60mg, Aripiprazole 10mg, Lamotrigine 100mg",
+    "CURES_Report": "Medications on file",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive disorder, treatment-resistant; suicidal ideation with plan; history of multiple psychiatric hospitalizations.",
+    "Psychosocial_Context": "Three prior psychiatric admissions; treatment-resistant depression on multiple medications; attends online school; one online friend; weekly therapy; mother supportive.",
+    "Assessment_and_Plan": [
+      "Moderate risk: active SI with plan and means accumulated but voluntary disclosure suggests ambivalence and help-seeking.",
+      "Some protective factors: disclosed to mother, engaged in treatment, online friend, mother support.",
+      "Pills confiscated; mother to control all medications.",
+      "Consider psychiatric admission versus intensive outpatient; patient's disclosure of pills suggests lower immediate risk.",
+      "Current medication regimen not effective; needs psychiatrist consultation for major change.",
+      "Consider TMS, ketamine, or other augmentation for treatment-resistant depression.",
+      "Increase therapy frequency if possible.",
+      "Explore return to in-person school with supports as social connection important.",
+      "Safety contract and crisis plan.",
+      "Close follow-up within 24-48 hours.",
+      "Discharge contingent on medication security, treatment plan revision, and mother's confidence in safety."
+    ],
+    "Author": "Dr. Michael Harris, MD (Psychiatrist)"
+  },
+  "ground_truth": "yes"
+}

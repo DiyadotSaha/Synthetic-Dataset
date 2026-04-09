@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Emma Rodriguez",
+    "Patient_MRN": "005",
+    "Date_of_Birth": "2011-03-22",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by mother for anxiety related to upcoming exams.",
+    "Collateral_Contact_Information": "Mother: Carmen Rodriguez, Phone: (555) 234-8891",
+    "Subjective": "Patient is a 14-year-old female presenting with increased anxiety over the past two weeks related to upcoming final exams. She reports feeling nervous about her performance, with physical symptoms including stomach discomfort and difficulty sleeping the night before tests. She denies any thoughts of self-harm or suicidal ideation. Patient states she has always been academically motivated and worries about maintaining her grades. She finds relief through talking with her mother and practicing relaxation techniques taught by her school counselor. She remains engaged in her dance classes and maintains good relationships with peers. (Nurse Practitioner Sarah Johnson, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appropriately dressed",
+      "Behavior": "Cooperative, mildly anxious",
+      "Speech": "Clear, slightly rapid",
+      "Mood": "Anxious",
+      "Affect": "Appropriate",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Intact"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with anxiety, mild.",
+    "Psychosocial_Context": "Lives with both parents and older brother; active in dance and maintains strong peer relationships; academically high-achieving student.",
+    "Assessment_and_Plan": [
+      "Situational anxiety related to academic performance.",
+      "Protective factors: supportive family, good insight, engagement in extracurricular activities.",
+      "Reassurance provided; stress management techniques reviewed.",
+      "Outpatient counseling resources provided for continued support."
+    ],
+    "Author": "Sarah Johnson, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}

@@ -1,0 +1,44 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Melissa Kim",
+    "Patient_MRN": "143",
+    "Date_of_Birth": "1995-12-03",
+    "Date_of_Service": "2024-08-21",
+    "Identifying_Data_Chief_Complaint": "28-year-old Asian American female with schizoaffective disorder for follow-up visit.",
+    "Collateral_Contact_Information": "Emergency Contact: Boyfriend (Chris Lee) at 555-883-6632",
+    "Subjective": "Ms. Kim arrived appearing upbeat and stylishly dressed. Reports perfect adherence to brexpiprazole 4 mg every morning, boyfriend helps remind her and she tracks it in health app. States feeling amazing. No hallucinations or paranoid thoughts for past eight months. Sleep excellent at 8 hours nightly. Appetite great, weight stable at 118 lbs. Working full-time as fashion merchandiser at retail company, recently received raise. Mood 'amazing' rated 9/10. Lives with boyfriend in apartment. Active yoga practice and painting hobby. Strong social network. Attending therapy biweekly for wellness. Fourteen months sober from all substances. Planning trip to Korea to visit family. No safety concerns, denies SI/HI. (Seen by Dr. Helen Kim, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Fashionably dressed, excellent grooming, vibrant and animated",
+      "Speech": "Clear, enthusiastic, well-organized",
+      "Affect": "Bright, full range, very engaged",
+      "Mood": "Amazing",
+      "Thought_Content": "Future-oriented, creative, no psychotic symptoms",
+      "Thought_Process": "Organized, logical, goal-directed"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 1,
+      "GAD_7": 2,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Brexpiprazole 4 mg PO daily",
+    "CURES_Report": "Reviewed; no concerning findings.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs within normal limits.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder, in sustained full remission.",
+    "Psychosocial_Context": "Living with boyfriend; employed full-time in fashion industry; fourteen months sober; active creative and social life.",
+    "Assessment_and_Plan": [
+      "Excellent medication adherence and sustained remission.",
+      "Continue brexpiprazole 4 mg daily.",
+      "Commended on career success and recovery.",
+      "Routine follow-up in 3 months."
+    ],
+    "RTC": "3 months",
+    "Author": "Note written by Dr. Helen Kim, MD, Psychiatrist \u2014 Fashion Industry Employee Health, 5521 Garment District, New York, NY 10018, Phone: (555) 229-8843, Fax: (555) 229-8844"
+  },
+  "ground_truth": "Adherent"
+}

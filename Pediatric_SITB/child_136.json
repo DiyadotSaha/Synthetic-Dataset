@@ -1,0 +1,54 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Lily Tran",
+    "Patient_MRN": "136",
+    "Date_of_Birth": "2009-05-17",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "16-year-old female brought by EMS after intentional medication overdose in hotel room while running away from home.",
+    "Collateral_Contact_Information": "Mother: Mai Tran, Phone: (555) 992-6688",
+    "Subjective": "Patient is a 16-year-old female brought via EMS after hotel staff found her unresponsive with empty pill bottles. She ran away from home two days ago after argument with parents about boyfriend they disapprove of. She ingested approximately 30 tablets of diphenhydramine with intent to die. She regained consciousness with naloxone (inappropriate but given by EMS). She reports feeling trapped between traditional family expectations and desire for independence. She states she wanted to die to escape the conflict. Currently feels regret and fear. History of anxiety treated with sertraline 50mg which she stopped taking one month ago. High academic achiever, college-bound. Conflict with traditional immigrant parents over autonomy. Two close friends. No prior attempts. (ED Physician Dr. Steven Patel, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Lethargic, hospital gown, appears ill",
+      "Behavior": "Subdued, remorseful",
+      "Speech": "Slurred, improving",
+      "Mood": "Regretful and scared",
+      "Affect": "Anxious, tearful",
+      "Thought_Process": "Linear, slowed",
+      "Thought_Content": "Recent attempt; current regret; no ongoing SI",
+      "Cognition": "Sedated but oriented x4",
+      "Insight": "Emerging",
+      "Judgment": "Severely impaired during attempt"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "Sertraline 50mg (discontinued 1 month ago)",
+    "CURES_Report": "Sertraline on file",
+    "Laboratory_Data": {
+      "CBC": "WNL",
+      "Urine_Tox": "Positive for diphenhydramine",
+      "ECG": "Sinus tachycardia, QT normal",
+      "Comprehensive_Metabolic_Panel": "WNL"
+    },
+    "Diagnostic_Impression": "Suicide attempt by diphenhydramine overdose; generalized anxiety disorder; family-adolescent conflict related to cultural differences.",
+    "Psychosocial_Context": "Ran away from home; conflict with traditional immigrant parents over autonomy and boyfriend; discontinued SSRI one month ago; high achiever; close friends.",
+    "Assessment_and_Plan": [
+      "High risk during attempt but lower ongoing given regret; impulsive response to family conflict.",
+      "Medical management: supportive care for anticholinergic overdose; monitor cardiac rhythm.",
+      "5150 hold placed.",
+      "Psychiatric consultation for inpatient admission once medically cleared.",
+      "Family therapy essential to address cultural conflict and autonomy issues.",
+      "Restart sertraline; medication non-compliance contributed to decompensation.",
+      "Address running away behavior and safety.",
+      "Mediation regarding boyfriend relationship and parental expectations.",
+      "Help family balance cultural values with adolescent developmental needs.",
+      "Long-term: therapy for identity development and family-cultural navigation."
+    ],
+    "Author": "Dr. Steven Patel, MD (ED Physician)"
+  },
+  "ground_truth": "yes"
+}

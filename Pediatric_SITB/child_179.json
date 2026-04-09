@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Brooke Taylor",
+    "Patient_MRN": "179",
+    "Date_of_Birth": "2011-06-19",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by mother for reassurance about normal test anxiety.",
+    "Collateral_Contact_Information": "Mother: Michelle Taylor, Phone: (555) 012-3583",
+    "Subjective": "Patient is a 14-year-old female presenting with mother's concerns about test anxiety, though patient reports managing well. She acknowledges feeling nervous before big exams but uses study groups and breathing exercises effectively. She denies any thoughts of self-harm or suicidal ideation. Patient maintains 3.7 GPA and is satisfied with performance. States test nerves are normal and help her stay focused. Sleep and appetite normal. Active in swim team and student government. Mother admits patient is doing well but worried after reading article about teen anxiety. Patient appears confident and well-adjusted with appropriate stress management. Demonstrates healthy perspective on academic performance and self-care. Strong support system and engaged in multiple activities. (Social Worker Vanessa Coleman, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, confident demeanor",
+      "Behavior": "Cooperative, engaged",
+      "Speech": "Clear, articulate",
+      "Mood": "Good",
+      "Affect": "Euthymic, full range",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Excellent",
+      "Judgment": "Excellent"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "No mental health disorder; normal adaptive test anxiety, mild.",
+    "Psychosocial_Context": "Lives with both parents; academically successful; engaged in athletics and leadership; effective anxiety management; mother concerned due to media exposure about teen mental health; patient functioning excellently.",
+    "Assessment_and_Plan": [
+      "Normal, adaptive test anxiety; patient demonstrating excellent coping and functioning.",
+      "Protective factors: effective coping strategies, strong academic performance, engaged in activities, healthy perspective, supportive family.",
+      "Reassurance provided to mother that patient's anxiety level is normal and even beneficial for motivation.",
+      "Praised patient's use of study groups and stress management techniques.",
+      "Educated mother on difference between adaptive and maladaptive anxiety.",
+      "Encouraged mother to trust patient's self-assessment and avoid over-pathologizing normal stress.",
+      "No intervention needed; patient thriving with current approach.",
+      "Resources provided should situation change, but none anticipated."
+    ],
+    "Author": "Vanessa Coleman, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

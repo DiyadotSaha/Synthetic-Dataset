@@ -1,0 +1,50 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Isabella Rodriguez",
+    "Patient_MRN": "112",
+    "Date_of_Birth": "2012-01-30",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by school resource officer after expressing intent to kill herself due to ongoing bullying.",
+    "Collateral_Contact_Information": "Guardian: Grandmother Maria Rodriguez, Phone: (555) 678-1234",
+    "Subjective": "Patient is a 13-year-old female brought from school after telling the resource officer she wants to die and intends to kill herself because she cannot endure the bullying anymore. For the past month, a group of classmates has been taunting her about her weight and spreading rumors that she smells. Yesterday, someone posted an edited photo of her on Instagram with cruel captions that received numerous likes and comments. She describes feeling desperate and states she truly wants to die to escape the humiliation, endorsing clear intent. When asked about method, she reports she has not figured out exactly how but 'knows there are ways' and has been searching online. She lives with her grandmother who works long hours and reports feeling isolated with no close friends. She spends most time alone in her room. Appetite has decreased and she has been skipping meals at school to avoid the cafeteria. Grandmother was unaware of the bullying until today. (Pediatric Emergency Medicine Physician Dr. Lisa Hernandez, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Overweight for age, head down, avoiding eye contact",
+      "Behavior": "Withdrawn, tearful throughout interview",
+      "Speech": "Quiet, hesitant",
+      "Mood": "Devastated",
+      "Affect": "Depressed, tearful",
+      "Thought_Process": "Coherent but ruminative",
+      "Thought_Content": "Active SI with intent but no concrete plan",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Limited",
+      "Judgment": "Poor"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Major depressive episode secondary to chronic bullying; active suicidal ideation with intent.",
+    "Psychosocial_Context": "Lives with grandmother who works extended hours; mother not involved; no identified peer support; victim of ongoing bullying including cyberbullying; social isolation.",
+    "Assessment_and_Plan": [
+      "Moderate-to-high risk: active SI with clear intent, though no specific plan articulated yet; has been researching methods.",
+      "Limited protective factors: grandmother supportive but unaware until today; patient socially isolated.",
+      "Crisis psychiatric evaluation completed.",
+      "Voluntary psychiatric hold recommended; assess need for inpatient versus intensive outpatient program.",
+      "School notification and intervention required regarding bullying and cyberbullying.",
+      "Grandmother educated on social media monitoring and safety planning.",
+      "Not safe for immediate discharge without structured intervention plan."
+    ],
+    "Author": "Dr. Lisa Hernandez, MD (Pediatric Emergency Medicine Physician)"
+  },
+  "ground_truth": "yes"
+}

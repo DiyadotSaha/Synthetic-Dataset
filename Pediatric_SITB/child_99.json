@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Kevin Nguyen",
+    "Patient_MRN": "099",
+    "Date_of_Birth": "2012-02-26",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old male brought by father for transition adjustment after immigration.",
+    "Collateral_Contact_Information": "Father: Thanh Nguyen, Phone: (555) 456-7914",
+    "Subjective": "Patient is a 13-year-old male who immigrated from Vietnam four months ago presenting with adjustment difficulties including low mood and social withdrawal. He reports missing extended family and friends from home country and struggling with English proficiency in school. He denies any thoughts of self-harm or suicidal ideation. Patient states he feels isolated as one of few Asian students in his school and has not yet made close friends. He expresses frustration with communication barriers. Father reports patient was outgoing in Vietnam but has become quiet here. He joins father at Vietnamese restaurant where father works and seems more comfortable there. Patient is receiving ESL services at school and grades are improving. He has interest in joining soccer team next semester. (Social Worker David Tran, LCSW)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, appears stated age",
+      "Behavior": "Cooperative, shy",
+      "Speech": "Speaks English with accent, some word-finding difficulty",
+      "Mood": "Sad and lonely",
+      "Affect": "Subdued, congruent",
+      "Thought_Process": "Linear and coherent",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good",
+      "Judgment": "Good"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with depressed mood related to immigration, moderate.",
+    "Psychosocial_Context": "Recent immigrant from Vietnam; struggling with acculturation, language barrier, and social isolation; misses family and friends in home country; supportive father; receiving ESL services; expresses interest in soccer.",
+    "Assessment_and_Plan": [
+      "Adjustment difficulties related to immigration and acculturation stress.",
+      "Protective factors: supportive father, academic improvement, connection to Vietnamese community through restaurant, interest in soccer, no suicidal ideation.",
+      "Referral for counseling with bilingual/bicultural therapist if available.",
+      "Connection with cultural community groups and Vietnamese youth programs.",
+      "School consultation to support social integration and peer connections.",
+      "Encourage joining soccer team to build friendships through shared interest.",
+      "Maintain connection to Vietnamese culture while supporting acculturation.",
+      "Father provided resources for immigrant family support services.",
+      "Follow-up in 4 weeks; expect gradual improvement as English improves and social connections develop."
+    ],
+    "Author": "David Tran, LCSW (Social Worker)"
+  },
+  "ground_truth": "No"
+}

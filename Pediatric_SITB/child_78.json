@@ -1,0 +1,55 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Jordan Kim",
+    "Patient_MRN": "078",
+    "Date_of_Birth": "2012-02-26",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "13-year-old female brought by father after discovering fresh cuts on thighs from mechanical pencil.",
+    "Collateral_Contact_Information": "Father: Daniel Kim, Phone: (555) 338-9922",
+    "Subjective": "Patient is a 13-year-old female presenting after her father noticed blood on her pajama pants and discovered multiple fresh superficial cuts on her upper thighs made with a mechanical pencil. Patient explains she has been cutting herself approximately twice per week for the past month when she feels emotionally overwhelmed, typically after arguments with her father or stressful days at school. She describes the cutting as a way to 'release pressure' and reports the physical pain temporarily distracts from emotional pain. She is clear that she is not trying to kill herself or cause serious injury, explaining she makes superficial cuts and is careful about depth and location. She denies any suicidal ideation, plan, or intent currently or historically. She reports increasing arguments with her father since her parents' separation four months ago, feeling caught in the middle of their conflict. Sleep is disrupted, particularly on nights she transitions between parents' homes. She has maintained her grades and friendships. She enjoys volleyball and art. No prior mental health treatment. (Psychiatric Nurse Practitioner Elena Rodriguez, PMHNP)",
+    "Mental_Status_Examination": {
+      "Appearance": "Age-appropriate dress, appears somewhat anxious",
+      "Behavior": "Cooperative, embarrassed about disclosure",
+      "Speech": "Clear, normal pace",
+      "Mood": "Stressed and confused",
+      "Affect": "Appropriate, anxious",
+      "Thought_Process": "Organized",
+      "Thought_Content": "Denies SI; endorses non-suicidal self-injury for emotional regulation",
+      "Cognition": "Alert, oriented x4",
+      "Insight": "Fair, recognizes behavior is concerning",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Adjustment disorder with mixed emotional features related to parental separation; non-suicidal self-injury.",
+    "Psychosocial_Context": "Parents separated 4 months ago; caught in parental conflict; transitions between homes; academic performance maintained; engaged in sports and art; no prior mental health treatment.",
+    "Assessment_and_Plan": [
+      "Low risk for suicide: non-suicidal self-injury without suicidal ideation.",
+      "Protective factors: academic success, peer relationships, engagement in volleyball and art, both parents involved.",
+      "Cuts are superficial; cleaned and bandaged; no sutures required.",
+      "NSSI as maladaptive coping for parental separation stress and emotion dysregulation.",
+      "Safety plan created; remove access to sharp objects.",
+      "Urgent referral to therapist for individual DBT skills or CBT; address NSSI and divorce adjustment.",
+      "Family therapy with both parents to reduce conflict and patient's triangulation.",
+      "Teach alternative coping skills: ice, exercise, art, talking to trusted adult.",
+      "Father educated on monitoring without punishment; focus on emotional support.",
+      "Encourage continued volleyball and art as healthy outlets.",
+      "Follow-up with therapist within one week.",
+      "Safe for discharge with father; coordinate with mother regarding unified response to NSSI."
+    ],
+    "Author": "Elena Rodriguez, PMHNP (Psychiatric Nurse Practitioner)"
+  },
+  "ground_truth": "yes"
+}

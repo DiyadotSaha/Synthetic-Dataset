@@ -1,0 +1,46 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Vanessa Hill",
+    "Patient_MRN": "170",
+    "Date_of_Birth": "1992-10-11",
+    "Date_of_Service": "2024-10-16",
+    "Identifying_Data_Chief_Complaint": "32-year-old African American female with schizoaffective disorder for check-in.",
+    "Collateral_Contact_Information": "Emergency Contact: Boyfriend (Marcus Johnson) at 555-661-8874",
+    "Subjective": "Ms. Hill presents appearing upbeat. Reports she stopped taking her cariprazine about 3 weeks ago because the copay increased and she's been waiting for her patient assistance application to process. Has missed approximately 20 doses. Feels mostly okay but did have a few days of feeling more anxious and briefly wondered if her coworkers were judging her outfits. No hallucinations. Sleep 6-7 hours. Appetite good, weight 152 lbs. Works as retail associate. Mood 'okay considering' rated 6/10. Lives with boyfriend. No substance use. Denies SI/HI. (Assessed by Dr. Yolanda Martinez, MD, Psychiatrist)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, good grooming",
+      "Speech": "Clear, coherent",
+      "Affect": "Appropriate, slightly anxious",
+      "Mood": "Okay considering",
+      "Thought_Content": "Brief social anxiety, mild paranoid concerns",
+      "Thought_Process": "Organized"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 6,
+      "GAD_7": 8,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Cariprazine 3 mg PO daily",
+    "CURES_Report": "Reviewed; no concerns.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "All labs normal.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective disorder, stable with recent medication interruption due to cost.",
+    "Psychosocial_Context": "Living with boyfriend; employed in retail; financial barriers to medication access.",
+    "Assessment_and_Plan": [
+      "Addressed 3-week medication gap due to cost barriers.",
+      "Expedited patient assistance program enrollment.",
+      "Provided 30-day sample supply today.",
+      "Mild symptoms emerging, will monitor closely.",
+      "Continue cariprazine 3 mg daily.",
+      "Follow-up in 3 weeks."
+    ],
+    "RTC": "3 weeks",
+    "Author": "Note written by Dr. Yolanda Martinez, MD, Psychiatrist \u2014 Affordable Care Clinic, 1650 Community Health Way, Phoenix, AZ 85004, Phone: (555) 447-6621, Fax: (555) 447-6622"
+  },
+  "ground_truth": "Non-Adherent"
+}

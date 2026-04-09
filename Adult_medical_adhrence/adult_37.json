@@ -1,0 +1,47 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Jasmine Taylor",
+    "Patient_MRN": "037",
+    "Date_of_Birth": "1986-10-14",
+    "Date_of_Service": "2024-07-30",
+    "Identifying_Data_Chief_Complaint": "37-year-old African American female with schizoaffective disorder with residual symptoms.",
+    "Collateral_Contact_Information": "Emergency Contact: Brother (James Taylor) at 555-882-3341",
+    "Subjective": "Ms. Taylor presented for follow-up appearing somewhat anxious but engaged in conversation. Brother who accompanied her verifies she takes her paliperidone ER 9 mg each morning supervised by him. No missed doses reported. While medication helps significantly, she continues to experience bothersome residual symptoms. Reports intermittent auditory hallucinations 4-5 times weekly of a woman's voice making critical comments about her appearance, which increases her self-consciousness. Also endorses ongoing low-level paranoia that neighbors are gossiping about her behind her back. Sleep averages 6 hours with occasional insomnia related to anxiety. Appetite fair, weight maintained at 171 lbs. She attends day treatment program four days weekly where she participates in art therapy and social skills groups, which she finds helpful. Lives with brother who provides housing and support. Not currently working but exploring volunteer opportunities. Mood 'up and down, mostly worried' rated 5/10. Denies substance use. Brother reports she has good days and difficult days. Risk assessment: No SI/HI. (Documented by Robert Chen, LCSW, Licensed Clinical Social Worker)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, fair grooming, appears anxious",
+      "Speech": "Soft, hesitant, coherent",
+      "Affect": "Anxious, constricted",
+      "Mood": "Worried",
+      "Thought_Content": "Residual auditory hallucinations, paranoid ideation about neighbors",
+      "Thought_Process": "Linear, somewhat preoccupied"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 13,
+      "GAD_7": 14,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "No suicidal ideation reported"
+    },
+    "Current_Medications": "Paliperidone ER 9 mg PO daily",
+    "CURES_Report": "Reviewed; no issues.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "CBC normal; fasting glucose 98 mg/dL.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Schizoaffective Disorder with persistent residual positive symptoms.",
+    "Psychosocial_Context": "Lives with brother; attends day treatment; not employed; limited social network; family provides support.",
+    "Assessment_and_Plan": [
+      "Good adherence through brother's supervision.",
+      "Residual symptoms persist causing anxiety and social discomfort.",
+      "Discussed medication optimization options.",
+      "Will increase paliperidone ER to 12 mg daily.",
+      "Continue day treatment engagement.",
+      "Consider CBT for psychosis referral.",
+      "Follow-up in 4 weeks to assess response."
+    ],
+    "RTC": "4 weeks",
+    "Author": "Note written by Robert Chen, LCSW, Licensed Clinical Social Worker \u2014 Wellness Recovery Center, 4532 Oak Lane, Oakland, CA 94601, Phone: (555) 223-9087, Fax: (555) 223-9088"
+  },
+  "ground_truth": "Adherent"
+}

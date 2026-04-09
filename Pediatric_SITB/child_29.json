@@ -1,0 +1,51 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Isabella Garcia",
+    "Patient_MRN": "029",
+    "Date_of_Birth": "2011-05-08",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old female brought by mother for scratching arms without suicidal intent.",
+    "Collateral_Contact_Information": "Mother: Rosa Garcia, Phone: (555) 234-5689",
+    "Subjective": "Patient is a 14-year-old female presenting after mother discovered multiple superficial scratches on both forearms. Patient reports she has been scratching herself with her fingernails when feeling overwhelmed by emotions, particularly after arguments with her older sister. She states the behavior helps her feel grounded and provides temporary relief. She explicitly denies any suicidal thoughts, intent, or desire to die, clarifying that the scratching is purely for emotional regulation without suicidal intent. She reports feeling frustrated and misunderstood at home but maintains good relationships at school. She continues to attend soccer practice regularly and is performing well academically. Mother reports the sisters have always had conflict but it has intensified since the older sister started dating. (ED Physician Dr. Patricia Moore, MD)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, visible superficial scratches on forearms",
+      "Behavior": "Cooperative, somewhat embarrassed",
+      "Speech": "Clear, normal pace",
+      "Mood": "Frustrated",
+      "Affect": "Appropriate, reactive",
+      "Thought_Process": "Linear and organized",
+      "Thought_Content": "No suicidal or homicidal ideation; engages in NSSI for emotional regulation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Fair",
+      "Judgment": "Impaired regarding coping strategies"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Non-suicidal self-injury; adjustment disorder with mixed emotions, mild.",
+    "Psychosocial_Context": "Lives with both parents and older sister; sibling conflict primary stressor; academically and socially successful; engaged in athletics; supportive parents.",
+    "Assessment_and_Plan": [
+      "Non-suicidal self-injury as maladaptive emotional regulation strategy; no suicidal ideation present.",
+      "Protective factors: good family support, athletic involvement, academic success, social connections, explicitly denies suicidal thoughts.",
+      "Scratches are superficial; no medical intervention required.",
+      "Safety planning discussed with patient and mother.",
+      "Referral for dialectical behavior therapy (DBT) skills training focusing on emotion regulation.",
+      "Family therapy recommended to address sibling conflict and communication.",
+      "Alternative coping strategies taught including ice holding and sensory grounding.",
+      "Outpatient mental health follow-up within 1 week."
+    ],
+    "Author": "Dr. Patricia Moore, MD (ED Physician)"
+  },
+  "ground_truth": "No"
+}

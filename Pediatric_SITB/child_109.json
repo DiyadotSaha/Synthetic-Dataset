@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Trevor Barnes",
+    "Patient_MRN": "109",
+    "Date_of_Birth": "2011-08-22",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male brought by mother for academic stress and perfectionistic worries.",
+    "Collateral_Contact_Information": "Mother: Susan Barnes, Phone: (555) 901-2469",
+    "Subjective": "Patient is a 14-year-old male presenting with stress related to maintaining perfect academic record. He reports spending 4-5 hours nightly on homework, re-doing assignments multiple times to ensure they are perfect. He denies any thoughts of self-harm or suicidal ideation. Patient becomes very upset with any grade below A+ and has cried after receiving A- on recent test. Sleep is reduced to 6 hours per night due to study time. He has stopped attending chess club to focus on academics. Mother reports patient has always been high-achieving but behavior has intensified this year. He refuses to accept that perfection is unrealistic standard. Some peer relationships maintained but limited social time. Father also has high standards and patient reports wanting to make parents proud. (Nurse Practitioner Monica Patel, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Well-groomed, appears tired",
+      "Behavior": "Cooperative, tense",
+      "Speech": "Clear, organized, precise",
+      "Mood": "Stressed",
+      "Affect": "Anxious, constricted",
+      "Thought_Process": "Linear, rigid regarding standards",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Limited regarding unrealistic expectations",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Obsessive-compulsive personality features; anxiety disorder, moderate.",
+    "Psychosocial_Context": "Lives with both parents; extremely high parental and self-imposed academic expectations; perfectionistic to point of functional impairment; sleep deprivation; social isolation increasing; high-achieving family culture.",
+    "Assessment_and_Plan": [
+      "Maladaptive perfectionism with anxiety and functional impairment including sleep deprivation and social withdrawal.",
+      "Protective factors: high intelligence and capability, some maintained peer relationships, no suicidal ideation.",
+      "Cognitive behavioral therapy focusing on perfectionism and realistic standard-setting.",
+      "Family therapy to address achievement pressure and expectations.",
+      "Sleep schedule prioritization and study efficiency strategies.",
+      "Encourage return to chess club and social activities.",
+      "Consider SSRI if anxiety does not improve with behavioral intervention.",
+      "School counselor consultation regarding balanced approach to academics.",
+      "Close follow-up in 2 weeks; monitor for depression development."
+    ],
+    "Author": "Monica Patel, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}

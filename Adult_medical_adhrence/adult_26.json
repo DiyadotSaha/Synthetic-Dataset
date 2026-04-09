@@ -1,0 +1,49 @@
+{
+  "document_type": "UCLA Psychiatry Outpatient Progress Note",
+  "fields": {
+    "Patient_Name": "Christine Taylor",
+    "Patient_MRN": "026",
+    "Date_of_Birth": "1970-06-30",
+    "Date_of_Service": "2024-01-25",
+    "Identifying_Data_Chief_Complaint": "54-year-old Caucasian female with chronic psychotic disorder brought in by adult protective services due to severe self-neglect.",
+    "Collateral_Contact_Information": "Emergency Contact: APS Case Worker (Linda Chen) at 555-223-9987",
+    "Subjective": "Patient brought to clinic by adult protective services following wellness check requested by neighbors concerned about her welfare. APS worker reports finding patient in severely neglected state with apartment in hazardous condition. Patient is hostile and guarded, insisting she doesn't need to be here and demanding to leave. After extensive engagement, she reluctantly admits she stopped taking her fluphenazine injection appointments about 2 months ago because she believes the clinic staff are 'part of a conspiracy' to control her thoughts through the medication. She stopped answering phone calls and missed her last 4 scheduled injection appointments. Since discontinuation, APS notes she has deteriorated significantly. Patient reports she doesn't sleep more than 30 minutes at a time because she needs to monitor the 'surveillance equipment' in her walls. Describes constant auditory hallucinations - multiple voices arguing about her and giving her commands to destroy electronic devices, which she has done throughout her apartment. Believes neighbors have implanted cameras to spy on her. Has not been eating regularly because she thinks food delivery services are tampering with her groceries; weight loss estimated at 20+ pounds by APS, current weight approximately 105 lbs. Admits she hasn't bathed in weeks because the water might be 'contaminated.' Appears extremely paranoid, delusional, and disorganized. Denies wanting to hurt herself but states she will 'defend herself by any means necessary' if threatened. (Emergency evaluation by Dr. Robert Kim, MD, ED Physician)",
+    "Mental_Status_Examination": {
+      "Appearance": "Middle-aged female appearing older than stated age, severely unkempt, malodorous, malnourished",
+      "Speech": "Loud, hostile, paranoid content",
+      "Affect": "Angry, hostile, suspicious",
+      "Mood": "Paranoid and threatening",
+      "Thought_Content": "Severe paranoid delusions about conspiracy, surveillance, poisoning; prominent command auditory hallucinations; possible harm to others",
+      "Thought_Process": "Severely disorganized, illogical, fragmented"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ_9": 23,
+      "GAD_7": 21,
+      "DAST_10": 0,
+      "AUDIT_C": 0,
+      "C_SSRS": "Unclear due to disorganization; concerning statements about defending herself"
+    },
+    "Current_Medications": "Fluphenazine decanoate 37.5 mg IM every 3 weeks (missed last 4 appointments)",
+    "CURES_Report": "Unable to complete during emergency evaluation.",
+    "Laboratory_Data": {
+      "Recent_Lab_Results": "No recent labs; urgent labs ordered showing severe malnutrition, dehydration, and electrolyte abnormalities.",
+      "Recent_Imaging_Results": "No recent imaging."
+    },
+    "Diagnostic_Impression": "Other chronic psychotic disorder, severe acute exacerbation with complete treatment discontinuation; severe self-neglect; grave disability.",
+    "Psychosocial_Context": "Lives alone; isolated; no known family; APS involvement; missed multiple scheduled medication appointments due to delusional beliefs; severe functional deterioration.",
+    "Assessment_and_Plan": [
+      "Patient in severe psychiatric crisis following 2 months of complete medication nonadherence due to paranoid delusions about treatment.",
+      "Grave disability evident: unable to provide food, clothing, shelter for self.",
+      "Immediate danger to self due to severe malnutrition, dehydration, and self-neglect.",
+      "Possible danger to others given threatening statements and command hallucinations.",
+      "Patient lacks capacity to refuse treatment; lacks insight into illness.",
+      "Placed on involuntary psychiatric hold for emergency hospitalization.",
+      "Urgent medical stabilization needed for malnutrition and dehydration.",
+      "Will require inpatient medication reinitiation under observation.",
+      "Long-term plan: Consider court-ordered treatment and assisted outpatient treatment post-discharge given pattern of treatment refusal."
+    ],
+    "RTC": "Involuntary psychiatric hospitalization",
+    "Author": "Note written by Dr. Robert Kim, MD, ED Physician \u2014 Metro General Hospital Emergency Department, 4200 Medical Plaza, Seattle, WA 98104, Phone: (555) 334-5566, Fax: (555) 334-5567"
+  },
+  "ground_truth": "Non-Adherent"
+}

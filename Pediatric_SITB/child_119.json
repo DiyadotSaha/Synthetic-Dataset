@@ -1,0 +1,52 @@
+{
+  "document_type": "UCLA Psychiatry Emergency Department Note",
+  "fields": {
+    "Patient_Name": "Nathan Walker",
+    "Patient_MRN": "119",
+    "Date_of_Birth": "2011-01-16",
+    "Date_of_Service": "2025-07-30",
+    "Identifying_Data_Chief_Complaint": "14-year-old male brought by mother for low self-esteem and social comparison.",
+    "Collateral_Contact_Information": "Mother: Angela Walker, Phone: (555) 345-6804",
+    "Subjective": "Patient is a 14-year-old male presenting with decreased self-esteem over past several months related to social media comparisons with peers. He reports feeling inferior to classmates who post about achievements, vacations, and social activities. He denies any thoughts of self-harm or suicidal ideation. Patient states he spends 3-4 hours daily on social media and feels worse about himself afterward but cannot stop checking. Sleep is slightly reduced due to late-night phone use. Academic performance and peer relationships remain intact. He plays bass guitar and is learning to produce music. Mother notes patient is talented and kind but overly focused on others' perceived advantages. Patient recognizes pattern is unhealthy but struggles to change behavior. (Nurse Practitioner Derek Allen, PMHNP-BC)",
+    "Mental_Status_Examination": {
+      "Appearance": "Casually dressed, appears stated age",
+      "Behavior": "Cooperative, somewhat dejected",
+      "Speech": "Clear, normal pace",
+      "Mood": "Down on myself",
+      "Affect": "Dysthymic, congruent",
+      "Thought_Process": "Linear, focused on comparisons",
+      "Thought_Content": "No suicidal or homicidal ideation",
+      "Cognition": "Alert and oriented x4",
+      "Insight": "Good - recognizes problem",
+      "Judgment": "Fair"
+    },
+    "Behavioral_Health_Checkup": {
+      "PHQ-9": "Not collected",
+      "GAD-7": "Not collected",
+      "DAST-10": "Not collected",
+      "AUDIT-C": "Not collected"
+    },
+    "Current_Medications": "None",
+    "CURES_Report": "No records found",
+    "Laboratory_Data": {
+      "CBC": "",
+      "Urine_Tox": "",
+      "Head_CT": ""
+    },
+    "Diagnostic_Impression": "Dysthymic features; problematic social media use, moderate.",
+    "Psychosocial_Context": "Lives with mother and younger sister; excessive social media use impacting self-esteem; academic and social function maintained; talented in music; recognizes unhealthy comparison pattern.",
+    "Assessment_and_Plan": [
+      "Low self-esteem and mild depressive symptoms related to social media comparison and excessive use.",
+      "Protective factors: good insight, maintains function, engaged in music, supportive mother, no suicidal ideation.",
+      "Cognitive behavioral therapy focusing on social media habits and cognitive distortions.",
+      "Behavioral plan to reduce social media time with app limits and phone-free periods.",
+      "Build self-esteem through engagement in music and other value-based activities.",
+      "Psychoeducation regarding curated nature of social media.",
+      "Encourage in-person social activities to counter digital comparison.",
+      "Follow-up in 3 weeks to assess mood and screen time reduction.",
+      "Consider medication if depressive symptoms persist despite behavioral changes."
+    ],
+    "Author": "Derek Allen, PMHNP-BC (Nurse Practitioner)"
+  },
+  "ground_truth": "No"
+}
